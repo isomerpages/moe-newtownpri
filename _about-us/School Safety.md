@@ -16,7 +16,9 @@ In New Town Primary, our students’ safety is the highest priority and we do no
 
 Every morning, many parents stop along Tanglin Halt to drop their children off for school. This causes congestion along the road and oftentimes, pupils who are using the pedestrian crossing have to negotiate their way between cars to cross the road. In view of the danger it poses to our students, the school would like to appeal, to all parents who drive, to use the car park opposite the school to drop your children off.
 
-![](/images/About%20Us/School%20Safety.jpg)
+<img src="/images/About%20Us/School%20Safety.jpg"  
+     style="width:75%">
+
 
 **<font size=5>Emergency Drills</font>**
 
@@ -70,8 +72,9 @@ Pupils are to observe these safe practices in school.
 
 **<font size=5>Safe Routes to School</font>**
 
+<img src="/images/About%20Us/School%20Safety%202.png"  
+     style="width:75%">
 
-![](/images/About%20Us/School%20Safety%202.png)
 
 **<font size=5>Road Safety</font>**
 
