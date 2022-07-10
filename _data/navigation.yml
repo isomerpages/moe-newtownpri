@@ -1,16 +1,16 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About Us
     collection: about-us
   - title: Departments
     collection: departments
-  - title: Menu Title
-    collection: about-us
-  - title: Menu Title
-    collection: about-us
-  - title: Menu Title
-    collection: about-us
-  - title: Menu Title
-    collection: about-us
+  - title: School Programmes
+    collection: school-programmes
+  - title: Accolades
+    collection: accolades
+  - title: For Parents
+    collection: for-parents
+  - title: Useful Links
+    collection: useful-links
+  - title: Contact Us
+    url: /contact-us/
