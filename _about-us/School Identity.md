@@ -11,7 +11,9 @@ description: ""
 **<font size=6>School Identity</font>**
 
 **<font size=5>School Crest</font>**
-![](/images/Crest%202020.png)
+<img src="/images/Crest%202020.png"  
+     style="width:25%">
+
 The lion represents Singapore, where we as citizens continually serve.  
 The flame in front of the lion signifies the philosophy of the school in inculcating sound moral values.  
 The open book stands for knowledge and spirit of learning.
