@@ -62,7 +62,7 @@ In our school, we believe that learning takes place in caring and safe environme
     
        - gang-related activity (identified students will be referred to relevant authorities for investigation and follow up),   
     
-       - ny activity that causes distress to others and/or brings disrepute to the school, including offensive and inappropriate postings in social media, and  
+       - any activity that causes distress to others and/or brings disrepute to the school, including offensive and inappropriate postings in social media, and  
     
        - the use of violence in any forms.  
     
@@ -80,9 +80,9 @@ In our school, we believe that learning takes place in caring and safe environme
 *   Students who are **absent without valid reasons** will be regarded as having committed **truancy (wilful absenteeism)**. 
 *   All students must support their absence from school with supporting documents, such as a medical certificate. Parents/Guardians should inform their child’s/ward’s form teachers on their child’s/ward’s absence. 
 
-*   If students are unwell, they should seek medical attention and rest at home.
-*   Relevant supporting documents must be submitted to the form teachers when the child/ward returns to school. 
-*   Excuse letters from parents/guardians are strongly discouraged. The school permits a maximum of three letters per term to explain their child’s/wards absence.
+       - If students are unwell, they should seek medical attention and rest at home.
+       - Relevant supporting documents must be submitted to the form teachers when the child/ward returns to school. 
+       - Excuse letters from parents/guardians are strongly discouraged. The school permits a maximum of three letters per term to explain their child’s/wards absence.
 
 *   Parents/Guardians must seek approval in writing for exemption from school activities. All exemption must be supported with relevant supporting documents, if any, and will be subjected to approval from school.
 
