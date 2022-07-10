@@ -56,15 +56,15 @@ In our school, we believe that learning takes place in caring and safe environme
 
 *   The school has zero-tolerance for the following:
 
-              - bullying in all forms (Physical/Social/Verbal/Cyber),  
+       - bullying in all forms (Physical/Social/Verbal/Cyber),  
     
-*   any form of defiance of towards authority,  
+       - any form of defiance of towards authority,  
     
-*   gang-related activity (identified students will be referred to relevant authorities for investigation and follow up),   
+       - gang-related activity (identified students will be referred to relevant authorities for investigation and follow up),   
     
-*   any activity that causes distress to others and/or brings disrepute to the school, including offensive and inappropriate postings in social media, and  
+       - ny activity that causes distress to others and/or brings disrepute to the school, including offensive and inappropriate postings in social media, and  
     
-*   the use of violence in any forms.  
+       - the use of violence in any forms.  
     
 
 *   The above offences are classified as serious offences. Students will be referred to Discipline Committee and School Leaders. Students who commit these offences will be severely dealt with. The consequences could include suspension and/or caning, and followed up with counselling. Parents may be required to sign a Letter of Undertaking with the school.
