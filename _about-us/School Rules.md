@@ -69,7 +69,8 @@ In our school, we believe that learning takes place in caring and safe environme
 
 *   The above offences are classified as serious offences. Students will be referred to Discipline Committee and School Leaders. Students who commit these offences will be severely dealt with. The consequences could include suspension and/or caning, and followed up with counselling. Parents may be required to sign a Letter of Undertaking with the school.
 
-![](/images/About%20Us/School%20Rules.png)
+<img src="/images/About%20Us/School%20Rules.png"  
+     style="width:75%">
 
 **<font size=5>Responsibility to Self and Others</font>**
 
