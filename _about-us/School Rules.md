@@ -94,11 +94,10 @@ In our school, we believe that learning takes place in caring and safe environme
 *   Parents/Guardians are to ensure their child/ward has adequate sleep and leaves home early to be punctual for school.
 *   **Flag-raising ceremony (FRC) begins at 7.30 a.m. sharp.** All students are strongly encouraged to be with their form classes by 7.15 a.m. for Morning Programme (Reading Programme, Morning Connect and Form Teacher Time). 
 
-*   Students who are not with their form classes during FRC are considered late.   
+       - Students who are not with their form classes during FRC are considered late.   
     
-*   Students who are late must report to the security guards to have their name, class and time of arrival recorded.   
+       - Students who are late must report to the security guards to have their name, class and time of arrival recorded.   
     
-
 *   Students must be punctual for all examinations. **No extra time will be given for late-coming.**
 
   
