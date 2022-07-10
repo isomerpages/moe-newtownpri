@@ -72,5 +72,4 @@ Wishing all an uplifting 2022!
   
 
 Mrs Tan-Ng Wie Pin  
-
 Principal
