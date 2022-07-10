@@ -23,8 +23,7 @@ description: ""
 **<font size=6>Values</font>**
 
 
-**Resilience our Mindset**
-
+**Resilience our Mindset**<br>
 **Integrity our Foundation  
 Service with a Heart  
 Excellence our Quest**
