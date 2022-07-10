@@ -107,13 +107,13 @@ In our school, we believe that learning takes place in caring and safe environme
 *   All unauthorized electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information are **strongly discouraged** to be brought to school.  
 *   These devices, such as mobile phones and smart devices:
 
-*   must be kept in the school bags and remained out of sight during the whole duration in school,  
+       - must be kept in the school bags and remained out of sight during the whole duration in school,  
     
-*   must be switched off (not just on silent mode) before stepping into the school, and  
+       - must be switched off (not just on silent mode) before stepping into the school, and  
     
-*   students are not allowed to take any forms of visual or audio recordings, such as photographs or videos, within the school compound and vicinity without the school’s permission, and  
+       - students are not allowed to take any forms of visual or audio recordings, such as photographs or videos, within the school compound and vicinity without the school’s permission, and  
     
-*   can only be used at any of the three gates to contact their parents/guardians – at the main gate (Gate 1), side gate or Gate 3 (near basketball court.  
+       - can only be used at any of the three gates to contact their parents/guardians – at the main gate (Gate 1), side gate or Gate 3 (near basketball court.  
     
 
 *   Students caught breaking these rules will have their devices confiscated. Parent/Guardian must come to school to sign for the return of the device. Repeated offenders are subjected to a ban of their mobile phones and smart devices for up to one year.
