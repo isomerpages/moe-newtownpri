@@ -6,4 +6,4 @@ description: ""
 ![](/images/logosub.png)
 ![](/images/Header%20GIF.gif)
 
-<img src="/images/logosub.png" style="width:400px;height:180px;margin-left:15px;" align = "right">
+<img src="/images/logosub.png" style="width:450px;height:180px;margin-left:15px;" align = "right">
