@@ -56,7 +56,7 @@ In our school, we believe that learning takes place in caring and safe environme
 
 *   The school has zero-tolerance for the following:
 
-*    bullying in all forms (Physical/Social/Verbal/Cyber),  
+-bullying in all forms (Physical/Social/Verbal/Cyber),  
     
 *   any form of defiance of towards authority,  
     
