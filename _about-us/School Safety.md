@@ -18,35 +18,29 @@ Every morning, many parents stop along Tanglin Halt to drop their children off f
 
 ![](/images/About%20Us/School%20Safety.jpg)
 
-**Emergency Drills**
---------------------
+**<font size=5>Emergency Drills</font>**
+
 
 *   Emergency evacuation drills are held at regular intervals throughout the school year. An emergency evacuation map is posted in each classroom and teachers discuss the emergency route and plan with the pupils at the start and the middle of the school year.
 
   
-
-**Field Trips / Learning Journeys / Competitions / Events**
------------------------------------------------------------
+**<font size=5>Field Trips / Learning Journeys / Competitions / Events</font>**
 
 *   Field trips, Learning journeys and competitions enhance or supplement the curriculum and are scheduled throughout the school year as part of the school day wherever possible. In some cases a fee may be charged to cover admission costs. The school issues letters to parents in advance to notify them when such trips are planned. If for some reason you object to your child participating in these programmes, please notify your child’s teacher.
 
   
-
-**Security & Safety in the School Premises**
---------------------------------------------
+**<font size=5>Security & Safety in the School Premises</font>**
 
 *   The school would like to appeal to all parents not to remain in the school except when necessary. Parents whose children require special attention are to obtain permission from the school.
 *   When within the school campus, all parents / visitors must wear the special passes issued by the security guards. This will enable us to quickly identify unauthorised persons within the school premises. Teaching blocks are out of bounds to all visitors .
 
   
+**<font size=5>Safe practices for pupils in school</font>**
 
-**Safe practices for pupils in school**
----------------------------------------
 
 Pupils are to observe these safe practices in school.
 
-**Fire Safety**
----------------
+**<font size=5>Fire Safety</font>**
 
 *   Do not play with fire. Observe caution when handling flammable materials.
 *   Do not use flammable materials without adult supervision.
@@ -55,9 +49,7 @@ Pupils are to observe these safe practices in school.
 *   Store flammable materials carefully to avoid misuse and accidents.
 
   
-
-**Science Laboratory**
-----------------------
+**<font size=5>Science Laboratory</font>**
 
 *   Enter the laboratory only in the teacher’s presence
 *   Listen & follow the teacher’s instructions
@@ -66,9 +58,7 @@ Pupils are to observe these safe practices in school.
 *   Keep the laboratory tidy & clean
 
   
-
-**Personal Hygiene**
---------------------
+**<font size=5>Personal Hygiene</font>**
 
 *   Practise good personal hygiene at all times
 *   Wash hands thoroughly with soap & water
@@ -78,13 +68,13 @@ Pupils are to observe these safe practices in school.
 *   Use serving spoons when sharing food
 *   Do not spit
 
-**Safe Routes to School**
--------------------------
+**<font size=5>Safe Routes to School</font>**
+
 
 ![](/images/About%20Us/School%20Safety%202.png)
 
-**Road Safety**
----------------
+**<font size=5>Road Safety</font>**
+
 
 *   Obey traffic rules.
 *   Alight from/ board your vehicles at designated locations such as at the foyer / sheltered walkway bus bay.
@@ -95,8 +85,7 @@ Pupils are to observe these safe practices in school.
 *   Do not answer/ use hand-phones or listen to music when crossing the road.
 
   
-
-**Security in the School**
+**<font size=5>Security in the School</font>**
 
 *   Do not bring valuable items and large sums of money.
 *   Do not talk to strangers.
@@ -104,9 +93,7 @@ Pupils are to observe these safe practices in school.
 *   Do report to the teacher or the office at once if you are disturbed, bullied or harassed by another pupil or other people in the school.
 
   
-
-**Water Safety**
-----------------
+**<font size=5>Water Safety</font>**
 
 *   Swim only when an adult is with you/ a lifeguard is at the pool.
 *   Wear proper swimming attire.
