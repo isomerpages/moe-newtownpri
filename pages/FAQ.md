@@ -3,8 +3,6 @@ title: FAQ
 permalink: /ntps/faq/
 description: ""
 ---
-
-
 <img align="left" style="width:400px;height:150px;margin-left:0px;" src="/images/logosub.png">
 
 <img align="right" style="width:380px;height:150px;margin-right:60px;" src="/images/Header%20GIF.gif">
@@ -33,9 +31,9 @@ _**Find answers to Frequently Asked Questions.**_
 
   
 
-**3\. I wish to contact the bookshop / uniform supplier / school bus vendor? Where can I get their contact                        information?**
+**3\. I wish to contact the bookshop / uniform supplier / school bus vendor? Where can I get their contact information?**
 
-    You may look for their contact information via the “[Contact Us](https://newtownpri.moe.edu.sg/contact-us)” tab on the school website. Our school’s contact                     information and operating hours can also be found on the same page.
+    You may look for their contact information via the “[Contact Us](https://newtownpri.moe.edu.sg/contact-us)” tab on the school website. Our school’s contact information and operating hours can also be found on the same page.
 
   
 
@@ -45,4 +43,4 @@ _**Find answers to Frequently Asked Questions.**_
 
 **4\. I wish to share some feedback with the school. Who should I contact?**
 
-    You can send an email to [ntps@moe.edu.sg](mailto:ntps@moe.edu.sg). You may also like to '[Send a Bouquet](https://newtownpri.moe.edu.sg/accolades/bouquets/send-a-bouquet)' to share your experiences with our         staff who have performed their jobs with dedication and excellence
+    You can send an email to [ntps@moe.edu.sg](mailto:ntps@moe.edu.sg). You may also like to '[Send a Bouquet](https://newtownpri.moe.edu.sg/accolades/bouquets/send-a-bouquet)' to share your experiences with our staff who have performed their jobs with dedication and excellence
