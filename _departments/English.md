@@ -11,6 +11,7 @@ description: ""
 **<font size=6>English</font>**
 
 **<font size=5>Vision</font>** <br>
+
 A community of confident communicators, contributing members of our society.  
   
 **<font size=5>Mission</font>** 
