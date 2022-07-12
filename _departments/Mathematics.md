@@ -45,3 +45,41 @@ Committee
 | P4 Level Representative | Mdm Diana Yao | [yao\_sufeng@schools.gov.sg](mailto:yao_sufeng@schools.gov.sg)  |
 | P5 Level Representative | Mr Ken Tan | [tan\_hoong\_kee@schools.gov.sg](mailto:tan_hoong_kee@schools.gov.sg)  |
 | P6 Level Representative | Ms Chia Kim Fung | [chia\_kim\_fung@schools.gov.sg](mailto:chia_kim_fung@schools.gov.sg)  |
+
+Programmes
+----------
+
+  
+
+### Learning Support Mathematics (LSM)
+
+**P1 and P2**  
+
+This programme aims to provide early intervention support in mathematics to students who need additional support in acquiring basic numeracy skills when they enter Primary One. In small groups, LSM- trained teachers help students achieve an age-appropriate mathematical age and equip them with the mathematical knowledge, skills and dispositions through learning experiences. Students are identified at Primary One and the support will continue for 2 years.
+
+###   
+
+### Factual Fluency  
+
+**P1, P2 and P3**  
+Factual fluency is the ability to recall basic math facts automatically and without hesitation. The factual fluency programme in the lower primary aims to achieve automaticity in basic addition and subtraction within 20 and multiplication and division facts. Fluency in basic math facts will help to reduce cognitive load in students so that they are able to focus on the problem solving process.  
+  
+  
+
+### Excellence 2000 (E2K)
+
+**P4 and P5**  
+The E2K Mathematics Programme in New Town is an enrichment programme for P4 and P5 students who demonstrate interest and ability in Mathematics. The objective of this programme is to provide students the training in critical and inventive thinking, collaborative and communication skills that will enable them to develop their potential in Mathematics.  
+  
+  
+
+### Math Olympiad Competitions
+
+**P3, P4, P5 and P6**  
+The students participate in selected competitions and Math Olympiads to gain exposure beyond the school so as to challenge and stretch their mathematical potential.
+
+
+Resources
+---------
+
+<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 710px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 112px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Educational Websites&nbsp; &nbsp;&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 597px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Learning Space</b></font></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://learning.moe.edu.sg/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://learning.moe.edu.sg</a><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></font></div><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 60px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">For Parents</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mathematics Syllabus</b></font></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.moe.gov.sg/education/syllabuses/sciences" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.moe.gov.sg/education/syllabuses/sciences</a></font></span></div><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></font><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">List of Approved Calculators</b></font></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.moe.gov.sg/education/syllabuses/sciences" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.moe.gov.sg/education/syllabuses/sciences</a></font></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></span></div></td></tr></tbody></table>
