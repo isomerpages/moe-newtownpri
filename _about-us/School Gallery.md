@@ -23,4 +23,4 @@ _Click [here](https://www.facebook.com/pg/newtownpri/photos/?tab=albums&ref=pag
 
 _Any photographs and/or videos taken during school activities will remain the property of the school and can be used in its publications and/or uploaded onto the school website._  
 
-_New Town Primary will, on written notice of withdrawal of consent to ntps@moe.edu.sg appropriately dispose of or anonymise the information within 4 weeks from receipt of the request. However, do note that where printed materials are concerned, removal will not be possible._
+_New Town Primary will, on written notice of withdrawal of consent to <a href="mailto:ntps@moe.edu.sg">ntps@moe.edu.sg</a> appropriately dispose of or anonymise the information within 4 weeks from receipt of the request. However, do note that where printed materials are concerned, removal will not be possible._
