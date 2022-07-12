@@ -10,8 +10,7 @@ description: ""
 
 **<font size=6>Mother Tongue Chinese</font>**
 
-**<font size=5>Vision</font>** 
-
+**<font size=5>Vision</font>** <br>
 A Language Hub that equips pupils with literacy skills for life through a fun, innovative and culturally rich environment.  
   
   
