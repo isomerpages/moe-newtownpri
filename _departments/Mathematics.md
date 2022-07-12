@@ -48,7 +48,6 @@ Building a strong foundation in mathematical concepts and skills and developing 
   
 **<font size=5>Learning Support Mathematics (LSM)</font>**<br>
 **P1 and P2**  
-
 This programme aims to provide early intervention support in mathematics to students who need additional support in acquiring basic numeracy skills when they enter Primary One. In small groups, LSM- trained teachers help students achieve an age-appropriate mathematical age and equip them with the mathematical knowledge, skills and dispositions through learning experiences. Students are identified at Primary One and the support will continue for 2 years.
 
 **<font size=5>Factual Fluency </font>**<br>
