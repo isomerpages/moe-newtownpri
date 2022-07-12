@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCE/.keep
-      - Character and Citizenship Education.md
       - Aesthetics.md
       - Mother Tongue Tamil.md
       - Mother Tongue Malay.md
