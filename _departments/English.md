@@ -40,20 +40,26 @@ A MOE intervention programme to help selected P1 and P2 students who are weak in
 **P1 and P2**   
 We engage the help of our P3 to P5 students to read together with our P1 and P2 weak readers in the morning.
 
-![](/images/Departments/English%201.jpg)
+<img src="/images/Departments/English%201.jpg"  
+     style="width:75%">
+
 
 **<font size=5>kidsREAD</font>**<br>
 **P1 and P2**  <br>
 Held once a week on Wednesday afternoons and with the help of parent volunteers, we collaborate with NLB to promote the love for reading in our P1 and P2 students in New Town.
 
-![](/images/Departments/English%202.jpg)
+<img src="/images/Departments/English%202.jpg"  
+     style="width:75%">
+
 
 **<font size=5>S.T.A.R. Reading  
 (Students and Teachers, All Reading - Whole School Approach to Reading)</font>**<br>
 **P1, P2, P3, P4, P5 and P6**  
 In New Town, we believe in cultivating a culture of reading among teachers and students. Through explicit teacher modelling and engaging students in a world of books, we aim to help them find the joy of reading.
 
-![](/images/Departments/English%203.jpg)
+<img src="/images/Departments/English%203.jpg"  
+     style="width:75%">
+
 
 **<font size=5>STELLAR</font>** <br>
 **P1, P2, P3, P4, P5 and P6**<br>
@@ -62,13 +68,16 @@ The STELLAR vision: Children who love reading and have a strong foundation in th
  
 STELLAR aims to strengthen children’s language and reading skills as well as promote a positive attiude towards learning in the foundatonal years. The programme uses research-based teaching strategies and age-appropriate materials to engage children in the learning of English. At lower primary, language skills are developed through Shared Book Approach, modified Learning Experiential activity and Focused Diffierentiated lessons. As students progess to upper primary, language skills are further developed through KWL, Supported Reading and Writing Process Cycle.
 
-![](/images/Departments/English%204.jpg)
+<img src="/images/Departments/English%204.jpg"  
+     style="width:75%">
 
 **<font size=5>Outdoor Learning Experience (OLE)</font>**  <br>
 **P1 to P4**  
 The learning of English Language is best done through tasks and activities in authentic and meaningful contexts. In OLE, students engage in hands-on activities to further develop the targeted language features.
 
-![](/images/Departments/English%205.jpg)
+<img src="/images/Departments/English%205.jpg"  
+     style="width:75%">
+
 
 **<font size=5>Writing Programme</font>**  <br>
 **P1 to P6**   
@@ -78,7 +87,9 @@ In this programme, students learn to create a variety of texts to convey meaning
 **Selected P4 to P6 classes**  
 To stretch our high progress learners, students are taught to appreciate literature texts, analyse good language use and explore values and themes.
 
-![](/images/Departments/English%206.jpg)
+<img src="/images/Departments/English%206.jpg"  
+     style="width:75%">
+
 
 **<font size=5>School-based Dyslexia Remediation Programme (SDR)</font>** <br>
 **Selected P3 & P4 students**  
