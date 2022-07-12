@@ -11,34 +11,14 @@ description: ""
 **<font size=6>English</font>**
 
 **<font size=5>Vision</font>** 
-A self-disciplined person who is an asset to the home, school and community.  
+A community of confident communicators, contributing members of our society.  
+  
+**<font size=5>Mission</font>** 
 
-**<font size=5>Key Personnel</font>** 
-
-| Designation | Staff Name | Email |
-| --- | --- | --- |
-| HOD / Student Management | Mdm Lee Poh Geok | [lee\_poh\_geok@schools.gov.sg](mailto:lee_poh_geok@schools.gov.sg) |
-| SH / Pastoral Care & Partnership | Mr Caleb Tan | [caleb\_tan@schools.gov.sg](mailto:caleb_tan@schools.gov.sg) |
-| SH / Student Well-being | Mdm Siti Mariam (Mrs Syed) | [siti\_mariam\_mohd\_yussof@schools.gov.sg](mailto:siti_mariam_mohd_yussof@schools.gov.sg) |
+To create a vibrant and enriching language learning environment which empowers students to become confident communicators and contributing members of our society.
 
   
-  
-**<font size=5>Programmes</font>** 
+**<font size=5>Goals</font>** 
 
-
-We believe that learning takes place in caring and safe environments. We cultivate positive teacher-student and peer relationships so that there is a culture of care and mutual respect in our classrooms, where children learn to appreciate diversity.  
-  
-  
-**<font size=5>Discipline</font>** 
-
-
-**P1 to P6**  
-
-Build a community that promotes positive student behaviours in support of learning and growth, and support students in managing behaviours that prevent them from doing so.  
-
-
-**<font size=5>Student Support Programmes</font>** 
-
-
-*   Provide support for high-needs students 
-*   Peer Support and Cyberwellness Programmes
+*   To provide opportunities that allow students to engage in active listening, reading and viewing to enrich the language learning experience.
+*   To provide experiences that allow students to communicate effectively through speaking, writing and representing to promote confidence in using the English language.
