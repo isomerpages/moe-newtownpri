@@ -64,8 +64,7 @@ We participate in selected competitions and Olympiads in order to provide studen
 
   
 
-**Programmes for 2020**
-
+**Programmes for 2020**<br>
 • Raffles Science Olympiad (RSO) @ Raffles Institution<br>
 • Raffles Institution Liveable Cities Challenge<br>
 • Singapore Primary Science Olympiad (SPSO) @ NUS High<br>
