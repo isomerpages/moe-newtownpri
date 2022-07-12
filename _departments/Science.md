@@ -46,47 +46,32 @@ We use the BSCS 5E instructional model for teaching and learning of Science thro
 **<font size=5>Programmes</font>** 
 
 
-**<font size=5>Science Learning Journeys</font>** 
-
-**P3, P4, P5 and P6**
-
-Learning Journeys help to extend the learning of Science beyond the classrooms. They help to provide authentic experiences of Science in the real world.
-
-P3: Science Centre workshops on Insects and Animals
-
-P4: Gardens by the Bay guided tour
-
-P5: Science Centre workshops on Plant Reproduction
-
+**<font size=5>Science Learning Journeys</font>** <br>
+**P3, P4, P5 and P6**<br>
+Learning Journeys help to extend the learning of Science beyond the classrooms. They help to provide authentic experiences of Science in the real world.<br>
+P3: Science Centre workshops on Insects and Animals<br>
+P4: Gardens by the Bay guided tour<br>
+P5: Science Centre workshops on Plant Reproduction<br>
 P6: Science Centre workshops on the Environment 
 
-**<font size=5>Excellence 2000 (E2K) Science Programme</font>** 
-
-**P4 and P5**
-
+**<font size=5>Excellence 2000 (E2K) Science Programme</font>** <br>
+**P4 and P5**<br>
 The E2K Science Programme in New Town is an enrichment programme for P4 and P5 students who demonstrate interest and ability in Science. The programme engages students in scientific investigations involving advanced science concepts, and aims to engage students in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
 
   
-**<font size=5>Competitions & Olympiads</font>** 
-
+**<font size=5>Competitions & Olympiads</font>** <br>
 We participate in selected competitions and Olympiads in order to provide students with wider opportunities and exposure to platforms beyond the school for them to apply the Scientific skills and knowledge learnt in school in authentic contexts.
 
   
 
 **Programmes for 2020**
 
-• Raffles Science Olympiad (RSO) @ Raffles Institution
-
-• Raffles Institution Liveable Cities Challenge
-
-• Singapore Primary Science Olympiad (SPSO) @ NUS High
-
-• National Environment Quiz @ Nan Hua High School
-
-• Singapore Amazing Flying Machine Competition (SAFMC)
-
-• Science Buskers Festival
-
+• Raffles Science Olympiad (RSO) @ Raffles Institution<br>
+• Raffles Institution Liveable Cities Challenge<br>
+• Singapore Primary Science Olympiad (SPSO) @ NUS High<br>
+• National Environment Quiz @ Nan Hua High School<br>
+• Singapore Amazing Flying Machine Competition (SAFMC)<br>
+• Science Buskers Festival<br>
 • ICAS Science
 
 **<font size=5>Resources</font>** 
