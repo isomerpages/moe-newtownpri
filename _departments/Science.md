@@ -8,7 +8,7 @@ description: ""
 <img src="/images/Header%20GIF.gif" style="width:380px;height:150px;margin-right:60px;" align = "right">
 <br><br><br><br><br><br>
 
-**<font size=6>Mathematics</font>**
+**<font size=6>Science</font>**
 
 **<font size=5>Vision</font>** 
 
