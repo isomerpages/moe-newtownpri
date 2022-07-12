@@ -50,7 +50,8 @@ To equip our students with the skills to perform self directed learning, student
 **P3**  
 The experiential learning journey aims to expose our students with an enriching outdoor learning experience that compliments formal classroom teaching. In addition, it also helps to instill a sense of love for Chinese Language in students, and helps to develop their positive attitude for Chinese Language.
 
-![](/images/Departments/Science%201.png)
+<img src="/images/Departments/Science%201.png"  
+     style="width:85%">
 
 **<font size=5>Reading with You</font>** <br>
 **Selected P3 & P4 students**  <br>
@@ -70,13 +71,15 @@ To encourage non-ethnic students to learn another Mother Tongue Language (MTL), 
 **P4**  
 In addition to Mother Tongue Fortnight, Primary 4 students are given the additional opportunity to immerse themselves in a Chinese rich environment. Students learn a wide variety of activities related to Chinese language and culture, such as Chinese Painting and Chinese Calligraphy. Parents are invited to join their child for these activities.
 
-![](/images/Departments/Science%202.png)
+<img src="/images/Departments/Science%202.png"  
+     style="width:85%">
 
 **<font size=5>My Dream Shop</font>** <br>
 **P4**  
 This is a collaborative project between Buona Vista Community Club Youth Executive Committee and New Town Primary School Mother Tongue Department-Chinese Language. This project provides opportunities for students to practise their Chinese language in a real audience context and enables them to have a hands-on experience of entrepreneurship through realistic and monitored environment.   Besides enabling students to make Chinese Language a "living" language, students also learn to care about the less fortunate children in our society through a meaningful buying session that teaches them the value of money indirectly.
 
-![](/images/Departments/Science%203.png)
+<img src="/images/Departments/Science%203.png"  
+     style="width:85%">
 
 **<font size=5>Who wants to be a Mandarin DJ?</font>** <br>
 **P5**  
