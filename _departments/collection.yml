@@ -2,16 +2,16 @@ collections:
   departments:
     output: true
     order:
-      - Student Management.md
-      - Physical Education.md
-      - ICT and MRL.md
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Chinese.md
+      - Mother Tongue Malay.md
+      - Mother Tongue Tamil.md
+      - Aesthetics.md
+      - CCE/.keep
       - CCE/Citizenry Education (NE SS).md
       - CCE/Character and Citizenship Education.md
-      - CCE/.keep
-      - Aesthetics.md
-      - Mother Tongue Tamil.md
-      - Mother Tongue Malay.md
-      - Mother Tongue Chinese.md
-      - Science.md
-      - Mathematics.md
-      - English.md
+      - ICT and MRL.md
+      - Physical Education.md
+      - Student Management.md
