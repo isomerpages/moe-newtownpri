@@ -20,6 +20,7 @@ Every child involved in the Arts.
 
   
 **<font size=5>Committee</font>** <br>
+
 |  Designation | Staff Name | Email |
 | --- | --- | --- |
 |  Head of Department | Mdm Lee Yew Fang (Mrs Hoo) | [lee\_yew\_fang@schools.gov.sg](mailto:lee_yew_fang@schools.gov.sg) |
