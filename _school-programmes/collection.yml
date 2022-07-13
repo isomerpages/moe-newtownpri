@@ -2,4 +2,5 @@ collections:
   school-programmes:
     output: true
     order:
+      - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
       - Co Curricular Activities (CCA)/.keep
