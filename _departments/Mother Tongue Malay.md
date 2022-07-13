@@ -37,8 +37,9 @@ The Malay Language Fortnight explores different themes every year! For 2019, our
 **P3 & P4**  
 New Town ML facilitates comprehension skills acquisition by introducing baseline strategies in answering open-ended comprehension. In addition, as we work towards sharpening the strategies to achieve our key department goals, ML department has put in 2 new structures / strategies to level up our students’ open-ended comprehension skills. The 2 strategies are differentiated in order to expose varying approaches to the students. TOP will be additional steps in analysing and tackling questions while 3B will be more towards analysing the text and sense-making.
 
+<img src="/images/Departments/Mother%20Tongue%20Malay%201.png"  
+     style="width:75%">
 
-![](/images/Departments/Mother%20Tongue%20Malay%201.png)
 
 **<font size=5>Oral Skills - 3P Approach </font>** <br>
 **P3 & P4**  
@@ -58,15 +59,18 @@ To encourage non-ethnic students to learn another Mother Tongue Language (MTL), 
 **P4**  
 The P4 ML students were involved in a half-day workshop to learn more about a traditional Malay art form of puppetry called Wayang Kulit. Our students learnt briefly about the historical influences of Wayang Kulit as well as the different types of Wayang Kulit across South-East Asia. They also learnt to appreciate the role of Dalang and why this position is admired amongst Wayang Kulit connoisseurs. Students made their own puppets and selected students had a chance to perform a short skit. The Wayang Kulit set was made of leather and the puppets were carefully chiselled with very fine tools and supported with carefully shaped buffalo horn handles and control rods. The students were thoroughly entertained!
 
-![](/images/Departments/Mother%20Tongue%20Malay%202.png)
+<img src="/images/Departments/Mother%20Tongue%20Malay%202.png"  
+     style="width:75%">
+
 
 **<font size=5>Hot-seating</font>** <br>
 **P5**  
 For 2019, the Primary 5 Malay students have embarked on an exciting Malay learning programme. Five of our student ambassadors worked closely with their Mother Tongue teachers in advocating the ‘hot-seating’ strategy. This is the second year the students learnt through the drama strategy that has brought about their confidence in speaking their Mother Tongue Language. And it will continue to be an important part of their journey until PSLE. The Malay Language Centre of Singapore (MLCS), had organised their annual Malay Language Seminar. New Town Primary was invited to exhibit and share on the hot-seating experience during the seminar. 
 
 Nur Aniqah Vivianna Mohd Azari, Nurul Shaista Muhd Suffyan, Nur Thufailah Mohd Ashiq, Muhammad Aqid Rusyaide Muhd Rafi & Abdul Raziq Bin Abdull Rashid together with the Malay teachers, had prepared an exhibition booth at the Malay Seminar on the 19th of March 2019. They interacted with other teachers who visited New Town’s booth and were also honoured to receive the Guest of Honor, Associate Professor Dr Muhammad Faishal Ibrahim, as the students readily shared about their learning experiences with him!
+<img src="/images/Departments/Mother%20Tongue%20Malay%203.png"  
+     style="width:75%">
 
-![](/images/Departments/Mother%20Tongue%20Malay%203.png)
 
 **<font size=5>Cultural Connections Immersion Trip to Penang</font>** <br>
 **P5**  
