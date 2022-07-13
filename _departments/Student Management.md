@@ -10,7 +10,7 @@ description: ""
 
 **<font size=6>Student Management</font>**
 
-**<font size=5>Vision</font>** 
+**<font size=5>Vision</font>** <br>
 A self-disciplined person who is an asset to the home, school and community.  
 
 **<font size=5>Key Personnel</font>** 
