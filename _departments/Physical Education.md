@@ -91,7 +91,8 @@ Events & Activities
 
 <img src="/images/Departments/PE%201.png"  
      style="width:75%">
-&nbsp;&nbsp;<img src="/images/Departments/PE%202.png"  
+		 
+<img src="/images/Departments/PE%202.png"  
      style="width:75%">
 		 
 <img src="/images/Departments/PE%203.png"  
