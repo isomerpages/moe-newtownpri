@@ -2,8 +2,8 @@ collections:
   accolades:
     output: true
     order:
-      - Bouquets/Send a Bouquet.md
-      - Bouquets/Bouquets.md
       - Bouquets/.keep
+      - Bouquets/Bouquets.md
+      - Bouquets/Send a Bouquet.md
       - New Town Pri in the News!.md
       - Achievements.md
