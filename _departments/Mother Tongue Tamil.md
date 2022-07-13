@@ -23,7 +23,9 @@ The department aims to make the learning of Mother Tongue Languages (MTL) a joy,
 **<font size=5>Holistic Assessment for Primary 1 to Primary 3</font>** <br>
 The Tamil Language department aims to instill in our students the love for Tamil Language. The department has designed a broad-based curriculum, which includes the Ministry of Education Mother Tongue Syllabus and a school-based syllabus to suit the differentiated learning needs of our Tamil students. We strive to develop our students into confident persons who are able to communicate fluently and effectively. To achieve these aims, students are engaged in various fun, engaging, cultural and language-based activities. Examples of such activities include learning spelling in a fun way through musical chair, colouring of Pongal pot and kite-making to make learning more authentic. Through these activities, students have a better understanding of Indian culture and a greater exposure to Tamil Language.
 
-![](/images/Departments/Mother%20Tongue%20Tamil%201.png)
+<img src="/images/Departments/Mother%20Tongue%20Tamil%201.png"  
+     style="width:75%">
+
 
 **<font size=5>Mother Tongue Support Programme for P3 and P4</font>** <br>
 The objective of the Mother Tongue Support Programme (MTSP) is to support and help students (esp. P3 and P4) who have difficulties learning Mother Tongue Languages, so that they can acquire the basics of the languages and enhance their competency. It is conducted in smaller class size to provide more attention to the students to close their learning gaps. It focuses on building a stronger foundation in their literacy and oral skills and acquisition of key content (vocabulary & grammar) in a joyful manner. An immersive language environment is offered to enable students to learn Tamil with confidence and joy. It is taught by specially trained Primary 3 and 4 TL teachers. Through this programme, students benefit by having more individualized attention, supportive learning environment and additional learning resources.
@@ -64,7 +66,9 @@ Our Intervention strategies for Upper Primary are meant to benefit our students 
 *   Read “in between the lines” to understand underlying meanings
 *   Make connections, think and question, and visualize
 
-![](/images/Departments/Mother%20Tongue%20Tamil%202.png)
+<img src="/images/Departments/Mother%20Tongue%20Tamil%202.png"  
+     style="width:75%">
+
 
 **<font size=5>Oral Intervention Sessions for Upper Primary</font>** <br>
 Our main purpose of Reading Intervention is to improve students' reading by helping increase their decoding, fluency, comprehension and vocabulary. Teachers specifically target this reading intervention according to the category such as decoding (breaking down the unknown words by using knowledge of letters, sounds and patterns) or fluency (reading quickly, with ease). By not having a “one size fits all” approach to reading intervention, teachers try to understand the pupil’s reading requirement and needs, and then use that information to target a solution. 
