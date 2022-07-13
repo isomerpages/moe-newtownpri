@@ -2,4 +2,5 @@ collections:
   accolades:
     output: true
     order:
+      - New Town Pri in the News!.md
       - Achievements.md
