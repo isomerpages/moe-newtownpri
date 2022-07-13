@@ -10,15 +10,10 @@ description: ""
 
 **<font size=6>Physical Education</font>**<br>
 
-Vision
-------
-
+**<font size=5>Vision</font>**<br>
 Creating physically fit and healthy students who are able to demonstrate individually and with others, the physical skills, practices, and values to enjoy a lifetime of active, healthy living.  
   
-
-Mission
--------
-
+**<font size=5>Mission</font>**<br>
 To develop in our students, the ability to:
 
 (i)  Acquire a range of movement skills to participate in a variety of physical activities.  
@@ -29,11 +24,8 @@ To develop in our students, the ability to:
 (vi) Enjoy and value the benefits of living a physically active and healthy life.
 
   
+**<font size=5>Committee</font>**<br>
 
-Committee
----------
-
-  
 
 |  Designation |  Name |  Email |
 | --- | --- | --- |
@@ -47,9 +39,7 @@ Committee
 |   |  Mr Ong See Guan |  [ong\_see\_guan@schools.gov.sg](mailto:ong_see_guan@schools.gov.sg) |
 |   |  Mr Loh Zhi Hao |  [loh\_zhi\_hao@schools.gov.sg](mailto:loh_zhi_hao@schools.gov.sg) |
 
-Programmes
-----------
-
+**<font size=5>Programmes</font>**<br>
 The PE Syllabus covers the following 7 learning areas.
 
   
@@ -77,15 +67,10 @@ In addition, the PE Department, through the following programmes / activities, p
     
 
   
-
-Events & Activities
--------------------
-
+**<font size=5>Events & Activities</font>**<br>
 *   P5 Adventure Camp
 *   Lower Primary Sports Day  
-    
 *   Sports Orama (Upper Primary)  
-    
 *   Inter-House Games Competitions
 *   NAPFA
 
