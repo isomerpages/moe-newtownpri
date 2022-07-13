@@ -2,5 +2,6 @@ collections:
   accolades:
     output: true
     order:
+      - Bouquets/.keep
       - New Town Pri in the News!.md
       - Achievements.md
