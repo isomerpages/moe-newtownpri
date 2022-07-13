@@ -11,7 +11,7 @@ third_nav_title: CCE
 
 **<font size=6>Character and Citizenship Education</font>**
 
-**<font size=5>Mission</font>**
+**<font size=5>Mission</font>**<br>
 Nurturing passionate learners, strong in character.  
   
 **<font size=5>Our Guiding Principles</font>**
