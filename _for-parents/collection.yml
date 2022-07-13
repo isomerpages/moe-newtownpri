@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Form for Parents.md
+      - Forms for Parents.md
       - Parent Engagement Sessions/.keep
       - Parent Engagement Sessions/P1 Orientation.md
       - Parent Engagement Sessions/First Day of School.md
