@@ -13,32 +13,23 @@ third_nav_title: CCE
 
 **<font size=5>Learning Outcomes</font>** <br>
 
-#### A Sense of Belonging
-
+**<font size=5>A Sense of Belonging</font>** <br>
 To develop a deeper understanding of who we are and a shared understanding of the values that are important to us as a nation.
 
-#### A Sense of Reality: 
-
+**<font size=5>A Sense of Reality:</font>** <br>
 To be aware of the contemporary realities — including Singapore’s constraints and vulnerabilities — which affect us as a nation amidst the backdrop of a less predictable world.
 
-#### A Sense of Hope 
-
+**<font size=5>A Sense of Hope</font>** <br>
 Having confidence and optimism in Singapore’s future and the resilience to face the challenges ahead.  
   
 
 Ultimately, the above 3 citizenship dispositions will cultivate the will to act: To be active citizens who have a collective resolve and a sense of shared mission towards building a Singapore for all.
 
   
+**<font size=5>Programmes</font>** <br>
 
-Programmes
-----------
-
-  
-
-### Outdoor Learning Experiences
-
+**<font size=5>Outdoor Learning Experiences</font>** <br>
 ![](/images/Departments/Citizenry%20Education%201.jpg)
 
-### NE Commemoration
-
+**<font size=5>NE Commemoration</font>** <br>
 ![](/images/Departments/Citizenry%20Education%202.jpg)
