@@ -13,70 +13,49 @@ description: ""
 **<font size=5>Vision</font>** <br>
 A Language Hub that equips pupils with literacy skills for life through a fun, innovative and culturally rich environment.
 
-  
-
----
-
-Committee
----------
+**<font size=5>Committee</font>** <br>
 
 <table width="751" class="iveo_table ives_tab_simple" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; background-color: initial; width: 710px;"><colgroup class="" style="margin: 0px; outline: 0px; padding: 0px;"><col width="190" class="" style="margin: 0px; outline: 0px; padding: 0px;"><col width="203" class="" style="margin: 0px; outline: 0px; padding: 0px;"><col width="358" class="" style="margin: 0px; outline: 0px; padding: 0px;"></colgroup><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><th style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 174px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Designation</font></th><th style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 187px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Name</font></th><th style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 349px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Email</font></th></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;HOD / Mother Tongue</font></td><td class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Mdm Teh Sok Fun</font></td><td class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><a href="mailto:teh_sok_fun@schools.gov.sg" class="" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">teh_sok_fun@schools.gov.sg</a></font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Subject Head / ML &amp; TL</font></td><td class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Mr Mohamad Iskandar</font></td><td class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><a href="mailto:mohamad_iskandar_mohd_yaakop@schools.gov.sg" class="" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">mohamad_iskandar_mohd_yaakop@schools.gov.sg</a></font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;TL Coordinator</font></td><td class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Mdm Lakshmi&nbsp;</font></td><td class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><a href="mailto:lakshmi_somasundaram@schools.gov.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">lakshmi_somasundaram@schools.gov.sg</a></font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Teacher</font></td><td class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Mdm Thila</font></td><td class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><a href="mailto:thilagavathid_oarunachalatheva@schools.gov.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">thilagavathid_oarunachalatheva@schools.gov.sg</a><br style="margin: 0px; outline: 0px; padding: 0px;"></font></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</font></td><td class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Mdm Zahirah</font></td><td class="" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><a href="mailto:zahirah_banu_mohamed_ally@schools.gov.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">zahirah_banu_mohamed_ally@schools.gov.sg</a></font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Ms Shalini Sativil</font></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><a href="mailto:shalini_sativil@schools.gov.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">shalini_sativil@schools.gov.sg</a></font></td></tr></tbody></table>
 
-Programmes
-----------
-
+**<font size=5>Programmes</font>** <br>
 The department aims to make the learning of Mother Tongue Languages (MTL) a joy, and seek to nurture a love in the learning of Mother Tongue Languages.  We believe that every student has different learning styles and use differentiated instruction in the classrooms to help them derive the joy of learning. We aim to cultivate a set of thinking routines in the students so as to integrate thinking skills during Mother Tongue Languages lessons to increase the students’ engagement level to achieve deep learning. We provides authentic settings aimed at creating an immersive environment for the acquisition of Mother Tongue languages through a variety of activities related to Mother Tongue cultures. These platforms provide authentic opportunities for students to apply their Mother Tongue languages and experience the culture.  
 
-###   
-
-### Holistic Assessment for Primary 1 to Primary 3
-
+**<font size=5>Holistic Assessment for Primary 1 to Primary 3</font>** <br>
 The Tamil Language department aims to instill in our students the love for Tamil Language. The department has designed a broad-based curriculum, which includes the Ministry of Education Mother Tongue Syllabus and a school-based syllabus to suit the differentiated learning needs of our Tamil students. We strive to develop our students into confident persons who are able to communicate fluently and effectively. To achieve these aims, students are engaged in various fun, engaging, cultural and language-based activities. Examples of such activities include learning spelling in a fun way through musical chair, colouring of Pongal pot and kite-making to make learning more authentic. Through these activities, students have a better understanding of Indian culture and a greater exposure to Tamil Language.
 
 ![](/images/Departments/Mother%20Tongue%20Tamil%201.png)
 
-### Mother Tongue Support Programme for P3 and P4
-
+**<font size=5>Mother Tongue Support Programme for P3 and P4</font>** <br>
 The objective of the Mother Tongue Support Programme (MTSP) is to support and help students (esp. P3 and P4) who have difficulties learning Mother Tongue Languages, so that they can acquire the basics of the languages and enhance their competency. It is conducted in smaller class size to provide more attention to the students to close their learning gaps. It focuses on building a stronger foundation in their literacy and oral skills and acquisition of key content (vocabulary & grammar) in a joyful manner. An immersive language environment is offered to enable students to learn Tamil with confidence and joy. It is taught by specially trained Primary 3 and 4 TL teachers. Through this programme, students benefit by having more individualized attention, supportive learning environment and additional learning resources.
 
   
 
   
-
-### Tamil Language (TL) Fortnight Activities
-
+**<font size=5>Tamil Language (TL) Fortnight Activities</font>** <br>
 TL Fortnight activities in New Town Primary creates an immersive and meaningful environment for the students to learn and appreciate Tamil Language. It provides platforms with authentic settings for the students to associate and experience the culture. Students’ participation in the activities such as Poetry Recitation, Story-Telling and Oratorical Speech helps to develop interest and deepen their knowledge in Tamil Language.  The fortnight activities help to instill in students the Joy of Learning Tamil Language and knowing its rich tradition.
 
   
 
   
-
-### ‘My Dream Shop’
-
+**<font size=5>'My Dream Shop'</font>** <br>
 "My Dream Shop” is a national competition for Primary 4 students jointly organized by New Town Primary School and Buna Vista CC Youth Club. This competition provides an authentic setting to engage students to be proficient users in their Mother Tongue Languages to make it a “living language” and also promote students' creativity and entrepreneurship spirit. Participating students work in teams with proper time management to promote their product to reach out to the customers who are the less fortunate children through a buying session that teaches them business tactics to be entrepreneurs. 
 
   
 
   
-
-### Engaging Students in School Activities
-
-**External Competitions**
-
+**<font size=5>Engaging Students in School Activities</font>** <br>
+**External Competitions**<br>
 Our students are given opportunities to participate in external competitions organized by CCs to gain confidence through showcasing their talents. 
 
   
 
-**Deepavali Concert**
-
+**Deepavali Concert**<br>
 The objective of the TL department holding the Deepavali Concert is to bring in the ambience of celebration. Students’ talents are exhibited through a wide range of performances eg. Music recital, folk dance, fashion parade and drama. This platform enables the students to understand and immerse in our culture and customs.
 
   
 
   
-
-### Comprehension Intervention Lessons for Upper Primary
-
+**<font size=5>Comprehension Intervention Lessons for Upper Primary</font>** <br>
 Our Intervention strategies for Upper Primary are meant to benefit our students in terms of word recognition, decoding, and fluency which are building blocks of effective reading and the ability to comprehend text being the ultimate goal. Comprehension is an important learning tool for acquiring content knowledge and expressing ideas and opinions through discussion and writing. Our intervention strategies includes:
 
 *   Interpret and evaluate events, dialogue, ideas, and information
@@ -87,19 +66,15 @@ Our Intervention strategies for Upper Primary are meant to benefit our students 
 
 ![](/images/Departments/Mother%20Tongue%20Tamil%202.png)
 
-### Oral Intervention Sessions for Upper Primary
-
+**<font size=5>Oral Intervention Sessions for Upper Primary</font>** <br>
 Our main purpose of Reading Intervention is to improve students' reading by helping increase their decoding, fluency, comprehension and vocabulary. Teachers specifically target this reading intervention according to the category such as decoding (breaking down the unknown words by using knowledge of letters, sounds and patterns) or fluency (reading quickly, with ease). By not having a “one size fits all” approach to reading intervention, teachers try to understand the pupil’s reading requirement and needs, and then use that information to target a solution. 
 
   
 
   
-
-### Pongal Festival Learning Journey
-
+**<font size=5>Pongal Festival Learning Journey</font>** <br>
 New Town P4 Tamil students have the opportunity to immerse themselves in Indian tradition by understanding the significance of celebrating Pongal through a learning journey to Little India. They take part in hands-on activities like thoranam- weaving, playing of traditional Indian board games like race carts and aadu puli aatam and having fun with coconut leaf art.  It is an informative and fun-filled journey for the students to understand TL culture and practices yearly.
 
-Resources
----------
+**<font size=5>Resources</font>** <br>
 
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 710px; height: 109px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 125px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Educational Websites</font><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"></font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 584px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Learning Space</b></span></font></div><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><a href="https://learning.moe.edu.sg/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://learning.moe.edu.sg</a></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 60px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">For Parents</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Approved Dictionary List</font></b></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.seab.gov.sg/home/examinations/approved-dictionaries" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.seab.gov.sg/home/examinations/approved-dictionaries</a><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Tamil Language Syllabus</b></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages</a></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">e-Oral Examination</font></b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><a href="https://www.seab.gov.sg/pages/e-oral/index.html" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.seab.gov.sg/pages/e-oral/index.html</a></font></div></td></tr></tbody></table>
