@@ -2,14 +2,14 @@ collections:
   for-parents:
     output: true
     order:
-      - Resources for Parents/Assessment Plans.md
-      - Resources for Parents/Student Care Centre.md
-      - Resources for Parents/Glossary of Abbreviations & Acronyms.md
-      - Resources for Parents/School Calendar.md
-      - Resources for Parents/Parents Gateway.md
-      - Resources for Parents/Book Lists 2022.md
-      - Resources for Parents/Resources for Parents.md
       - Resources for Parents/.keep
+      - Resources for Parents/Resources for Parents.md
+      - Resources for Parents/Book Lists 2022.md
+      - Resources for Parents/Parents Gateway.md
+      - Resources for Parents/School Calendar.md
+      - Resources for Parents/Glossary of Abbreviations & Acronyms.md
+      - Resources for Parents/Student Care Centre.md
+      - Resources for Parents/Assessment Plans.md
       - Parent Support Group.md
       - Parent Teacher Communication.md
       - Forms for Parents.md
