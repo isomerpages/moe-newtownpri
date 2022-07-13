@@ -2,6 +2,7 @@ collections:
   school-programmes:
     output: true
     order:
+      - Growing Years (SEd) Programme.md
       - Programme for Active Learning (PAL).md
       - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
