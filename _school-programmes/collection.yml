@@ -2,13 +2,13 @@ collections:
   school-programmes:
     output: true
     order:
-      - Growing Years (SEd) Programme.md
-      - Programme for Active Learning (PAL).md
-      - Learning for Life Programme (LLP).md
-      - Applied Learning Programme (ALP).md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
       - Co Curricular Activities (CCA)/Clubs & Societies.md
       - Co Curricular Activities (CCA)/Performing Arts.md
       - Co Curricular Activities (CCA)/Physical Sports.md
       - Co Curricular Activities (CCA)/Uniformed Group.md
+      - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
+      - Programme for Active Learning (PAL).md
+      - Growing Years (SEd) Programme.md
