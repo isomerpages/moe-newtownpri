@@ -78,7 +78,7 @@ In addition, the PE Department, through the following programmes / activities, p
      style="width:75%">
 		 
 <img src="/images/Departments/PE%202.png"  
-     style="width:75%">
+     style="width:65%">
 		 
 <img src="/images/Departments/PE%203.png"  
      style="width:75%">
