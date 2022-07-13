@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Resources for Parents/Student Care Centre.md
       - Resources for Parents/Glossary of Abbreviations & Acronyms.md
       - Resources for Parents/School Calendar.md
       - Resources for Parents/Parents Gateway.md
