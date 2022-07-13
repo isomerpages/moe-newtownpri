@@ -89,9 +89,14 @@ Events & Activities
 *   Inter-House Games Competitions
 *   NAPFA
 
-![](/images/Departments/PE%201.png)
-&nbsp;&nbsp;![](/images/Departments/PE%202.png)
-![](/images/Departments/PE%203.png)
+<img src="/images/Departments/PE%201.png"  
+     style="width:75%">
+&nbsp;&nbsp;<img src="/images/Departments/PE%202.png"  
+     style="width:75%">
+		 
+<img src="/images/Departments/PE%203.png"  
+     style="width:75%">
+
 
 Resources
 ---------
