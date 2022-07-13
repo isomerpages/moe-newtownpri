@@ -16,11 +16,14 @@ Nurturing passionate learners, strong in character.
   
 **<font size=5>Our Guiding Principles</font>**
 
+(INSERT IMAGE HERE)
+
 1\. Every teacher a CCE teacher<br>
 2\. Values are both taught and caught<br>
 3\. Engaging students through varied modes of delivery<br>
 4\. Parents as key partners 
 
+(INSERT IMAGE HERE)
 
 The CCE department focuses on inculcating in our students strong values through our CCE and FTGP lessons. Providing them with opportunities to apply their knowledge, the students are progressively introduced Values-in-Action programmes across their 6-year education, targeted across six domains – self, family, school, community, nation and world.  
 
