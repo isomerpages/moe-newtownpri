@@ -45,6 +45,8 @@ _References extracted from:_ <br>
 [_https://www.moe.gov.sg/education/syllabuses/character-citizenship-education_](https://www.moe.gov.sg/education/syllabuses/character-citizenship-education) <br>
 [_https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/character-citizenship-education/files/2014-character-citizenship-education-eng.pdf_](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/character-citizenship-education/files/2014-character-citizenship-education-eng.pdf)
 
+(INSERT IMAGE HERE)
+
 **<font size=5>Programmes</font>**
 
 **<font size=5>P1 & P4 Bonding Games</font>**
