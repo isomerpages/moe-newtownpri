@@ -2,6 +2,7 @@ collections:
   accolades:
     output: true
     order:
+      - School Videos.md
       - Bouquets/.keep
       - Bouquets/Bouquets.md
       - Bouquets/Send a Bouquet.md
