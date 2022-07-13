@@ -46,12 +46,12 @@ _References extracted from:_ 
 
 **<font size=5>P1 & P4 Bonding Games</font>**
 <img src="/images/Departments/CCE%202.jpg"  
-     style="width:50%">
+     style="width:60%">
 
 **<font size=5>FTGP and School Mass Activities</font>**
 <img src="/images/Departments/CCE%203.jpg"  
-     style="width:50%">
+     style="width:60%">
 
 **<font size=5>Everyday Responsibilities and Values-in-Action Programme</font>**
 <img src="/images/Departments/CCE%204.jpg"  
-     style="width:50%">
+     style="width:60%">
