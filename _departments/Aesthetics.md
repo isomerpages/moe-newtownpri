@@ -3,3 +3,106 @@ title: Aesthetics
 permalink: /departments/aesthetics
 description: ""
 ---
+<img src="/images/logosub.png" style="width:400px;height:150px;margin-left:0px;" align = "left">
+
+<img src="/images/Header%20GIF.gif" style="width:380px;height:150px;margin-right:60px;" align = "right">
+<br><br><br><br><br><br>
+
+**<font size=6>Aesthetics</font>**
+
+**<font size=5>Vision</font>** <br>
+An inspiring environment to stimulate creativity and appreciation of the Arts.  
+  
+  
+
+Mission
+-------
+
+Every child involved in the Arts.  
+
+  
+
+Committee
+---------
+
+### 
+
+|  Designation | Staff Name | Email |
+| --- | --- | --- |
+|  Head of Department | Mdm Lee Yew Fang (Mrs Hoo) | [lee\_yew\_fang@schools.gov.sg](mailto:lee_yew_fang@schools.gov.sg) |
+|  Teacher (Music) | Mrs Lim-Ng Ren Min | [lim-ng\_ren\_min@schools.gov.sg](mailto:lim-ng_ren_min@schools.gov.sg) |
+|  Teacher (Music) | Ms Geraldine Lim Xin Hui | [lim\_xin\_hui\_geraldine@schools.gov.sg](mailto:lim_xin_hui_geraldine@schools.gov.sg) |
+|  Teacher (Art) | Ms Syarinah Sani | [syarinah\_sani@schools.gov.sg](mailto:syarinah_sani@schools.gov.sg) |
+|  Teacher (Art) | Ms Chan Jia Yu | [chan\_jia\_yu@schools.gov.sg](mailto:chan_jia_yu@schools.gov.sg) |
+
+###   
+
+Programmes
+----------
+
+  
+
+### Assembly Programme  
+
+**P1 to P6**  
+
+Collaborating with the National Arts Council and other arts agencies, New Towners are exposed to different art forms such as Dance, Music, Art and Theatre. We have continued to bridge professional artists/art groups to share with New Towner via online platforms despite the Covid-19 limits.
+
+![](/images/Departments/Aesthetics%201.png)
+![](/images/Departments/Aesthetics%202.png)
+
+### New Town Artists  
+
+**P1 to P6**
+
+Inaugurated in 2021, 'New Town Artists' challenges New Towners to create art pieces that fit the parameters for each competition. It is held twice a year and is open to all students who are passionate about art and wish to gain experience and prepare themselves for external art competitions and build their portfolio.
+
+![](/images/Departments/Aesthetics%203.png)
+
+### Stop Motion Project
+
+### **P4**  
+
+Primary 4 New Towners express their ideas and deliver critical messages by creating short animated films from scratch using what they've learned about digital arts in their curriculum and enrichment module. Keep an eye out for our work on our school's Facebook page from Semester 2.  
+
+  
+
+Theatre Experience Programme _(Temporarily Suspended due to Covid-19 Restrictions)_  
+
+**P4**  
+
+The goals of our Theatre Experience program are to give students the opportunity to attend and appreciate a professional production in a purpose-built theater while also developing their enthusiasm for theatre performances. We hope to increase students' awareness of and interest in high-quality performances in the arts.
+
+![](/images/Departments/Aesthetics%204.png)
+
+Enrichment Modules
+------------------
+
+New Towners have a better understanding of the procedures and challenges associated with each art form by participating in the process firsthand in these modules. It increases their appreciation for the art forms while cultivating self-esteem, tenacity and problem-solving abilities. These enrichment modules, which are held during school hours, cover both traditional and digital art forms, giving students a new perspective on art and music.
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Level / Subject</span></th><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Art</span></th><th style="background-color:#1F8CE4;border-color:black;border-style:solid;border-width:1px;color:#F2F9FF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#F2F9FF;background-color:#1F8CE4">Music</span></th></tr></thead><tbody><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Primary 3</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Ceramics</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Ukulele</span></td></tr><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Primary 4</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Batik</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">GarageBand</span></td></tr><tr><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF">Primary 5</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> Photoshop</span></td><td style="background-color:#F2F9FF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#F2F9FF"> </span></td></tr></tbody></table>
+
+### Ceramics module (Art) 
+
+**P3**
+![](/images/Departments/Aesthetics%205.png)
+
+### Ukulele module (Music)
+
+### **P3**
+![](/images/Departments/Aesthetics%206.png)
+
+**Batik module (Art)** 
+
+**P4**
+![](/images/Departments/Aesthetics%207.jpg)
+
+**GarageBand module (Music)** 
+
+**P4**
+![](/images/Departments/Aesthetics%208.png)
+
+Resources
+---------
+
+<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 710px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 116px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Performances &amp; Exhibitions</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 593px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Click on these links to see what’s on and enjoy them with your family.&nbsp;</span><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;">Note: Some events are free while others require purchase of tickets.&nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Esplanade – Theatres on the bay</li></ul></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><a href="https://www.esplanade.com/whats-on/category" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.esplanade.com/whats-on/category</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Victoria Theatre and Victoria Concert Hall</li></ul></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><a href="https://www.vtvch.com/whats-on" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.vtvch.com/whats-on</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Singapore Chinese Orchestra</li></ul></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><a href="https://sco.com.sg/en/events/all-concerts-and-events.html" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://sco.com.sg/en/events/all-concerts-and-events.html</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Singapore Botanical Gardens&nbsp;</li></ul></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;">(select ‘Performances’)&nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">National Gallery Singapore</li></ul></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><a href="https://www.nationalgallery.sg/whats-on" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.nationalgallery.sg/whats-on</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">ArtScience Museum</li></ul></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><a href="https://www.marinabaysands.com/museum/whats-on.html" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.marinabaysands.com/museum/whats-on.html</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;">(check out their ‘Family Fridays’)</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Asian Civilizations Museum</li></ul></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><a href="https://www.nhb.gov.sg/acm/whats-on" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.nhb.gov.sg/acm/whats-on</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">National Museum of Singapore</li></ul></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><a href="https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/exhibition-list" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/exhibition-list</a></div></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Elective Programmes<br style="margin: 0px; outline: 0px; padding: 0px;">(Secondary)</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;">Information for New Towners who wish to take art and music at the ‘O’ levels.</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">Art</u></b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Enhanced Art Programme (EMP) for secondary</li></ul></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/eap-sec" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.moe.gov.sg/education-in-sg/our-programmes/eap-sec</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Art Elective Programme (MEP) for secondary</li></ul></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">Music</u></b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Enhanced Music Programme (EMP) for secondary</li></ul></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/emp-sec" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.moe.gov.sg/education-in-sg/our-programmes/emp-sec</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Music Elective Programme (MEP) for secondary</li></ul></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec</a></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Direct School Admission for Secondary Schools<br style="margin: 0px; outline: 0px; padding: 0px;">(DSA-SEC)&nbsp;</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Information about DSA for secondary schools can be found with this link.<span>&nbsp;</span><a href="https://www.moe.gov.sg/secondary/dsa" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.moe.gov.sg/secondary/dsa</a><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">School of the Arts (SOTA)</u></b><br style="margin: 0px; outline: 0px; padding: 0px;">SOTA admits students through 100% Direct Schools Admission.<br style="margin: 0px; outline: 0px; padding: 0px;">Check out these links for more information.<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">SOTA e-Open House 2022</li></ul><a href="https://www.sota.edu.sg/oh2022" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.sota.edu.sg/oh2022</a><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">SOTA Admissions</li></ul><a href="https://www.sota.edu.sg/admission" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(24, 112, 182); text-decoration: none;">https://www.sota.edu.sg/admission</a></td></tr></tbody></table>
