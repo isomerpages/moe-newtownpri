@@ -48,7 +48,7 @@ Inaugurated in 2021, 'New Town Artists' challenges New Towners to create art pie
 Primary 4 New Towners express their ideas and deliver critical messages by creating short animated films from scratch using what they've learned about digital arts in their curriculum and enrichment module. Keep an eye out for our work on our school's Facebook page from Semester 2.  
 
   
-**<font size=5>Theatre Experience Programme _(Temporarily Suspended due to Covid-19 Restrictions)_  </font>** <br>
+**<font size=5>Theatre Experience Programme _(Temporarily Suspended due to Covid-19 Restrictions)_ </font>** <br>
 **P4**  <br>
 The goals of our Theatre Experience program are to give students the opportunity to attend and appreciate a professional production in a purpose-built theater while also developing their enthusiasm for theatre performances. We hope to increase students' awareness of and interest in high-quality performances in the arts.
 
