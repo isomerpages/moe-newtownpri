@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Resources for Parents/.keep
       - Parent Support Group.md
       - Parent Teacher Communication.md
       - Forms for Parents.md
