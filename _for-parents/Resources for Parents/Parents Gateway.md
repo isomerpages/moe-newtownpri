@@ -26,7 +26,7 @@ Parent's Gateway is available as a mobile app on [Google Play store](https://p
 
 
 *   [Step-by-step onboard guide to set up Parents Gateway](/files/PG%20Onboarding%20Guide.pdf)
-*   [Quick Start guide on using PG app](/files/PG-Quick-start-Guide-for-Parents.pdf)]([](/files/PG-Quick-start-Guide-for-Parents.pdf))
+*   [Quick Start guide on using PG app](/files/PG-Quick-start-Guide-for-Parents.pdf)
 *   [Frequently-Asked Questions (FAQ)](https://pg.moe.edu.sg/faq)
 
 To login, you will be required to use your SingPass. If you do not have a SingPass account, you may register for it [here](https://www.singpass.gov.sg/singpass/register/instructions).
