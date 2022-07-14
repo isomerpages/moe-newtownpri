@@ -65,7 +65,7 @@ Football is a popular outdoor sport that provides excitement and fun for both th
 **<font size=5>Netball</font>**
 
 <img src="/images/School%20Programmes/Physical%20Sports%204.png"  
-     style="width:50%">
+     style="width:40%">
 
 
 Netball is a sport derived from early versions of basketball which involves fundamental movement skills such as running, jumping, throwing and catching. Through fun activities and modified games, members learn basic netball skills to help them improve their motor skills, agility, endurance and overall fitness level. As they learn to work together, members develop teamwork and resilience and improve their social and communication skills.  
