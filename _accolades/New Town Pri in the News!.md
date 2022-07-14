@@ -59,7 +59,8 @@ description: ""
 [Grandparents Volunteer in Schools too](https://schoolbag.edu.sg/story/grandparents-volunteer-in-schools-too)
 
 <img src="/images/Accolades/News%206.jpg"  
-     style="width:40%">
+     style="width:40%"
+		 align = "left"> <br><br><br><br><br><br><br>
 [Move your Body, Strengthen your Mind](https://schoolbag.edu.sg/story/move-your-body-strengthen-your-mind)
 
 **<font size=5>New Town Pri on MOE Publications</font>**
