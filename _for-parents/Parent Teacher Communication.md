@@ -21,7 +21,7 @@ Please write your note in your child’s handbook and ask him/her to show it to 
 
 **<u>b) Email</u>**
 
-All our teachers’ email addresses are listed on our school website under About Us – [School Staff](https://newtownpri-moe-edu-sg-admin.cwp.sg/about-us/school-staff).
+All our teachers’ email addresses are listed on our school website under About Us – [School Staff](https://moe-newtownpri-staging.netlify.app/about-us/school-staff).
 
 Our teachers will respond to your emails within three working days.
 
