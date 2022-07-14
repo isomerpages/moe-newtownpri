@@ -54,7 +54,8 @@ description: ""
 
 
 <img src="/images/Accolades/News%205.jpg"  
-     style="width:40%">
+     style="width:40%"
+		 align = "left"><br><br><br><br><br><br><br>
 [Grandparents Volunteer in Schools too](https://schoolbag.edu.sg/story/grandparents-volunteer-in-schools-too)
 
 <img src="/images/Accolades/News%206.jpg"  
