@@ -10,7 +10,7 @@ description: ""
 
 **<font size=6>Growing Years (SEd) Programme</font>**
 
-### **MOE Sexuality Education in Schools**
+**<font size=5>MOE Sexuality Education in Schools</font>**
 
 1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
@@ -32,12 +32,9 @@ description: ""
 
 3\. The key messages of Sexuality Education are:
 
-(i) Love and respect yourself as you love and respect others;
-
-(ii) Build positive relationships based on love and respect (which are the foundation for strong families);
-
-(iii) Make responsible decisions for yourself, your family and society; and
-
+(i) Love and respect yourself as you love and respect others;<br>
+(ii) Build positive relationships based on love and respect (which are the foundation for strong families);<br>
+(iii) Make responsible decisions for yourself, your family and society; and<br>
 (iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
   
@@ -45,10 +42,7 @@ description: ""
 You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
 
   
-
-### 
-
-### **OVERVIEW OF NEW TOWN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022**
+ **<font size=5>OVERVIEW OF NEW TOWN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022</font>**
 
   
 
@@ -58,10 +52,8 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 5\. The subjects that incorporate topics on sexuality include:
 
-    a) Science
-
-    b) Form Teacher Guidance Period (FTGP)
-
+    a) Science<br>
+    b) Form Teacher Guidance Period (FTGP)<br>
     c) Character and Citizenship Education (CCE)
 
 **<u>Sexuality Education</u>**: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
