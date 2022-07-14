@@ -22,4 +22,5 @@ At New Town Primary School, every Primary 3 to Primary 6 student takes part in o
 *   [Physical Sports](https://moe-newtownpri-staging.netlify.app/school-programmes/co-curricular-activities-cca/physical-sports)
 *   [Uniformed Group](https://moe-newtownpri-staging.netlify.app/school-programmes/co-curricular-activities-cca/uniformed-group)
 
-![](/images/School%20Programmes/CCA.png)
+<img src="/images/School%20Programmes/CCA.png"  
+     style="width:75%">
