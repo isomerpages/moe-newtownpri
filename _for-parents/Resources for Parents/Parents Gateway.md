@@ -13,18 +13,15 @@ third_nav_title: Resources for Parents
 
 <iframe width="646" height="362" src="https://www.youtube.com/embed/tW9jwyuovOo" title="Parents Gateway Onboarding video for Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Introducing Parents Gateway
----------------------------
-
+**<font size="5">Introducing Parents Gateway</font>**
   
 
 Parents Gateway is a digital service that connects parents / legal guardians and schools on key administrative matters. 
 
 Parent's Gateway is available as a mobile app on [Google Play store](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG) or [Apple store](https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8). With the app, you will receive school letters, announcements and consent forms more conveniently and giving consent for your child's school activities is as easy as a tap on your mobile screen.   
   
+**<font size="5">Resources</font>**
 
-Resources
----------
 <img src="/images/Parents%20Gateway%20GIF.gif" style="width:183px;height:350px;margin-left:15px;" align = "right">
 
 
