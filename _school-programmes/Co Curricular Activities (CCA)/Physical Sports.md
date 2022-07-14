@@ -15,7 +15,8 @@ Building upon the Physical Education (PE) programme to build a strong foundation
 
 **<font size=5>Badminton</font>**
 
-![](/images/School%20Programmes/Physical%20Sports%201.jpg)
+<img src="/images/School%20Programmes/Physical%20Sports%201.jpg"  
+     style="width:50%">
 
 Badminton promotes an active and healthy lifestyle amongst the members. The objective is to allow the members to demonstrate the spirit of fair play, teamwork and sportsmanship on and off the court as they train and play hard. Under the guidance of our dedicated and talented coach, members are provided with weekly systematic and professional training to improve their badminton skills and build up their stamina and endurance. School team members strive to do their best in the annual South Zone Primary School Badminton tournament.  
   
@@ -30,7 +31,9 @@ Badminton promotes an active and healthy lifestyle amongst the members. The obje
 
 **<font size=5>Basketball</font>**
 
-![](/images/School%20Programmes/Physical%20Sports%202.png)
+<img src="/images/School%20Programmes/Physical%20Sports%202.png"  
+     style="width:50%">
+
 Basketball is one of the most popular, fast-paced sports in the world which requires players to be fit and disciplined. Opportunities are provided for members to develop fundamental movement skills of basketball and instil values such as self-discipline, resilience, team spirit and sportsmanship. Members who show potential or exhibit positive aptitude will be able to represent the school in competitions.  
   
 
@@ -43,7 +46,9 @@ Basketball is one of the most popular, fast-paced sports in the world which requ
 
 **<font size=5>Football</font>**
 
-![](/images/School%20Programmes/Physical%20Sports%203.png)
+<img src="/images/School%20Programmes/Physical%20Sports%203.png"  
+     style="width:50%">
+
 
 Football is a popular outdoor sport that provides excitement and fun for both the players as well as the spectators. Members will be taught the rules and basic skills of football, and the different game plans against opponents. Through regular trainings, members will be inculcated with values such as resilience, integrity, discipline, teamwork, sportsmanship and aspirations for excellence. To allow greater exposure, members participate in the annual South Zone Primary School Football tournament, other invited competitions and arranged friendly matches.  
   
@@ -58,6 +63,10 @@ Football is a popular outdoor sport that provides excitement and fun for both th
 
 
 **<font size=5>Netball</font>**
+
+<img src="/images/School%20Programmes/Physical%20Sports%204.png"  
+     style="width:50%">
+
 
 Netball is a sport derived from early versions of basketball which involves fundamental movement skills such as running, jumping, throwing and catching. Through fun activities and modified games, members learn basic netball skills to help them improve their motor skills, agility, endurance and overall fitness level. As they learn to work together, members develop teamwork and resilience and improve their social and communication skills.  
   
