@@ -10,8 +10,8 @@ description: ""
 
 **<font size=6>Useful Links</font>**
 
-General Information
--------------------
+**<font size=5>General Information</font>**
+
 
 *   [Primary School Curriculum & Subjects](https://www.moe.gov.sg/primary/curriculum)  
     
@@ -31,9 +31,7 @@ General Information
 *   [SchoolFinder](https://go.gov.sg/schoolfinder)
 
   
-
-PSLE & DSA
-----------
+**<font size=5>PSLE & DSA</font>**
 
 *   [SEAB PSLE](https://www.seab.gov.sg/home/examinations/psle) 
 *   [Approved Calculator List](https://www.seab.gov.sg/home/examinations/approved-calculators) 
@@ -42,9 +40,8 @@ PSLE & DSA
 *   [Direct School Admission (DSA) Exercises](https://www.moe.gov.sg/secondary/dsa)
 
   
+**<font size=5>Resources for Students</font>**
 
-Resources for Students
-----------------------
 
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/)  
     
