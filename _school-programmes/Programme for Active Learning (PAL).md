@@ -26,8 +26,7 @@ The Programme for Active Learning (PAL) is a recommendation by the 2009 Primary 
 
 | Designation | Name | Email |
 | --- | --- | --- |
-| HOD / AES PE & CCA | Mrs Hoo Yew Fang  
- | [lee\_yew\_fang@moe.edu.sg](mailto:lee_yew_fang@moe.edu.sg) |
+| HOD / AES PE & CCA | Mrs Hoo Yew Fang  | [lee\_yew\_fang@moe.edu.sg](mailto:lee_yew_fang@moe.edu.sg) |
 | SH / PE & CCA | Ms Loh Yan Ping | [loh\_yan\_ping@moe.edu.sg](mailto:loh_yan_ping@moe.edu.sg) |
 | Member | Ms Chan Jia Yu | [chan\_jia\_yu@moe.edu.sg](mailto:chan_jia_yu@moe.edu.sg) |
 
