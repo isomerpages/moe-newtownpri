@@ -22,7 +22,8 @@ description: ""
 **<font size=5>New Town Pri in the news</font>**
 
 <img src="/images/Accolades/News%201.jpg"  
-     style="width:60%">
+     style="width:60%" 
+		 align="left"> <br><br><br><br><br><br><br><br><br><br><br>
 [Samuel Chan raises flag at Buona Visita constituency for SG50 [China Daily 14 Aug 2015]](/images/Accolades/News%201.jpg)
 
 **<font size=5>New Town Pri on TV</font>**
