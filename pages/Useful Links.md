@@ -17,7 +17,7 @@ description: ""
     
 *   [21st Century Competencies (21CC)](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)  
     
-*   [Social and Emotional Learning (SEL)](https://www.moe.gov.sg/programmes/social-and-emotional-learning)  
+*   [Social and Emotional Learning (SEL)](https://www.moe.gov.sg/programmes/social-and-emotional-learning)  (Broken link) 
     
 *   [Subject Based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 *   Mother Tongue Languages
