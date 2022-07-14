@@ -11,10 +11,10 @@ third_nav_title: Co Curricular Activities (CCA)
 
 **<font size=6>Performing Arts</font>**
 
-Brass Band
-----------
+**<font size=5>Brass Band</font>**
 
-![](/images/School%20Programmes/Performing%20Arts%201.png)
+<img src="/images/School%20Programmes/Performing%20Arts%201.png"  
+     style="width:75%">
 
 Being in the brass band allows one to develop important values such as dedication, resilience, diligence and camaraderie. Besides learning how to play an instrument, members also have the opportunity to hone their leadership skills by leading practices and taking on higher responsibilities with guidance from their teachers-in-charge and instructors. Biennially, the members participate in the Singapore Youth Festival Arts Presentation which adds another enriching dimension to the students’ learning and performing experiences.
 
@@ -28,9 +28,11 @@ Being in the brass band allows one to develop important values such as dedicatio
 | Ms Chia Li | [chia\_li@schools.gov.sg](mailto:chia_li@schools.gov.sg) |
 | Ms Jessica Sum | [sum\_shuyi\_jessica@moe.edu.sg](mailto:sum_shuyi_jessica@moe.edu.sg) |
 
-Choir
 
-![](/images/School%20Programmes/Performing%20Arts%202.png)
+**<font size=5>Choir</font>**
+
+<img src="/images/School%20Programmes/Performing%20Arts%202.png"  
+     style="width:75%">
 
 The voice is a child’s first instrument and it is the most primitive medium used to express human emotions. These young and vibrant singers learn to use their voices with the right techniques and read scores whilst being exposed to a wide range of repertoire, ranging from classical to jazz to popular songs. They develop confidence, self-discipline and are passionate performers. A choir member can look forward to performing regularly both in school and in public, serving the community by performing to the elderly yearly and participating in the biennial Singapore Youth Festival Arts Presentation.
 
@@ -43,9 +45,13 @@ The voice is a child’s first instrument and it is the most primitive medium us
 | Ms Li Wenling | [li\_wenling@schools.gov.sg](mailto:li_wenling@schools.gov.sg) |
 | Ms Yu Ziling | [yu\_ziling@schools.gov.sg](mailto:yu_ziling@schools.gov.sg) |
 
-Chinese Dance
 
-![](/images/School%20Programmes/Performing%20Arts%203.png)
+
+**<font size=5>Chinese Dance</font>**
+
+<img src="/images/School%20Programmes/Performing%20Arts%203.png"  
+     style="width:75%">
+
 “Three minutes on stage is the result of three years of training.” Our Chinese Dance provides members with the opportunity to learn more about the Chinese culture through dance. Members learn to appreciate dance as a performing arts and are continually challenged with varied dance techniques and dance forms to attain greater heights of performance. Members’ talents are showcased regularly both in school and on the national platform. Members will learn self-management, teamwork, independence and are also given the chance to take up leadership roles which is beneficial to their personal growth. 
 
   
@@ -58,8 +64,11 @@ Chinese Dance
 | Mdm Koh Choon Hia | [koh\_choon\_hia@schools.gov.sg](mailto:koh_choon_hia@schools.gov.sg) |
 
 
-Modern Dance
-![](/images/School%20Programmes/Performing%20Arts%204.png)
+**<font size=5>Modern Dance</font>**
+
+<img src="/images/School%20Programmes/Performing%20Arts%204.png"  
+     style="width:75%">
+
 
 Modern Dance supports its members in their pursuits to be better dancers. Members are exposed to a wide range of genres such as hip-hop and contemporary dance, honing their dance and performance skills through various platforms that showcase their talents, such as the school’s Open House and the Singapore Youth Festival Arts Presentation. In addition, members are taught life skills as they are entrusted with leadership positions where they have to work as a team. Through the rigorous and fun training, they grow into resilient and confident individuals. 
 
@@ -72,9 +81,11 @@ Modern Dance supports its members in their pursuits to be better dancers. Member
 | Mdm Thilagavathi  | [thilagavathid\_oarunachalatheva@schools.gov.sg](mailto:thilagavathid_oarunachalatheva@schools.gov.sg) |
 | Ms Rachel Teo | [teo\_kar\_hwee\_rachel@moe.edu.sg](mailto:teo_kar_hwee_rachel@moe.edu.sg) |
 
-Malay Dance
 
-![](/images/School%20Programmes/Performing%20Arts%205.png)
+**<font size=5>Malay Dance</font>**
+
+<img src="/images/School%20Programmes/Performing%20Arts%205.png"  
+     style="width:75%">
 
 There are many Malay traditional dances such as Zapin, Joget and Inang Masri. The objectives of the Malay Dance are to inculcate members’ interest in the dance forms and its connection to the Malay culture by understanding its historical role. Members learn the differences between these dances as they prepare for performances first-hand. Perseverance, commitment, friendship and a willingness to work hard to present graceful yet captivating dances to its audience are common traits of its members. The Malay Dance is one of the school’s oldest dance CCAs and a veteran at the Singapore Youth Festival.
 
