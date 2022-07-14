@@ -15,5 +15,10 @@ third_nav_title: Parent Engagement Sessions
 
 
 
-**<font size="5">For Downlaod</font>**
+**<font size="5">For Download</font>**
 
+[01 P1 Orientation Principals Address](/files/01%20P1%20Orientation%20Principals%20Address_compressed.pdf)
+
+[02 2021 Administrative Matters by VPA V2](/files/02%202021%20Administrative%20Matters%20by%20VPA%20V2.pdf)
+
+[03 NTPS Booklist P1 2022](/files/03%20NTPS%20Booklist%20P1%202022.pdf)
