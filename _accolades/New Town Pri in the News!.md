@@ -33,3 +33,29 @@ https://www.facebook.com/media/set/?set=a.10157486940077004&type=3
 ![](/images/Accolades/News%203.jpg)
 **<center>Small Steps Big Future (Episode 3)</center>**
 
+**<font size=5>New Town Pri on Schoolbag.sg</font>**
+
+![](/images/Accolades/News%204.jpg)
+[Language Learning Blends with Charity and Entrepreneurship in New Town Pri](https://schoolbag.edu.sg/story/language-learning-blends-with-charity-and-entrepreneurship-in-new-town-primary)
+
+![](/images/Accolades/News%205.jpg)
+[Grandparents Volunteer in Schools too](https://schoolbag.edu.sg/story/grandparents-volunteer-in-schools-too)
+
+![](/images/Accolades/News%206.jpg)
+[Move your Body, Strengthen your Mind](https://schoolbag.edu.sg/story/move-your-body-strengthen-your-mind)
+
+**<font size=5>New Town Pri on MOE Publications</font>**
+
+![](/images/Accolades/News%207.jpg)
+<center>NE Forte . Issue 12 // July 2018</center>
+
+(INSERT IMAGE HERE)
+
+[MOE Subject Based Banding Brochure March 2015](/files/subject-based-banding-english%20(MOE%20Aug%202016).pdf)
+
+**<font size=5>The New Town Pri story continues...</font>**
+
+![](/images/Accolades/News%208.jpg)
+<center>"Education, Building a Nation Together" SG50 Commemorative Coins</center>
+
+The foreground depicts students engaged in diverse learning activities, in both academic and non-academic domains. It underscores the importance of a holistic education in developing character, and enabling students to discover and build on their strengths and interests.
