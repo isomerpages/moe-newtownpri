@@ -31,7 +31,7 @@ description: ""
 
 <img src="/images/Accolades/News%202.png"  
      style="width:40%"
-		 align = "left"> <br><br><br><br><br><br><br>
+		 align = "left"> <br><br><br><br><br><br>
 
 
 [《晨光聚焦》 后冠病时代教育 线上线下无缝隙接轨](https://www.8world.com/stories/morning-express/morning-express-blended-learning-vodcast-1283766#.X46MNjsb1Kw.whatsapp)
@@ -39,14 +39,14 @@ description: ""
 	
 <img src="/images/Accolades/News%203.jpg"  
      style="width:40%"
-		 align = "left"><br><br><br><br><br>
+		 align = "left"><br><br><br><br><br><br>
 **Small Steps Big Future (Episode 3)**
 
 **<font size=5>New Town Pri on Schoolbag.sg</font>**
 
 <img src="/images/Accolades/News%204.jpg"  
      style="width:40%"
-		 align = "left"> <br><br><br><br><br><br>
+		 align = "left"> <br><br><br><br><br><br><br>
 
 
 
@@ -60,7 +60,7 @@ description: ""
 
 <img src="/images/Accolades/News%206.jpg"  
      style="width:40%"
-		 align = "left"> <br><br><br><br><br><br><br>
+		 align = "left"> <br><br><br><br><br><br><br><br>
 [Move your Body, Strengthen your Mind](https://schoolbag.edu.sg/story/move-your-body-strengthen-your-mind)
 
 **<font size=5>New Town Pri on MOE Publications</font>**
