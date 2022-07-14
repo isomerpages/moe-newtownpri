@@ -21,5 +21,13 @@ https://www.facebook.com/media/set/?set=a.10157486940077004&type=3
 
 **<font size=5>New Town Pri in the news</font>**
 
+![](/images/Accolades/News%201.jpg)
+[Samuel Chan raises flag at Buona Visita constituency for SG50 [China Daily 14 Aug 2015]](/images/Accolades/News%201.jpg)
 
+**<font size=5>New Town Pri on TV</font>**
 
+![](/images/Accolades/News%202.png)
+[《晨光聚焦》 后冠病时代教育 线上线下无缝隙接轨](https://www.8world.com/stories/morning-express/morning-express-blended-learning-vodcast-1283766#.X46MNjsb1Kw.whatsapp)
+
+![](/images/Accolades/News%203.jpg)
+**<center>Small Steps Big Future (Episode 3)</center>**
