@@ -11,6 +11,9 @@ third_nav_title: Co Curricular Activities (CCA)
 
 **<font size=6>Performing Arts</font>**
 
+Performing Arts instill in students a sense of graciousness and an appreciation for the rich and heritage of a multi-racial society. Performing Arts CCAs provide opportunities for students to develop a lifelong passion for the arts. They also nurture students’ creative expression, enrich social, cultural and historical awareness, and build character.
+
+
 **<font size=5>Brass Band</font>**
 
 <img src="/images/School%20Programmes/Performing%20Arts%201.png"  
