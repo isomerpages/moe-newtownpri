@@ -44,11 +44,10 @@ description: ""
 <img src="/images/Accolades/News%204.jpg"  
      style="width:40%">
 
-<center>
-	
+
+
 [Language Learning Blends with Charity and Entrepreneurship in New Town Pri](https://schoolbag.edu.sg/story/language-learning-blends-with-charity-and-entrepreneurship-in-new-town-primary)
 
-</center>
 
 <img src="/images/Accolades/News%205.jpg"  
      style="width:40%">
