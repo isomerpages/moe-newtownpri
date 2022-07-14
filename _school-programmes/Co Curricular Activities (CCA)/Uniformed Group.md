@@ -17,7 +17,7 @@ Uniformed Group CCAs aim to make good citizens of students by providing authenti
 **<font size=5>Girl Guides (Brownies)</font>**
 
 <img src="/images/School%20Programmes/UG%201.png"  
-     style="width:50%">
+     style="width:40%">
 
 Brownies are part of the Guiding movement where girls develop their fullest potential as responsible citizens of the world. Our Brownies acquire knowledge and skills through games and play. They get to learn skills such as tying knots, painting, baking, singing and dancing. They are trained to be leaders and to serve with humility.  
   
@@ -31,7 +31,7 @@ Brownies are part of the Guiding movement where girls develop their fullest pote
 **<font size=5>Red Cross (Youth)</font>**
 
 <img src="/images/School%20Programmes/UG%202.png"  
-     style="width:50%">
+     style="width:40%">
 
 In line with the mission of the Singapore Red Cross Society, Red Cross aims to build a community of young leaders who are achievers, socially responsible and embrace humanitarian values. Values such as compassion and empathy are emphasised through community engagement. Our members will be equipped with the necessary first aid knowledge such as dressing simple wounds and tying arm slings. They are also given the opportunity to demonstrate their proficiency in competitions such as the Red Cross National First Aid Competition. 
 
