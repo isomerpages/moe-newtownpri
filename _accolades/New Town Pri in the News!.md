@@ -31,34 +31,34 @@ description: ""
 
 
 <img src="/images/Accolades/News%202.png"  
-     style="width:50%">
+     style="width:40%">
 
 
 [《晨光聚焦》 后冠病时代教育 线上线下无缝隙接轨](https://www.8world.com/stories/morning-express/morning-express-blended-learning-vodcast-1283766#.X46MNjsb1Kw.whatsapp)
 
 	
 <img src="/images/Accolades/News%203.jpg"  
-     style="width:50%">
+     style="width:40%">
 **<center>Small Steps Big Future (Episode 3)</center>**
 
 **<font size=5>New Town Pri on Schoolbag.sg</font>**
 
 <img src="/images/Accolades/News%204.jpg"  
-     style="width:50%">
+     style="width:40%">
 [Language Learning Blends with Charity and Entrepreneurship in New Town Pri](https://schoolbag.edu.sg/story/language-learning-blends-with-charity-and-entrepreneurship-in-new-town-primary)
 
 <img src="/images/Accolades/News%205.jpg"  
-     style="width:50%">
+     style="width:40%">
 [Grandparents Volunteer in Schools too](https://schoolbag.edu.sg/story/grandparents-volunteer-in-schools-too)
 
 <img src="/images/Accolades/News%206.jpg"  
-     style="width:50%">
+     style="width:40%">
 [Move your Body, Strengthen your Mind](https://schoolbag.edu.sg/story/move-your-body-strengthen-your-mind)
 
 **<font size=5>New Town Pri on MOE Publications</font>**
 
 <img src="/images/Accolades/News%207.jpg"  
-     style="width:50%">
+     style="width:40%">
 <center>NE Forte . Issue 12 // July 2018</center>
 
 (INSERT IMAGE HERE)
