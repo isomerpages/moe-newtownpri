@@ -13,9 +13,7 @@ description: ""
 The Programme for Active Learning (PAL) is a recommendation by the 2009 Primary Education Review Implementation (PERI) Committee to provide greater emphasis on non-academic programmes for all Primary 1 and 2 students. PAL is part of the curriculum and offered during time-tabled time. In PAL, students are exposed to varied and fun learning experiences in four domains: Sports and Games, Outdoor Education, Performing Arts and Visual Arts. Students also learn socio-emotional competencies such as respecting others and responsible decision making. PAL nurtures **confidence**, **curiosity** and **cooperation** skills in students.
 
   
-
-Objectives
-----------
+**<font size=5>Objectives</font>**
 
 1. Provides students broad exposure to the 4 PAL domains  
 
@@ -24,9 +22,7 @@ Objectives
   
 
     
-
-Committee
----------
+**<font size=5>Committee</font>**
 
 | Designation | Name | Email |
 | --- | --- | --- |
@@ -37,9 +33,7 @@ Committee
 
   
   
-
-Learning Characteristics
-------------------------
+**<font size=5>Learning Characteristics</font>**
 
 *   Experiential in Nature
 *   Encompass Learning in a Creative Way
@@ -48,9 +42,6 @@ Learning Characteristics
 *   Fun and Enjoyable
 
   
+**<font size=5>PAL Modules</font>**
 
-PAL Modules
------------
-
-In New Town Primary School, PAL is conducted by teachers over 2 hours during curriculum time. The following table describes the modules students will experience covering the 4 domains.  
-  
+In New Town Primary School, PAL is conducted by teachers over 2 hours during curriculum time. The following table describes the modules students will experience covering the 4 domains.
