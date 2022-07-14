@@ -46,7 +46,7 @@ description: ""
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/)  
     
 *   [NTPS Online Library Catalogue](https://schoolibrary.moe.edu.sg/newtownpri)
-*   [Sentence Master 句子达人](http://www.sentencemaster.net/)     \[Instruction Manual for Sentence Master Portal: [Chinese](https://newtownpri-moe-edu-sg-admin.cwp.sg/wbn/slot/u2959/Home/Links/Sentence%20Master%20Web%20Learning%20Instruction%20Manual%20%28Chinese%29%20v3.pdf) / [English](https://newtownpri-moe-edu-sg-admin.cwp.sg/wbn/slot/u2959/Home/Links/Sentence%20Master%20Web%20Learning%20Instruction%20Manual%20%28English%29%20v2.pdf) \]
+*   [Sentence Master 句子达人](http://www.sentencemaster.net/)     \[Instruction Manual for Sentence Master Portal: [Chinese](https://newtownpri-moe-edu-sg-admin.cwp.sg/wbn/slot/u2959/Home/Links/Sentence%20Master%20Web%20Learning%20Instruction%20Manual%20%28Chinese%29%20v3.pdf) / [English](https://newtownpri-moe-edu-sg-admin.cwp.sg/wbn/slot/u2959/Home/Links/Sentence%20Master%20Web%20Learning%20Instruction%20Manual%20%28English%29%20v2.pdf) \]  (FILES CANNOT BE FOUND ON THE ORIGINAL SITE)
 *   [S.U.R.E (Source, Understand, Research, Evaluate)  - NLB's Information Literacy Website](https://www.nlb.gov.sg/sure/)
 *   [Speak Good English Movement](https://www.goodenglish.org.sg/)
 *   [discoveReads](https://childrenandteens.nlb.gov.sg/)
