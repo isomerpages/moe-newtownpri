@@ -39,8 +39,9 @@ description: ""
 	
 <img src="/images/Accolades/News%203.jpg"  
      style="width:40%"
-		 align = "left"><br><br><br><br><br><br>
-**<center>Small Steps Big Future (Episode 3)</center>**
+		 align = "left"><br><br><br><br><br>
+		 
+**Small Steps Big Future (Episode 3)**
 
 **<font size=5>New Town Pri on Schoolbag.sg</font>**
 
