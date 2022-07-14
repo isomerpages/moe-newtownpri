@@ -28,8 +28,8 @@ Resources
 <img src="/images/Parents%20Gateway%20GIF.gif" style="width:183px;height:350px;margin-left:15px;" align = "right">
 
 
-*   [Step-by-step onboard guide to set up Parents Gateway](https://newtownpri-moe-edu-sg-admin.cwp.sg/qql/slot/u556/For%20Parents/PG/PG%20Onboarding%20Guide.pdf)
-*   [Quick Start guide on using PG app](https://newtownpri-moe-edu-sg-admin.cwp.sg/qql/slot/u556/For%20Parents/PG/PG-Quick-start-Guide-for-Parents.pdf)
+*   [Step-by-step onboard guide to set up Parents Gateway]([](/files/PG%20Onboarding%20Guide.pdf))
+*   [Quick Start guide on using PG app]([](/files/PG-Quick-start-Guide-for-Parents.pdf))
 *   [Frequently-Asked Questions (FAQ)](https://pg.moe.edu.sg/faq)
 
 To login, you will be required to use your SingPass. If you do not have a SingPass account, you may register for it [here](https://www.singpass.gov.sg/singpass/register/instructions).
