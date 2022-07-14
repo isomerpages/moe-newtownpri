@@ -54,7 +54,7 @@ description: ""
 
   
 
-*   [MySkillsFuture (Primary)](https://www.myskillsfuture.sg/content/student/en/primary.html)
+*   [MySkillsFuture (Primary)](https://www.myskillsfuture.sg/content/student/en/primary.html) (Broken link)
 *   [Total Defence](https://www.totaldefence.sg/)
 *   [Media-WISE - A SMART guide for YOUths](https://www.betterinternet.sg/)
 *   [National Library Board (NLB)](https://www.nlb.gov.sg/)
