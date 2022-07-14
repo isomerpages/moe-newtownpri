@@ -28,8 +28,6 @@ description: ""
 **<font size=5>New Town Pri on TV</font>**
 
 
-
-
 <img src="/images/Accolades/News%202.png"  
      style="width:40%">
 
@@ -45,7 +43,12 @@ description: ""
 
 <img src="/images/Accolades/News%204.jpg"  
      style="width:40%">
+
+<center>
+	
 [Language Learning Blends with Charity and Entrepreneurship in New Town Pri](https://schoolbag.edu.sg/story/language-learning-blends-with-charity-and-entrepreneurship-in-new-town-primary)
+
+</center>
 
 <img src="/images/Accolades/News%205.jpg"  
      style="width:40%">
