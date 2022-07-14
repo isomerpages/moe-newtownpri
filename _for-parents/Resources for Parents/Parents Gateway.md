@@ -25,7 +25,7 @@ Parent's Gateway is available as a mobile app on [Google Play store](https://p
 
 Resources
 ---------
-<img src="/images/Parents%20Gateway%20GIF.gif" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/Parents%20Gateway%20GIF.gif" style="width:183px;height:350px;margin-left:15px;" align = "right">
 
 
 *   [Step-by-step onboard guide to set up Parents Gateway](https://newtownpri-moe-edu-sg-admin.cwp.sg/qql/slot/u556/For%20Parents/PG/PG%20Onboarding%20Guide.pdf)
