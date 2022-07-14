@@ -22,8 +22,8 @@ description: ""
 *   [Subject Based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 *   Mother Tongue Languages
 
-*   [Learning MTL at Primary Schools](https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/learning-in-school)
-*   [MTL Exemption](https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/exemption)
+     *   [Learning MTL at Primary Schools](https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/learning-in-school)
+     *   [MTL Exemption](https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/exemption)
 
 *   [P1 Registration](https://www.moe.gov.sg/primary/p1-registration)
 *   [Financial Assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
