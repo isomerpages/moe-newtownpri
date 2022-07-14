@@ -29,8 +29,6 @@ MOE Useful Links
 
 
 
-![](https://newtownpri-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)
-
 Singapore Examinations and Assessment Board (SEAB) Links
 --------------------------------------------------------
 
@@ -38,21 +36,13 @@ Singapore Examinations and Assessment Board (SEAB) Links
 *   [Approved Calculator List](https://www.seab.gov.sg/home/examinations/approved-calculators)
 *   [Approved Dictionary List](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
 
-  
 
-![](https://newtownpri-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)
 
 School Partners Links
 ---------------------
 
 *   [NTPS Parents Support Group (PSG)](https://psgntps.wix.com/psg-ntps)
 
-  
-
-
-![](https://newtownpri-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)
-
-  
   
 
 Parenting Resources
