@@ -24,3 +24,5 @@ Click [**here**](https://moe-newtownpri-staging.netlify.app/accolades/bouquets/
 ![](/images/Accolades/Bouquets%203.png)
 ![](/images/Accolades/Bouquets%204.png)
 ![](/images/Accolades/Bouquets%205.png)
+
+More photos to be inserted
