@@ -32,7 +32,7 @@ Badminton promotes an active and healthy lifestyle amongst the members. The obje
 **<font size=5>Basketball</font>**
 
 <img src="/images/School%20Programmes/Physical%20Sports%202.png"  
-     style="width:50%">
+     style="width:30%">
 
 Basketball is one of the most popular, fast-paced sports in the world which requires players to be fit and disciplined. Opportunities are provided for members to develop fundamental movement skills of basketball and instil values such as self-discipline, resilience, team spirit and sportsmanship. Members who show potential or exhibit positive aptitude will be able to represent the school in competitions.  
   
