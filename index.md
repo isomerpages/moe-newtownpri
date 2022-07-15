@@ -14,8 +14,8 @@ sections:
           url: https://newtownpri.moe.edu.sg/for-parents/school-notifications
         - title: For Parents
           description: ""
-          url: https://newtownpri.moe.edu.sg/for-parents/school-notifications
+          url: /for-parents
         - title: Quick Links
           description: ""
-          url: https://sites.google.com/moe.edu.sg/newtowne-openhouse/home
+          url: /quick-links
 ---
