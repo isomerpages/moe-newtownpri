@@ -12,7 +12,7 @@ description: ""
 
 _**Find answers to Frequently Asked Questions.**_
 
-**. What should I do if I need to contact my child urgently while he/she is in school?** 
+**1. What should I do if I need to contact my child urgently while he/she is in school?** 
 
     You may call the school office at 6474 8805.
 
