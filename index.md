@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://newtownpri.moe.edu.sg/for-parents/school-notifications
+          url: https://moe-newtownpri-staging.netlify.app/for-parents/school-notifications
         - title: For Parents
           description: ""
           url: /for-parents
