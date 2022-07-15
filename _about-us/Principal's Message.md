@@ -39,11 +39,11 @@ New Town is also committed to deepen our students’ learning experiences in the
 
   
 
-Our school’s [Learning for Life Programme](https://newtownpri.moe.edu.sg/school-programmes/learning-for-life-programme-llp) is in the area of Student Leadership. Anchored by the school values, this distinctive programme aims to develop in our students the necessary life skills and attitudes that will prepare them to be well-poised to meet current and future challenges. The school has adopted the “The Leader in Me – 7 Habits of Highly Effective Students” for our student leadership development. The principles in the 7 Habits equip students with personal and team leadership skills. 
+Our school’s [Learning for Life Programme](https://moe-newtownpri-staging.netlify.app/school-programmes/learning-for-life-programme-llp) is in the area of Student Leadership. Anchored by the school values, this distinctive programme aims to develop in our students the necessary life skills and attitudes that will prepare them to be well-poised to meet current and future challenges. The school has adopted the “The Leader in Me – 7 Habits of Highly Effective Students” for our student leadership development. The principles in the 7 Habits equip students with personal and team leadership skills. 
 
   
 
-The school’s Applied Learning Programme, [Citizen scieNcE@New Town](https://newtownpri.moe.edu.sg/school-programmes/applied-learning-programme-alp) is an interdisciplinary programme with Science and Social Studies to empower our students to play their part as active contributors in their community. The ALP aims to heighten the students’ awareness of the role of Science in addressing issues of national interest, such as on energy, food and water security. 
+The school’s Applied Learning Programme, [Citizen scieNcE@New Town](https://moe-newtownpri-staging.netlify.app/school-programmes/applied-learning-programme-alp) is an interdisciplinary programme with Science and Social Studies to empower our students to play their part as active contributors in their community. The ALP aims to heighten the students’ awareness of the role of Science in addressing issues of national interest, such as on energy, food and water security. 
 
   
 
