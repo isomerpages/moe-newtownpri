@@ -13,6 +13,6 @@ description: ""
 *   [New Town e-Open House](https://sites.google.com/moe.edu.sg/newtowne-openhouse/home) NEW
 *   [School Videos](https://moe-newtownpri-staging.netlify.app/accolades/school-videos) NEW
 *   [Student Learning Space](https://learning.moe.edu.sg/)
-*   [School Wait List Form](https://newtownpri.moe.edu.sg/qql/slot/u556/For%20Parents/New%20Town%20Primary%20School%20Wait%20List%20Form.pdf)
+*   [School Wait List Form]([](/files/New%20Town%20Primary%20School%20Wait%20List%20Form.pdf))
 *   [Student Care Centre](https://moe-newtownpri-staging.netlify.app/for-parents/resources-for-parents/student-care-centre)
 *   [ICT SLS Helpdesk](https://sites.google.com/moe.edu.sg/ntps-ict/ntps-ict/school-based-support)
