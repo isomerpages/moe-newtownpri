@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/New Town Homepage GIF.gif
+      background: /images/New Town Homepage GIF 2.gif
       key_highlights:
         - title: Announcements
           description: ""
