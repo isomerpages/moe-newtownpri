@@ -9,6 +9,7 @@ description: ""
 <br><br><br><br><br><br>
 
 **<font size="6">FAQ</font>**
+
 _**Find answers to Frequently Asked Questions.**_
 
 **. What should I do if I need to contact my child urgently while he/she is in school?** 
