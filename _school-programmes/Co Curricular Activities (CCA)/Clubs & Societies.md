@@ -21,7 +21,7 @@ Clubs & Societies CCAs allow students to explore and extend their interests in w
 
 
 
-**<font size=5>Art and Crafts</font>**
+**<font size=5>Art and Crafts</font>****<a name="Art and Crafts"></a>**
 <img src="/images/School%20Programmes/Clubs%20&%20Societies%201.jpg"  
      style="width:50%">
 
@@ -38,7 +38,7 @@ The Art & Crafts club caters to students who are passionate about visual art and
 
 
 
-**<font size=5>Speech & Drama</font>**
+**<font size=5>Speech & Drama</font>****<a name="Speech & Drama"></a>**
 <img src="/images/School%20Programmes/Clubs%20&%20Societies%202.png"  
      style="width:50%">
 
@@ -53,7 +53,7 @@ Speech & Drama club is a fun and activity-based CCA that focuses on developing t
 | Mdm Nur Mashitah | [nur\_mashitah\_hosaini@schools.gov.sg](mailto:nur_mashitah_hosaini@schools.gov.sg) |
 | Mr Sim Liyang | [sim\_liyang@](mailto:syarinah_sani@moe.edu.sg)schools.gov.sg |
 
-**<font size=5>Infocomm Technology (Media Production)</font>**
+**<font size=5>Infocomm Technology (Media Production)</font>****<a name="Infocomm Technology (Media Production)"></a>**
 <img src="/images/School%20Programmes/Clubs%20&%20Societies%203.jpg"  
      style="width:50%">
 
@@ -69,7 +69,7 @@ The Infocomm Technology (Media Production) club caters to students who are passi
 
 
 
-**<font size=5>Robotics Club</font>**
+**<font size=5>Robotics Club</font>****<a name="Robotics Club"></a>**
 <img src="/images/School%20Programmes/Clubs%20&%20Societies%204.png"  
      style="width:50%">
 
