@@ -15,8 +15,17 @@ description: ""
 Staff List Quicklinks to be inserted here
 
 [School Leaders](#School Leaders)
-
-
+[Key Personnel](#Key Personnel)
+[Teacher Leaders](#Teacher Leaders)
+[Primary 1 Form Teachers](#Primary 1 Form Teachers)
+[Primary 2 Form Teachers](#Primary 2 Form Teachers)
+[Primary 3 Form Teachers](#Primary 3 Form Teachers)
+[Primary 4 Form Teachers](#Primary 4 Form Teachers)
+[Primary 5 Form Teachers](#Primary 5 Form Teachers)
+[Primary 6 Form Teachers](#Primary 6 Form Teachers)
+[Mother Tongue Teachers](#Mother Tongue Teachers)
+[Learning Support Teachers](#Learning Support Teachers)
+[AED & Admin Support Staff](#Admin & Operations Staff)
 
 
 **<font size=5>School Leaders</font>****<a name="School Leaders"></a>**
