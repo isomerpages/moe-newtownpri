@@ -13,7 +13,13 @@ third_nav_title: Co Curricular Activities (CCA)
 
 Building upon the Physical Education (PE) programme to build a strong foundation for the development of broad-based physical competencies and opportunities for recreational participation, Physical Sports CCAs caters to students with interest at both recreational and competitive levels. Physical Sports CCAs develop robustness, fair play and team spirit in students as they become active and physically competent individuals.
 
-**<font size=5>Badminton</font>**
+[Badminton](#Badminton)
+[Basketball](#Basketball)
+[Football](#Football)
+[Netball](#Netball)
+
+
+**<font size=5>Badminton</font>****<a name="Badminton"></a>**
 
 <img src="/images/School%20Programmes/Physical%20Sports%201.jpg"  
      style="width:50%">
@@ -29,7 +35,7 @@ Badminton promotes an active and healthy lifestyle amongst the members. The obje
 | Mr Jason Tan | [tan\_swee\_chye\_jason@schools.gov.sg](mailto:tan_swee_chye_jason@schools.gov.sg) |
 | Mdm Lin Zhihui | [lin\_zhihui@schools.gov.sg](mailto:lin_zhihui@schools.gov.sg) |
 
-**<font size=5>Basketball</font>**
+**<font size=5>Basketball</font>****<a name="Basketball"></a>**
 
 <img src="/images/School%20Programmes/Physical%20Sports%202.png"  
      style="width:30%">
@@ -44,7 +50,7 @@ Basketball is one of the most popular, fast-paced sports in the world which requ
 | Mr Loh Zhi Hao | [loh\_zhi\_hao@schools.gov.sg](mailto:loh_zhi_hao@schools.gov.sg)  |
 | Mr Wang Jianbo | [wang\_jianbo@schools.gov.sg](mailto:wang_jianbo@schools.gov.sg) |
 
-**<font size=5>Football</font>**
+**<font size=5>Football</font>****<a name="Football"></a>**
 
 <img src="/images/School%20Programmes/Physical%20Sports%203.png"  
      style="width:50%">
@@ -62,7 +68,7 @@ Football is a popular outdoor sport that provides excitement and fun for both th
 | Mr Tey Kam Yam | [tey\_kam\_yam@schools.gov.sg](mailto:tey_kam_yam@schools.gov.sg) |
 
 
-**<font size=5>Netball</font>**
+**<font size=5>Netball</font>****<a name="Netball"></a>**
 
 <img src="/images/School%20Programmes/Physical%20Sports%204.png"  
      style="width:40%">
