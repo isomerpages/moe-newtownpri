@@ -13,6 +13,9 @@ third_nav_title: Co Curricular Activities (CCA)
 
 Uniformed Group CCAs aim to make good citizens of students by providing authentic learning experiences which will help them develop important qualities such as self-reliance, leadership, resilience, discipline, teamwork and a spirit of service to others.
 
+[Girl Guides (Brownies)](#Girl Guides (Brownies))
+[Red Cross (Youth)](#Red Cross (Youth))
+
 
 **<font size=5>Girl Guides (Brownies)</font>**
 
