@@ -17,7 +17,7 @@ Uniformed Group CCAs aim to make good citizens of students by providing authenti
 [Red Cross (Youth)](#Red Cross (Youth))
 
 
-**<font size=5>Girl Guides (Brownies)</font>**
+**<font size=5>Girl Guides (Brownies)</font>****<a name="Girl Guides (Brownies)"></a>**
 
 <img src="/images/School%20Programmes/UG%201.png"  
      style="width:40%">
@@ -31,7 +31,7 @@ Brownies are part of the Guiding movement where girls develop their fullest pote
 | Mdm Karen Lee | [tan\_yam\_chua@schools.gov.sg](mailto:tan_yam_chua@schools.gov.sg) |
 | Ms Wong Wei Teng | [wong\_wei\_teng@school.gov.sg](mailto:wong_wei_teng@school.gov.sg) |
 
-**<font size=5>Red Cross (Youth)</font>**
+**<font size=5>Red Cross (Youth)</font>****<a name="Red Cross (Youth)"></a>**
 
 <img src="/images/School%20Programmes/UG%202.png"  
      style="width:40%">
