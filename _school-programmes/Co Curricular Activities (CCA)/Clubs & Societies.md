@@ -14,7 +14,7 @@ third_nav_title: Co Curricular Activities (CCA)
 Clubs & Societies CCAs allow students to explore and extend their interests in wide-ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.
 
 
-[Art and Crafts](#Arts and Crafts) <br>
+[Art and Crafts](#Art and Crafts) <br>
 [Speech & Drama](#Speech & Drama) <br>
 [Infocomm Technology (Media Production)](#Infocomm Technology (Media Production)) <br>
 [Robotics Club](#Robotics Club)
