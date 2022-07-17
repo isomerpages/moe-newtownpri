@@ -13,8 +13,14 @@ third_nav_title: Co Curricular Activities (CCA)
 
 Performing Arts instill in students a sense of graciousness and an appreciation for the rich and heritage of a multi-racial society. Performing Arts CCAs provide opportunities for students to develop a lifelong passion for the arts. They also nurture students’ creative expression, enrich social, cultural and historical awareness, and build character.
 
+[Brass Band](#Brass Band) <br>
+[Choir](#Choir) <br>
+[Chinese Dance](#Chinese Dance) <br>
+[Modern Dance](#Chinese Dance) <br>
+[Malay Dance](#Malay Dance)
 
-**<font size=5>Brass Band</font>**
+
+**<font size=5>Brass Band</font>****<a name="Brass Band"></a>**
 
 <img src="/images/School%20Programmes/Performing%20Arts%201.png"  
      style="width:50%">
@@ -32,7 +38,7 @@ Being in the brass band allows one to develop important values such as dedicatio
 | Ms Jessica Sum | [sum\_shuyi\_jessica@moe.edu.sg](mailto:sum_shuyi_jessica@moe.edu.sg) |
 
 
-**<font size=5>Choir</font>**
+**<font size=5>Choir</font>****<a name="Choir"></a>**
 
 <img src="/images/School%20Programmes/Performing%20Arts%202.png"  
      style="width:50%">
@@ -50,7 +56,7 @@ The voice is a child’s first instrument and it is the most primitive medium us
 
 
 
-**<font size=5>Chinese Dance</font>**
+**<font size=5>Chinese Dance</font>****<a name="Chinese Dance"></a>**
 
 <img src="/images/School%20Programmes/Performing%20Arts%203.png"  
      style="width:50%">
@@ -67,7 +73,7 @@ The voice is a child’s first instrument and it is the most primitive medium us
 | Mdm Koh Choon Hia | [koh\_choon\_hia@schools.gov.sg](mailto:koh_choon_hia@schools.gov.sg) |
 
 
-**<font size=5>Modern Dance</font>**
+**<font size=5>Modern Dance</font>****<a name="Modern Dance"></a>**
 
 <img src="/images/School%20Programmes/Performing%20Arts%204.png"  
      style="width:50%">
@@ -85,7 +91,7 @@ Modern Dance supports its members in their pursuits to be better dancers. Member
 | Ms Rachel Teo | [teo\_kar\_hwee\_rachel@moe.edu.sg](mailto:teo_kar_hwee_rachel@moe.edu.sg) |
 
 
-**<font size=5>Malay Dance</font>**
+**<font size=5>Malay Dance</font>****<a name="Malay Dance"></a>**
 
 <img src="/images/School%20Programmes/Performing%20Arts%205.png"  
      style="width:50%">
