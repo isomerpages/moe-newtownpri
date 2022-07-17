@@ -13,9 +13,9 @@ third_nav_title: Co Curricular Activities (CCA)
 
 Building upon the Physical Education (PE) programme to build a strong foundation for the development of broad-based physical competencies and opportunities for recreational participation, Physical Sports CCAs caters to students with interest at both recreational and competitive levels. Physical Sports CCAs develop robustness, fair play and team spirit in students as they become active and physically competent individuals.
 
-[Badminton](#Badminton)
-[Basketball](#Basketball)
-[Football](#Football)
+[Badminton](#Badminton) <br>
+[Basketball](#Basketball) <br>
+[Football](#Football) <br>
 [Netball](#Netball)
 
 
