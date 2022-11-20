@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - e Open House.md
       - Principal's Message.md
       - Strategic Map.md
       - School History.md
