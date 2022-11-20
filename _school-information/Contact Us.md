@@ -3,7 +3,6 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-
 <img src="/images/logosub.png" style="width:400px;height:150px;margin-left:0px;" align="left">
 
 <img src="/images/Header%20GIF.gif" style="width:380px;height:150px;margin-right:60px;" align="right">
@@ -11,14 +10,16 @@ description: ""
 
 **<font size="6">Contact Us</font>**
 
-**<font size=5>Location</font>**
+**<font size=5>School Location</font>**
 
 
-Insert OneMap here
+![](https://lh5.googleusercontent.com/FcXE0P5zF4ke8RiZTi2WZKflmh37Y7U-ViIhTTu68QMpZ5O_I8sFZb7B5EE8NNpbEO99ikYBRPJGrZ0iwuROoczOc2uLaGAimieztbTZmQa98y0QICBZymfzx5p2PzMx9nTsOhAyvmSs1DWm2qkjRciR6l50TSLfBcLaPJRzica3nBJTQ04x75-cZAPfNA)
 
-New Town Primary School&nbsp;
 
-300 Tanglin Halt Road&nbsp;
+
+New Town Primary School 
+
+300 Tanglin Halt Road 
 
 Singapore 148812
 
@@ -28,7 +29,7 @@ Tel : 6474 8805
 
 Fax : 6474 1249
 
-Email :&nbsp;[ntps@moe.edu.sg](mailto:ntps@moe.edu.sg)
+Email : [ntps@moe.edu.sg](mailto:ntps@moe.edu.sg)
 
 _Click&nbsp;[here](https://moe-newtownpri-staging.netlify.app/about-us/school-staff)&nbsp;for School Staff email._
 
