@@ -2,5 +2,6 @@ collections:
   school-information:
     output: true
     order:
+      - School Vision and Mission.md
       - FAQ.md
       - Contact Us.md
