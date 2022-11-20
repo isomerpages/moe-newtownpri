@@ -2,4 +2,5 @@ collections:
   school-information:
     output: true
     order:
+      - FAQ.md
       - Contact Us.md
