@@ -2,6 +2,7 @@ collections:
   welcome-to-new-town:
     output: true
     order:
+      - Vision, Mission, Values.md
       - Principal's Message.md
       - Strategic Map.md
       - Get to Know Us!/.keep
