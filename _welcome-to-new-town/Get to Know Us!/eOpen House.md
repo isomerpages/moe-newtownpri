@@ -4,7 +4,7 @@ permalink: /about-us/eopen-house/
 description: ""
 third_nav_title: Get to Know Us!
 ---
-**
+![](https://lh6.googleusercontent.com/7ZHmYNyTy1NrTOKwWv2v7HyDEp6ECeyV6iFcovgb_Dtl2Od0c23XaT0pzV-Cgx1jM0zRM5MsNB2mxDIYnF8ZUQ20ZF37jw6c0AKXmYGFDQrgpDZ5qhzdL5RvlGiod4sTFLK2ZOjnGbFN7Zy2KDhpLCuMHditMPR7St7SPJqNBNKnq1iHg-seh8PvbXs3zA)
 
 We are thrilled to share that the 2022 e-Open House for New Town Primary School was successfully held in July. The theme, RISE with Us, was chosen as the Open House showcased how the New Town Experience inculcates in our students our school values:, Resilience Our Mindset, Integrity Our Foundation, Service with a Heart, and Excellence Our Quest. 
 
