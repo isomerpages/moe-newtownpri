@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - Vision, Mission, Values.md
       - School Identity.md
       - School Hours.md
       - School Rules.md
