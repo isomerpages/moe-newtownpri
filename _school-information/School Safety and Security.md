@@ -43,4 +43,4 @@ For safety and security reasons and to minimise disruption during lessons, paren
 
 No parents/guardians, relatives or any members of the public are allowed to remain in the school at all times without prior approval from the school.
 
-Unless authorised, visitors are not allowed to park their vehicles in the school compound.**
+Unless authorised, visitors are not allowed to park their vehicles in the school compound.
