@@ -289,5 +289,3 @@ All students are required to report to school by **7.30 am** for the flag-raisin
   line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#222222">1.20 pm - 2.10 pm</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
-
- |
