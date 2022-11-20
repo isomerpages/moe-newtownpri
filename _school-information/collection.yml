@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Safety.md
       - School Rules.md
       - School Identity.md
       - School Vision and Mission.md
