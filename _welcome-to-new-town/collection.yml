@@ -2,6 +2,7 @@ collections:
   welcome-to-new-town:
     output: true
     order:
+      - Get to Know Us!/.keep
       - Principal's Message.md
       - Strategic Map.md
       - School History.md
