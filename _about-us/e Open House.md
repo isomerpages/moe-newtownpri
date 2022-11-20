@@ -11,8 +11,7 @@ We are thrilled to share that the 2022 e-Open House for New Town Primary School 
 
 Our prospective parents caught a good glimpse of our New Town Experience and you can, too, in our video below.
 
-[undefined](https://youtu.be/TeFgkG_aK6g)
-
+[eOpen House 2022](https://youtu.be/TeFgkG_aK6g)
 
 Areas covered at the e-Open House include:
 
