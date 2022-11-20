@@ -14,7 +14,6 @@ description: ""
 <img src="/images/Crest%202020.png"  
      style="width:25%">
 
-**
 
 The lion represents Singapore, where we as citizens continually serve.
 
@@ -22,7 +21,6 @@ The flame in front of the lion signifies the philosophy of the school in inculca
 
 The open book stands for knowledge and spirit of learning.
 
-**
 
 **<font size=5>School Motto</font>**
 
