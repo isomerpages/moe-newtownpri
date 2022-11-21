@@ -2,6 +2,7 @@ collections:
   new-town-experience:
     output: true
     order:
+      - Mother Tongue Languages/Mother Tongue Languages.md
       - Mother Tongue Languages/Mother Tongue Tamil.md
       - Mother Tongue Languages/Mother Tongue Malay.md
       - Mother Tongue Languages/Mother Tongue Chinese.md
