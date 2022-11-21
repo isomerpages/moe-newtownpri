@@ -1,5 +1,4 @@
 collections:
   school-programmes:
     output: true
-    order:
-      - Programme for Active Learning (PAL).md
+    order: []
