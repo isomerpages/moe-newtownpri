@@ -2,7 +2,6 @@ collections:
   school-programmes:
     output: true
     order:
-      - Co Curricular Activities (CCA)/.keep
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Programme for Active Learning (PAL).md
