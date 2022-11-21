@@ -4,48 +4,37 @@ permalink: /school-programmes/learning-for-life-programme-llp/
 description: ""
 third_nav_title: School Programmes
 ---
+**LLP Goals/Framework**
 
+*A Leader in Every Child*
 
-<img src="/images/logosub.png" style="width:400px;height:150px;margin-left:0px;" align = "left">
+The Learning for Life Programme (LLP) in student leadership is one of the school’s key platforms to provide our students with varied and meaningful learning experiences. The school has adopted the Leader in Me Framework in 2020 to develop our New Towners into anchored leaders who serve the school and community. The evidence-based framework, originally developed by Dr. Stephen Covey, explicitly teaches our students the 7 Habits to empower them with the leadership and life skills they need to thrive in the 21st Century.
 
-<img src="/images/Header%20GIF.gif" style="width:380px;height:150px;margin-right:60px;" align = "right">
-<br><br><br><br><br><br>
+![](/images/7HabitsTree.png)
 
-**<font size=6>Learning for Life Programme (LLP)</font>**
+**Tier 1: Equipping our Student Leaders**
 
-**<font size=5>A Leader in Every Child</font>**
+The school’s 3-tiered leadership development programme is designed to cater to the interests, talents and aptitudes of all New Towners. By helping our students to discover and develop their unique strengths, interests and competencies through customised leadership platforms and opportunities for meaningful learning experiences, they will be able to make a positive difference at home, in school and the community.
 
-The Learning for Life Programme (LLP) in student leadership is one of the school’s key platforms to provide our students with varied and meaningful learning experiences. The school has adopted the Leader in Me Framework in 2020 to develop our young student leaders. The evidence-based framework, originally developed by Dr. Stephen Covey, will explicitly teach our students the 7 Habits to empower them with the leadership and life skills they need to thrive in the 21st Century.
+![](/images/TieredStudentLeadershipDevelopment.png)
 
-<img src="/images/School%20Programmes/LLP%201.jpeg"  
-     style="width:40%">
+Anchored on the school’s values RISE, the focus at Tier 1 is to equip New Towners with the leadership paradigms of effective student leadership, As part of the school’s Start-it-Right programme in Term 1, students work with their Form Teachers to co-create the physical and emotional environment of a leadership classroom. They also create a Class Mission Statement for the class to work together effectively for the year.
 
-The school’s 3-tiered leadership development programme is designed to cater to the differing interests, talents and aptitudes of all student leaders. By helping our students to discover and develop their unique strengths, interests and competencies through customised leadership platforms and opportunities for meaningful learning experiences, they will be able to make a positive difference in their sphere of influence.
+![](/images/Tier1_%20Picture1%20.png)
+![](/images/Tier%201_Picture%202%20.png)
 
-<img src="/images/School%20Programmes/LLP%202.png"  
-     style="width:80%">
+**Tier 2: Enriching our Student Leaders**
 
-**<font size=5>Tier 1: Equipping our Student Leaders</font>**
+Our students embark on the LLP’s signature programme – The Leader in Me at Primary 4 and Primary 5. Through class discussions and hands-on activities, they learn to apply the 7 Habits in their Values-in-Action \[VIA\] projects and be active contributors in the school and community.
 
-The focus at Tier 1 is to develop students who are strongly rooted in the school values and are thus, committed to make a positive difference at home, in school or the community. The Values-in-Action (VIA) project is a platform for students to take greater ownership in identifying and empathising with home (P1-P2), school (P3-P4) and community issues (P5-P6), and initiating action among their peers to make a positive difference. Students use the Heart-Head-Hands Approach to empathise with problems, brainstorm for ideas and work together with their peers to initiate action or spread awareness of community issues close to their hearts.
+To equip our Prefects and CCA Leaders with the skills and leadership competencies to develop them in their leadership roles, they attend various training workshops on peer support, public speaking, and Habit 8 Find Your Voice. At school events, our student leaders host and organise activities, and play the important role of school ambassadors to share with visitors about our exciting New Town family experience. They also lead in student-initiated projects to raise awareness about community issues close to their hearts, and rally their peers to play an active role in making a positive impact on New Town and the community.
 
-<img src="/images/School%20Programmes/LLP%203.png"  
-     style="width:80%">
+![](/images/Tier%202_Picture%201.jpeg)
+![](/images/Tier%202_Picture%202.jpeg)
 
-**<font size=5>Tier 2: Engaging our Student Leaders</font>**
+**Tier 3: Empowering our Student Leaders**
 
-Our students embark on the LLP’s signature programme – The Leader in Me at Primary 4 and Primary 5. Through class discussions and hands-on activities, they learn to apply the 7 Habits in to Values-in-Action \[VIA\] projects and be active contributors in the school and community. 
+The Prefect EXCO members play the important role of leading their peers in their respective committees/CCAs, and mentoring their junior leaders. They also work closely together, under the guidance of the LLP teachers, to also lead in student-initiated projects to raise awareness about community issues close to their hearts, and rally their peers to play an active role in making a positive impact on New Town and the community.
 
-  
+![](/images/Tier%203%20Picture%201.jpeg)
 
-To equip our Tier 2 student leaders with the skills and leadership competencies to develop them in their specialised leadership roles, they attend various training workshops on public speaking, circle time facilitation skills and conflict resolution.  At school events, such as our school outreach, these Tier 2 student leaders take centrestage and play the important role of school ambassadors to share with visitors about our exciting New Town family experience and joy of learning at the school. At school celebrations, they also take the lead in hosting concerts and organising activities for their peers.
-
-<img src="/images/School%20Programmes/LLP%204.png"  
-     style="width:80%">
-
-**<font size=5>Tier 3: Enriching our Student Leaders</font>**
-
-The EXCO members of the prefects and CCA leaders play the important role of leading their peers in their respective committees/CCAs, and mentoring their junior leaders. They also work closely together, under the guidance of the LLP teachers, to identify school and community issues close to their hearts and initiate school improvement projects and partner various community partners to organise outreach activities.
-
-<img src="/images/School%20Programmes/LLP%205.png"  
-     style="width:80%">
