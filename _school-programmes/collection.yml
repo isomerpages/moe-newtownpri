@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Co Curricular Activities (CCA)/.keep
-      - Co Curricular Activities (CCA)/Physical Sports.md
       - Co Curricular Activities (CCA)/Uniformed Group.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
