@@ -2,6 +2,5 @@ collections:
   school-programmes:
     output: true
     order:
-      - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Programme for Active Learning (PAL).md
