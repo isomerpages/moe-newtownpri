@@ -23,3 +23,12 @@ P2 students are exposed to the concepts of water, food and energy security throu
 From P3 to P5, students deepen their learning about food, energy and water security in an inquiry-based approach through four phases: Experience, Investigate, Create and Showcase. Authentic experiences in the ALP allow our students to connect what they have learnt in Science to make sense of NE issues. They then apply critical thinking and communication skills to advocate for these NE-related causes.
 
 ![](/images/Impossiblemeat1.png)
+P2 students sampling Impossible meat as part of their P2 enrichment module
+
+![](/images/P3ALP1.jpeg)
+![](/images/P3ALP2.jpeg)
+![](/images/P3ALP3.jpeg)
+P3 students going to a high-tech indoor urban farm to harvest vegetables
+
+
+
