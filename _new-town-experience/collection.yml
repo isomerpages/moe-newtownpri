@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Programmes/.keep
-      - Programme for Active Learning (PAL).md
       - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
       - English.md
