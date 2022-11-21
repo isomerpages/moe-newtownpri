@@ -2,6 +2,7 @@ collections:
   new-town-experience:
     output: true
     order:
+      - School Programmes/Project Enable.md
       - School Programmes/Applied Learning Programme (ALP).md
       - School Programmes/Learning for Life Programme (LLP).md
       - School Programmes/Programme for Active Learning (PAL).md
