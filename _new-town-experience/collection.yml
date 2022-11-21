@@ -2,11 +2,6 @@ collections:
   new-town-experience:
     output: true
     order:
-      - Mother Tongue Languages/.keep
-      - Mother Tongue Languages/Mother Tongue Languages.md
-      - Mother Tongue Languages/Chinese Language.md
-      - Mother Tongue Languages/Malay Language.md
-      - Mother Tongue Languages/Tamil Language.md
       - School Programmes/.keep
       - School Programmes/Applied Learning Programme (ALP).md
       - School Programmes/Learning for Life Programme (LLP).md
@@ -19,6 +14,11 @@ collections:
       - Mathematics/Inquiry based Learning in Mathematics.md
       - Mathematics/Excellence 2000 (E2K) Mathematics (P4 to P5).md
       - Mathematics/Math Olympiad Training and Competitions.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Mother Tongue Languages.md
+      - Mother Tongue Languages/Chinese Language.md
+      - Mother Tongue Languages/Malay Language.md
+      - Mother Tongue Languages/Tamil Language.md
       - Science/.keep
       - Science/Science.md
       - Science/Excellence 2000 (E2K) Science Programme (P4 to P5).md
