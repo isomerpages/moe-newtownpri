@@ -2,11 +2,6 @@ collections:
   new-town-experience:
     output: true
     order:
-      - Science/.keep
-      - Science/Science.md
-      - Science/Excellence 2000 (E2K) Science Programme (P4 to P5).md
-      - Science/Singapore Science Buskers (P3 to P4).md
-      - Science/Learning beyond the classroom.md
       - School Programmes/.keep
       - School Programmes/Applied Learning Programme (ALP).md
       - School Programmes/Learning for Life Programme (LLP).md
@@ -19,6 +14,11 @@ collections:
       - Mathematics/Inquiry based Learning in Mathematics.md
       - Mathematics/Excellence 2000 (E2K) Mathematics (P4 to P5).md
       - Mathematics/Math Olympiad Training and Competitions.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Excellence 2000 (E2K) Science Programme (P4 to P5).md
+      - Science/Singapore Science Buskers (P3 to P4).md
+      - Science/Learning beyond the classroom.md
       - Mother Tongue Chinese.md
       - Mother Tongue Malay.md
       - Mother Tongue Tamil.md
