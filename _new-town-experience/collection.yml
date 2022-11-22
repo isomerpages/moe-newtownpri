@@ -2,6 +2,7 @@ collections:
   new-town-experience:
     output: true
     order:
+      - Art and Music/AMIS Enrichment Modules (P3 to P5).md
       - Art and Music/Theatre Experience Programme (P4).md
       - Art and Music/New Town Artists (NTA) (P1 to P6).md
       - Art and Music/Assembly Programme (P1 to P6).md
