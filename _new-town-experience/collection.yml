@@ -2,13 +2,13 @@ collections:
   new-town-experience:
     output: true
     order:
-      - Art and Music/Resources.md
-      - Art and Music/AMIS Enrichment Modules (P3 to P5).md
-      - Art and Music/Theatre Experience Programme (P4).md
-      - Art and Music/New Town Artists (NTA) (P1 to P6).md
-      - Art and Music/Assembly Programme (P1 to P6).md
-      - Art and Music/Art and Music.md
       - Art and Music/.keep
+      - Art and Music/Art and Music.md
+      - Art and Music/Assembly Programme (P1 to P6).md
+      - Art and Music/New Town Artists (NTA) (P1 to P6).md
+      - Art and Music/Theatre Experience Programme (P4).md
+      - Art and Music/AMIS Enrichment Modules (P3 to P5).md
+      - Art and Music/Resources.md
       - Physical and Health Education/.keep
       - Physical and Health Education/Physical Education.md
       - Physical and Health Education/Sports Day (P1 to P3).md
