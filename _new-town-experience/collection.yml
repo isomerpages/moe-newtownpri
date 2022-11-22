@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - ICT and MRL.md
-      - ICT/.keep
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/CCA.md
       - Co Curricular Activities (CCA)/Clubs and Societies.md
