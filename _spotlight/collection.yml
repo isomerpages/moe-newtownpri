@@ -1,5 +1,4 @@
 collections:
   spotlight:
     output: true
-    order:
-      - Bouquets/.keep
+    order: []
