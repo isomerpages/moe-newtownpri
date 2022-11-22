@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - Form Teachers.md
       - School Management Committee.md
       - School Staff.md
