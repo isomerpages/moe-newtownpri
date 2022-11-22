@@ -2,6 +2,7 @@ collections:
   new-town-experience:
     output: true
     order:
+      - Physical and Health Education/Physical Education.md
       - Physical and Health Education/.keep
       - School Programmes/.keep
       - School Programmes/Applied Learning Programme (ALP).md
