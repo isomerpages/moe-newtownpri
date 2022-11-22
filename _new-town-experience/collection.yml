@@ -2,6 +2,7 @@ collections:
   new-town-experience:
     output: true
     order:
+      - Art and Music/New Town Artists (NTA) (P1 to P6).md
       - Art and Music/Assembly Programme (P1 to P6).md
       - Art and Music/Art and Music.md
       - Art and Music/.keep
