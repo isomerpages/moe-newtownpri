@@ -2,13 +2,13 @@ collections:
   new-town-experience:
     output: true
     order:
-      - Physical and Health Education/Camp GRIT (P6).md
-      - Physical and Health Education/Camp Endeavour (P5).md
-      - Physical and Health Education/Sports Education Programmes (P3 to P4).md
-      - Physical and Health Education/Sports Orama (P4 to P6).md
-      - Physical and Health Education/Sports Day (P1 to P3).md
-      - Physical and Health Education/Physical Education.md
       - Physical and Health Education/.keep
+      - Physical and Health Education/Physical Education.md
+      - Physical and Health Education/Sports Day (P1 to P3).md
+      - Physical and Health Education/Sports Orama (P4 to P6).md
+      - Physical and Health Education/Sports Education Programmes (P3 to P4).md
+      - Physical and Health Education/Camp Endeavour (P5).md
+      - Physical and Health Education/Camp GRIT (P6).md
       - School Programmes/.keep
       - School Programmes/Applied Learning Programme (ALP).md
       - School Programmes/Learning for Life Programme (LLP).md
