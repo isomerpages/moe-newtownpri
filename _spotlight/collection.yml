@@ -1,4 +1,5 @@
 collections:
   spotlight:
     output: true
-    order: []
+    order:
+      - Parent Testimonials.md
