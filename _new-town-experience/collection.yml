@@ -2,6 +2,7 @@ collections:
   new-town-experience:
     output: true
     order:
+      - Art and Music/.keep
       - Physical and Health Education/.keep
       - Physical and Health Education/Physical Education.md
       - Physical and Health Education/Sports Day (P1 to P3).md
