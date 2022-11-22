@@ -31,5 +31,3 @@ Multi Ethnic Dance
 
 ![](/images/Art%20and%20Music/Assembly%20Programme/Assembly%20Programme%208%20-%20Multi%20Ethnic%20Dance.jpeg)
 Chinese Traditional Music (from China)
-
-
