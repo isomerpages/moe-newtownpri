@@ -2,7 +2,6 @@ collections:
   spotlight:
     output: true
     order:
-      - Achievements.md
       - New Town Pri in the News!.md
       - Bouquets/.keep
       - Bouquets/Bouquets.md
