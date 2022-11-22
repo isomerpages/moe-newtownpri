@@ -18,4 +18,17 @@ We believe in developing New Town students to be future-ready.
 
 In the classrooms and school programmes, students are exposed to ICT-mediated learning experiences that add meaningful dimensions to their learning.
 
+![Students on an exploratory learning activity around the school](/images/ICT/1%20Students%20on%20an%20exploratory%20learning%20activity%20around%20the%20school.jpg)
+Students on an exploratory learning activity around the school
 
+![](/images/ICT/2%20Students%20working%20together%20on%20an%20online%20software%20to%20create%20posters.jpg)
+Students working together on an online software to create posters
+
+![](/images/ICT/3%20Students%20using%20iPads%20to%20chart%20PE%20achievements.jpg)
+Students using iPads to chart PE achievements
+
+![](/images/ICT/4%20Students%20exploring%20functions%20of%20an%20iPad%20like%20splitscreen.jpg)
+Student exploring functions of an iPad like splitscreen
+
+
+**e-Learning Days for 2023**
