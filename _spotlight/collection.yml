@@ -2,7 +2,6 @@ collections:
   spotlight:
     output: true
     order:
-      - New Town Pri in the News!.md
       - Bouquets/.keep
       - Bouquets/Bouquets.md
       - Bouquets/Send a Bouquet.md
