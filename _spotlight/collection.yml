@@ -1,5 +1,5 @@
 collections:
-  accolades:
+  spotlight:
     output: true
     order:
       - Achievements.md
