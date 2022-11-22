@@ -2,27 +2,6 @@ collections:
   new-town-experience:
     output: true
     order:
-      - Information and Communications Technology.md
-      - Co Curricular Activities (CCA)/.keep
-      - Co Curricular Activities (CCA)/CCA.md
-      - Co Curricular Activities (CCA)/Clubs and Societies.md
-      - Co Curricular Activities (CCA)/Performing Arts.md
-      - Co Curricular Activities (CCA)/Physical Sports.md
-      - Co Curricular Activities (CCA)/Uniformed Groups.md
-      - Art and Music/.keep
-      - Art and Music/Art and Music.md
-      - Art and Music/Assembly Programme (P1 to P6).md
-      - Art and Music/New Town Artists (NTA) (P1 to P6).md
-      - Art and Music/Theatre Experience Programme (P4).md
-      - Art and Music/AMIS Enrichment Modules (P3 to P5).md
-      - Art and Music/Resources.md
-      - Physical and Health Education/.keep
-      - Physical and Health Education/Physical Education.md
-      - Physical and Health Education/Sports Day (P1 to P3).md
-      - Physical and Health Education/Sports Orama (P4 to P6).md
-      - Physical and Health Education/Sports Education Programmes (P3 to P4).md
-      - Physical and Health Education/Camp Endeavour (P5).md
-      - Physical and Health Education/Camp GRIT (P6).md
       - School Programmes/.keep
       - School Programmes/Applied Learning Programme (ALP).md
       - School Programmes/Learning for Life Programme (LLP).md
@@ -51,4 +30,25 @@ collections:
       - CCE/Student Development Experiences (SDEs).md
       - CCE/Everyday Responsibilities.md
       - CCE/A Caring and Enabling Environment.md
+      - Physical and Health Education/.keep
+      - Physical and Health Education/Physical Education.md
+      - Physical and Health Education/Sports Day (P1 to P3).md
+      - Physical and Health Education/Sports Orama (P4 to P6).md
+      - Physical and Health Education/Sports Education Programmes (P3 to P4).md
+      - Physical and Health Education/Camp Endeavour (P5).md
+      - Physical and Health Education/Camp GRIT (P6).md
+      - Art and Music/.keep
+      - Art and Music/Art and Music.md
+      - Art and Music/Assembly Programme (P1 to P6).md
+      - Art and Music/New Town Artists (NTA) (P1 to P6).md
+      - Art and Music/Theatre Experience Programme (P4).md
+      - Art and Music/AMIS Enrichment Modules (P3 to P5).md
+      - Art and Music/Resources.md
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/CCA.md
+      - Co Curricular Activities (CCA)/Clubs and Societies.md
+      - Co Curricular Activities (CCA)/Performing Arts.md
+      - Co Curricular Activities (CCA)/Physical Sports.md
+      - Co Curricular Activities (CCA)/Uniformed Groups.md
+      - Information and Communications Technology.md
       - Student Management.md
