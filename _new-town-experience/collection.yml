@@ -2,7 +2,6 @@ collections:
   new-town-experience:
     output: true
     order:
-      - ICT/ICT and MRL.md
       - ICT/.keep
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/CCA.md
