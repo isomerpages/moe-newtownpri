@@ -2,12 +2,12 @@ collections:
   new-town-experience:
     output: true
     order:
-      - Co Curricular Activities (CCA)/Uniformed Groups.md
-      - Co Curricular Activities (CCA)/Physical Sports.md
-      - Co Curricular Activities (CCA)/Performing Arts.md
-      - Co Curricular Activities (CCA)/Clubs and Societies.md
-      - Co Curricular Activities (CCA)/CCA.md
       - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/CCA.md
+      - Co Curricular Activities (CCA)/Clubs and Societies.md
+      - Co Curricular Activities (CCA)/Performing Arts.md
+      - Co Curricular Activities (CCA)/Physical Sports.md
+      - Co Curricular Activities (CCA)/Uniformed Groups.md
       - Art and Music/.keep
       - Art and Music/Art and Music.md
       - Art and Music/Assembly Programme (P1 to P6).md
