@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Bouquets/.keep
-      - Bouquets/Bouquets.md
       - Bouquets/Send a Bouquet.md
