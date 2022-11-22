@@ -4,13 +4,13 @@ links:
     collection: welcome-to-new-town
   - title: School Information
     collection: school-information
+  - title: Our People
+    collection: our-people
   - title: New Town Experience
     collection: new-town-experience
   - title: Accolades
     collection: accolades
   - title: For Parents
     collection: for-parents
-  - title: Useful Links
-    url: /useful-links
   - title: Contact Us
     url: /contact-us/
