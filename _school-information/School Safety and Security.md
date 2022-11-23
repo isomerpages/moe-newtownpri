@@ -19,7 +19,7 @@ Students can enter and exit from the school during morning arrival (6.45 a.m. to
 
 Drop off outside the school along Tanglin Halt road is strictly not allowed. This causes congestion along the road and poses a danger to our students. Parents/Guardians should use the car park opposite the school to drop your child/ward off .
 
-![school safety map.jpg](https://lh6.googleusercontent.com/O_7M0E4bx-4bHTzMosm7P08YbENcA2It5C_sd2tpoPgcEFwcKRcd8C68YTCErYPaIF7EDHkAW_SL_Non6SinvCxARlKrLf4-Gp6OC0H_dkeJAFx3OpDqhESSgJ7FMLDJG0M8-NzFbbDF-xo8A5VN_jDtJglnOPyOl3TLsgtRBHWgZnTrTp0lyd1mLMhgmQ)
+![](/images/About%20Us/School%20Safety.jpg)
 
 In the event of wet weather, the security guards will allow parents to drive into the school in the morning to drop your children off, and half an hour after school dismissal hours to pick up your children. This is to allow time for the school buses to leave the school compound.
 
