@@ -16,24 +16,20 @@ Goals
 The New Town Catalyst Programme runs three times a week after school. Students are given the autonomy to decide how to make good use of the time that they have during the Catalyst sessions.
 
 To facilitate students making meaningful social connections with one another, the Catalyst Programme offers activities that engage their senses and creativity, such as making stop-motion videos and Zentangle (abstract artwork using patterns) and designing structures using Strawbees to solve challenging scenarios. Students also look forward to the short individual game times at every Catalyst session.
-&lt;&gt;
+
 
 Some activities are also offered to our students in conjunction with our community partners.
 
 **Junior Chef Programme (with FaithActs)**
 
 Students get a chance to prepare simple dishes and bring home their very own masterpieces. 
-&lt;&gt;
 	
 	
 **Sports Exposure (with Sportcares)**
 
 The students had much fun learning tag rugby with the coaches from Sportcares. They also learnt the importance of teamwork in achieving a common goal.
-&lt;&gt; 
+
 	
 **Groupwork Experiential Sessions (with SHINE Children and Youth Services)**
 
 Youth workers partner our teachers to come up with immersive activities to make the learning of values more experiential and fun.  
-&lt;&gt;
-
-
