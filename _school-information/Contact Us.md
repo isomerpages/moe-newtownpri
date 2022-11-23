@@ -9,30 +9,23 @@ description: ""
 
 **![](https://lh6.googleusercontent.com/QxkOg6mXiUIEMZVVZRHSPTkJCllzN_AZu7zKYgcv42e7C3MNQJTmOLxQ6XMFeCxJ_FPpM6_DjcOJ5Ttv_6fU6P9q4ChL3KK6mhDBRXqPJfGHKgElPodO1t90In8_8SWnstsF8rXHL_drFhL6rfAJw5RKsi-n1h4QagD6CPOmiMfYVoRUx2ge87rUUOGujQ)**
 
-New Town Primary School 
+New Town Primary School <br>
+300 Tanglin Halt Road <br>
+Singapore 148812<br>
 
-300 Tanglin Halt Road 
-
-Singapore 148812
-
-Tel : 6474 8805
-
-Fax : 6474 1249
-
-Email : ntps@moe.edu.sg
+Tel : 6474 8805<br>
+Fax : 6474 1249<br>
+Email : ntps@moe.edu.sg<br>
 
 
 **Contact Information**
 
-**General Office**
+**General Office**<br>
+Operating Hours: 7am-5.30pm<br>
 
-Operating Hours: 7am-5.30pm
-
-Tel : 6474 8805
-
-Fax : 6474 1249
-
-Email : ntps@moe.edu.sg
+Tel : 6474 8805<br>
+Fax : 6474 1249<br>
+Email : ntps@moe.edu.sg<br>
 
 **School Vendors and Services**
 
