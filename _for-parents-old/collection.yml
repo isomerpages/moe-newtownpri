@@ -1,5 +1,5 @@
 collections:
-  for-parents:
+  for-parents-old:
     output: true
     order:
       - Information for Parents.md
