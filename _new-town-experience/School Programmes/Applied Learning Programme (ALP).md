@@ -26,9 +26,8 @@ From P3 to P5, students deepen their learning about food, energy and water secur
 P2 students sampling Impossible meat as part of their P2 enrichment module
 
 ![](/images/P3ALP1.jpeg)
+
 ![](/images/P3ALP2.jpeg)
+
 ![](/images/P3ALP3.jpeg)
 P3 students going to a high-tech indoor urban farm to harvest vegetables
-
-
-
