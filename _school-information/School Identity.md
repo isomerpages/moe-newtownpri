@@ -5,8 +5,7 @@ description: ""
 ---
 **School Crest**
 
-**![](https://lh6.googleusercontent.com/8XabjV97llZ94-TOj5gNKjPG-Svzwe85QWjLFkTNG-29O29SXaFWngtpIXlxUjCh0-QiCiO21TDVThWUImhucu2suqlfLADSXmnNAHuHyALavMGj3kBbKkwZjxaPSzgqwyYWt-SEd2H7X_E3Nve2PHoJ84dfrTNzc7K8Ln1aS0O5jXF8du8FzHOb0YUi1A)**
-
+![](/images/About%20Us/Crest%20only%20(coloured%20no%20background).png)
 
 The lion represents Singapore, where we as citizens continually serve.
 
@@ -70,4 +69,3 @@ We are ready to serve together
 The loyalty we have will be forever
 
 Happy in every new endeavour
-
