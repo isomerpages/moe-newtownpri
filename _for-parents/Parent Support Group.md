@@ -1,23 +1,26 @@
 ---
 title: Parent Support Group
-permalink: /for-parents/parent-support-group
+permalink: /for-parents/parent-support-group/
 description: ""
 ---
-<img src="/images/logosub.png" style="width:400px;height:150px;margin-left:0px;" align="left">
+**Parent Support Group (PSG)**
 
-<img src="/images/Header%20GIF.gif" style="width:380px;height:150px;margin-right:60px;" align="right">
-<br><br><br><br><br><br>
+**![](https://lh6.googleusercontent.com/prgOOVBg9Gs_Q-JVOVgAW4JJ975pVSbnJRRhwTtXUAe8_caVmSjsomFyxbJo-G2xCd81l9Ve0Dj8yQmqmKBkr2djXIeQATe8C5kTjm5HMwaw4D4_4PLxQOZ_2yjD4jBt4mldNxQG0Z2jZYFf4p8Em6NnqiS67FiCe56PNqhbZhIorA06s5YvnwjXeHPPHQ)**
 
-**<font size="6">Parent Support Group</font>**
+Our Parent Support Group, PSG@New Town, has always been our key partner in education. Parents play a huge role in being the support and role models for our New Towners.
 
-**<font size="5">Mission</font>**
+Our PSG is the voice representing the parents of New Town across various platforms. 
 
-![](/images/For%20Parents/PSG.png)
+Our PSG aims to :
+* Enhance the vibrancy of school environment by co-creating programmes for the students
+* Have an active and collaborative partnership with all members of the school community
 
-Our Mission is to render our services and provide support to the school in its various programmes and activities to our best abilities. We will tap on the expertise of our parent volunteers to achieve active collaborative partnership among parents, teachers and the community.  
+Watch the video attached to find out what our PSG has been up to in the various school events and programmes! 
 
-If you are a parent / guardian of a child in New Town Primary School, we hope that our dynamism in actively promoting the above goal would encourage you to be an active parent in supporting the school in its various programs and activities.
+Link: https://www.youtube.com/watch?v=hgrNR-lkbjo
 
-For more information, you can refer to our [PSG website](http://psgntps.wix.com/psg-ntps).
+Join us here! https://forms.gle/SvYkjoWtUnBNw7aF6
 
-To join us, please download the form and submit it to the school's General Office. Thank you.
+Hear from our Chairman, Dr Mayank and some of our PSG volunteers on their experiences in PSG too!
+
+
