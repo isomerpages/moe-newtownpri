@@ -9,8 +9,7 @@ Vision: **Passionate Learners . Critical Thinkers . Anchored Leaders**
 
 Mission: **Nurturing passionate learners, strong in character**
 
-Values: 
-
+Values:  <br>
 **Resilience our Mindset**<br>
 **Integrity our Foundation**<br>
 **Service with a Heart**<br>
