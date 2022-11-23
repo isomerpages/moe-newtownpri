@@ -10,7 +10,7 @@ We are thrilled to share that the 2022 e-Open House for New Town Primary School 
 
 Our prospective parents caught a good glimpse of our New Town Experience and you can, too, in our video below.
 
-[e-Open House 2022](https://youtu.be/TeFgkG_aK6g)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TeFgkG_aK6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Areas covered at the e-Open House include:
 
@@ -29,8 +29,7 @@ In New Town Primary, we inspire our students to be passionate learners, critical
 
 Catch a glimpse of our New Town's Total Curriculum!
 
-[https://youtu.be/0vEo3xn0xtM](https://youtu.be/0vEo3xn0xtM?fbclid=IwAR3VtiP_ijIgoXmnS1ZaKY5v3DFWjhiuZQxeir3HrspfgKcdNyOehJ34Lc0)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0vEo3xn0xtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   
 
@@ -38,8 +37,8 @@ Catch a glimpse of our New Town's Total Curriculum!
 
 Have you wondered what our P1 students go through in a day in New Town Primary?
 
-Watch this video: [https://www.youtube.com/watch?v=cWdbUO1HjQM](https://www.youtube.com/watch?v=cWdbUO1HjQM&fbclid=IwAR0_FkdbiRNhRdj4XeqT_9FIc-FA7wfkqExjNqpmidgvKSJ1ZSz6XODslf0)
-
+Watch this video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cWdbUO1HjQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   
 
@@ -48,5 +47,4 @@ Watch this video: [https://www.youtube.com/watch?v=cWdbUO1HjQM](https://www.yout
 We believe that it can never be too early to develop all New Towners as student leaders. The school adopts the “Leader in Me” Framework, developed by Dr. Stephen Covey, to empower our students with leadership and life skills through explicit teaching of the 7 Habits.
 
 Watch this video to find out how our student leaders apply these habits in their daily lives.
-
-[https://www.youtube.com/watch?v=r5zjaCOGGgI](https://www.youtube.com/watch?v=r5zjaCOGGgI&fbclid=IwAR0wj3P0Bk9MusoDcWEFYETnDETzZWDafXFJYsbBmHzdjjs5H-I121_NVro)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r5zjaCOGGgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
