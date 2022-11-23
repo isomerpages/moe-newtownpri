@@ -16,6 +16,7 @@ We offer the following Performing Arts CCAs:
 * Malay Dance
 
 **Brass Band**
+
 Brass Band provides opportunities for students to develop their musical talents through learning how to play an instrument. Members hone their leadership skills through leading practice sessions and taking on higher responsibilities with guidance from their teachers-in-charge and instructors. Through the CCA, students to develop values such as dedication, resilience, diligence and camaraderie. Our band members participate in the biennial Singapore Youth Festival (SYF) Arts Presentation, which adds an enriching dimension to the students’ learning and performing experiences.
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
@@ -187,5 +188,3 @@ Malay Dance aims to expand our members’ interest in the Malay dance forms and 
   mso-fareast-font-family:Calibri" lang="EN"></span></p></td><td style="width:243.55pt;border:none;border-bottom:
   solid #AAAAAA 1.0pt;mso-border-bottom-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;
   height:.25in" valign="top" width="325"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">norlela_nor_baidin@schools.gov.sg</span><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri" lang="EN"></span></p></td></tr></tbody></table>
-
-
