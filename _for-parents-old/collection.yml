@@ -2,7 +2,6 @@ collections:
   for-parents-old:
     output: true
     order:
-      - Information for Parents.md
       - Useful Links.md
       - Parent Engagement Sessions/.keep
       - Parent Engagement Sessions/P1 Orientation.md
