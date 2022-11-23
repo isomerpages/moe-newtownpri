@@ -7,11 +7,17 @@ third_nav_title: CCE
 **Everyday Responsibilities**
 
 ![](/images/CCE/Everyday%20Responsibilities/Slide5.jpeg)
+
 ![](/images/CCE/Everyday%20Responsibilities/Slide2.jpeg)
+
 ![](/images/CCE/Everyday%20Responsibilities/Slide3.jpeg)
+
 ![](/images/CCE/Everyday%20Responsibilities/Slide4.jpeg)
+
 ![](/images/CCE/Everyday%20Responsibilities/Slide5.jpeg)
+
 ![](/images/CCE/Everyday%20Responsibilities/Slide6.jpeg)
+
 
 To inculcate in New Towners a sense of responsibility and care for shared spaces within the school, students are involved in helping one another in the daily cleaning of the school environment.
 
@@ -34,11 +40,3 @@ In each class, 2 Environment Monitors are appointed. They conduct an inspection 
 4.	Spotless Checks and Sparkling Classroom Awards
 
 Classes are awarded stars fortnightly during Spotless Checks by teachers. Sparkling Classroom Awards are awarded to winning classes, which have the highest number of stars and I.C.C.I points.
-
-
-
-
-
-
-
-
