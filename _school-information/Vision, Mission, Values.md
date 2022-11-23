@@ -12,6 +12,9 @@ Mission: **Nurturing passionate learners, strong in character**
 Values: 
 
 **Resilience our Mindset**
+
 **Integrity our Foundation**
+
 **Service with a Heart**
+
 **Excellence our Quest**
