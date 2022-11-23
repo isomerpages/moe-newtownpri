@@ -10,21 +10,28 @@ description: ""
 **![](https://lh6.googleusercontent.com/QxkOg6mXiUIEMZVVZRHSPTkJCllzN_AZu7zKYgcv42e7C3MNQJTmOLxQ6XMFeCxJ_FPpM6_DjcOJ5Ttv_6fU6P9q4ChL3KK6mhDBRXqPJfGHKgElPodO1t90In8_8SWnstsF8rXHL_drFhL6rfAJw5RKsi-n1h4QagD6CPOmiMfYVoRUx2ge87rUUOGujQ)**
 
 New Town Primary School 
+
 300 Tanglin Halt Road 
+
 Singapore 148812
 
 Tel : 6474 8805
+
 Fax : 6474 1249
+
 Email : ntps@moe.edu.sg
 
 
-Contact Information
+**Contact Information**
 
-General Office
+**General Office**
+
 Operating Hours: 7am-5.30pm
 
 Tel : 6474 8805
+
 Fax : 6474 1249
+
 Email : ntps@moe.edu.sg
 
 **School Vendors and Services**
@@ -202,5 +209,3 @@ Email : ntps@moe.edu.sg
     height:34.5pt" valign="top" width="116"><p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">6275 7391</span></p></td></tr></tbody></table><p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">&nbsp;</span></p><p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">Find out more about </span><span lang="EN"><a href="https://www.healthhub.sg/programmes/15/school_dental_programme"><span style="font-size:10.0pt;color:#1870B6;text-decoration:none;text-underline:
   none">school dental services</span></a></span><span style="font-size:
   10.0pt;color:#222222" lang="EN">.</span></p></td></tr></tbody></table>
-
-
