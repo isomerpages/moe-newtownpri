@@ -141,6 +141,9 @@ All students are required to report to school by **7.30 am** for the flag-raisin
   &quot;Times New Roman&quot;;color:#222222">4.20pm&nbsp;</span><span style="font-size:
   12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
 
+
+ 
+ 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
  .5pt solid windowtext" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:26.5pt"><td style="border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
@@ -229,6 +232,8 @@ All students are required to report to school by **7.30 am** for the flag-raisin
   padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt" valign="top"></td></tr></tbody></table>
 
 
+
+ 
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
