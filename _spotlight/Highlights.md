@@ -32,7 +32,7 @@ The New Town Family would like to congratulate Keng Xian for his astounding achi
 
 ![](/images/Spotlight/Achievement%20_arts_04.jpg)
 
-**19th World Pencak Silat Championship **
+**19th World Pencak Silat Championship**
 
 We would like to congratulate our ex-student Aniq 'Asri Yazid (class of 2017) for being crowned World Champion in the 19th World Pencak Silat Championship.
 
@@ -41,6 +41,3 @@ At a young age, Aniq displayed his talent in Silat. He then went on to the Singa
 Keep soaring Aniq, we are so proud of you!
 
 ![](/images/Spotlight/Achievement%20_ex%20student%2005.jpg)
-
-
-
