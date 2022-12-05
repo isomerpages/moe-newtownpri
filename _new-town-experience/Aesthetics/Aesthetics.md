@@ -25,10 +25,10 @@ The Music syllabus aims to enable students to:
 
 In New Town, students learn music by experiencing musical concepts before they learn and apply it. Using a blend of Orff and Kodaly approaches, students listen, create and perform music to develop musical creativity and critical thinking skills through collaboration and decision-making opportunities.
 
-![](/images/Art%20and%20Music/Boom%20whackers.jpg)
+![](/images/Art%20and%20Music/Picture42.jpg)
 Fun in music with Boom whackers
 
-![](/images/Art%20and%20Music/Boom%20whackers%202.jpg)
+![](/images/Art%20and%20Music/Picture43.jpg)
 Learning musical concepts with resonator bells
 
 
@@ -64,5 +64,3 @@ P4 Museum-based learning
 
 ![](/images/Art%20and%20Music/5%20P4%20MBL.jpg)
 Gestures and painting
-
-
