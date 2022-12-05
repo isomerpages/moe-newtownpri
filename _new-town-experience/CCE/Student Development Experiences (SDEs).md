@@ -41,21 +41,30 @@ To be active citizens who have a collective resolve and a sense of shared missio
 **NE Commemorative Days**
 One of the key SDEs is the P5 NE Show. With the resumption of mass activities in 2022, our P5 New Towners had a wonderful time celebrating the nation’s birthday together as one.  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AhwyrGcd46o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Catch the snapshots of NEShow 2022 here:
 https://www.facebook.com/watch/?v=573322057837217
 
 There are 4 NE commemorative days linked to significant points in Singapore’s history. In New Town, we customise activities for our students so that they learn important lessons on how to contribute as an active citizen.
 
-Find out about the happenings on these NE commemorative days and hear some of our students’ voices here:
-
+Find out about the happenings on these NE commemorative days and hear some of our students’ voices here.
 
 Total Defence Day: https://www.facebook.com/watch/?v=3137092953231070
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pULS--U4BPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 International Friendship Day: https://www.facebook.com/watch/?v=535280764665277
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S5NLlJMHGuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Racial Harmony Day: https://www.facebook.com/watch/?v=567586118350954
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c62gEABu7-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 National Day: https://www.facebook.com/watch/?v=642551047201784
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/INWnW85_-0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Values in Action @ New Town**
 
@@ -70,5 +79,3 @@ Watch how our New Towners continue to actively reach out and appreciate the comm
 2.	Showing their gratitude towards the frontliners : https://www.facebook.com/watch/?v=960365044540172
 3.	Appreciating our migrant workers:
 https://www.facebook.com/watch/?v=3089957367921334
-
-
