@@ -13,7 +13,6 @@ Camp G.R.I.T. (Growth, Resilience, Integrity and Teamwork) is a one-day programm
 ![](/images/PE/P6%20Camp%20Grit/Picture25.jpg)
 
 ![](/images/PE/P6%20Camp%20Grit/Picture26.jpg)
+Forging camaraderie and stronger relationships amongst the classmates and form teachers through collaborative effort to complete a variety of adventurous outdoor living activities
 
 ![](/images/PE/P6%20Camp%20Grit/Picture27.jpg)
-Forging camaraderie and stronger relationships amongst the classmates and form teachers through collaborative effort to complete a variety of adventurous outdoor living activities 
-
