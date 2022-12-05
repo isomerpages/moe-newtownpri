@@ -31,6 +31,12 @@ Fun in music with Boom whackers
 ![](/images/Art%20and%20Music/Boom%20whackers%202.jpg)
 Learning musical concepts with resonator bells
 
+
+![](/images/Art%20and%20Music/Music%20Curriculum%201.jpg)
+
+![](/images/Art%20and%20Music/P6%20Ensemble%20music%20making.jpg)
+Primary 6 Ensemble Music-Making
+
 **Art**
 
 The Art syllabus aims to enable students to:
@@ -41,8 +47,3 @@ The Art syllabus aims to enable students to:
 
 
 Students learn art by going through the 5 processes, ‘Connect & Wonder’, ‘Reflect’, ‘Express’, ‘Make’ and ‘Investigate’ in the Art Inquiry Model. This non-linear inquiry-based strategy nurtures curiosity and creativity. Moving between the spectrum teacher-directed and student-directed learning, it empowers students to own their creative process giving them a voice and choice.
-
-![](/images/Art%20and%20Music/Music%20Curriculum%201.jpg)
-
-![](/images/Art%20and%20Music/P6%20Ensemble%20music%20making.jpg)
-Primary 6 Ensemble Music-Making
