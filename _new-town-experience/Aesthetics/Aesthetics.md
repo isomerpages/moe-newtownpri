@@ -59,3 +59,10 @@ Painting with watercolours
 ![](/images/Art%20and%20Music/SG%20Food%20Maya%20Ng%20Rui%20Zhen_%20P2-6.jpg)
 Inquiry-based learning
 
+![](/images/Art%20and%20Music/P4%20MBL%20Vegetable%20farmer.jpg)
+P4 Museum-based learning
+
+![](/images/Art%20and%20Music/5%20P4%20MBL.jpg)
+Gestures and painting
+
+
