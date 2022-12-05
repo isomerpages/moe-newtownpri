@@ -31,5 +31,13 @@ Characteristics of PAL lessons: 
 **
 
 **Sports and Games**
+![](/images/PAL/PAL%20S&G/2%20-%20How%20should%20we%20do%20this.jpeg)
+Is this what you have in mind? Let's try it out!
 ![We have fun working together](/images/PAL/PAL%20S&G/1%20-%20We%20have%20fun%20working%20together.jpg)
 We have fun working together
+
+**Outdoor Education**
+![](/images/PAL/PAL%20OE/Nest%20buildling.jpg)
+Nest-building activity with things found in nature
+![](/images/PAL/PAL%20OE/Exploring%20Nature.jpeg)
+Exploring our Science garden
