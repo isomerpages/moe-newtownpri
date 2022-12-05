@@ -38,7 +38,19 @@ New Towners gain insights into the process of authentic, real-life art forms by 
   padding:5.0pt 5.0pt 5.0pt 5.0pt;height:25.0pt" valign="top" width="200"><p style="text-align:center;line-height:normal;
   mso-pagination:none" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Digital Music</span></b></p></td></tr></tbody></table>
 	
-	
-	
+![](/images/Art%20and%20Music/Picture39.jpg)
+
+![](/images/Art%20and%20Music/P3%20Ukulele/P3%20Ukulele%201.jpeg)
+Learning how a string instrument (Ukulele) works
+
+![](/images/Art%20and%20Music/P4%20Digital%20Music/P4%20GBand%202.jpg)
+
+![](/images/Art%20and%20Music/P4%20Digital%20Music/P4%20GBand%203.jpg)
+Music & Technology
+
+![](/images/Art%20and%20Music/1%20Batik%20(1)-min.jpg)
+
+![](/images/Art%20and%20Music/2%20Batik%20%20(1).jpg)
+Batik Painting
 	
 	
