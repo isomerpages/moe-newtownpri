@@ -18,8 +18,5 @@ Sports Orama is an Interclass Sports Competition where P4 to P6 students apply t
 
 ![](/images/PE/Sports%20Orama/Picture10.jpg)
 
-![](/images/PE/Sports%20Orama/Picture11.jpg)
-
+![](/images/PE/Picture11.jpg)
 A display of their skillsets and the application of games concepts in the modified games
-
-
