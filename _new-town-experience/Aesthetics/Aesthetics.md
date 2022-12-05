@@ -44,4 +44,5 @@ Students learn art by going through the 5 processes, ‘Connect & Wonder’, ‘
 
 ![](/images/Art%20and%20Music/Music%20Curriculum%201.jpg)
 
-
+![](/images/Art%20and%20Music/P6%20Ensemble%20music%20making.jpg)
+Primary 6 Ensemble Music-Making
