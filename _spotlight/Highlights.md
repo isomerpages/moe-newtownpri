@@ -8,7 +8,7 @@ description: ""
 As part of our Racial Harmony Day Commemoration, our New Town Cheerleaders organised a Family Rojak Making Session and shared about the importance of racial and religious harmony in Singapore with our international students and their families.
 It was certainly a fun and meaningful session to bond with one another!
 
-(insert video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dCAXFKcgtd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **The Lee Kuan Yew Award for All-Round Excellence**
 
