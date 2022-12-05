@@ -47,3 +47,10 @@ The Art syllabus aims to enable students to:
 
 
 Students learn art by going through the 5 processes, ‘Connect & Wonder’, ‘Reflect’, ‘Express’, ‘Make’ and ‘Investigate’ in the Art Inquiry Model. This non-linear inquiry-based strategy nurtures curiosity and creativity. Moving between the spectrum teacher-directed and student-directed learning, it empowers students to own their creative process giving them a voice and choice.
+
+![](/images/Art%20and%20Music/2%20LP%20Art.jpg)
+Elements of art: Direction of line
+
+
+
+
