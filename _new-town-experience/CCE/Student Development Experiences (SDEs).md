@@ -75,7 +75,12 @@ New Town’s VIA framework, which emphasises our school value Service with a Hea
 ![](/images/CCE/share.jpeg)
 
 Watch how our New Towners continue to actively reach out and appreciate the community despite the challenges they faced during the COVID-19 years.
-1.	Appreciating our foreign domestic workers : https://www.facebook.com/watch/?v=221555693080841
-2.	Showing their gratitude towards the frontliners : https://www.facebook.com/watch/?v=960365044540172
-3.	Appreciating our migrant workers:
-https://www.facebook.com/watch/?v=3089957367921334
+1.	Appreciating our foreign domestic workers
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GGmQmDXUkdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+2.	Showing their gratitude towards the frontliners 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kjN9llNNEa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+3.	Appreciating our migrant workers
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gDP4IRb48Yc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
