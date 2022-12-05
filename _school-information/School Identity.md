@@ -22,7 +22,9 @@ We must always uphold sound moral values and keep alive the spirit of learning i
 
 
 
-**School Song and Lyrics:**
+**School Song and Lyrics**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gn7WNLQnXPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In New Town Primary, where we start<br>
 Together we step forth with our hearts<br>
