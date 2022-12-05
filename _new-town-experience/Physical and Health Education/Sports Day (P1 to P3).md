@@ -6,7 +6,7 @@ third_nav_title: Physical and Health Education
 ---
 **Sports Day (P1 to P3)**
 
-On Sports Day, P1 to P3 students showcase what they have learnt during PE lessons. Students work in teams and challenge their peers in various physical and gymnastics skills such as running, skipping, throwing, log roll and forward roll. 
+Sports Day is an event for all P1 to P3 students to showcase their learning during PE lessons. Students from the same class have the opportunities to work in a team and challenge their peers from the same level in various physical (locomotion) and gymnastics skills such as running, skipping, throwing, log roll and forward roll. 
 
 <Include 2 - 3 photos for each programme>
 
