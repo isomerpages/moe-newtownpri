@@ -4,13 +4,9 @@ permalink: /new-town-experience/Aesthetics/AMIS/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
 **AMIS Enrichment Modules (P3 to P5)**
 
-New Towners learn about the methods, technique, processes and challenges associated with various art forms in these modules. This hands-on approach increases their appreciation for the art forms while cultivating self-esteem, tenacity and problem-solving abilities.
- 
-Conducted during school hours, these modules encompass both traditional and digital art forms to give students a new perspective on art and music and provide the foundation for students to innovate and integrate this knowledge with other media or subjects. 
+New Towners gain insights into the process of authentic, real-life art forms by learning the basic skills and techniques that artists and musicians use in the enrichment modules. The hands-on approach increases students' appreciation for the art forms. 
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-yfti-tbllook:1536;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
@@ -41,3 +37,8 @@ Conducted during school hours, these modules encompass both traditional and digi
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   padding:5.0pt 5.0pt 5.0pt 5.0pt;height:25.0pt" valign="top" width="200"><p style="text-align:center;line-height:normal;
   mso-pagination:none" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Digital Music</span></b></p></td></tr></tbody></table>
+	
+	
+	
+	
+	
