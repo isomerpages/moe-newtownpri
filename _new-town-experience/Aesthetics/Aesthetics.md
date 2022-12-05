@@ -51,6 +51,11 @@ Students learn art by going through the 5 processes, ‘Connect & Wonder’, ‘
 ![](/images/Art%20and%20Music/2%20LP%20Art.jpg)
 Elements of art: Direction of line
 
+![](/images/Art%20and%20Music/1%20LP%20Art.jpg)
+Painting with watercolours
 
+![](/images/Art%20and%20Music/3%20SGfood.jpg)
 
+![](/images/Art%20and%20Music/SG%20Food%20Maya%20Ng%20Rui%20Zhen_%20P2-6.jpg)
+Inquiry-based learning
 
