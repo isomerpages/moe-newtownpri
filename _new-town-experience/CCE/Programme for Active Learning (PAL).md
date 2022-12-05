@@ -30,15 +30,6 @@ Characteristics of PAL lessons: 
 
 **
 
-![](/images/PAL/1%20P1%20SG%20Respecting%20.jpeg)
-
-![](/images/PAL/1%20P2%20PA%20Working%20together.jpeg)
-
-![](/images/PAL/2%20P2%20PA%20Undecollaboration.jpeg)
-![](/images/PAL/3%20%20P2%20OE%20Creativity%20with%20Nature%202.jpeg)
-
-![](/images/PAL/2%20P2%20OE%20Exploring%20flight%20of%20seeds.jpeg)
-
-![](/images/PAL/3%20P1%20VA%20Everyone%20has%20something%20to%20contribute%20.jpeg)
-
-![](/images/PAL/4%20P1%20VA%20for%20a%20common%20goal.jpeg)
+**Sports and Games**
+![We have fun working together](/images/PAL/PAL%20S&G/1%20-%20We%20have%20fun%20working%20together.jpg)
+We have fun working together
