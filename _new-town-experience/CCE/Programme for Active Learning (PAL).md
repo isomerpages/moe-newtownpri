@@ -41,3 +41,15 @@ We have fun working together
 Nest-building activity with things found in nature
 ![](/images/PAL/PAL%20OE/Exploring%20Nature.jpeg)
 Exploring our Science garden
+
+**Visual Art**
+![](/images/PAL/PAL%20VA/1%20%20-%20My%20friend%20can%20contribute%20ideas%20too%20.jpeg)
+We all have wonderful ideas!
+![](/images/PAL/PAL%20VA/2%20-%20We%20solved%20this%20together!%20.jpeg)
+We solved this together!
+
+**Performing Arts**
+![](/images/PAL/PAL%20PA/1%20-%20Dance%20performance%20choreographed%20with%20student%20ideas.png)
+We choreographed this dance with our ideas.
+![](/images/PAL/PAL%20PA/2%20-%20This%20is%20how%20our%20group%20will%20dance%20.jpeg)
+Performing our creation
