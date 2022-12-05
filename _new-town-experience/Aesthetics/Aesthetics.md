@@ -25,6 +25,11 @@ The Music syllabus aims to enable students to:
 
 In New Town, students learn music by experiencing musical concepts before they learn and apply it. Using a blend of Orff and Kodaly approaches, students listen, create and perform music to develop musical creativity and critical thinking skills through collaboration and decision-making opportunities.
 
+![](/images/Art%20and%20Music/Boom%20whackers.jpg)
+Fun in music with Boom whackers
+
+![](/images/Art%20and%20Music/Boom%20whackers%202.jpg)
+Learning musical concepts with resonator bells
 
 **Art**
 
@@ -36,3 +41,7 @@ The Art syllabus aims to enable students to:
 
 
 Students learn art by going through the 5 processes, ‘Connect & Wonder’, ‘Reflect’, ‘Express’, ‘Make’ and ‘Investigate’ in the Art Inquiry Model. This non-linear inquiry-based strategy nurtures curiosity and creativity. Moving between the spectrum teacher-directed and student-directed learning, it empowers students to own their creative process giving them a voice and choice.
+
+![](/images/Art%20and%20Music/Music%20Curriculum%201.jpg)
+
+
