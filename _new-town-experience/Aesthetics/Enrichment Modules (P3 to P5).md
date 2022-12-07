@@ -4,8 +4,7 @@ permalink: /new-town-experience/Aesthetics/Enrichment-Modules/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-**AMIS Enrichment Modules (P3 to P5)**
+**Enrichment Modules (P3 to P5)**
 
 New Towners gain insights into the process of authentic, real-life art forms by learning the basic skills and techniques that artists and musicians use in the enrichment modules. The hands-on approach increases students' appreciation for the art forms. 
 
@@ -53,5 +52,3 @@ Music & Technology
 
 ![](/images/Art%20and%20Music/2%20Batik%20%20(1).jpg)
 Batik Painting
-	
-	
