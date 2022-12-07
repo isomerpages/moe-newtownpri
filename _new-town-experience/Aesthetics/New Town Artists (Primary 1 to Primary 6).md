@@ -4,7 +4,6 @@ permalink: /new-town-experience/Aesthetics/NTA/
 description: ""
 third_nav_title: Aesthetics
 ---
-
 **New Town Artists (Primary 1 to Primary 6)**
 
 New Town Artists’ is a biannual, school-based art competition platform, designed to promotes student agency as well as challenge their creativity and artistic skills. 
