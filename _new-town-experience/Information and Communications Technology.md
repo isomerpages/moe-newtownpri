@@ -28,5 +28,3 @@ Students using iPads to chart PE achievements
 ![](/images/ICT/4%20Students%20exploring%20functions%20of%20an%20iPad%20like%20splitscreen.jpg)
 Student exploring functions of an iPad like splitscreen
 
-
-**e-Learning Days for 2023**
