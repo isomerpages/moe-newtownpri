@@ -5,7 +5,7 @@ description: ""
 ---
 **School Crest**
 
-![](/images/About%20Us/Crest%20only%20(coloured%20no%20background).png)
+<img style="width: 50%;" src="/images/About%20Us/Crest%20only%20(coloured%20no%20background).png">
 
 The lion represents Singapore, where we as citizens continually serve.
 
