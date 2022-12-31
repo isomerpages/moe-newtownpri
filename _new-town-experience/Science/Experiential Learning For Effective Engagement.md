@@ -19,5 +19,3 @@ Making observations of plants in the school Eco-garden
 
 ![](/images/Science/Limin%206.jpeg)
 Comparing the different types of herbs in the school Herb garden
-
-
