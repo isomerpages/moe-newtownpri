@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-newtownpri-staging.netlify.app
-prod: https://moe-newtownpri-prod.netlify.app
+staging: https://staging.d3irjf3iutkuyy.amplifyapp.com
+prod: https://master.d3irjf3iutkuyy.amplifyapp.com
 shareicon: /images/isomer-logo.svg
 is_government: false
 facebook-pixel: ""
