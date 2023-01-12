@@ -1,6 +1,6 @@
 ---
 title: Quick Links
-permalink: /quick-links
+permalink: /quick-links/
 description: ""
 ---
 <img src="/images/logosub.png" style="width:400px;height:150px;margin-left:0px;" align="left">

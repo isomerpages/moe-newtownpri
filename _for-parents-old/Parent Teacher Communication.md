@@ -1,6 +1,6 @@
 ---
 title: Parent Teacher Communication
-permalink: /for-parents/parent-teacher-communication
+permalink: /for-parents/parent-teacher-communication/
 description: ""
 ---
 <img src="/images/logosub.png" style="width:400px;height:150px;margin-left:0px;" align="left">

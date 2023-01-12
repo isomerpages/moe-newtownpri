@@ -1,6 +1,6 @@
 ---
 title: Forms for Parents
-permalink: /for-parents/forms-for-parents
+permalink: /for-parents/forms-for-parents/
 description: ""
 ---
 
