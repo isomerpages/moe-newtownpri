@@ -1,13 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logosub.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Welcome To New Town
+    collection: welcome-to-new-town
+  - title: School Information
+    collection: school-information
+  - title: Our People
+    collection: our-people
+  - title: New Town Experience
+    collection: new-town-experience
+  - title: Spotlight
+    collection: spotlight
+  - title: For Parents
+    collection: for-parents
