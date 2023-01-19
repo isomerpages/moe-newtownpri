@@ -3,8 +3,6 @@ title: Student Management
 permalink: /departments/student-management/
 description: ""
 ---
-
-
 **<font size=6>Student Management</font>**
 
 **<font size=5>Vision</font>** <br>
