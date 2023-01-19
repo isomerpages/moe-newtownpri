@@ -3,7 +3,6 @@ title: Principal's Message
 permalink: /welcome-to-new-town/principals-message/
 description: ""
 ---
-
 **<font size=6>Principal's Message</font>**
 
 
