@@ -1,5 +1,5 @@
 title: New Town Primary School
-url: ""
+url: https://www.open.gov.sg
 favicon: /images/Crest 2020.png
 colors:
   primary-color: "#145f9d"
@@ -54,6 +54,6 @@ prod: https://master.d3irjf3iutkuyy.amplifyapp.com
 shareicon: /images/isomer-logo.svg
 is_government: false
 facebook-pixel: ""
-google_analytics: ""
+google_analytics: "254821804"
 linkedin-insights: ""
 resources_name: a
