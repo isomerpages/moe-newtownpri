@@ -3,7 +3,6 @@ title: School Videos
 permalink: /accolades/school-videos/
 description: ""
 ---
-
 **<font size=6>School Videos</font>**
 
 **<font size=5>New Town's Total Curriculum</font>**
