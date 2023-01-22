@@ -1,5 +1,7 @@
 contact_us: /contact-us/
-show_reach: true
+show_reach: false
 faq: /ntps/faq
 social_media:
-  facebook: https://www.facebook.com/YourFBPage
+  facebook: https://www.facebook.com/newtownpri
+  youtube: https://www.youtube.com/newtownpri
+  instagram: https://www.instagram.com/newtownpri
