@@ -2,7 +2,7 @@
 layout: homepage
 title: New Town Primary School
 description: Brief site description here
-image: /images/About Us/Crest only (coloured no background).png
+image: /images/NTPS logo white bg.jpg
 permalink: /
 notification: ""
 sections:
@@ -19,4 +19,5 @@ sections:
           description: ""
           url: /quick-links
 ---
+
 
