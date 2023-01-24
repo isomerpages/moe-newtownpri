@@ -4,16 +4,11 @@ permalink: /for-parents/school-notifications/
 description: ""
 ---
 
-<img src="/images/logosub.png" style="width:400px;height:150px;margin-left:0px;" align="left">
-
-<img src="/images/Header%20GIF.gif" style="width:380px;height:150px;margin-right:60px;" align="right">
-<br><br><br><br><br><br>
-
 **<font size="6">School Notifications</font>**
 
-**<font size=5>Term 3</font>**
+**<font size=5>Term 1</font>**
 
-[NTPS 2022 Term 3 Newsletter](/files/NTPS%202022%20Term%203%20Newsletter.pdf)
+[NTPS 2023 Term 1 Newsletter](/files/NTPS%202022%20Term%203%20Newsletter.pdf)
 
 _Click [here](https://drive.google.com/drive/folders/1sW62gdF6Gv2-ln55SeosM8SnwKrOBneT?usp=sharing) if the content above is not displaying properly._
 
