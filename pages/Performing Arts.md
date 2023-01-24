@@ -4,11 +4,6 @@ permalink: /school-programmes/co-curricular-activities-cca/performing-arts/
 description: ""
 ---
 
-<img src="/images/logosub.png" style="width:400px;height:150px;margin-left:0px;" align = "left">
-
-<img src="/images/Header%20GIF.gif" style="width:380px;height:150px;margin-right:60px;" align = "right">
-<br><br><br><br><br><br>
-
 **<font size=6>Performing Arts</font>**
 
 Performing Arts instill in students a sense of graciousness and an appreciation for the rich and heritage of a multi-racial society. Performing Arts CCAs provide opportunities for students to develop a lifelong passion for the arts. They also nurture students’ creative expression, enrich social, cultural and historical awareness, and build character.
