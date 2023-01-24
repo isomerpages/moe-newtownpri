@@ -47,11 +47,8 @@ description: ""
 
   
 
-*   [MySkillsFuture (Primary)](https://www.myskillsfuture.sg/content/student/en/primary.html) 
+*   [MySkillsFuture Portal (Primary)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 *   [Total Defence](https://www.totaldefence.sg/)
 *   [Media-WISE - A SMART guide for YOUths](https://www.betterinternet.sg/)
 *   [National Library Board (NLB)](https://www.nlb.gov.sg/)
 *   [Kindsville](https://kindsville.kindness.sg/)
-*   [My Queenstown](http://www.queenstown.org.sg/)
-
-Links for parents are available in [Resources for Parents](https://moe-newtownpri-staging.netlify.app/for-parents/resources-for-parents) page.
