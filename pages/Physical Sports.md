@@ -4,11 +4,6 @@ permalink: /school-programmes/co-curricular-activities-cca/physical-sports/
 description: ""
 ---
 
-<img src="/images/logosub.png" style="width:400px;height:150px;margin-left:0px;" align = "left">
-
-<img src="/images/Header%20GIF.gif" style="width:380px;height:150px;margin-right:60px;" align = "right">
-<br><br><br><br><br><br>
-
 **<font size=6>Physical Sports</font>**
 
 Building upon the Physical Education (PE) programme to build a strong foundation for the development of broad-based physical competencies and opportunities for recreational participation, Physical Sports CCAs caters to students with interest at both recreational and competitive levels. Physical Sports CCAs develop robustness, fair play and team spirit in students as they become active and physically competent individuals.
