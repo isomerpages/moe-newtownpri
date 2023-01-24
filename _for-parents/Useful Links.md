@@ -12,11 +12,10 @@ description: ""
     
 *   [21st Century Competencies (21CC)](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)  
     
-*   [[Social and emotional learning: Resources for parents](https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents)](https://www.moe.gov.sg/programmes/social-and-emotional-learning)  (Broken link) 
+*   [Social and emotional learning: Resources for parents](https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents)
     
 *   [Subject Based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 *   Mother Tongue Languages
-
      *   [Learning MTL at Primary Schools](https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/learning-in-school)
      *   [MTL Exemption](https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/exemption)
 
@@ -41,15 +40,14 @@ description: ""
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/)  
     
 *   [NTPS Online Library Catalogue](https://schoolibrary.moe.edu.sg/newtownpri)
-*   [Sentence Master 句子达人](http://www.sentencemaster.net/)     \[Instruction Manual for Sentence Master Portal: [Chinese](https://newtownpri-moe-edu-sg-admin.cwp.sg/wbn/slot/u2959/Home/Links/Sentence%20Master%20Web%20Learning%20Instruction%20Manual%20%28Chinese%29%20v3.pdf) / [English](https://newtownpri-moe-edu-sg-admin.cwp.sg/wbn/slot/u2959/Home/Links/Sentence%20Master%20Web%20Learning%20Instruction%20Manual%20%28English%29%20v2.pdf) \]  (FILES CANNOT BE FOUND ON THE ORIGINAL SITE)
-*   [S.U.R.E (Source, Understand, Research, Evaluate)  - NLB's Information Literacy Website](https://www.nlb.gov.sg/sure/)
+*   [Sentence Master 句子达人](http://www.sentencemaster.sg/)   
 *   [Speak Good English Movement](https://www.goodenglish.org.sg/)
 *   [discoveReads](https://childrenandteens.nlb.gov.sg/)
 *   NLB Suggested Reads ([Primary 1](https://eresources.nlb.gov.sg/ereads/discovereads?level=p1) / [Primary 2](https://eresources.nlb.gov.sg/ereads/discovereads?level=p2) / [Primary 3](https://eresources.nlb.gov.sg/ereads/discovereads?level=p3) / [Primary 4](https://eresources.nlb.gov.sg/ereads/discovereads?level=p4) / [Primary 5](https://eresources.nlb.gov.sg/ereads/discovereads?level=p5) / [Primary 6](https://eresources.nlb.gov.sg/ereads/discovereads?level=p6))
 
   
 
-*   [MySkillsFuture (Primary)](https://www.myskillsfuture.sg/content/student/en/primary.html) (Broken link)
+*   [MySkillsFuture (Primary)](https://www.myskillsfuture.sg/content/student/en/primary.html) 
 *   [Total Defence](https://www.totaldefence.sg/)
 *   [Media-WISE - A SMART guide for YOUths](https://www.betterinternet.sg/)
 *   [National Library Board (NLB)](https://www.nlb.gov.sg/)
