@@ -19,7 +19,8 @@ Watch the video attached to find out what our PSG has been up to in the various 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hgrNR-lkbjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Join us here! https://forms.gle/SvYkjoWtUnBNw7aF6
+Join us here! 
+[https://go.gov.sg/psgnewtown](https://go.gov.sg/psgnewtown)
 
 Hear from our Chairman, Dr Mayank and some of our PSG volunteers on their experiences in PSG too!
 
