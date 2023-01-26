@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Notifications.md
       - Parent Support Group.md
       - Useful Links.md
       - Information for Parents.md
