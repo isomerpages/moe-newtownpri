@@ -2,7 +2,9 @@
 title: School Videos
 permalink: /accolades/school-videos/
 description: ""
+third_nav_title: Get to Know Us!
 ---
+
 **<font size=6>School Videos</font>**
 
 **<font size=5>New Town's Total Curriculum</font>**

@@ -7,9 +7,10 @@ description: ""
 
 **<font size=5>2023 Term 1</font>**
 
-* [[NTPS 2023 Term 1 Newsletter](/files/Term%201%20Newsletter%20(3%20Jan%202023).pdf)](/files/NTPS%202022%20Term%203%20Newsletter.pdf)
+* [NTPS 2023 Term 1 Newsletter](/files/Term%201%20Newsletter%20(3%20Jan%202023).pdf)
 
 * [P1 Parents Engagement Session: First Day of School](https://drive.google.com/drive/folders/1W8_QmQ8GzLspnhCnGwkhQRJLRmMpSkpu?usp=sharing)
+* [Withdrawal of Edusave for Enrichment Programmes](/files/Withdrawal%20of%20Edusave%20for%20Enrichment%20Programmes.pdf)
 
 **<font size=5>2022 Term 4</font>**
 
