@@ -5,13 +5,6 @@ description: ""
 ---
 
 
-
-
-<img align="left" style="width:400px;height:150px;margin-left:0px;" src="/images/logosub.png">
-
-<img align="right" style="width:380px;height:150px;margin-right:60px;" src="/images/Header%20GIF.gif">
-<br><br><br><br><br><br>
-
 **<font size="6">Privacy Policy</font>**
 
 1\. This is a New Town Primary School (NTPS) Website. Thank you for examining our privacy statement.  

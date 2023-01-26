@@ -4,11 +4,6 @@ permalink: /about-us/school-gallery/
 description: ""
 ---
 
-<img align="left" style="width:400px;height:150px;margin-left:0px;" src="/images/logosub.png">
-
-<img align="right" style="width:380px;height:150px;margin-right:60px;" src="/images/Header%20GIF.gif">
-<br><br><br><br><br><br>
-
 **<font size="6">School Gallery</font>**
 
 **<font size="5">School Facilities</font>**

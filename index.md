@@ -2,7 +2,7 @@
 layout: homepage
 title: New Town Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/NTPS logo white bg.jpg
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,5 @@ sections:
           description: ""
           url: /quick-links
 ---
+
+

@@ -5,13 +5,6 @@ description: ""
 ---
 
 
-
-
-<img src="/images/logosub.png" style="width:400px;height:150px;margin-left:0px;" align = "left">
-
-<img src="/images/Header%20GIF.gif" style="width:380px;height:150px;margin-right:60px;" align = "right">
-<br><br><br><br><br><br>
-
 **<font size=6>School Safety</font>**
 
 In New Town Primary, our students’ safety is the highest priority and we do not want to wait for an accident to happen before doing anything. Your cooperation will make a huge impact on the safety of pupils. Let’s make New Town Primary a safer place for all.
