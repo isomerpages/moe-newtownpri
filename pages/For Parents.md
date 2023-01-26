@@ -3,8 +3,6 @@ title: For Parents
 permalink: /for-parents/
 description: ""
 ---
-
-
 **<font size="6">For Parents</font>**
 
 *   [School Notifications](https://moe-newtownpri-staging.netlify.app/for-parents/school-notifications)
@@ -12,4 +10,4 @@ description: ""
 *   [Student iCON](https://sites.google.com/moe.edu.sg/ntps-ict/ntps-ict/student-icon)
 *   [School Staff List](https://moe-newtownpri-staging.netlify.app/about-us/school-staff)
 *   [Assessment Plans](https://drive.google.com/drive/folders/1UY2tuKlRUONIyjIm__U7XH2jJgMVqThR)
-*   [[Booklist 2023](https://drive.google.com/drive/folders/1VlSDIAXAgsdhmUMPfPR78qXJnjIuP5qv?usp=sharing)](https://drive.google.com/drive/folders/17BvECiehbFGizSvUH7SFOuM0KcHQTnVB?usp=sharing)
+*   [Booklist 2023](https://drive.google.com/drive/folders/17BvECiehbFGizSvUH7SFOuM0KcHQTnVB?usp=sharing)
