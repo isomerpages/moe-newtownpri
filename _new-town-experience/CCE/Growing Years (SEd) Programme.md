@@ -82,6 +82,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 
 </td><td style="background-color:#F7FCFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Term 3<br>Week 10</td></tr></tbody></table> 
+<b><u>Please Note:</u><br>
+* For <u>2023</u>, the Primary 5 lesson <i>“Did You Know?”</i> will also be conducted for the Primary 6 cohort. </b>
 
 
 **<font size=5>Information for Parents</font>**
