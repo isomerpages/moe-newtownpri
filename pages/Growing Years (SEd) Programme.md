@@ -64,14 +64,9 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 **At New Town Primary School, the following lessons from the Growing Years Programme will be taught in <u>2023</u>:**
 
-![2023 SEXUALITY EDUCATION LESSONS IN CCE PRIMARY 5]()
+![2023 SEXUALITY EDUCATION LESSONS IN CCE PRIMARY 5](/images/Primary%205.jpg)
 
-![2023 SEXUALITY EDUCATION LESSONS IN CCE PRIMARY 6]()
-| THEME | Column 2 | Column 3 |
-
-| THEME | LESSONS / DURATION | LESSON OVERVIEW | TIME PERIOD |
-| -------- | -------- | -------- | -------- |
-| Growing Years     | The Changes in Me (60 min)     | Text     | Text     |
+![2023 SEXUALITY EDUCATION LESSONS IN CCE PRIMARY 6](/images/Primary%206.jpg)
 
 
 
