@@ -14,7 +14,7 @@ sections:
           url: https://moe-newtownpri-staging.netlify.app/for-parents/school-notifications
         - title: For Parents
           description: ""
-          url: https://www.newtownpri.moe.edu.sg/our-people/Form-Teachers/
+          url: https://www.newtownpri.moe.edu.sg/for-parents/
         - title: Quick Links
           description: ""
           url: /quick-links
