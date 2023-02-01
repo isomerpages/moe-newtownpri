@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/New Town Homepage GIF.gif
       key_highlights:
-        - title: Announcements
+        - title: Highlights
           description: ""
-          url: https://moe-newtownpri-staging.netlify.app/for-parents/school-notifications
+          url: https://www.newtownpri.moe.edu.sg/highlights/
         - title: For Parents
           description: ""
           url: https://www.newtownpri.moe.edu.sg/for-parents/
@@ -19,4 +19,3 @@ sections:
           description: ""
           url: /quick-links
 ---
-
