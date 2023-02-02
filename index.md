@@ -2,22 +2,20 @@
 layout: homepage
 title: New Town Primary School
 description: Brief site description here
-image: /images/NTPS logo white bg.jpg
+image: /images/ntpscrest.png
 permalink: /
 notification: ""
 sections:
   - hero:
       background: /images/New Town Homepage GIF.gif
       key_highlights:
-        - title: Announcements
+        - title: Highlights
           description: ""
-          url: https://moe-newtownpri-staging.netlify.app/for-parents/school-notifications
+          url: https://www.newtownpri.moe.edu.sg/highlights/
         - title: For Parents
           description: ""
-          url: /for-parents
+          url: https://www.newtownpri.moe.edu.sg/for-parents/
         - title: Quick Links
           description: ""
           url: /quick-links
 ---
-
-

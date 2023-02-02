@@ -8,6 +8,5 @@ description: ""
 *   [School Notifications](https://moe-newtownpri-staging.netlify.app/for-parents/school-notifications)
 *   [Parents Gateway](https://moe-newtownpri-staging.netlify.app/for-parents/resources-for-parents/parents-gateway)
 *   [Student iCON](https://sites.google.com/moe.edu.sg/ntps-ict/ntps-ict/student-icon)
-*   [School Staff List](https://moe-newtownpri-staging.netlify.app/about-us/school-staff)
-*   [Assessment Plans](https://drive.google.com/drive/folders/1UY2tuKlRUONIyjIm__U7XH2jJgMVqThR)
-*   [Booklist 2023](https://drive.google.com/drive/folders/17BvECiehbFGizSvUH7SFOuM0KcHQTnVB?usp=sharing)
+*   [School Staff List](https://newtownpri.moe.edu.sg/our-people/form-teachers/)
+*   [Booklist 2023](https://drive.google.com/drive/folders/1VlSDIAXAgsdhmUMPfPR78qXJnjIuP5qv?usp=sharing)
