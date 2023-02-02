@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/New Town Homepage GIF.gif
       key_highlights:
-        - title: NTPS FACEBOOK PAGE
+        - title: NTPS FB
           description: ""
           url: https://www.facebook.com/newtownpri
         - title: For Parents
