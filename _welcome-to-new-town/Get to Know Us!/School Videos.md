@@ -1,9 +1,10 @@
 ---
 title: School Videos
-permalink: /accolades/school-videos/
+permalink: /welcome-to-new-town/school-videos/
 description: ""
 third_nav_title: Get to Know Us!
 ---
+
 
 **<font size=6>School Videos</font>**
 

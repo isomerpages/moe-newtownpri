@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/New Town Homepage GIF.gif
       key_highlights:
-        - title: Highlights
+        - title: NTPS FB
           description: ""
-          url: https://www.newtownpri.moe.edu.sg/highlights/
+          url: https://www.facebook.com/newtownpri
         - title: For Parents
           description: ""
           url: https://www.newtownpri.moe.edu.sg/for-parents/

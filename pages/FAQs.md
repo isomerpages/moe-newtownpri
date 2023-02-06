@@ -1,9 +1,10 @@
 ---
-title: FAQ
-permalink: /ntps/faq/
+title: FAQs
+permalink: /faqs/
 description: ""
 ---
-**<font size="6">FAQ</font>**
+
+**<font size="6">FAQs</font>**
 
 _**Find answers to Frequently Asked Questions.**_
 

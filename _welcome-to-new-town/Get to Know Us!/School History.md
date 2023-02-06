@@ -1,9 +1,10 @@
 ---
 title: School History
-permalink: /about-us/school-history/
+permalink: /welcome-to-new-town/school-history/
 description: ""
 third_nav_title: Get to Know Us!
 ---
+
 
 **<font size=6>School History</font>**
 
