@@ -15,3 +15,5 @@ description: ""
 |Operations Manager|Mr A Nagaratnam | a_nagaratname@schools.gov.sg|
 |Operations Manager|Mr Giam Ah Sin | giam_ah_sin@schools.gov.sg|
 |Administrative Executive|Mrs Tengku Norashikin| tengku_norashikin_tengku_abu@schools.gov.sg|
+|ICT Manager|Mr Ahmad Aljunied|syed_ahmad_hassan_aljunied@schools.gov.sg|
+|CSO|Mdm Tan Lay Leng|tan_lay_leng_b@schools.gov.sg|
