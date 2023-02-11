@@ -12,7 +12,7 @@ description: ""
 | -------- | -------- | -------- |
 |Administration Manager|Mr David Wong| wong_khong_toon@schools.gov.sg |
 |Administration Manager|Ms Saratha Devi| saratha_devi_kalechelvam@schools.gov.sg|
-|Operations Manager|Mr A Nagaratnam | a_nagaratname@schools.gov.sg|
+|Operations Manager|Mr A Nagaratnam | a_nagaratnam@schools.gov.sg|
 |Operations Manager|Mr Giam Ah Sin | giam_ah_sin@schools.gov.sg|
 |Administrative Executive|Mrs Tengku Norashikin| tengku_norashikin_tengku_abu@schools.gov.sg|
 |ICT Manager|Mr Ahmad Aljunied|syed_ahmad_hassan_aljunied@schools.gov.sg|
