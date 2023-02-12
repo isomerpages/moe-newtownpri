@@ -14,7 +14,7 @@ sections:
           url: https://www.facebook.com/newtownpri
         - title: For Parents
           description: ""
-          url: https://www.newtownpri.moe.edu.sg/for-parents/
+          url: /for-parents/
         - title: Quick Links
           description: ""
           url: /quick-links
