@@ -17,3 +17,10 @@ description: ""
 |Administrative Executive|Mrs Tengku Norashikin| tengku_norashikin_tengku_abu@schools.gov.sg|
 |ICT Manager|Mr Ahmad Aljunied|syed_ahmad_hassan_aljunied@schools.gov.sg|
 |CSO|Mdm Tan Lay Leng|tan_lay_leng_b@schools.gov.sg|
+|CSO|Mr Jeremy Tham|tham_yeu_kuen@schools.gov.sg|
+|OSO|Mdm K Amutha|k_amutha_a@schools.gov.sg|
+|OSO|Ms Janice Guo| tengku_norashikin_tengku_abu@schools.gov.sg|
+|OSO|Mr Lee Sang Poo|syed_ahmad_hassan_aljunied@schools.gov.sg|
+|OSO|Ms Nagappan Viehletchmi|tan_lay_leng_b@schools.gov.sg|
+|OSO|Mr Neo Beng Hweh|tham_yeu_kuen@schools.gov.sg|
+|OSO|Mdm Norasyikin Mokhtar|k_amutha_a@schools.gov.sg|
