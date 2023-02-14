@@ -21,7 +21,7 @@ Email : ntps@moe.edu.sg<br>
 **Contact Information**
 
 **General Office**<br>
-Operating Hours: 7am-5.30pm<br>
+Operating Hours: 7.30 am-5.00 pm<br>
 
 Tel : 6474 8805<br>
 Fax : 6474 1249<br>
