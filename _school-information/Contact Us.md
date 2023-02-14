@@ -21,7 +21,7 @@ Email : ntps@moe.edu.sg<br>
 **Contact Information**
 
 **General Office**<br>
-Operating Hours: 7am-5.30pm<br>
+Operating Hours: 7.30 am-5.00 pm<br>
 
 Tel : 6474 8805<br>
 Fax : 6474 1249<br>
@@ -153,9 +153,10 @@ Email : ntps@moe.edu.sg<br>
         <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Student Care Centre</span></p>
       </td>
       <td style="width:366.0pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:2.0in" valign="top" width="488">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:13.0pt; color:#222222" lang="EN">CareHut @ NewTown</span></b></p>
+        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:13.0pt; color:#222222" lang="EN">Commit Learning Schoolhouse Pte Ltd
+</span></b></p>
         <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">&nbsp;</span></p>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Asst Supervisor: Ms Jane Tan</span></p>
+        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN"></span></p>
         <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none; mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1536;mso-padding-alt: 0in 5.4pt 0in 5.4pt;mso-border-insideh:.75pt solid #AAAAAA;mso-border-insidev: .75pt solid #AAAAAA" width="295" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
           <tbody>
             <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:48.75pt">
@@ -163,11 +164,9 @@ Email : ntps@moe.edu.sg<br>
                 <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Tel</span></p>
               </td>
               <td style="width:153.0pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:48.75pt" valign="top" width="204">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">6950 7524<br>
+                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">80144298<br>
                 <br>
-                9833 1081<br>
-                <br>
-                8711 1458</span></p>
+                </span></p>
               </td>
             </tr>
             <tr style="mso-yfti-irow:1;height:21.0pt">
@@ -175,15 +174,7 @@ Email : ntps@moe.edu.sg<br>
                 <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Email</span></p>
               </td>
               <td style="width:153.0pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:21.0pt" valign="top" width="204">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#1870B6" lang="EN">newtownch@ccscares.sg</span></p>
-              </td>
-            </tr>
-            <tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:21.0pt">
-              <td style="width:68.25pt;border:solid #AAAAAA 1.0pt; border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt; padding:3.0pt 3.0pt 3.0pt 6.0pt;height:21.0pt" valign="top" width="91">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Website</span></p>
-              </td>
-              <td style="width:153.0pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:21.0pt" valign="top" width="204">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span lang="EN"><a href="https://ccscares.sg/"><span style="font-size:13.0pt; color:#1870B6;text-decoration:none;text-underline:none">https://ccscares.sg</span></a></span></p>
+                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#1870B6" lang="EN">clsnewtown@gmail.com</span></a></span></p>
               </td>
             </tr>
           </tbody>

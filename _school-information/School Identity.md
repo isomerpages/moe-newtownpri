@@ -3,7 +3,7 @@ title: School Identity
 permalink: /school-information/School-Identity/
 description: ""
 ---
-**School Crest**
+### School Crest
 
 <img style="width: 50%;" src="/images/About%20Us/Crest%20only%20(coloured%20no%20background).png">
 
@@ -14,7 +14,7 @@ The flame in front of the lion signifies the philosophy of the school in inculca
 The open book stands for knowledge and spirit of learning.
 
 
-**Motto**
+### Motto
 
 **Ready to Serve**
 
@@ -22,7 +22,7 @@ We must always uphold sound moral values and keep alive the spirit of learning i
 
 
 
-**School Song and Lyrics**
+### School Song
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gn7WNLQnXPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
