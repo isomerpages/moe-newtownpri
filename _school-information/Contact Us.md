@@ -3,10 +3,7 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-**Contact Us**
-
-**School Location**
-
+### School Location 
 **![](https://lh6.googleusercontent.com/QxkOg6mXiUIEMZVVZRHSPTkJCllzN_AZu7zKYgcv42e7C3MNQJTmOLxQ6XMFeCxJ_FPpM6_DjcOJ5Ttv_6fU6P9q4ChL3KK6mhDBRXqPJfGHKgElPodO1t90In8_8SWnstsF8rXHL_drFhL6rfAJw5RKsi-n1h4QagD6CPOmiMfYVoRUx2ge87rUUOGujQ)**
 
 New Town Primary School <br>
@@ -18,7 +15,7 @@ Fax : 6474 1249<br>
 Email : ntps@moe.edu.sg<br>
 
 
-**Contact Information**
+### Contact Information
 
 **General Office**<br>
 Operating Hours: 7.30 am-5.00 pm<br>

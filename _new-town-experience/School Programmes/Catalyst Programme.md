@@ -1,9 +1,10 @@
 ---
-title: Project Enable
-permalink: /new-town-experience/School-Programmes/Project-Enable/
+title: Catalyst Programme
+permalink: /new-town-experience/School-Programmes/Catalyst-Programme/
 description: ""
 third_nav_title: School Programmes
 ---
+
 **Catalyst**
 
 Goals

@@ -14,11 +14,11 @@ description: ""
 |Operations Manager|Mr Giam Ah Sin | giam_ah_sin@schools.gov.sg|
 |Administrative Executive|Mrs Tengku Norashikin| tengku_norashikin_tengku_abu@schools.gov.sg|
 |ICT Manager|Mr Ahmad Aljunied|syed_ahmad_hassan_aljunied@schools.gov.sg|
-|CSO|Mdm Tan Lay Leng|tan_lay_leng_b@schools.gov.sg|
-|CSO|Mr Jeremy Tham|tham_yeu_kuen@schools.gov.sg|
-|OSO|Mdm Amutha K|k_amutha_a@schools.gov.sg|
-|OSO|Ms Janice Guo| guo_zhenzhen@schools.gov.sg|
-|OSO|Mr Lee Sang Poo|lee_sang_poo@moe.edu.sg|
-|OSO|Ms Nagappan Viehletchmi|nagappan_viehletchmi@moe.edu.sg|
-|OSO|Mr Neo Beng Hweh|neo_beng_hweh@moe.edu.sg|
-|OSO|Mdm Norasyikin Mokhtar|norasyikin_mokhtar@schools.gov.sg|
+|Corporate Support Officer|Mdm Tan Lay Leng|tan_lay_leng_b@schools.gov.sg|
+|Corporate Support Officer|Mr Jeremy Tham|tham_yeu_kuen@schools.gov.sg|
+|Operations Support Officer|Mdm Amutha K|k_amutha_a@schools.gov.sg|
+|Operations Support Officer|Ms Janice Guo| guo_zhenzhen@schools.gov.sg|
+|Operations Support Officer|Mr Lee Sang Poo|lee_sang_poo@moe.edu.sg|
+|Operations Support Officer|Ms Nagappan Viehletchmi|nagappan_viehletchmi@moe.edu.sg|
+|Operations Support Officer|Mr Neo Beng Hweh|neo_beng_hweh@moe.edu.sg|
+|Operations Support Officer|Mdm Norasyikin Mokhtar|norasyikin_mokhtar@schools.gov.sg|
