@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parent Engagement Sessions/.keep
-      - Parent Engagement Sessions/P1 Orientation.md
       - Parent Engagement Sessions/First Day of School.md
       - Parent Engagement Sessions/P1 P2 Parent Engagement Session.md
       - Parent Engagement Sessions/P3 P4 Parent Engagement Session.md
