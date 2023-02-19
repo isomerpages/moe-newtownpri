@@ -2,10 +2,6 @@ collections:
   for-parents-old:
     output: true
     order:
-      - Parent Engagement Sessions/.keep
-      - Parent Engagement Sessions/P1 P2 Parent Engagement Session.md
-      - Parent Engagement Sessions/P3 P4 Parent Engagement Session.md
-      - Parent Engagement Sessions/P5 P6 Parent Engagement Session.md
       - Forms for Parents.md
       - Parent Teacher Communication.md
       - Resources for Parents/Parents Gateway.md
