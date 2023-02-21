@@ -2,8 +2,9 @@
 title: Glossary of Abbreviations & Acronyms
 permalink: /for-parents/resources-for-parents/glossary-of-abbreviations-n-acronyms/
 description: ""
-third_nav_title: Resources for Parents
+third_nav_title: Information for Parents
 ---
+
 <img align="left" style="width:400px;height:150px;margin-left:0px;" src="/images/logosub.png">
 
 <img align="right" style="width:380px;height:150px;margin-right:60px;" src="/images/Header%20GIF.gif">

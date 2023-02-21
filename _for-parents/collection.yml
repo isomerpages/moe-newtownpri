@@ -2,6 +2,10 @@ collections:
   for-parents:
     output: true
     order:
+      - Information for Parents/Glossary of Abbreviations & Acronyms.md
+      - Information for Parents/School Calendar.md
+      - Information for Parents/Parents Gateway.md
+      - Information for Parents/.keep
       - School Notifications.md
       - Parent Support Group.md
       - Useful Links.md

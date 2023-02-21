@@ -12,6 +12,7 @@ description: ""
 * [P1 Parents Engagement Session: First Day of School](https://drive.google.com/drive/folders/1W8_QmQ8GzLspnhCnGwkhQRJLRmMpSkpu?usp=sharing)
 * [Withdrawal of Edusave for Enrichment Programmes](/files/Withdrawal%20of%20Edusave%20for%20Enrichment%20Programmes.pdf)
 * [P5 & P6 Parents Engagement Session (10 Feb 2023)](https://drive.google.com/drive/folders/1okPiNFh4sg_rbRJ4h899D7yzZwF5iJau?usp=sharing)
+* [Assessment Plans 2023](https://drive.google.com/drive/folders/1XTEISIShHhkN0QWta0NY9WmbiOM7XFo8?usp=share_link)
 
 **<font size=5>2022 Term 4</font>**
 
