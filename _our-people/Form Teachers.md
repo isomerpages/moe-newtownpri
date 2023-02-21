@@ -3,7 +3,7 @@ title: Form Teachers
 permalink: /our-people/form-teachers/
 description: ""
 ---
-### Primary 1 Form Teachers
+### Primary 1 Form Teachers ###
 -----------------------
 
   
@@ -12,7 +12,7 @@ description: ""
 
   
   
-### Primary 2 Form Teachers
+### Primary 2 Form Teachers ###
 -----------------------
 
   
