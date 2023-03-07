@@ -13,7 +13,12 @@ description: ""
 * [Withdrawal of Edusave for Enrichment Programmes](/files/Withdrawal%20of%20Edusave%20for%20Enrichment%20Programmes.pdf)
 * [P5 & P6 Parents Engagement Session (10 Feb 2023)](https://drive.google.com/drive/folders/1okPiNFh4sg_rbRJ4h899D7yzZwF5iJau?usp=sharing)
 * [Assessment Plans 2023](https://drive.google.com/drive/folders/1XTEISIShHhkN0QWta0NY9WmbiOM7XFo8?usp=share_link)
-* [P3 & P4 Parents Engagement Session (24 Feb 2023)                                   ](https://for.edu.sg/ntpsp3p4parentsengagement2023)
+* [P3 & P4 Parents Engagement Session (24 Feb 2023)](https://for.edu.sg/ntpsp3p4parentsengagement2023)
+
+* [E-learning Plans (10 Mar 2023)](https://drive.google.com/drive/u/0/folders/10mhtbkGeSGcTIEuy7rudRsODDmIdIefN)
+
+
+
 
 **<font size=5>2022 Term 4</font>**
 
