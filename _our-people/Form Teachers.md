@@ -54,18 +54,17 @@ description: ""
 | Class | Name | Email |
 | -------- | -------- | -------- |
 | P6-1| Ms Irene Lim | lim_tong_hwee_irene@schools.gov.sg |
-| P6-1| Mr Caleb Tan | caleb_tan@schools.gov.sg |
-| P6-1| Mdm Noraini | noraini_karsani@schools.gov.sg |
+| | Mr Caleb Tan | caleb_tan@schools.gov.sg |
+| | Mdm Noraini | noraini_karsani@schools.gov.sg |
 | P6-2| Mr Jason Tan | tan_swee_chye_jason@schools.gov.sg |
-| P6-2| Mdm Siti Mariam| siti_mariam_mohd_yussof@schools.gov.sg|
-| P6-2| Mdm Zahirah Banu| zahirah_banu_mohamed_ally@schools.gov.sg|
+| | Mdm Siti Mariam| siti_mariam_mohd_yussof@schools.gov.sg|
+| | Mdm Zahirah Banu| zahirah_banu_mohamed_ally@schools.gov.sg|
 | P6-3| Mr Johnson Li | li_yuxiang_johnson@schools.gov.sg |
-| P6-3| Mdm Esther Goh | goh_gek_puay_esther@schools.gov.sg |
+| | Mdm Esther Goh | goh_gek_puay_esther@schools.gov.sg |
 | P6-4| Mdm Nur Mashitah |nur_mashitah_hosaini@schools.gov.sg |
-| P6-4| Mr Wang Jianbo | wang_jianbo@schools.gov.sg |
-| P6-4| Mr Low Yew Fai| low_yew_fai@schools.gov.sg|
+| | Mr Wang Jianbo | wang_jianbo@schools.gov.sg |
+| | Mr Low Yew Fai| low_yew_fai@schools.gov.sg|
 | P6-5| Ms Chia Kim Fung| chia_kim_fung@schools.gov.sg|
-| P6-5| Mr Xu Jingwei |xu_jingwei_a@schools.gov.sg |
+| | Mr Xu Jingwei |xu_jingwei_a@schools.gov.sg |
 | P6-6| Mdm Woon Wei Li | woon_wei_li@schools.gov.sg |
-| P6-6| Mr Mohamad Iskandar|mohamad_iskandar_mohd_yaakop@schools.gov.sg|
-
+| | Mr Mohamad Iskandar|mohamad_iskandar_mohd_yaakop@schools.gov.sg|
