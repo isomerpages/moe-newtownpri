@@ -30,7 +30,7 @@ description: ""
 | -------- | -------- | -------- |
 | Consolation | Cao Junrong | P6-3  |
 
-### National School Games – South Zone Netball Championship (Senior) 
+### National School Games – Netball Championship 2023 (South Zone Senior Division Girls) 
 | Achievement | Name | Class |
 | -------- | -------- | -------- |
 | 3rd Runner-Up | Rajarathanam Lekha Sri | P6-2  |
