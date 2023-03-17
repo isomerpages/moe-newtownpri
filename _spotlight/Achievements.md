@@ -7,13 +7,13 @@ description: ""
 
 ### Red Cross (Youth) Excellent Unit Award
 
-| Achievemennt | Name | Class |
+| Achievement | Name | Class |
 | -------- | -------- | -------- |
 | Gold     | NEW TOWN PRIMARY SCHOOL RED CROSS (YOUTH) CCA    |    |
 
 ### Red Cross (Youth) - Ambassadors of Blood Donation Championship Poster Design
 
-| Achievemennt | Name | Class |
+| Achievement | Name | Class |
 | -------- | -------- | -------- |
 | 2nd Runner-Up     | Cynthia Lim Xunyi     | P6-3   |
 |    | Sng Nuo Yi Noah    | P6-3   |
@@ -21,17 +21,17 @@ description: ""
 
 
 ### Red Cross (Youth) - Let’s Prepare a Ready Bag
-| Achievemennt | Name | Class |
+| Achievement | Name | Class |
 | -------- | -------- | -------- |
 | Top 10     | Members of New Town Pri Red Cross (Youth) CCA |  |
 
 ### National Primary Schools Chinese Calligraphy Competition 2023
-| Achievemennt | Name | Class |
+| Achievement | Name | Class |
 | -------- | -------- | -------- |
 | Consolation | Cao Junrong | P6-3  |
 
 ### National School Games – South Zone Netball Championship (Senior) 
-| Achievemennt | Name | Class |
+| Achievement | Name | Class |
 | -------- | -------- | -------- |
 | 4th | Rajarathanam Lekha Sri | P6-2  |
 | | May Sanda Hninin | P6-3  |
