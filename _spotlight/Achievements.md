@@ -5,11 +5,11 @@ description: ""
 ---
 ## Achievements
 
-### Red Cross (Youth) Excellent Unit Award
+### Red Cross (Youth) - Excellent Unit Award
 
 | Achievement | Name | Class |
 | -------- | -------- | -------- |
-| Gold     | NEW TOWN PRIMARY SCHOOL RED CROSS (YOUTH) CCA    |    |
+| Gold     | New Town Pri Red Cross (Youth) CCA    |    |
 
 ### Red Cross (Youth) - Ambassadors of Blood Donation Championship Poster Design
 
@@ -33,7 +33,7 @@ description: ""
 ### National School Games – South Zone Netball Championship (Senior) 
 | Achievement | Name | Class |
 | -------- | -------- | -------- |
-| 4th | Rajarathanam Lekha Sri | P6-2  |
+| 3rd Runner-Up | Rajarathanam Lekha Sri | P6-2  |
 | | May Sanda Hninin | P6-3  |
 | | Nur Indah Maisarah Binte Mohd Yazit | P6-3  |
 | | Arada Wong Si Ting | P6-4  |
