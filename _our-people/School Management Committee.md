@@ -4,6 +4,7 @@ permalink: /our-people/school-management-committee/
 description: ""
 ---
 <font size=6>**School Leaders**</font>
+-------
 |	Designation	|	Name	|	Email
 |	---	|	---	|	---
 |	Principal	|	Mrs Tan-Ng Wie Pin	|	tan_wie_pin@schools.gov.sg
@@ -13,6 +14,7 @@ description: ""
 
 
 <font size=6>**Key Personnel**</font>
+------
 |	Designation	|	  Name	|	Email	|
 |	---	|	---	|	---	|
 |	HOD / Aesthetics	|	Mrs Hoo Yew Fang 	|	lee_yew_fang@schools.gov.sg	|
@@ -45,9 +47,9 @@ description: ""
 |	Operations Manager	|	Mr Giam Ah Sin	|	giam_ah_sin@schools.gov.sg	|
 |	Operations Manager	|	Mr Nagaratnam	|a_nagaratnam@schools.gov.sg	|
 
-<br>
 
 <font size=6>**Teacher Leaders**</font>
+------
 
 |	Designation	|	Name	|	Email	|
 |	---	|	---	|	---	|
