@@ -3,7 +3,7 @@ title: School Management Committee
 permalink: /our-people/school-management-committee/
 description: ""
 ---
-<font size=6>**School Leaders**</font>
+**<font size=6>School Leaders</font>**
 -------
 |	Designation	|	Name	|	Email
 |	---	|	---	|	---
@@ -13,7 +13,7 @@ description: ""
 |	Vice-Principal (Admin)	|	Mdm Jodie Tay 	|	jodie_tay@schools.gov.sg
 
 
-<font size=6>**Key Personnel**</font>
+**<font size=6>Key Personnel</font>**
 ------
 |	Designation	|	  Name	|	Email	|
 |	---	|	---	|	---	|
@@ -48,7 +48,7 @@ description: ""
 |	Operations Manager	|	Mr Nagaratnam	|a_nagaratnam@schools.gov.sg	|
 
 
-<font size=6>**Teacher Leaders**</font>
+**<font size=6>Teacher Leaders</font>**
 ------
 
 |	Designation	|	Name	|	Email	|
