@@ -3,7 +3,8 @@ title: Allied Educators
 permalink: /our-people/allied-educators/
 description: ""
 ---
-### Allied Educators
+**<font size=6>Allied Educators</font>**
+-----------------------
  
 |Designation | Name | Email |
 | -------- | -------- | -------- |

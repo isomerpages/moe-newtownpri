@@ -3,15 +3,16 @@ title: Achievements
 permalink: /spotlight/Achievements/
 description: ""
 ---
-## Achievements
+# Achievements #
 
-### Red Cross (Youth) - Excellent Unit Award
+
+#### Red Cross (Youth) - Excellent Unit Award ####  
 
 | Achievement | Name | Class |
 | -------- | -------- | -------- |
 | Gold     | New Town Pri Red Cross (Youth) CCA    |    |
 
-### Red Cross (Youth) - Ambassadors of Blood Donation Championship Poster Design
+#### Red Cross (Youth) - Ambassadors of Blood Donation Championship Poster Design #### 
 
 | Achievement | Name | Class |
 | -------- | -------- | -------- |
@@ -20,17 +21,22 @@ description: ""
 |    | Muhammad Zuhayr Bin Muhammad Taufiq    | P6-5   |
 
 
-### Red Cross (Youth) - Let’s Prepare a Ready Bag
+#### Red Cross (Youth) - Let’s Prepare a Ready Bag ####
+
 | Achievement | Name | Class |
 | -------- | -------- | -------- |
-| Top 10     | Members of New Town Pri Red Cross (Youth) CCA |  |
+| Top 10 | Members of New Town Pri Red Cross (Youth) CCA |   |
 
-### National Primary Schools Chinese Calligraphy Competition 2023
+
+#### National Primary Schools Chinese Calligraphy Competition 2023 ####
+
 | Achievement | Name | Class |
 | -------- | -------- | -------- |
-| Consolation | Cao Junrong | P6-3  |
+| Consolation | Cao Junrong | P6-3 |
 
-### National School Games – SPSSC Netball Championship 2023 (South Zone Senior Division Girls) 
+
+#### National School Games – SPSSC Netball Championship 2023 (South Zone Senior Division Girls) ####
+
 | Achievement | Name | Class |
 | -------- | -------- | -------- |
 | 3rd Runner-Up | Rajarathanam Lekha Sri | P6-2  |
