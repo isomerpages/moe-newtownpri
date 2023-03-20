@@ -3,8 +3,8 @@ title: Executive and Administrative Staff
 permalink: /our-people/executive-and-administrative-staff/
 description: ""
 ---
-### Executive and Administrative Staff
-
+<font size=6>**Executive and Administrative Staff**</font>  
+-----------------------
 
 | Designation | Name | Email |
 | -------- | -------- | -------- |
