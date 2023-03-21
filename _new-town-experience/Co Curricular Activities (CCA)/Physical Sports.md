@@ -1,9 +1,10 @@
 ---
 title: Physical Sports
-permalink: /new-town-experience/Co-Curricular-Activities/Physical-Sports/
+permalink: /new-town-experience/co-curricular-activities/physical-sports/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
+
 ## Physical Sports
 Building on the Physical Education (PE) programme to create a strong foundation for the development of broad-based physical competencies and opportunities for recreational participation, Physical Sports CCAs cater to students with interest in both recreational and competitive levels. Physical Sports CCAs develop robustness, fair play and team spirit in students as they become active and physically competent individuals in the sports that they participate in.
 

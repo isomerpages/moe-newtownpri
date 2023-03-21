@@ -1,10 +1,12 @@
 ---
-title: CCA
-permalink: /new-town-experience/Co-Curricular-Activities/CCA/
+title: CCAs
+permalink: /new-town-experience/co-curricular-activities/ccas/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-## CCA Goals
+
+
+## CCA Goals ##
 
 CCA is an integral part of our students’ holistic education. Through CCA, students discover their interests and talents while developing values and competencies that will prepare them for a rapidly changing world. 
 

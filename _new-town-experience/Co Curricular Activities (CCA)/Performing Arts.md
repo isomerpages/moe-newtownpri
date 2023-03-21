@@ -1,9 +1,10 @@
 ---
 title: Performing Arts
-permalink: /new-town-experience/Co-Curricular-Activities/Performing-Arts/
+permalink: /new-town-experience/co-curricular-activities/performing-arts/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
+
 ## Performing Arts 
 Performing Arts CCAs instill in students a sense of graciousness and an appreciation for the rich and heritage of a multi-racial society. These CCAs provide opportunities for students to develop a lifelong passion for the arts. They also nurture students’ creative expression, enrich social, cultural and historical awareness, and build character.
 

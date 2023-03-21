@@ -1,9 +1,10 @@
 ---
 title: Uniformed Groups
-permalink: /new-town-experience/Co-Curricular-Activities/Uniformed-Groups/
+permalink: /new-town-experience/co-curricular-activities/uniformed-groups/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
+
 ## Uniformed Groups
 ## 
 Uniformed Group CCAs aim to make good citizens of students by providing authentic learning experiences which will help them develop important qualities such as self-reliance, leadership, resilience, discipline, teamwork and a spirit of service to others.
