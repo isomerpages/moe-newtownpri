@@ -5,6 +5,12 @@ description: ""
 ---
 # Achievements #
 
+#### Girl Guides (Brownies) - Puan Noor Aishah Award ####  
+
+| Achievement | Name | Class |
+| -------- | -------- | -------- |
+| Gold     | New Town Pri Girl Guides (Brownies) CCA    |    |
+
 
 #### Red Cross (Youth) - Excellent Unit Award ####  
 
