@@ -5,6 +5,10 @@ description: ""
 ---
 **<font size="6">School Notifications</font>**
 
+**<font size=5>2023 Term 2</font>**
+* [NTPS 2023 Term 2 Newsletter](/files/Term%202%20Newsletter%202023.pdf)
+
+
 **<font size=5>2023 Term 1</font>**
 
 * [NTPS 2023 Term 1 Newsletter](/files/Term%201%20Newsletter%20(3%20Jan%202023).pdf)
