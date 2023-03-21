@@ -3,8 +3,8 @@ title: School Management Committee
 permalink: /our-people/school-management-committee/
 description: ""
 ---
-**<font size=6>School Leaders</font>**
--------
+## School Leaders ##
+------
 |	Designation	|	Name	|	Email
 |	---	|	---	|	---
 |	Principal	|	Mrs Tan-Ng Wie Pin	|	tan_wie_pin@schools.gov.sg
@@ -13,7 +13,7 @@ description: ""
 |	Vice-Principal (Admin)	|	Mdm Jodie Tay 	|	jodie_tay@schools.gov.sg
 
 
-**<font size=6>Key Personnel</font>**
+## Key Personnel ##
 ------
 |	Designation	|	  Name	|	Email	|
 |	---	|	---	|	---	|
@@ -48,7 +48,7 @@ description: ""
 |	Operations Manager	|	Mr Nagaratnam	|a_nagaratnam@schools.gov.sg	|
 
 
-**<font size=6>Teacher Leaders</font>**
+## Teacher Leaders ##
 ------
 
 |	Designation	|	Name	|	Email	|
