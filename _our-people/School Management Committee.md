@@ -5,23 +5,25 @@ description: ""
 ---
 ## School Leaders ##
 ------
-|	Designation	|	Name	|	Email
-|	---	|	---	|	---
-|	Principal	|	Mrs Tan-Ng Wie Pin	|	tan_wie_pin@schools.gov.sg
-|	Vice-Principal	|	Mr Bryan Ong	|	bryan_ong@schools.gov.sg
-|	Vice-Principal	|	Mrs Lynne Chan	|	chin_wey_ling@schools.gov.sg
-|	Vice-Principal (Admin)	|	Mdm Jodie Tay 	|	jodie_tay@schools.gov.sg
+
+|	Designation	|	Name	|	Email 	|	
+|	---	|	---	|	--- 	|	
+|	Principal	|	Mrs Tan-Ng Wie Pin	|	tan_wie_pin@schools.gov.sg 	|	
+|	Vice-Principal	|	Mr Bryan Ong	|	bryan_ong@schools.gov.sg 	|	
+|	Vice-Principal	|	Mrs Lynne Chan	|	chin_wey_ling@schools.gov.sg 	|	
+|	Vice-Principal (Admin)	|	Mdm Jodie Tay 	|	jodie_tay@schools.gov.sg 	|	
 
 
 ## Key Personnel ##
 ------
-|	Designation	|	  Name	|	Email	|
+
+|	Designation	|	 Name	|	Email	|
 |	---	|	---	|	---	|
 |	HOD / Aesthetics	|	Mrs Hoo Yew Fang 	|	lee_yew_fang@schools.gov.sg	|
-|	HOD / CCE|	Ms Khoo Ri Zhen	|	khoo_ri_zhen@schools.gov.sg	|
+|	HOD / CCE| Ms Khoo Ri Zhen	|	khoo_ri_zhen@schools.gov.sg	|
 |	HOD / English	|	Mrs Serene Lee 	|	teo_shiwei@schools.gov.sg	|
 |	HOD / ICT	|	Ms Tan Yan Fen	|	tan_yan_fen@schools.gov.sg	|
-|	HOD / Mathematics	|	Mdm Chua Siao Wen 	|	chua_siao_wen@schools.gov.sg	|
+|	HOD / Mathematics	|	Mdm Chua Siao Wen |	chua_siao_wen@schools.gov.sg	|
 |	HOD / Mother Tongue	|	Mdm Teh Sok Fun	|	teh_sok_fun@schools.gov.sg	|
 |	HOD / PE & CCA	|	Mr Vincent Heng	|	heng_swee_chye_vincent@schools.gov.sg	|
 |	HOD / Science	|	Mr Chew Zichun	|	chew_zichun@schools.gov.sg	|
