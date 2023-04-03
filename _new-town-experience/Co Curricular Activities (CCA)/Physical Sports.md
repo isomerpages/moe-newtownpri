@@ -45,6 +45,9 @@ Badminton aims to improve our players’ mental and physical agility. Our traini
   height:.25in" valign="top" width="245"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">Mdm Lin Zhihui</span></p></td><td style="width:273.85pt;border:none;border-bottom:
   solid #AAAAAA 1.0pt;mso-border-bottom-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;
   height:.25in" valign="top" width="365"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#1870B6" lang="EN">lin_zhihui@schools.gov.sg</span><span lang="EN"></span></p></td></tr></tbody></table>
+	
+	![](/images/CCA/badminton%201.jpg)
+	![](/images/CCA/badminton%202.jpg)
 
 ### **Basketball**
 
@@ -73,6 +76,9 @@ Basketball is a team sport that requires every team member to become competent i
   height:.25in" valign="top" width="245"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">Mr Wang Jianbo</span></p></td><td style="width:273.55pt;border:none;border-bottom:
   solid #AAAAAA 1.0pt;mso-border-bottom-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;
   height:.25in" valign="top" width="365"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#1870B6" lang="EN">wang_jianbo@schools.gov.sg</span><span lang="EN"></span></p></td></tr></tbody></table>
+	
+	![](/images/CCA/basketball%201.jpg)
+	![](/images/CCA/basketball%202.jpg)
 
 ### **Football**
 
@@ -101,6 +107,9 @@ Football provides opportunities for our players to interact and develop their ga
   height:.25in" valign="top" width="244"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">Mr Tey Kam Yam</span></p></td><td style="width:274.5pt;border:none;border-bottom:solid #AAAAAA 1.0pt;
   mso-border-bottom-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;
   height:.25in" valign="top" width="366"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">tey_kam_yam@schools.gov.sg</span></p></td></tr></tbody></table>
+
+![](/images/CCA/football%202.jpg)
+![](/images/CCA/football%201.jpg)
 
 ### **Netball**
 
@@ -145,3 +154,6 @@ Netball provides platforms for players to build physical strength, mental and ph
   solid #AAAAAA 1.0pt;mso-border-bottom-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;
   height:.25in" valign="top" width="365"><p style="text-align:justify;line-height:normal;mso-pagination:
   none" class="MsoNormal"><span style="color:#1870B6" lang="EN">tan_pek_che@schools.gov.sg</span></p></td></tr></tbody></table>
+	
+	![](/images/CCA/netball%201.jpg)
+	![](/images/CCA/netball%202.jpg)
