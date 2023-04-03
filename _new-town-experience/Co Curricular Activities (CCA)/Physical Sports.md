@@ -4,7 +4,6 @@ permalink: /new-town-experience/co-curricular-activities/physical-sports/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
 ## Physical Sports
 Building on the Physical Education (PE) programme to create a strong foundation for the development of broad-based physical competencies and opportunities for recreational participation, Physical Sports CCAs cater to students with interest in both recreational and competitive levels. Physical Sports CCAs develop robustness, fair play and team spirit in students as they become active and physically competent individuals in the sports that they participate in.
 
@@ -16,7 +15,7 @@ We offer the following Physical Sports CCAs:
 
 
 ### **Badminton**
-### 
+
 Badminton aims to improve our players’ mental and physical agility. Our training sessions train our players in the spirit of fair play, teamwork and sportsmanship on and off the court. Our players are guided by professional coaches during the weekly training sessions to improve their badminton skills and build their stamina and endurance. Our school team players take part in the National School Games - Badminton Competitions and other external competitions to further hone their badminton skills.
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
@@ -48,7 +47,7 @@ Badminton aims to improve our players’ mental and physical agility. Our traini
   height:.25in" valign="top" width="365"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#1870B6" lang="EN">lin_zhihui@schools.gov.sg</span><span lang="EN"></span></p></td></tr></tbody></table>
 
 ### **Basketball**
-### 
+
 Basketball is a team sport that requires every team member to become competent in individual skills and to work as a team to achieve a common goal. Our players undergo regular training sessions to develop fundamental movement skills. Team and inter-school games help to instill values such as self-discipline, resilience, team spirit and sportsmanship, and  build life skills such as teamwork and good communication skills, in all our players. Players who show aptitude and positive attitude are selected to represent the school in various competitions such as National School Games - Basketball Competitions.
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
