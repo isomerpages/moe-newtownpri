@@ -46,8 +46,8 @@ Badminton aims to improve our players’ mental and physical agility. Our traini
   solid #AAAAAA 1.0pt;mso-border-bottom-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;
   height:.25in" valign="top" width="365"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#1870B6" lang="EN">lin_zhihui@schools.gov.sg</span><span lang="EN"></span></p></td></tr></tbody></table>
 	
-	![](/images/CCA/badminton%201.jpg)
-	![](/images/CCA/badminton%202.jpg)
+![](/images/CCA/badminton%201.jpg)
+![](/images/CCA/badminton%202.jpg)
 
 ### **Basketball**
 
@@ -77,8 +77,8 @@ Basketball is a team sport that requires every team member to become competent i
   solid #AAAAAA 1.0pt;mso-border-bottom-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 3.0pt;
   height:.25in" valign="top" width="365"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#1870B6" lang="EN">wang_jianbo@schools.gov.sg</span><span lang="EN"></span></p></td></tr></tbody></table>
 	
-	![](/images/CCA/basketball%201.jpg)
-	![](/images/CCA/basketball%202.jpg)
+![](/images/CCA/basketball%201.jpg)
+![](/images/CCA/basketball%202.jpg)
 
 ### **Football**
 
@@ -112,9 +112,6 @@ Football provides opportunities for our players to interact and develop their ga
 ![](/images/CCA/football%201.jpg)
 
 ### **Netball**
-
-![](/images/CCA/netball%201.jpg)
-![](/images/CCA/netball%202.jpg)
 
 Netball provides platforms for players to build physical strength, mental and physical agility and teamwork. Through fun activities and modified games, our players learn basic netball skills and improve their motor skills, agility, endurance and overall fitness. As they learn to work together, our players develop teamwork and resilience and strengthen their social and communication skills. Our players participate in various competitions such as the National School Games - Netball Competitions to further hone their netball skills.
 
@@ -158,3 +155,6 @@ Netball provides platforms for players to build physical strength, mental and ph
   height:.25in" valign="top" width="365"><p style="text-align:justify;line-height:normal;mso-pagination:
   none" class="MsoNormal"><span style="color:#1870B6" lang="EN">tan_pek_che@schools.gov.sg</span></p></td></tr></tbody></table>
 	
+![](/images/CCA/netball%201.jpg)
+
+![](/images/CCA/netball%202.jpg)
