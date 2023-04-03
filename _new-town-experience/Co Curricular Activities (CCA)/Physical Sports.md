@@ -113,6 +113,9 @@ Football provides opportunities for our players to interact and develop their ga
 
 ### **Netball**
 
+![](/images/CCA/netball%201.jpg)
+![](/images/CCA/netball%202.jpg)
+
 Netball provides platforms for players to build physical strength, mental and physical agility and teamwork. Through fun activities and modified games, our players learn basic netball skills and improve their motor skills, agility, endurance and overall fitness. As they learn to work together, our players develop teamwork and resilience and strengthen their social and communication skills. Our players participate in various competitions such as the National School Games - Netball Competitions to further hone their netball skills.
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
@@ -155,5 +158,3 @@ Netball provides platforms for players to build physical strength, mental and ph
   height:.25in" valign="top" width="365"><p style="text-align:justify;line-height:normal;mso-pagination:
   none" class="MsoNormal"><span style="color:#1870B6" lang="EN">tan_pek_che@schools.gov.sg</span></p></td></tr></tbody></table>
 	
-	![](/images/CCA/netball%201.jpg)
-	![](/images/CCA/netball%202.jpg)
