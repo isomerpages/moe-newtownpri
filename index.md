@@ -18,4 +18,12 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
+  - infopic:
+      title: New Town Fiesta!
+      subtitle: COME JOIN US AT OUR
+      description: HAPPENING FRIDAY, 26 MAY 1PM - 5PM
+      button: click for more details
+      url: http://for.edu.sg/ntpseopenhouse
+      image: /images/new town fiesta 2023 poster.png
+      alt: Image alt text
 ---
