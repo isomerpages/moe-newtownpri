@@ -21,8 +21,8 @@ sections:
   - infopic:
       title: New Town Fiesta!
       subtitle: COME JOIN US AT OUR
-      description: HAPPENING FRIDAY, 26 MAY 1PM - 5PM
-      button: click for more details
+      description: HAPPENING FRIDAY, 26 MAY 2023, 1PM - 5PM
+      button: scan the qr code for details
       url: http://for.edu.sg/ntpseopenhouse
       image: /images/new town fiesta 2023 poster.png
       alt: Image alt text
