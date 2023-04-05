@@ -85,7 +85,6 @@ The Infocomm Technology (Media Production) club caters to students who are passi
   height:.25in" valign="top" width="325"><p style="text-align:justify;line-height:normal;mso-pagination:
   none" class="MsoNormal"><span style="color:#1870B6" lang="EN">tan_xinpei@schools.gov.sg</span><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri" lang="EN"></span></p></td></tr></tbody></table>
 
-![](/images/School%20Programmes/imdaimctagline.jpg)
 
 ### **Robotics Club**
 Members learn basic construction and programming skills, from experienced instructors, to build robots that can achieve certain tasks. Students are provided platforms for collaborative learning to hone their skills to work in a team. Dedicated members who display good attitude and aptitude through the guided CCA sessions are selected to represent the school in various competitions such as the National Junior Robotics Competition.
