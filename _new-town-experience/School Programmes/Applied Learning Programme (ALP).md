@@ -4,7 +4,7 @@ permalink: /school-programmes/applied-learning-programme-alp/
 description: ""
 third_nav_title: School Programmes
 ---
-**Applied Learning Programme - Citizen scieNcE@New Town**
+#### **Applied Learning Programme - Citizen scieNcE@New Town**
 
 Our Applied Learning Programme is an interdisciplinary programme that explores the National Education (NE) Issues of food, energy and water security through the lens of Science, innovation and technology.
 
@@ -14,8 +14,7 @@ Our Applied Learning Programme is an interdisciplinary programme that explores t
 
 Singapore, a nation with limited natural resources, continually faces the challenges of vulnerability in terms of sufficient and stable food, energy and water supply. As a country, we have mitigated these challenges through innovation and technology, and thrived in the past few decades. Our ALP seeks to sensitise our students to these issues and equip them to appreciate, act on and eventually advocate for these issues.
 
-**Overview**
-
+#### **Overview**
 ![](/images/School%20Programmes/ALP/overview%20(v2).jpg)
 
 P2 students are exposed to simple concepts of water, food and energy security through hands-on activities. Students appreciate that our access to clean water, safe and nutritious food, and reliable energy should not be taken for granted.
