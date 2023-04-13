@@ -8,9 +8,8 @@ third_nav_title: School Programmes
 
 Our Applied Learning Programme is an interdisciplinary programme that explores the National Education (NE) Issues of food, energy and water security through the lens of Science, innovation and technology.
 
-**Goals**
-
-![](/images/ALPGoals.jpeg)
+#### **Goals**
+![](/images/School%20Programmes/ALP/ALPGoals.jpeg)
 
 Singapore, a nation with limited natural resources, continually faces the challenges of vulnerability in terms of sufficient and stable food, energy and water supply. As a country, we have mitigated these challenges through innovation and technology, and thrived in the past few decades. Our ALP seeks to sensitise our students to these issues and equip them to appreciate, act on and eventually advocate for these issues.
 
@@ -29,6 +28,7 @@ P5 students taking a guided tour to the NEWater Visitor Centre as part of the Wa
 P5 students applying what they have learnt about the four national taps to build an exhibition house in Minecraft: Education Edition.
 
 ![](/images/School%20Programmes/ALP/rain%20garden%201.jpeg)
+
 ![](/images/School%20Programmes/ALP/rain%20garden%202.jpeg)
 P5 students engaged in a rain garden workshop to learn about ways to reuse water
 
