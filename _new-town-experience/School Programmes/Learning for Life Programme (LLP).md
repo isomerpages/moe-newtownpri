@@ -4,7 +4,7 @@ permalink: /school-programmes/learning-for-life-programme-llp/
 description: ""
 third_nav_title: School Programmes
 ---
-#### **LLP Goals/Framework**
+#### **LLP Goals and Framework**
 
 *A Leader in Every Child*
 
