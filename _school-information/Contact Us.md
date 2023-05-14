@@ -71,7 +71,7 @@ Email : ntps@moe.edu.sg<br>
         <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">School Bus</span></p>
       </td>
       <td style="width:366.0pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:87.0pt" valign="top" width="488">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:13.0pt; color:#222222" lang="EN">Sky Island Transport & Trading</span></b></p>
+        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:13.0pt; color:#222222" lang="EN">Sky Island Transport &amp; Trading</span></b></p>
         <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none; mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1536;mso-padding-alt: 0in 5.4pt 0in 5.4pt;mso-border-insideh:.75pt solid #AAAAAA;mso-border-insidev: .75pt solid #AAAAAA" width="376" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
           <tbody>
             <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:35.25pt">
@@ -103,7 +103,7 @@ Email : ntps@moe.edu.sg<br>
         <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span>School Uniform</span></p>
       </td>
       <td style="width:366.0pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:144.75pt" valign="top" width="488">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family: Calibri;color:#222222" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span><b style="mso-bidi-font-weight:normal"><span style="font-size:13.0pt; color:#222222" lang="EN">Bibi & Baba Private Limited</span></b></p>
+        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family: Calibri;color:#222222" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span><b style="mso-bidi-font-weight:normal"><span style="font-size:13.0pt; color:#222222" lang="EN">Bibi &amp; Baba Private Limited</span></b></p>
         <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none; mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1536;mso-padding-alt: 0in 5.4pt 0in 5.4pt;mso-border-insideh:.75pt solid #AAAAAA;mso-border-insidev: .75pt solid #AAAAAA" width="333" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
           <tbody>
             <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:48.75pt">
@@ -171,7 +171,7 @@ Email : ntps@moe.edu.sg<br>
                 <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Email</span></p>
               </td>
               <td style="width:153.0pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:21.0pt" valign="top" width="204">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#1870B6" lang="EN">clsnewtown@gmail.com</span></a></span></p>
+                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#1870B6" lang="EN">clsnewtown@gmail.com</span></p>
               </td>
             </tr>
           </tbody>
