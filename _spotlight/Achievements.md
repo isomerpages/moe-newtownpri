@@ -123,3 +123,13 @@ description: ""
 | | Ezekiel Ruslan Puk Yu En | P6-5  |
 | | Lee Zi Rui | P6-5  |
 | | Xie Lam Yung | P6-5  |
+
+#### Raffles Institution Primary Mathematics World Contest (RIPMWC) Round 1 2023 ####
+
+| Achievement | Name | Class |
+| -------- | -------- | -------- |
+| Distinction | Nathan Wong Chin Ren | P6-3  |
+|| Ooi Wen Liang | P5-4  |
+| Merit | Owen Kyaw @ Aung Kaung Myat Aye | P6-5  |
+|| Lee Zi Rui | P6-5  |
+|| Sek Wan Hou | P5-6  |
