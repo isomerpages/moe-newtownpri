@@ -58,3 +58,30 @@ description: ""
 | |Manivannan Karunya Shri| P6-5  |
 | |Mia Yi Moni  | P6-5  |
 | | Parivarsheni Krishnan | P6-5  |
+
+
+#### Singapore Mathematical Olympiad For Primary Schools 2023 (SMOPS) #### 
+
+| Achievement | Name | Class |
+| -------- | -------- | -------- |
+| Silver    | Nathan Wong Chin Ren    | P6-3   |
+|    | Ezekiel Ruslan Puk Yu En    | P6-5   |
+|    
+
+#### Singapore and Asian Schools Math Olympiad (SASMO) 2023 ####
+
+| Achievement | Name | Class |
+| -------- | -------- | -------- |
+| Gold | Zhong Peixin | P6-2  |
+| | Ooi Wen Liang | P6-3  |
+| | Kong Yuwei | P6-3  |
+| | Arada Wong Si Ting | P6-4  |
+| | Michelle Setiawan | P6-4 | 
+| | Nur Myra Binte Zulkarnain | P6-4  |
+| | Seetoh Alessandra| P6-4  |
+| |Soo Chloe | P6-4  |
+| |Tasha Teoh Xin Yi  | P6-4  |
+| | Erynn Chen | P6-5  |
+| |Manivannan Karunya Shri| P6-5  |
+| |Mia Yi Moni  | P6-5  |
+| | Parivarsheni Krishnan | P6-5  |
