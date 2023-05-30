@@ -65,7 +65,7 @@ description: ""
 | Achievement | Name | Class |
 | -------- | -------- | -------- |
 | Silver    | Nathan Wong Chin Ren    | P6-3   |
-|    | Ezekiel Ruslan Puk Yu En    | P6-5   |
+| Bronze    | Ezekiel Ruslan Puk Yu En    | P6-5   |
 |    
 
 #### Singapore and Asian Schools Math Olympiad (SASMO) 2023 ####
