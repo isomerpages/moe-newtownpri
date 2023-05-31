@@ -12,8 +12,14 @@ Singapore 148812<br>
 
 Tel : 6474 8805<br>
 Fax : 6474 1249<br>
-Email : ntps@moe.edu.sg<br>
 
+**Have a question?**  
+Ask and get answered on our [Q&amp;A Page](https://go.ask.gov.sg/ntps)
+<br>
+<span style="color:#999999"><em>Powered by:
+<br><img style="width:10%;float:left" src="/images/logo-askgov.png">
+
+<br>
 
 ### Contact Information
 
@@ -273,4 +279,4 @@ Email : ntps@moe.edu.sg<br>
       </td>
     </tr>
   </tbody>
-</table>
+</table></em></span>
