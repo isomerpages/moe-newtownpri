@@ -3,7 +3,7 @@ url: https://www.open.gov.sg
 favicon: /images/ntpscrest.png
 colors:
   primary-color: "#145f9d"
-  secondary-color: "#c0e5ff"
+  secondary-color: "#2fa6f7"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: UA-41224680-1
 linkedin-insights: ""
 resources_name: a
+google_analytics_ga4: ""
