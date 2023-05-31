@@ -17,8 +17,8 @@ locations:
 contacts:
   - content:
       - phone: +65 6474 8805
-      - email: ntps@moe.edu.sg
-      - other: ""
+      - email: ""
+      - other: <br>Have A Question?<br><i>https://go.ask.gov.sg/nyps</i>
     title: General Enquiries & Feedback
   - content:
       - phone: +65 6474 1249
