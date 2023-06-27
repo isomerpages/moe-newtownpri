@@ -5,14 +5,18 @@ description: ""
 ---
 **<font size="6">School Notifications</font>**
 
+**<font size="5">2023 Term 3</font>**
+* [NTPS 2023 Term 3 Newsletter](https://drive.google.com/file/d/1ljGhdQ_rBzqnSXC81k__gO7rc8z1_D6K/view?usp=drive_link)
+
+
 **<font size="5">2023 Term 2</font>**
-* [NTPS 2023 Term 2 Newsletter](/files/Term%202%20Newsletter%202023.pdf)
+* [NTPS 2023 Term 2 Newsletter](https://drive.google.com/file/d/1webEHl03bxqleUiLuKO41XkWTrtLK9SR/view?usp=drive_link)
 
 * [P1 P2 Parents Engagement Session](https://for.edu.sg/p1p2parentengagement2023)
 
 **<font size="5">2023 Term 1</font>**
 
-* [NTPS 2023 Term 1 Newsletter](/files/Term%201%20Newsletter%20(3%20Jan%202023).pdf)
+* [NTPS 2023 Term 1 Newsletter](https://drive.google.com/file/d/1yu84Bvew3ef2B-5nnYo0cNKAKQba5Jtq/view?usp=drive_link)
 
 * [P1 Parents Engagement Session: First Day of School](https://drive.google.com/drive/folders/1W8_QmQ8GzLspnhCnGwkhQRJLRmMpSkpu?usp=sharing)
 * [Withdrawal of Edusave for Enrichment Programmes](/files/Withdrawal%20of%20Edusave%20for%20Enrichment%20Programmes.pdf)
