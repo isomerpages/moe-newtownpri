@@ -6,8 +6,9 @@ description: ""
 **<font size="6">School Notifications</font>**
 
 **<font size="5">2023 Term 3</font>**
-* [NTPS 2023 Term 3 Newsletter](https://drive.google.com/file/d/1ljGhdQ_rBzqnSXC81k__gO7rc8z1_D6K/view?usp=drive_link)
+* [NTPS 2023 Semester 2 Updated Calendar - *addendum to Term 3 Newsletter*](https://drive.google.com/file/d/1sVyHD64klK0W02JOYaPp6FJCHBH14PpA/view?usp=drive_link)
 
+* [NTPS 2023 Term 3 Newsletter](https://drive.google.com/file/d/1ljGhdQ_rBzqnSXC81k__gO7rc8z1_D6K/view?usp=drive_link)
 
 **<font size="5">2023 Term 2</font>**
 * [NTPS 2023 Term 2 Newsletter](https://drive.google.com/file/d/1webEHl03bxqleUiLuKO41XkWTrtLK9SR/view?usp=drive_link)
