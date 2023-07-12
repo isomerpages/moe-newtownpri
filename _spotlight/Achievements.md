@@ -5,6 +5,14 @@ description: ""
 ---
 # Achievements #
 
+#### National School Games - SPSSC Wushu Competition 2023 (National Junior Girls) ####  
+
+| Achievement | Event |  Name | Class |
+| -------- | -------- |  -------- | -------- |
+| 1st   | 1st International Sword  | Hana Han En Ci     | P2-5   |
+| 1st   | 4 Duan Spear | Hana Han En Ci     | P2-5   |
+| 1st   | 3 Duan Changquan  | Hana Han En Ci     | P2-5   |
+
 #### Girl Guides (Brownies) - Puan Noor Aishah Award ####  
 
 | Achievement | Name | Class |
