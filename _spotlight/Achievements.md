@@ -5,6 +5,16 @@ description: ""
 ---
 # Achievements #
 
+#### National School Games - SPSSC Swimming Competition 2023 (National Junior Boys) ####  
+
+| Achievement | Event |  Name | Class |
+| -------- | -------- |  -------- | -------- |
+| 2nd   | 25 m Butterfly + 25 m Breaststroke | Chen Yuruo  | P3-3 |
+| 3rd   | 50 m Butterfly  | Chen Yuruo  | P3-3 |
+| 4th  | 25 m Butterfly + 25 m Backstroke  | Liu Bingchen  | P3-2  |
+| 7th  | 25 m Backstroke + 25 m Breaststroke   | Liu Bingchen  | P3-2  |
+| 8th  | 25 m Breaststroke + 25 m Freestyle   | Zhao Yuze  | P3-5  |
+
 #### National School Games - SPSSC Wushu Competition 2023 (National Junior Girls) ####  
 
 | Achievement | Event |  Name | Class |
