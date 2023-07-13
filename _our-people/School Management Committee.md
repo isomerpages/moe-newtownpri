@@ -38,7 +38,6 @@ description: ""
 |	LH / Mathematics	|	Ms Tan Pek Che	|	tan_pek_che@schools.gov.sg	|
 |	SH / CCE	|	Mrs Pearlie Lim	|	tan_xuan_li_pearlie@schools.gov.sg 	|
 |	SH / Chinese Language	|	Mr Wang Jianbo	|	wang_jianbo@schools.gov.sg	|
-|	SH / ICT	|	Mr Tan Wan Yen	|	tan_wan_yen@schools.gov.sg	|
 |	SH / ML & TL	|	Mr Mohd Iskandar	|	mohamad_iskandar_mohd_yaakop@schools.gov.sg	|
 |	SH / Pastoral Care & Partnership	|	Mr Caleb Tan	|	caleb_tan@schools.gov.sg	|
 |	SH / PE & CCA	|	Ms Loh Yan Ping	|	loh_yan_ping@schools.gov.sg	|
@@ -46,8 +45,6 @@ description: ""
 |	SH / Student Well-being	|	Mdm Siti Mariam	|	siti_mariam_mohd_yussof@schools.gov.sg	|
 |	Administration Manager	|	Mr David Wong	|	wong_khong_toon@schools.gov.sg	|
 |	Administration Manager	|	Ms Saratha Devi	|	saratha_devi_kalechelvam@schools.gov.sg	|
-|	Operations Manager	|	Mr Giam Ah Sin	|	giam_ah_sin@schools.gov.sg	|
-|	Operations Manager	|	Mr Nagaratnam	|a_nagaratnam@schools.gov.sg	|
 
 
 ## Teacher Leaders ##
@@ -60,6 +57,5 @@ description: ""
 |	LT / Mathematics	|	Mr Low Yew Fai	|	low_yew_fai@schools.gov.sg	|
 |	ST / CCE	|	Ms Chia Li	|	chia_li@schools.gov.sg	|
 |	ST / English	|	Mdm Nur Mashitah	|	nur_mashitah_hosaini@schools.gov.sg	|
-|	ST / Lower Pri	|	Mrs Sharin Lim	|	ang_ming_sharin_audrey@schools.gov.sg	|
 |	ST / Lower Pri	|	Ms Wong Wei Teng	|	wong_wei_teng@schools.gov.sg	|
 |	ST / Mathematics	|	Mdm Syazwani	|	syazwani_osman@schools.gov.sg	|

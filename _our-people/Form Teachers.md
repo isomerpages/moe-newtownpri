@@ -29,7 +29,7 @@ description: ""
 
 |	Class	|	Name	|	Email	|
 |	---	|	---	|	---	|
-|	P2-1	|	Mr Sim Liyang	|	sim_liyang@schools.gov.sg	|
+|	P2-1	|	Mrs Pearlie Lim	|	tan_xuan_li_pearlie@schools.gov.sg	|
 |		|	Mdm Tan Xinpei	|	tan_xinpei@schools.gov.sg	|
 |	P2-2	|	Mdm Diana Yao	|	yao_sufeng_diana@schools.gov.sg	|
 |		|	Ms Li Wenling	|	li_wenling@schools.gov.sg	|
@@ -40,7 +40,6 @@ description: ""
 |	P2-5	|	Mdm Anisa	|	anisa_seeni_sulaiman@schools.gov.sg	|
 |		|	Mdm Syarinah	|	syarinah_sani@schools.gov.sg	|
 |	P2-6	|	Mrs Valencia Wee	|	ang_kee_valencia@schools.gov.sg	|
-|		|	Mr Tan Wan Yen	|	tan_wan_yen@schools.gov.sg	|
 |		|	Mdm Thilagavathi 	|	thilagavathid_oarunachalatheva@schools.gov.sg	|
 
   
@@ -81,7 +80,7 @@ description: ""
 |		|	Ms Chan Jia Yu	|	chan_jia_yu@schools.gov.sg	|
 |	P4-4	|	Mdm Guan Sin Loi	|	guan_sin_loi@schools.gov.sg	|
 |		|	Ms Yip Joo Yee	|	yip_joo_yee@schools.gov.sg	|
-|		|	Ms Shalini	|	shalini_sativil@schools.gov.sg	|
+|		|	Ms Liu Muhan	|	liu_muhan@schools.gov.sg	|
 |	P4-5	|	Ms Jessica Sum	|	sum_shuyi_jessica@schools.gov.sg	|
 |		|	Mdm Tee Ying Ying	|	tee_ying_ying@schools.gov.sg	|
 |		|	Ms Chua Wei Ling	|	chua_wei_ling@schools.gov.sg	|
@@ -104,8 +103,7 @@ description: ""
 | P5-4| Mr Kegan Lee | kegan_lee@schools.gov.sg |
 | | Mdm Khoo Ri Zhen| khoo_ri_zhen@schools.gov.sg|
 | | Mr Gan Soon Rui|gan_soon_rui@schools.gov.sg|
-| P5-5| Mr Tey Kam Yam |tey_kam_yam@schools.gov.sg |
-| | Mdm Tian Meng | tian_meng@schools.gov.sg |
+| P5-5| Mdm Tian Meng | tian_meng@schools.gov.sg |
 | | Mr Vincent Heng|heng_swee_chye_vincent@schools.gov.sg|
 | P5-6| Ms Masnurie |masnurie_mohamed_ramli@schools.gov.sg |
 | | Ms Geraldine Lim|lim_xin_hui_geraldine@schools.gov.sg|
