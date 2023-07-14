@@ -3,15 +3,13 @@ title: Executive and Administrative Staff
 permalink: /our-people/executive-and-administrative-staff/
 description: ""
 ---
-**<font size=6>Executive and Administrative Staff</font>**
+**<font size="6">Executive and Administrative Staff</font>**
 
 
 | Designation | Name | Email |
 | -------- | -------- | -------- |
 |Administration Manager|Mr David Wong| wong_khong_toon@schools.gov.sg |
 |Administration Manager|Ms Saratha Devi| saratha_devi_kalechelvam@schools.gov.sg|
-|Operations Manager|Mr Giam Ah Sin | giam_ah_sin@schools.gov.sg|
-|Operations Manager|Mr Nagaratnam | a_nagaratnam@schools.gov.sg|
 |Administrative Executive|Mrs Tengku Norashikin| tengku_norashikin_tengku_abu@schools.gov.sg|
 |ICT Manager|Mr Ahmad Aljunied|syed_ahmad_hassan_aljunied@schools.gov.sg|
 |Corporate Support Officer|Mdm Tan Lay Leng|tan_lay_leng_b@schools.gov.sg|
