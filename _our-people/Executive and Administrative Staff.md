@@ -20,3 +20,4 @@ description: ""
 |Operations Support Officer|Ms Nagappan Viehletchmi|nagappan_viehletchmi@moe.edu.sg|
 |Operations Support Officer|Mr Neo Beng Hweh|neo_beng_hweh@moe.edu.sg|
 |Operations Support Officer|Mdm Norasyikin Mokhtar|norasyikin_mokhtar@schools.gov.sg|
+|Operations Support Officer|Mr Tan Heng Seng|tan_heng_seng@schools.gov.sg|
