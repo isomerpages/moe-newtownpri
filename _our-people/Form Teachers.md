@@ -61,7 +61,6 @@ description: ""
 |		|	Mrs Hoo Yew Fang	|	lee_yew_fang@schools.gov.sg	|
 |	P3-5	|	Ms Teo Wee Ling	|	teo_wee_ling@schools.gov.sg	|
 |		|	Ms Chia Li	|	chia_li@schools.gov.sg	|
-|		|	Ms Charmaine Lok	|	lok_hui_min_charmaine@schools.gov.sg	|
 |	P3-6	|	Ms Tan Pek Che	|	tan_pek_che@schools.gov.sg	|
 |		|	Mr Heah Yong Chian	|	heah_yong_chian@schools.gov.sg	|
 
@@ -80,10 +79,9 @@ description: ""
 |		|	Ms Chan Jia Yu	|	chan_jia_yu@schools.gov.sg	|
 |	P4-4	|	Mdm Guan Sin Loi	|	guan_sin_loi@schools.gov.sg	|
 |		|	Ms Yip Joo Yee	|	yip_joo_yee@schools.gov.sg	|
-|		|	Ms Liu Muhan	|	liu_muhan@schools.gov.sg	|
 |	P4-5	|	Ms Jessica Sum	|	sum_shuyi_jessica@schools.gov.sg	|
 |		|	Mdm Tee Ying Ying	|	tee_ying_ying@schools.gov.sg	|
-|		|	Ms Chua Wei Ling	|	chua_wei_ling@schools.gov.sg	|
+
   
 
 ## P5 Form Teachers ##
