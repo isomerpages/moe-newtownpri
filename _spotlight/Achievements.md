@@ -4,6 +4,12 @@ permalink: /spotlight/Achievements/
 description: ""
 ---
 # Achievements #
+#### International Chinese Language Competition 2023 ####  
+
+| Achievement | Name | Class |
+| -------- | -------- | -------- |
+| Gold (Singapore)  |  Kong Yuwei  | P5-6 |
+| Gold (International)   | Kong Yuwei  | P5-6 |
 
 #### National School Games - SPSSC Swimming Competition 2023 (National Junior Boys) ####  
 
