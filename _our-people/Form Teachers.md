@@ -56,7 +56,6 @@ description: ""
 |		|	Mr Chew Zichun	|	chew_zichun@schools.gov.sg	|
 |	P3-3	|	Ms Han Limin	|	han_limin@schools.gov.sg	|
 |		|	Ms Junie Ang	|	junie_ang_camaret@schools.gov.sg	|
-|		|	Mdm Teh Sok Fun	|	teh_sok_fun@schools.gov.sg	|
 |	P3-4	|	Mr Mohd Najib	|	mohammad_najib_abdul_rahman@schools.gov.sg  	|
 |		|	Mrs Hoo Yew Fang	|	lee_yew_fang@schools.gov.sg	|
 |	P3-5	|	Ms Teo Wee Ling	|	teo_wee_ling@schools.gov.sg	|
@@ -105,6 +104,7 @@ description: ""
 | | Mr Vincent Heng|heng_swee_chye_vincent@schools.gov.sg|
 | P5-6| Ms Masnurie |masnurie_mohamed_ramli@schools.gov.sg |
 | | Ms Geraldine Lim|lim_xin_hui_geraldine@schools.gov.sg|
+|		|	Mdm Teh Sok Fun	|	teh_sok_fun@schools.gov.sg	|
   
   
 ## P6 Form Teachers ##
