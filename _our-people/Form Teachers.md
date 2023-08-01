@@ -34,7 +34,8 @@ description: ""
 |	P2-2	|	Mdm Diana Yao	|	yao_sufeng_diana@schools.gov.sg	|
 |		|	Ms Li Wenling	|	li_wenling@schools.gov.sg	|
 |	P2-3	|	Mrs Maggie Leong	|	see_peipei_maggie@schools.gov.sg	|
-|		|	Ms Theresa Tham	|	theresa_tham_may_leng@schools.gov.sg	|
+|		|	Mdm Theresa Tham	|	theresa_tham_may_leng@schools.gov.sg	|
+|		|	Mrs Sharin Lim	|	ang_ming_sharin_audrey@schools.gov.sg	|
 |	P2-4	|	Ms Rachel Teo	|	teo_kar_hwee_rachel@schools.gov.sg	|
 |		|	Mrs Lim Bee Bee	|	yee_bee_bee@schools.gov.sg	|
 |	P2-5	|	Mdm Anisa	|	anisa_seeni_sulaiman@schools.gov.sg	|
