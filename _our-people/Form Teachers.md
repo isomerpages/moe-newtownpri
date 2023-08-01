@@ -102,7 +102,7 @@ description: ""
 | | Mr Gan Soon Rui|gan_soon_rui@schools.gov.sg|
 | P5-5| Mdm Tian Meng | tian_meng@schools.gov.sg |
 | | Mr Vincent Heng|heng_swee_chye_vincent@schools.gov.sg|
-| P5-6| Ms Masnurie |masnurie_mohamed_ramli@schools.gov.sg |
+| P5-6| Mrs Serene Lee |teo_shiwei@schools.gov.sg |
 | | Ms Geraldine Lim|lim_xin_hui_geraldine@schools.gov.sg|
 |		|	Mdm Teh Sok Fun	|	teh_sok_fun@schools.gov.sg	|
   
