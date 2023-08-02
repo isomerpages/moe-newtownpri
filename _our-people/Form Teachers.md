@@ -58,7 +58,7 @@ description: ""
 |	P3-3	|	Ms Han Limin	|	han_limin@schools.gov.sg	|
 |		|	Ms Junie Ang	|	junie_ang_camaret@schools.gov.sg	|
 |	P3-4	|	Mr Mohd Najib	|	mohammad_najib_abdul_rahman@schools.gov.sg  	|
-|		|	Mrs Hoo Yew Fang	|	lee_yew_fang@schools.gov.sg	|
+|		|	Mdm Zahirah Banu	|	zahirah_banu_mohamed_ally@schools.gov.sg|
 |	P3-5	|	Ms Teo Wee Ling	|	teo_wee_ling@schools.gov.sg	|
 |		|	Ms Chia Li	|	chia_li@schools.gov.sg	|
 |	P3-6	|	Ms Tan Pek Che	|	tan_pek_che@schools.gov.sg	|
@@ -103,8 +103,8 @@ description: ""
 | | Mr Gan Soon Rui|gan_soon_rui@schools.gov.sg|
 | P5-5| Mdm Tian Meng | tian_meng@schools.gov.sg |
 | | Mr Vincent Heng|heng_swee_chye_vincent@schools.gov.sg|
-| P5-6| Mrs Serene Lee |teo_shiwei@schools.gov.sg |
-| | Ms Geraldine Lim|lim_xin_hui_geraldine@schools.gov.sg|
+| P5-6| Ms Geraldine Lim|lim_xin_hui_geraldine@schools.gov.sg| 
+| |Mrs Serene Lee |teo_shiwei@schools.gov.sg |
 |		|	Mdm Teh Sok Fun	|	teh_sok_fun@schools.gov.sg	|
   
   
@@ -117,8 +117,7 @@ description: ""
 | | Mr Caleb Tan | caleb_tan@schools.gov.sg |
 | | Mdm Noraini | noraini_karsani@schools.gov.sg |
 | P6-2| Mr Jason Tan | tan_swee_chye_jason@schools.gov.sg |
-| | Mdm Siti Mariam| siti_mariam_mohd_yussof@schools.gov.sg|
-| | Mdm Zahirah Banu| zahirah_banu_mohamed_ally@schools.gov.sg|
+| | Mrs Syed| siti_mariam_mohd_yussof@schools.gov.sg|
 | P6-3| Mr Johnson Li | li_yuxiang_johnson@schools.gov.sg |
 | | Mdm Esther Goh | goh_gek_puay_esther@schools.gov.sg |
 | P6-4| Mdm Nur Mashitah |nur_mashitah_hosaini@schools.gov.sg |
