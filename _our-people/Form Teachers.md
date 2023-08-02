@@ -104,8 +104,8 @@ description: ""
 | P5-5| Mdm Tian Meng | tian_meng@schools.gov.sg |
 | | Mr Vincent Heng|heng_swee_chye_vincent@schools.gov.sg|
 | P5-6| Ms Geraldine Lim|lim_xin_hui_geraldine@schools.gov.sg| 
-| |Mrs Serene Lee |teo_shiwei@schools.gov.sg |
 |		|	Mdm Teh Sok Fun	|	teh_sok_fun@schools.gov.sg	|
+| |Mrs Serene Lee |teo_shiwei@schools.gov.sg |
   
   
 ## P6 Form Teachers ##
