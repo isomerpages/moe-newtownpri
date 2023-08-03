@@ -58,7 +58,7 @@ description: ""
 |	P3-3	|	Ms Han Limin	|	han_limin@schools.gov.sg	|
 |		|	Ms Junie Ang	|	junie_ang_camaret@schools.gov.sg	|
 |	P3-4	|	Mr Mohd Najib	|	mohammad_najib_abdul_rahman@schools.gov.sg  	|
-|		|	Mdm Zahirah Banu	|	zahirah_banu_mohamed_ally@schools.gov.sg|
+|		
 |	P3-5	|	Ms Teo Wee Ling	|	teo_wee_ling@schools.gov.sg	|
 |		|	Ms Chia Li	|	chia_li@schools.gov.sg	|
 |	P3-6	|	Ms Tan Pek Che	|	tan_pek_che@schools.gov.sg	|
