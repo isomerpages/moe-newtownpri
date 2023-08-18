@@ -4,6 +4,19 @@ permalink: /spotlight/Achievements/
 description: ""
 ---
 # Achievements #
+
+#### Annual Mathlympics For All Singapore Primary Schools 2023 ####  
+
+| Achievement | Name | Class |
+| -------- | -------- | -------- |
+| Gold |  Lee Jung Woo  | P5-5 |
+| Silver | Ooi Wen Liang | P5-4 |
+| Silver | Ivan Cheam Hean Wei | P5-5 |
+| Silver | Sek Wan Hou | P5-6 |
+| Bronze | Ha Minh | P5-6 |
+| Bronze | Xu Weiyuan | P5-6 |
+| Merit | Agustya Singh | P5-4 |
+
 #### International Chinese Language Competition 2023 ####  
 
 | Achievement | Name | Class |
