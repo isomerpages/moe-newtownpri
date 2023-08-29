@@ -7,7 +7,7 @@ description: ""
 -----------------------
 
 |	Class	|	Name	|	Email	|
-|	---	|	---	|	---	|
+| -------- | -------- | -------- |
 |	P1-1	|	Ms Wong Wei Teng	|	wong_wei_teng@schools.gov.sg	|
 |		|	Mdm Lakshmi	|	lakshmi_somasundaram@schools.gov.sg	|
 |	P1-2	|	Mdm Syazwani	|	syazwani_osman@schools.gov.sg	|
@@ -28,7 +28,7 @@ description: ""
 -----------------------
 
 |	Class	|	Name	|	Email	|
-|	---	|	---	|	---	|
+| -------- | -------- | -------- |
 |	P2-1	|	Mrs Pearlie Lim	|	tan_xuan_li_pearlie@schools.gov.sg	|
 |		|	Mdm Tan Xinpei	|	tan_xinpei@schools.gov.sg	|
 |	P2-2	|	Mdm Diana Yao	|	yao_sufeng_diana@schools.gov.sg	|
@@ -48,7 +48,7 @@ description: ""
 -----------------------
 
 |	Class	|	Name	|	Email	|
-|	---	|	---	|	---	|
+| -------- | -------- | -------- |
 |	P3-1	|	Mdm Juvaira Banu	|	juvaira_banu@schools.gov.sg	|
 |		|	Mr Loh Zhi Hao	|	loh_zhi_hao@schools.gov.sg	|
 |		|	Mdm Hartini	|	hartini_abdul_rahman@schools.gov.sg	|
@@ -69,7 +69,7 @@ description: ""
 
 
   |	Class	|	Name	|	Email	|
-|	---	|	---	|	---	|
+| -------- | -------- | -------- |
 |	P4-1	|	Mdm Suhana Salamat	|	suhana_salamat@schools.gov.sg	|
 |		|	Ms Loh Yan Ping	|	loh_yan_ping@schools.gov.sg	|
 |		|	Mdm Norlela	|	norlela_nor_baidin@schools.gov.sg	|
@@ -99,12 +99,13 @@ description: ""
 | | Mdm Chua Siao Wen | chua_siao_wen@schools.gov.sg |
 | | Mr Hao Xiaoxing |hao_xiaoxing@schools.gov.sg |
 | P5-4| Mr Kegan Lee | kegan_lee@schools.gov.sg |
-| | Mdm Khoo Ri Zhen| khoo_ri_zhen@schools.gov.sg|
 | | Mr Gan Soon Rui|gan_soon_rui@schools.gov.sg|
+| | Mdm Yeoh Ying Ting |yeoh_ying_ting@schools.gov.sg|
 | P5-5| Mdm Tian Meng | tian_meng@schools.gov.sg |
 | | Mr Vincent Heng|heng_swee_chye_vincent@schools.gov.sg|
+| | Mrs Joan Chia | joan_tan_yi_hui@schools.gov.sg|
 | P5-6| Ms Geraldine Lim|lim_xin_hui_geraldine@schools.gov.sg| 
-|		|	Mdm Teh Sok Fun	|	teh_sok_fun@schools.gov.sg	|
+|	|	Mdm Teh Sok Fun	|	teh_sok_fun@schools.gov.sg	|
 | |Mrs Serene Lee |teo_shiwei@schools.gov.sg |
   
   
