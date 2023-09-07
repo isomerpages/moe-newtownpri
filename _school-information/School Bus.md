@@ -8,11 +8,10 @@ description: ""
 
 | | |
 | -------- | -------- | 
-| Name:     | Sky Island Transport and Trading    | 
+| Name:     | Sky Island Transport and Trading Pte Ltd   | 
 | Address:     | 140 Hillview Ave Tower A4 #08-13 The Lanai Singapore 669600    | 
-| Email:   | skyisland96@hotmail.com    | 
-| Telephone:   | 90090569    | 
-| Fax:   | 68940732     | 
+| Email:   | skyislandschool@gmail.com    | 
+| Telephone:   | 91884698    | 
 
 
 ## Bus Fares
@@ -24,9 +23,4 @@ The bus fares listed below are the maximum fares for daily school bus services f
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Up to 2km    | $101.00  | $117.00    | $80.00    | $101.00  | $85.00  | $101.00     | 
 | 2 - 4km    | $139.00   | $171.00   | $117.00    | $139.00    | $117.00  | $139.00    | 
-| 4 - 6km    | $202.00   | $256.00  | $202.00    | $256.00  | $202.00   | $256.00 | 
-
-
-
-
-
+| 4 - 6km    | $202.00   | $256.00  | $202.00    | $256.00  | $202.00   | $256.00 |
