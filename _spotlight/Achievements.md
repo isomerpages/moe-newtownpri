@@ -5,6 +5,13 @@ description: ""
 ---
 # Achievements #
 
+#### National School Games – Badminton Championship 2023 (Junior Singles - Tier 2) ####
+
+| Achievement | Name | Class |
+| -------- | -------- | -------- |
+| Champion | Agustya Singh  | P5-4  |
+
+
 #### National School Games – Netball Championship 2023 (Junior - Tier 3) ####
 
 | Achievement | Name | Class |
