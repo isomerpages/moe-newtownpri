@@ -5,6 +5,33 @@ description: ""
 ---
 # Achievements #
 
+#### National School Games – Badminton Championship 2023 (Junior Singles - Tier 2) ####
+
+| Achievement | Name | Class |
+| -------- | -------- | -------- |
+| Champion | Agustya Singh  | P5-4  |
+
+
+#### National School Games – Netball Championship 2023 (Junior - Tier 3) ####
+
+| Achievement | Name | Class |
+| -------- | -------- | -------- |
+| Champion | Seetoh Ling En | P4-3  |
+| | Yee Jia Ning, Janine | P4-4  |
+| | Nurul Qaseh Amani Binte Mohamad Shahril | P5-3  |
+| | Nyla Qistina Binte Dhzulkarnain | P5-3  |
+| | Deng Chenxi | P5-4 | 
+| | Megan Tan Xin Yi| P5-4  |
+| | Selvi Murugesani | P5-4  |
+| |Tan Madeleine Wan Ru| P5-4  |
+| |Hannah Ling Zi Qi | P5-5  |
+| | Izra Fazura Binte Muhammad Faizal | P5-5  |
+| |Luiza Oliveira Silveira Mileo Brasil | P5-5  |
+| |Vetri Selvan Jaina  | P5-5  |
+| | Ang En Xi, Clairee | P5-6  |
+| | Krishalini B | P5-6  |
+| | Tan Xin Yu | P5-6  |
+
 
 #### National Mathematical Olympiad of Singapore 2023 ####  
 
