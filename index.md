@@ -22,7 +22,7 @@ sections:
       title: Caring Teacher Award 2024
       subtitle: Add an image and text
       id: infopic
-      description: >
+      description: >-
         Have a teacher who went beyond the call of duty to nurture students into
         confident, independent and resilient learners? 
 
