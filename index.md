@@ -20,7 +20,6 @@ sections:
           url: /quick-links
   - infopic:
       title: Caring Teacher Award 2024
-      subtitle: Add an image and text
       id: infopic
       description: >-
         Have a teacher who went beyond the call of duty to nurture students into
