@@ -15,7 +15,7 @@ description: ""
 
 
 ## Bus Fares
-The bus fares listed below are the maximum fares for daily school bus services for each distance cap. Actual bus fares based on other commercial considerations, such as the distance, route, number of students on buses and the size of school bus.
+The bus fares listed below (w.e.f. Jan 2024) are the maximum fares for daily school bus services for each distance cap. Actual bus fares based on other commercial considerations, such as the distance, route, number of students on buses and the size of school bus.
 
 
 
