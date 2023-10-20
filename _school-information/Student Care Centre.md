@@ -1,15 +1,16 @@
 ---
 title: Student Care Centre
-permalink: /school-information/permalink/
+permalink: /school-information/student-care-centre/
 description: ""
 ---
 # Student Care Centre
 
 #### Student Care Centre Operator Details
+
 | | |
 | -------- | -------- | 
 | Name:     | Commit Learning SchoolHouse   | 
-| Email:   | clsnewtown@gmail.com   | 
+| Email:   | admission_cls_ntps@commitlearning.com.sg   | 
 | Telephone:   | 80144298  | 
 
 

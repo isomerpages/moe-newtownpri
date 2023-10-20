@@ -1,6 +1,6 @@
 ---
 title: School Bus
-permalink: /school-information/permalink/
+permalink: /school-information/school-bus/
 description: ""
 ---
 # Bus Operator Details
