@@ -2,11 +2,11 @@ collections:
   school-information:
     output: true
     order:
-      - Student Care Centre.md
       - Vision, Mission, Values.md
       - School Identity.md
       - School Hours.md
       - School Rules.md
       - School Safety and Security.md
       - School Bus.md
+      - Student Care Centre.md
       - Contact Us.md
