@@ -21,11 +21,13 @@ Application for enrolment in CLS SCC for all students will begin on Friday, 20 O
 
 **AY2023 Primary 1 to  5 students in New Town Primary School** 
 (Application will close on Tuesday, 31 October 2023)
+
 https://go.gov.sg/ntpssccapplication2024
 
 
 **2024 Primary 1 Students**
 (Application will close on Friday, 3 November 2023)
+
 https://go.gov.sg/ntpssccapplicationp12024
 
 
