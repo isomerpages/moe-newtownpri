@@ -10,7 +10,7 @@ description: ""
 | | |
 | -------- | -------- | 
 | Name:     | Commit Learning SchoolHouse   | 
-| Email:   | clsnewtown@gmail.com   | 
+| Email:   | admission_cls_ntps@commitlearning.com.sg   | 
 | Telephone:   | 80144298  | 
 
 
