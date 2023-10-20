@@ -28,4 +28,4 @@ https://go.gov.sg/ntpssccapplication2024
 https://go.gov.sg/ntpssccapplicationp12024
 
 
-For more details, refer to the school letter and CLS SCC Introductory Letter and FAQ [here](https://drive.google.com/file/d/1_GEm_SGic6MbDOsJv5rW3WYgwdL8f2ok/view?usp=share_link). 
+For more details, refer to the school letter and CLS SCC Introductory Letter and FAQ [here](https://drive.google.com/file/d/1_GEm_SGic6MbDOsJv5rW3WYgwdL8f2ok/view?usp=share_link).
