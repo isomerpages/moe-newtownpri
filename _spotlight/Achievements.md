@@ -11,14 +11,19 @@ variant: markdown
 
 | Achievement | Name | Class |
 | -------- | -------- | -------- |
-| Gold |  Lee Jung Woo  | P5-5 |
-| Silver | Ooi Wen Liang | P5-4 |
-| Silver | Ivan Cheam Hean Wei | P5-5 |
-| Silver | Sek Wan Hou | P5-6 |
-| Bronze | Ha Minh | P5-6 |
-| Bronze | Xu Weiyuan | P5-6 |
-| Merit | Agustya Singh | P5-4 |
-
+| Gold | Lorraine Nugraha  | P5-4 |
+| Silver | Khin Ayekari Tun  | P4-3 |
+| Silver | Thinn Nandar Ooi | P5-5 |
+| Silver | Nyan Bhone Paing  | P5-5 |
+| Silver | Lim Xiao Xuan Odele  | P6-4 |
+| Bronze | Choo Yan Xu  | P5-5 |
+| Bronze | Athena Soen Rey Yen  | P5-5 |
+| Bronze |  Kono Yumi Sofia Cukingnan   | P5-5 |
+| Bronze | Ooi Wen Xian  | P5-5 |
+| Bronze | Xie Tang Chit | P6-3 |
+| Bronze | May Sanda Hnin  | P6-3 |
+| Bronze | Soo Chloe  | P6-4 |
+| Bronze | Gokulram Nimalan  | P6-5 |
 
 #### National School Games – Badminton Championship 2023 (Junior Singles - Tier 2) ####
 
