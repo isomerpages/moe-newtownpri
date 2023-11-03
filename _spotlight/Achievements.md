@@ -2,8 +2,23 @@
 title: Achievements
 permalink: /spotlight/Achievements/
 description: ""
+variant: markdown
 ---
 # Achievements #
+
+
+#### The Queen’s Commonwealth Essay Competition 2023 ####  
+
+| Achievement | Name | Class |
+| -------- | -------- | -------- |
+| Gold |  Lee Jung Woo  | P5-5 |
+| Silver | Ooi Wen Liang | P5-4 |
+| Silver | Ivan Cheam Hean Wei | P5-5 |
+| Silver | Sek Wan Hou | P5-6 |
+| Bronze | Ha Minh | P5-6 |
+| Bronze | Xu Weiyuan | P5-6 |
+| Merit | Agustya Singh | P5-4 |
+
 
 #### National School Games – Badminton Championship 2023 (Junior Singles - Tier 2) ####
 
