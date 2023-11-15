@@ -7,6 +7,23 @@ variant: markdown
 # Achievements #
 
 
+#### Singapore Primary Science Olympiad (SPSO) ####  
+
+| Achievement | Name | Class |
+| -------- | -------- | -------- |
+| Silver | Agustya Singh  | P5-4 |
+| Bronze | Choo Yan Xu  | P5-5 |
+| Bronze | Luiza Oliveira Silveira Mileo Brasil  | P5-5 |
+| Merit |  Ooi Wen Liang   | P5-4 |
+| Merit | Lorraine Nugraha  | P5-4 |
+| Merit | Kono Yumi Sofia Cukingnan | P |
+| Merit | Lee Jungwoo  | P |
+| Merit | Liang Jingyi, Megan | P |
+| Merit | Thinn Nandar Oo | P |
+| Merit | Kong Yuwei  | P5-6 |
+| Merit | Xu Wei Yuan  | P5-6 |
+
+
 #### The Queen’s Commonwealth Essay Competition 2023 ####  
 
 | Achievement | Name | Class |
