@@ -16,10 +16,10 @@ variant: markdown
 | Bronze | Luiza Oliveira Silveira Mileo Brasil  | P5-5 |
 | Merit |  Ooi Wen Liang   | P5-4 |
 | Merit | Lorraine Nugraha  | P5-4 |
-| Merit | Kono Yumi Sofia Cukingnan | P |
-| Merit | Lee Jungwoo  | P |
-| Merit | Liang Jingyi, Megan | P |
-| Merit | Thinn Nandar Oo | P |
+| Merit | Liang Jingyi, Megan | P5-4 |
+| Merit | Kono Yumi Sofia Cukingnan | P5-5 |
+| Merit | Lee Jungwoo  | P5-5 |
+| Merit | Thinn Nandar Oo | P5-5 |
 | Merit | Kong Yuwei  | P5-6 |
 | Merit | Xu Wei Yuan  | P5-6 |
 
