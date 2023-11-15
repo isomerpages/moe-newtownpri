@@ -2,10 +2,14 @@
 title: School Notifications
 permalink: /for-parents/school-notifications/
 description: ""
+variant: markdown
 ---
 **<font size="6">School Notifications</font>**
 
 **<font size="5">2023 Term 4</font>**
+
+* [NTPS 2023 End Of Year Newsletter](https://drive.google.com/file/d/16PheyrmdlEfedxiUq-5x8b5FpuV0wH_w/view?usp=drive_link)
+
 * [NTPS 2023 Term 4 Newsletter](https://drive.google.com/file/d/1nIxIEUydL-9PDQGXMB3u3fY4CJRUr64X/view?usp=drive_link)
 
 * [Term 4 Assessment Dates and Topics](https://drive.google.com/file/d/14rrvYVCIdL7jeyM0TZhtRbq7M7gIIF4P/view?usp=drive_link)
