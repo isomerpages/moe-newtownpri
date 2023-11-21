@@ -8,6 +8,10 @@ variant: markdown
 
 **<font size="5">2023 Term 4</font>**
 
+* [2023 P1 Orientation - School Leader Address](https://drive.google.com/file/d/1dtwrTFSdbfIJOOIFmo6hcMPvRS2BOoqp/view?usp=drive_link)
+
+* [2023 P1 Orientation - Sharing by KPs](https://drive.google.com/file/d/1cE4HbgDkQ1bx5eiIvNB8cHGwpqXDSo93/view?usp=drive_link) 
+
 * [NTPS 2023 End Of Year Newsletter](https://drive.google.com/file/d/16PheyrmdlEfedxiUq-5x8b5FpuV0wH_w/view?usp=drive_link)
 
 * [NTPS 2023 Term 4 Newsletter](https://drive.google.com/file/d/1nIxIEUydL-9PDQGXMB3u3fY4CJRUr64X/view?usp=drive_link)
