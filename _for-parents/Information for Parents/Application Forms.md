@@ -1,8 +1,9 @@
 ---
 title: Application Forms
-permalink: /for-parents/information-for-parents/permalink/
+permalink: /for-parents/information-for-parents/application-forms/
 description: ""
 third_nav_title: Information for Parents
+variant: tiptap
 ---
 **<font size="5">Admission / Transfer</font>**
 
