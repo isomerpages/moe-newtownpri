@@ -2,7 +2,6 @@ collections:
   welcome-to-new-town:
     output: true
     order:
-      - Strategic Map.md
       - Get to Know Us!/School Videos.md
       - Get to Know Us!/.keep
       - Get to Know Us!/School History.md
