@@ -56,5 +56,4 @@ variant: markdown
 |	LT / Mathematics	|	Mr Low Yew Fai	|	low_yew_fai@schools.gov.sg	|
 |	ST / CCE	|	Ms Chia Li	|	chia_li@schools.gov.sg	|
 |	ST / English	|	Mdm Nur Mashitah	|	nur_mashitah_hosaini@schools.gov.sg	|
-|	ST / Lower Pri	|	Ms Wong Wei Teng	|	wong_wei_teng@schools.gov.sg	|
 |	ST / Mathematics	|	Mdm Syazwani	|	syazwani_osman@schools.gov.sg	|
