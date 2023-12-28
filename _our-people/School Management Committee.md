@@ -2,14 +2,14 @@
 title: School Management Committee
 permalink: /our-people/school-management-committee/
 description: ""
+variant: markdown
 ---
 ## School Leaders ##
 ------
 
 |	Designation	|	Name	|	Email 	|	
 |	---	|	---	|	--- 	|	
-|	Principal	|	Mrs Tan-Ng Wie Pin	|	tan_wie_pin@schools.gov.sg 	|	
-|	Vice-Principal	|	Mr Bryan Ong	|	bryan_ong@schools.gov.sg 	|	
+|	Principal	|	Ms Hannah Chia	|	hannah_chia@schools.gov.sg 	|	
 |	Vice-Principal	|	Mrs Lynne Chan	|	chin_wey_ling@schools.gov.sg 	|	
 |	Vice-Principal (Admin)	|	Mdm Jodie Tay 	|	jodie_tay@schools.gov.sg 	|	
 
@@ -19,7 +19,6 @@ description: ""
 
 |	Designation	|	 Name	|	Email	|
 |	---	|	---	|	---	|
-|	HOD / Aesthetics	|	Mrs Hoo Yew Fang 	|	lee_yew_fang@schools.gov.sg	|
 |	HOD / CCE| Ms Khoo Ri Zhen	|	khoo_ri_zhen@schools.gov.sg	|
 |	HOD / English	|	Mrs Serene Lee 	|	teo_shiwei@schools.gov.sg	|
 |	HOD / ICT	|	Ms Tan Yan Fen	|	tan_yan_fen@schools.gov.sg	|
@@ -37,11 +36,11 @@ description: ""
 |	AYH / Upper Pri	|	Mr Kegan Lee	|	kegan_lee@schools.gov.sg	|
 |	LH / Mathematics	|	Ms Tan Pek Che	|	tan_pek_che@schools.gov.sg	|
 |	SH / CCE	|	Mrs Pearlie Lim	|	tan_xuan_li_pearlie@schools.gov.sg 	|
-|	SH / Chinese Language	|	Mr Wang Jianbo	|	wang_jianbo@schools.gov.sg	|
-|	SH / ML & TL	|	Mr Mohd Iskandar	|	mohamad_iskandar_mohd_yaakop@schools.gov.sg	|
+|	SH / CL	|	Mr Wang Jianbo	|	wang_jianbo@schools.gov.sg	|
+|	SH / ML	|	Mr Mohd Iskandar	|	mohamad_iskandar_mohd_yaakop@schools.gov.sg	|
+|	SH / TL	|	Mdm Usharani Kuppusamy	|	Usharani_KUPPUSAMY@moe.gov.sg	|
 |	SH / Pastoral Care & Partnership	|	Mr Caleb Tan	|	caleb_tan@schools.gov.sg	|
 |	SH / PE & CCA	|	Ms Loh Yan Ping	|	loh_yan_ping@schools.gov.sg	|
-|	SH / Student Management	|	Mdm Siti Farah	|	siti_farah_izzah@schools.gov.sg	|
 |	SH / Student Well-being	|	Mdm Siti Mariam	|	siti_mariam_mohd_yussof@schools.gov.sg	|
 |	Administration Manager	|	Mr David Wong	|	wong_khong_toon@schools.gov.sg	|
 |	Administration Manager	|	Ms Saratha Devi	|	saratha_devi_kalechelvam@schools.gov.sg	|
