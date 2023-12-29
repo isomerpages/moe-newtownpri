@@ -2,22 +2,6 @@
 title: Executive and Administrative Staff
 permalink: /our-people/executive-and-administrative-staff/
 description: ""
+variant: tiptap
 ---
-**<font size="6">Executive and Administrative Staff</font>**
-
-
-| Designation | Name | Email |
-| -------- | -------- | -------- |
-|Administration Manager|Mr David Wong| wong_khong_toon@schools.gov.sg |
-|Administration Manager|Ms Saratha Devi| saratha_devi_kalechelvam@schools.gov.sg|
-|Administrative Executive|Mrs Tengku Norashikin| tengku_norashikin_tengku_abu@schools.gov.sg|
-|ICT Manager|Mr Ahmad Aljunied|syed_ahmad_hassan_aljunied@schools.gov.sg|
-|Corporate Support Officer|Mdm Tan Lay Leng|tan_lay_leng_b@schools.gov.sg|
-|Corporate Support Officer|Mr Jeremy Tham|tham_yeu_kuen@schools.gov.sg|
-|Operations Support Officer|Mdm Amutha K|k_amutha_a@schools.gov.sg|
-|Operations Support Officer|Ms Janice Guo| guo_zhenzhen@schools.gov.sg|
-|Operations Support Officer|Mr Lee Sang Poo|lee_sang_poo@moe.edu.sg|
-|Operations Support Officer|Ms Nagappan Viehletchmi|nagappan_viehletchmi@moe.edu.sg|
-|Operations Support Officer|Mr Neo Beng Hweh|neo_beng_hweh@moe.edu.sg|
-|Operations Support Officer|Mdm Norasyikin Mokhtar|norasyikin_mokhtar@schools.gov.sg|
-|Operations Support Officer|Mr Tan Heng Seng|tan_heng_seng@moe.edu.sg|
+<p><strong>Executive and Administrative Staff</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Email</p></th></tr><tr><td rowspan="1" colspan="1"><p>Administration Manager</p></td><td rowspan="1" colspan="1"><p>Mr David Wong</p></td><td rowspan="1" colspan="1"><p>wong_khong_toon@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Administration Manager</p></td><td rowspan="1" colspan="1"><p>Ms Saratha Devi</p></td><td rowspan="1" colspan="1"><p>saratha_devi_kalechelvam@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Administrative Executive</p></td><td rowspan="1" colspan="1"><p>Mrs Tengku Norashikin</p></td><td rowspan="1" colspan="1"><p>tengku_norashikin_tengku_abu@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>Mdm Hezrin</p></td><td rowspan="1" colspan="1"><p>hezrin_mokhtar@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>ICT Manager</p></td><td rowspan="1" colspan="1"><p>Mr Ahmad Aljunied</p></td><td rowspan="1" colspan="1"><p>syed_ahmad_hassan_aljunied@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Administrative Executive (ICT)</p></td><td rowspan="1" colspan="1"><p>Mr Simon Seah</p></td><td rowspan="1" colspan="1"><p>seah_cheng_hwang@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p>Mr Christopher Ng</p></td><td rowspan="1" colspan="1"><p>ng_soon_lee@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p>Mr Abdul Razak</p></td><td rowspan="1" colspan="1"><p>abdul_razak_mohammed_noor@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Mdm Amutha K</p></td><td rowspan="1" colspan="1"><p>k_amutha_a@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Ms Janice Guo</p></td><td rowspan="1" colspan="1"><p>guo_zhenzhen@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Mr Lee Sang Poo</p></td><td rowspan="1" colspan="1"><p>lee_sang_poo@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Ms Nagappan Viehletchmi</p></td><td rowspan="1" colspan="1"><p>nagappan_viehletchmi@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Mr Neo Beng Hweh</p></td><td rowspan="1" colspan="1"><p>neo_beng_hweh@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Mdm Norasyikin Mokhtar</p></td><td rowspan="1" colspan="1"><p>norasyikin_mokhtar@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Mr Tan Heng Seng</p></td><td rowspan="1" colspan="1"><p>tan_heng_seng@moe.edu.sg</p></td></tr></tbody></table><p></p>
