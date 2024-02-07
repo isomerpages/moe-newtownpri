@@ -113,7 +113,7 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong>
+<p><strong>TIME PERIOD</strong> 
 <br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
