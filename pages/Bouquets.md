@@ -17,7 +17,7 @@ We would very much appreciate your words of encouragement which motivate us keep
 
   
 
-Click [**here**](https://moe-newtownpri-staging.netlify.app/accolades/bouquets/send-a-bouquet) to send us a **_Bouquet_** !
+Click [**here**](/accolades/bouquets/send-a-bouquet) to send us a **_Bouquet_** !
 
 ![](/images/Accolades/Bouquets%201.png)
 ![](/images/Accolades/Bouquets%202.png)
