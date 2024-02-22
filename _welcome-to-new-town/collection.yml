@@ -1,0 +1,8 @@
+collections:
+  welcome-to-new-town:
+    output: true
+    order:
+      - Get to Know Us!/School Videos.md
+      - Get to Know Us!/.keep
+      - Get to Know Us!/School History.md
+      - Get to Know Us!/eOpen House.md

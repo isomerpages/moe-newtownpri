@@ -1,0 +1,12 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - School Notifications.md
+      - Parent Support Group.md
+      - Useful Links.md
+      - Information for Parents/2024 Booklists.md
+      - Information for Parents/Application Forms.md
+      - Information for Parents/.keep
+      - Information for Parents/Glossary of Abbreviations & Acronyms.md
+      - Information for Parents/Parents Gateway.md

@@ -1,0 +1,16 @@
+logo: /images/Crest 2020.png
+links:
+  - title: Welcome To New Town
+    collection: welcome-to-new-town
+  - title: School Information
+    collection: school-information
+  - title: Our People
+    collection: our-people
+  - title: New Town Experience
+    collection: new-town-experience
+  - title: Spotlight
+    collection: spotlight
+  - title: For Parents
+    collection: for-parents
+  - title: Have A Question?
+    url: https://ask.gov.sg/ntps

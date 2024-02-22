@@ -1,0 +1,7 @@
+collections:
+  spotlight:
+    output: true
+    order:
+      - Highlights.md
+      - Achievements.md
+      - Parent Testimonials.md
