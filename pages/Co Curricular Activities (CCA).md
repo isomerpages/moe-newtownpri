@@ -13,10 +13,10 @@ CCA is an integral part of our students’ holistic education. Through CCA, stud
 
 At New Town Primary School, every Primary 3 to Primary 6 student takes part in one CCA taken from the following options:
 
-*   [Clubs & Societies](https://moe-newtownpri-staging.netlify.app/school-programmes/co-curricular-activities-cca/clubs-n-societies)
-*   [Performing Arts](https://moe-newtownpri-staging.netlify.app/school-programmes/co-curricular-activities-cca/performing-arts)
-*   [Physical Sports](https://moe-newtownpri-staging.netlify.app/school-programmes/co-curricular-activities-cca/physical-sports)
-*   [Uniformed Group](https://moe-newtownpri-staging.netlify.app/school-programmes/co-curricular-activities-cca/uniformed-group)
+*   [Clubs & Societies](/school-programmes/co-curricular-activities-cca/clubs-n-societies)
+*   [Performing Arts](/school-programmes/co-curricular-activities-cca/performing-arts)
+*   [Physical Sports](/school-programmes/co-curricular-activities-cca/physical-sports)
+*   [Uniformed Group](/school-programmes/co-curricular-activities-cca/uniformed-group)
 
 <img src="/images/School%20Programmes/CCA.png"  
      style="width:75%">
