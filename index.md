@@ -19,18 +19,6 @@ sections:
           description: ""
           url: /quick-links
   - infopic:
-      title: Caring Teacher Award 2024
-      id: infopic
-      description: >-
-        Have a teacher who went beyond the call of duty to nurture students into
-        confident, independent and resilient learners? 
-
-        Nominate your teacher today!
-      button: Nominate here
-      url: https://www.cta.nie.edu.sg/
-      image: /images/caring teacher award 2024.png
-      alt: Image alt text
-  - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
