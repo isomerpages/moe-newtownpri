@@ -41,12 +41,5 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>Edusave</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://drive.google.com/file/d/1e-Rj5tuMkyip11Ps1TiFBE9_ezbGCxMy/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Withdrawal of Edusave for Enrichment Programmes 2024</a>
-</p>
-</li>
-</ul>
+<p></p>
 <p></p>
