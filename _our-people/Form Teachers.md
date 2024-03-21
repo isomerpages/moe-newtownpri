@@ -468,17 +468,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hartini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>hartini_abdul_rahman@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P4-2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -537,10 +526,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Xu Jingwei</p>
+<p>Mdm Hartini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xu_jingwei_a@schools.gov.sg</p>
+<p>hartini_abdul_rahman@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -719,10 +708,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Li</p>
+<p>Mr Xu Jingwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chia_li@schools.gov.sg</p>
+<p>xu_jingwei_a@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
