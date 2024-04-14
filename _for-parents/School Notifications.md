@@ -12,6 +12,34 @@ variant: tiptap
 <li>
 <p><a href="https://drive.google.com/file/d/1jOzji4pkauuLXfHY8RaVeBjPUnS9q7KS/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">NTPS 2024 Term 2 Newsletter</a>
 </p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1GGARCYjQlSO_UKz1rAgs8dKca5ylubly/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P1 and P2 Parent Engagement Session English 2024</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1SqQ2MXT9zXAmyEbzZH7clrbc2MUAEMxx/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P1 and P2 Parent Engagement Session Holistic Assessment 2024</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1vrBu0bhLcNlic5X3vb3wn-UdDE-wyuH-/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P1 and P2 Parent Engagement Session Mathematics 2024</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1kir5pXzeV0RgjIb3Y1xxetmOXZTfmtSe/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P1 and P2 Parent Engagement Session Mother Tongue 2024</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1OyOaLKtN952sl99eXKYfAa1jkLrqIfhF/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P1 and P2 Parent Engagement Session PE Art Music PAL and CCA</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1aQ3VdyslSNAxltPcoumiee7vPE95RdXf/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P1 Parent Engagement Session 2024 (sharing by Year Head)</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1t0BkHSzrhXu0iJWQidm_Oq4_47X1hsZn/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P2 Parent Engagement Session 2024 (sharing by Year Head)</a>
+</p>
 <p></p>
 </li>
 </ul>
