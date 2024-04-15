@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/drive/folders/1UX5w7k4KFwDjTkWAVobcAbmNG2kUp_q_?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 P1-P3 Parent Engagement Session</a>
+<p><a href="https://drive.google.com/drive/folders/1UX5w7k4KFwDjTkWAVobcAbmNG2kUp_q_?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 P1-P2 Parent Engagement Session</a>
 </p>
 <p></p>
 </li>
