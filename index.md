@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/New Town Homepage GIF.gif
       key_highlights:
-        - title: NTPS FB
+        - title: FaceBook
           description: ""
           url: https://www.facebook.com/newtownpri
-        - title: For Parents
+        - title: Instagram
           description: ""
-          url: /for-parents/
+          url: https://www.instagram.com/newtownpri/?hl=en
         - title: Quick Links
           description: ""
           url: /quick-links
