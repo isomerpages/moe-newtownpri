@@ -32,16 +32,16 @@ sections:
       id: textcards
       description: Text card description
       cards:
-        - title: Get To Know Us!
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
+        - title: Get To Know Us
+          description: Find out what New Town Primary has to offer!
+          linktext: Watch our videos
+          url: https://www.newtownpri.moe.edu.sg/welcome-to-new-town/school-videos/
+        - title: School Programmes
+          description: Our New Town Experience
+          linktext: Read more
+          url: https://www.newtownpri.moe.edu.sg/school-programmes/applied-learning-programme-alp/
+        - title: Facebook
+          description: Get the latest updates on happenings in New Town Primary
+          linktext: Follow us
           url: ""
 ---
