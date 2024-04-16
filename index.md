@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/New Town Homepage GIF.gif
+      background: /images/Homepage Banner/New_Town_Pri_Sch_Photo_2_for_HDB.jpg
       key_highlights:
         - title: FaceBook
           description: ""
@@ -18,6 +18,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
+      subtitle: Passionate Learners. Critical Thinkers. Anchored Leaders.
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
