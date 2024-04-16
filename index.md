@@ -43,5 +43,5 @@ sections:
         - title: Facebook
           description: Get the latest updates on happenings in New Town Primary
           linktext: Follow us
-          url: ""
+          url: https://www.facebook.com/newtownpri
 ---
