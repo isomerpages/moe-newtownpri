@@ -22,9 +22,9 @@ sections:
   - infopic:
       title: open house
       subtitle: NEW TOWN PRIMARY SCHOOL
-      button: Sat 25 May, 8am - 1pm
+      button: Sat 25 May, 9am - 12.30pm
       url: https://www.newtownpri.moe.edu.sg/welcome-to-new-town/school-videos/
-      image: /images/ntps-askgov.png
+      image: /images/New_Town_Open_House_2024.jpg
       alt: Image alt text
   - textcards:
       title: New Town Primary School
