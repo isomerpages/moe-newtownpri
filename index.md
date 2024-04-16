@@ -20,17 +20,16 @@ sections:
           url: /quick-links
       subtitle: Passionate Learners. Critical Thinkers. Anchored Leaders.
   - infopic:
-      title: Get official answers from our Q&A Platform
-      subtitle: HAVE A QUESTION
-      button: VIEW OR ASK QUESTIONS ON ASK.GOV
-      url: https://ask.gov.sg/ntps
+      title: open house
+      subtitle: NEW TOWN PRIMARY SCHOOL
+      button: Sat 25 May, 8am - 1pm
+      url: https://www.newtownpri.moe.edu.sg/welcome-to-new-town/school-videos/
       image: /images/ntps-askgov.png
       alt: Image alt text
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: New Town Primary School
+      subtitle: What You need to know about
       id: textcards
-      description: Text card description
       cards:
         - title: Get To Know Us
           description: Find out what New Town Primary has to offer!
