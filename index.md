@@ -26,4 +26,22 @@ sections:
       url: https://ask.gov.sg/ntps
       image: /images/ntps-askgov.png
       alt: Image alt text
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Get To Know Us!
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
