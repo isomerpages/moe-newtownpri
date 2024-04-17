@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/New Town Homepage GIF.gif
+      background: /images/Homepage Banner/New_Town_Pri_Sch_Photo_2_for_HDB.jpg
       key_highlights:
         - title: FaceBook
           description: ""
@@ -19,10 +19,27 @@ sections:
           description: ""
           url: /quick-links
   - infopic:
-      title: Get official answers from our Q&A Platform
-      subtitle: HAVE A QUESTION
-      button: VIEW OR ASK QUESTIONS ON ASK.GOV
-      url: https://ask.gov.sg/ntps
-      image: /images/ntps-askgov.png
+      title: open house
+      subtitle: NEW TOWN PRIMARY SCHOOL
+      button: Sat 25 May, 9am - 12.30pm
+      url: https://www.newtownpri.moe.edu.sg/welcome-to-new-town/school-videos/
+      image: /images/New_Town_Open_House_2024.jpg
       alt: Image alt text
+  - textcards:
+      title: New Town Primary School
+      subtitle: What You need to know about
+      id: textcards
+      cards:
+        - title: Get To Know Us
+          description: Find out what New Town Primary has to offer!
+          linktext: Watch our videos
+          url: https://www.newtownpri.moe.edu.sg/welcome-to-new-town/school-videos/
+        - title: School Programmes
+          description: Our New Town Experience
+          linktext: Read more
+          url: https://www.newtownpri.moe.edu.sg/school-programmes/applied-learning-programme-alp/
+        - title: Facebook
+          description: Get the latest updates on happenings in New Town Primary
+          linktext: Follow us
+          url: https://www.facebook.com/newtownpri
 ---
