@@ -18,7 +18,6 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
-      subtitle: Passionate Learners. Critical Thinkers. Anchored Leaders.
   - infopic:
       title: open house
       subtitle: NEW TOWN PRIMARY SCHOOL
