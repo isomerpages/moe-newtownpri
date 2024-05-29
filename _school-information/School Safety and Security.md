@@ -12,7 +12,6 @@ variant: tiptap
 the pedestrian crossing to avoid traffic congestion along Tanglin Halt
 Road.<strong> </strong>This also poses a danger to students using the pedestrian
 crossing from cars negotiating around your parked cars.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Arrival.png">
 </div>
