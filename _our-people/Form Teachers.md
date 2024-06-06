@@ -6,7 +6,12 @@ variant: tiptap
 ---
 <h2>P1 Form Teachers</h2>
 <hr>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -155,7 +160,12 @@ variant: tiptap
 </table>
 <h2>P2 Form Teachers</h2>
 <hr>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -206,10 +216,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ryan Adam</p>
+<p>Mrs Kee-Teo Bee Kee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ryan_adam_abu_hassan@schools.gov.sg</p>
+<p>kee-teo_bee_kee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -304,7 +314,12 @@ variant: tiptap
 </table>
 <h2>P3 Form Teachers</h2>
 <hr>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -333,10 +348,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ken Tan</p>
+<p>Mdm Teh Sok Fun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_hoong_kee@schools.gov.sg</p>
+<p>teh_sok_fun@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -431,7 +446,12 @@ variant: tiptap
 </table>
 <h2>P4 Form Teachers</h2>
 <hr>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -580,7 +600,12 @@ variant: tiptap
 </table>
 <h2>P5 Form Teachers</h2>
 <hr>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -718,7 +743,12 @@ variant: tiptap
 </table>
 <h2>P6 Form Teachers</h2>
 <hr>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -791,10 +821,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hao Xiaoxing</p>
+<p>Mr Caleb Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hao_xiaoxing@schools.gov.sg</p>
+<p>caleb_tan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
