@@ -51,7 +51,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tengku Norashikin</p>
+<p>Mdm Nora Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tengku_norashikin_tengku_abu@schools.gov.sg</p>
@@ -62,7 +62,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hezrin</p>
+<p>Mdm Hezrin Mokhtar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hezrin_mokhtar@schools.gov.sg</p>
@@ -76,7 +76,7 @@ variant: tiptap
 <p>Mdm Tiffany Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yan_lai_khong@schools.gov.sg</p>
+<p>yan_lai_kheng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
