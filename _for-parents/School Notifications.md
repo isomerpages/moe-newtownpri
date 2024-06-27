@@ -6,6 +6,15 @@ variant: tiptap
 ---
 <p><strong>School Notifications</strong>
 </p>
+<p><strong>2024 Term 3</strong>
+</p>
+<ul>
+<li>
+<p><a href="https://drive.google.com/file/d/1hVASVQNQxOKVmPQhut-rWNP55GbiGyga/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">NTPS 2024 Term 3 Newsletter</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p><strong>2024 Term 2</strong>
 </p>
 <ul>
