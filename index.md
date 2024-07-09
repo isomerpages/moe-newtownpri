@@ -38,7 +38,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Road Closure
           date: 12 July 2024
