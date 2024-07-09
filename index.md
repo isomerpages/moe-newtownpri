@@ -35,4 +35,16 @@ sections:
           description: Get the latest updates on happenings in New Town Primary
           linktext: Follow us
           url: https://www.facebook.com/newtownpri
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Road Closure
+          date: 12 July 2024
+          announcement: "[IMPORTANT]  Road Closure at Tanglin Halt Road and Commonwealth
+            Drive on 12 July 2024, Friday"
+          link_text: Click here URL for more information on road closure
+          link_url: Road Closure at Tanglin Halt Road and Commonwealth Drive on 12 July
+            2024, Friday
 ---
