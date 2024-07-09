@@ -44,5 +44,5 @@ sections:
           announcement: "[IMPORTANT]  Road Closure at Tanglin Halt Road and Commonwealth
             Drive on 12 July 2024, Friday"
           link_text: Click here for more information on road closure.
-          link_url: https://drive.google.com/file/d/17l4bWcOOF6LGex-UvDsPXbWUPv-Q7PfM/view?usp=drive_link
+          link_url: https://drive.google.com/file/d/1xIeogihUZNs6f1hrpcjDd5Trc-wZ4Bg1/view?usp=drive_link
 ---
