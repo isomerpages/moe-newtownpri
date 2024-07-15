@@ -3,41 +3,115 @@ title: Resources
 permalink: /new-town-experience/Art-and-Music/Resources/
 description: ""
 third_nav_title: Aesthetics
+variant: tiptap
 ---
-
-**Resources**
-
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
- mso-yfti-tbllook:1536;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
- cell-none;mso-border-insidev:cell-none" width="608" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:452.5pt"><td style="width:102.0pt;border:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:452.5pt" valign="top" width="136"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Performances and Exhibitions</span></b></p></td><td style="width:354.0pt;border:solid black 1.0pt;
-  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:452.5pt" valign="top" width="472"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">Click on these links to see what’s on and enjoy them with your family.</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">Note: Some events are free while others require the purchase of tickets.</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#666666" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">Esplanade – Theaters on the Bay</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN"><a href="https://www.esplanade.com/whats-on/category"><span style="color:#1870B6">https://www.esplanade.com/whats-on/category</span></a><u><span style="color:#1870B6"></span></u></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#666666" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">Victoria Theater and Victoria Concert Hall</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN"><a href="https://www.vtvch.com/whats-on"><span style="color:#1870B6">https://www.vtvch.com/whats-on</span></a><u><span style="color:#1870B6"></span></u></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#666666" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">Singapore Chinese Orchestra</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN"><a href="https://sco.com.sg/en/events/all-concerts-and-events.html"><span style="color:#1870B6">https://sco.com.sg/en/events/all-concerts-and-events.html</span></a><u><span style="color:#1870B6"></span></u></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#666666" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">Singapore Botanical Gardens</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN"><a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events"><span style="color:#1870B6">https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events</span></a><u><span style="color:#1870B6"></span></u></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">(select ‘Performances’)</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">National Gallery Singapore</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN"><a href="https://www.nationalgallery.sg/whats-on"><span style="color:#1870B6">https://www.nationalgallery.sg/whats-on</span></a><u><span style="color:#1870B6"></span></u></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#666666" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">ArtScience Museum</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN"><a href="https://www.marinabaysands.com/museum/whats-on.html"><span style="color:#1870B6">https://www.marinabaysands.com/museum/whats-on.html</span></a><u><span style="color:#1870B6"></span></u></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#666666" lang="EN">(check out their ‘Family Fridays’)</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#666666" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#666666" lang="EN">A</span><span lang="EN">sian Civilizations Museum</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN"><a href="https://www.nhb.gov.sg/acm/whats-on"><span style="color:
-  #1870B6">https://www.nhb.gov.sg/acm/whats-on</span></a><u><span style="color:#1870B6"></span></u></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#666666" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">National Museum of Singapore</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN"><a href="https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/exhibition-list"><span style="color:#1870B6">https://www.nhb.gov.sg/nationalmuseum/our-exhibitions/exhibition-list</span></a><u><span style="color:#1870B6"></span></u></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#666666" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span><span style="color:blue" lang="EN"></span></p></td></tr><tr style="mso-yfti-irow:1;height:219.0pt"><td style="width:102.0pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:219.0pt" valign="top" width="136"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Elective Programmes (Secondary)</span></b></p></td><td style="width:354.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:219.0pt" valign="top" width="472"><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext" lang="EN">Access the links below for information on Art and Music at the ‘O’ levels</span><span lang="EN"></span></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:#666666" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><u><span style="color:black;mso-color-alt:windowtext" lang="EN">Art</span><span lang="EN"></span></u></b></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext" lang="EN">Enhanced Art Programme (EMP) for secondary</span><span lang="EN"></span></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext" lang="EN"><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/eap-sec"><span style="color:#1870B6">https://www.moe.gov.sg/education-in-sg/our-programmes/eap-sec</span></a></span><u><span style="color:#1870B6" lang="EN"></span></u></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:#666666" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext" lang="EN">Art Elective Programme (MEP) for secondary</span><span lang="EN"></span></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext" lang="EN"><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec"><span style="color:#1870B6">https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec</span></a></span><u><span style="color:#1870B6" lang="EN"></span></u></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:#666666" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><u><span style="color:black;mso-color-alt:windowtext" lang="EN">Music</span><span lang="EN"></span></u></b></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext" lang="EN">Enhanced Music Programme (EMP) for secondary</span><span lang="EN"></span></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext" lang="EN"><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/emp-sec"><span style="color:#1870B6">https://www.moe.gov.sg/education-in-sg/our-programmes/emp-sec</span></a></span><u><span style="color:#1870B6" lang="EN"></span></u></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:#666666" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext" lang="EN">Music Elective Programme (MEP) for secondary</span><span lang="EN"></span></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext" lang="EN"><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec"><span style="color:#1870B6">https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec</span></a></span><u><span style="color:#1870B6" lang="EN"></span></u></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:blue" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:170.25pt"><td style="width:102.0pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:170.25pt" valign="top" width="136"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Direct School Admission for Secondary Schools (DSA-SEC)</span></b></p></td><td style="width:354.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:170.25pt" valign="top" width="472"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;background:#F7FCFF" lang="EN">Information about DSA for secondary schools can be found here</span><span style="color:#666666;background:#F7FCFF" lang="EN"> </span><span lang="EN"><a href="https://www.moe.gov.sg/secondary/dsa"><span style="color:#1870B6;
-  background:#F7FCFF">https://www.moe.gov.sg/secondary/dsa</span></a><u><span style="color:#1870B6;background:#F7FCFF"></span></u></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:#666666" lang="EN">&nbsp;</span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><u><span style="color:black;
-  mso-color-alt:windowtext;background:#F7FCFF" lang="EN">School of the Arts (SOTA)</span><span style="background:#F7FCFF" lang="EN"></span></u></b></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;background:#F7FCFF" lang="EN">SOTA admits students through 100% Direct Schools Admission.</span><span style="background:#F7FCFF" lang="EN"></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;background:#F7FCFF" lang="EN">Check out these links for more information.</span><span style="background:
-  #F7FCFF" lang="EN"></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">&nbsp;</span></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext" lang="EN">SOTA e-Open House 2022</span><span lang="EN"></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN"><a href="https://www.sota.edu.sg/oh2022"><span style="color:#1870B6;
-  background:#F7FCFF">https://www.sota.edu.sg/oh2022</span></a><u><span style="color:#1870B6;background:#F7FCFF"></span></u></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">&nbsp;</span></p><p style="line-height:normal;mso-pagination:none;background:
-  #F7FCFF" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext" lang="EN">SOTA Admissions</span><span lang="EN"></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN"><a href="https://www.sota.edu.sg/admission"><span style="color:#1870B6;
-  background:#F7FCFF">https://www.sota.edu.sg/admission</span></a><u><span style="color:#1870B6;background:#F7FCFF"></span></u></span></p><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span style="color:blue" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr></tbody></table>
+<p><strong>Resources</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Performances and Exhibitions</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click on these links to see what’s on and enjoy them with your family.</p>
+<p>Note: Some events are free while others require the purchase of tickets.</p>
+<p>&nbsp;</p>
+<p>Esplanade – Theaters on the Bay</p>
+<p><a href="https://www.esplanade.com/whats-on/category" rel="noopener noreferrer nofollow" target="_blank">https://www.esplanade.com/whats-on/category</a>
+</p>
+<p>&nbsp;</p>
+<p>Victoria Theater and Victoria Concert Hall</p>
+<p><a href="https://www.vtvch.com/whats-on" rel="noopener noreferrer nofollow" target="_blank">https://www.vtvch.com/whats-on</a>
+</p>
+<p>&nbsp;</p>
+<p>Singapore Chinese Orchestra</p>
+<p><a href="https://sco.com.sg/en/events/all-concerts-and-events.html" rel="noopener noreferrer nofollow" target="_blank">https://sco.com.sg/en/events/all-concerts-and-events.html</a>
+</p>
+<p>&nbsp;</p>
+<p>Singapore Botanical Gardens</p>
+<p><a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events" rel="noopener noreferrer nofollow" target="_blank">https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events</a>
+</p>
+<p>(select ‘Performances’)</p>
+<p>&nbsp;</p>
+<p>National Gallery Singapore</p>
+<p><a href="https://www.nationalgallery.sg/whats-on" rel="noopener noreferrer nofollow" target="_blank">https://www.nationalgallery.sg/whats-on</a>
+</p>
+<p>&nbsp;</p>
+<p>ArtScience Museum</p>
+<p><a href="https://www.marinabaysands.com/museum/whats-on.html" rel="noopener noreferrer nofollow" target="_blank">https://www.marinabaysands.com/museum/whats-on.html</a>
+</p>
+<p>(check out their ‘Family Fridays’)</p>
+<p>&nbsp;</p>
+<p>Asian Civilizations Museum</p>
+<p><a href="https://www.nhb.gov.sg/acm" rel="noopener noreferrer nofollow" target="_blank">https://www.nhb.gov.sg/acm/</a>
+</p>
+<p>&nbsp;</p>
+<p>National Museum of Singapore</p>
+<p><a href="https://www.nhb.gov.sg/nationalmuseum/" rel="noopener noreferrer nofollow" target="_blank">https://www.nhb.gov.sg/nationalmuseum/</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Elective Programmes (Secondary)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Access the links below for information on Art and Music at the ‘O’ levels</p>
+<p>&nbsp;</p>
+<p><strong><u>Art</u></strong>
+</p>
+<p>Enhanced Art Programme (EMP) for secondary</p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/eap-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/eap-sec</a>
+</p>
+<p>&nbsp;</p>
+<p>Art Elective Programme (MEP) for secondary</p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec</a>
+</p>
+<p>&nbsp;</p>
+<p><strong><u>Music</u></strong>
+</p>
+<p>Enhanced Music Programme (EMP) for secondary</p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/emp-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/emp-sec</a>
+</p>
+<p>&nbsp;</p>
+<p>Music Elective Programme (MEP) for secondary</p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Direct School Admission for Secondary Schools (DSA-SEC)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information about DSA for secondary schools can be found here <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+</p>
+<p>&nbsp;</p>
+<p><strong><u>School of the Arts (SOTA)</u></strong>
+</p>
+<p>SOTA admits students through 100% Direct Schools Admission.</p>
+<p>Check out these links for more information.</p>
+<p>&nbsp;</p>
+<p>SOTA e-Open House 2022</p>
+<p><a href="https://www.sota.edu.sg/oh2022" rel="noopener noreferrer nofollow" target="_blank">https://www.sota.edu.sg/oh2022</a>
+</p>
+<p>&nbsp;</p>
+<p>SOTA Admissions</p>
+<p><a href="https://www.sota.edu.sg/admission" rel="noopener noreferrer nofollow" target="_blank">https://www.sota.edu.sg/admission</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
