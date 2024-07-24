@@ -2,12 +2,12 @@ collections:
   school-information:
     output: true
     order:
-      - School Bus/.keep
       - Vision, Mission, Values.md
       - School Identity.md
       - School Hours.md
       - School Rules.md
       - School Safety and Security.md
       - School Bus.md
+      - School Bus/.keep
       - Student Care Centre.md
       - Contact Us.md
