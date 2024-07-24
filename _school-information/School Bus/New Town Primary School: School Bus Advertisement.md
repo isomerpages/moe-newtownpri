@@ -21,7 +21,7 @@ Procedure below.</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1LZ2R-WwP6JBHE92kRTwq-ve0TMG_vfRF/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Service </a>
+<p><a href="https://drive.google.com/file/d/1LZ2R-WwP6JBHE92kRTwq-ve0TMG_vfRF/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Service</a>
 </p>
 </li>
 </ol>
