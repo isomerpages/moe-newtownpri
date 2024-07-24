@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Bus/.keep
       - Vision, Mission, Values.md
       - School Identity.md
       - School Hours.md
