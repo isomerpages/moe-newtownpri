@@ -20,7 +20,7 @@ Procedure below.</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1Lq6KYvBU5sOyJAhw_AsjOPvQRnlM2pFY/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Service and T&amp;C Governing the Requests for Services  (For Single Bus Service)</a>
+<p><a href="https://drive.google.com/file/d/1Lq6KYvBU5sOyJAhw_AsjOPvQRnlM2pFY/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Service and T&amp;C Governing the Requests for Services (For Single Bus Service)</a>
 </p>
 </li>
 </ol>
