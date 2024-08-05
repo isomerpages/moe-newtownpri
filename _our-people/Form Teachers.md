@@ -868,7 +868,7 @@ variant: tiptap
 <p>Ms Khoo Rizhen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>khoo_rizhen@schools.gov.sg</p>
+<p>khoo_ri_zhen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
