@@ -128,17 +128,6 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Amutha K</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>k_amutha_a@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Janice Guo</p>
 </td>
 <td rowspan="1" colspan="1">
