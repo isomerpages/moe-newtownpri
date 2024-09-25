@@ -296,7 +296,7 @@ variant: tiptap
 <p>Mdm Usharani Kuppusamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Usharani_KUPPUSAMY@moe.gov.sg</p>
+<p>usharani_kuppusamy@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
