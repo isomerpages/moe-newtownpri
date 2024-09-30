@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Information for Parents
 variant: tiptap
 ---
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p><strong>Admission / Transfer</strong>
 </p>
 <ul>
@@ -17,6 +25,10 @@ variant: tiptap
 </p>
 </li>
 </ul>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mother Tongue</strong>
 </p>
 <ul>
@@ -33,6 +45,10 @@ variant: tiptap
 </p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Official Address</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -41,5 +57,44 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOE FAS</strong>
+</p>
+<ul>
+<li>
+<p><a href="https://drive.google.com/file/d/10dI3bjRzvc15utKkDUPk-jcTpnlDT-la/view?usp=drive_link" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
+</p>
+</li>
+</ul>
+<p><strong>MOE FAS Pamphlets</strong>
+</p>
+<ul>
+<li>
+<p><a href="https://drive.google.com/file/d/1uUjA6uh6t1lh1_LKSVVyFWkki1MQ7S4Z/view?usp=drive_link" rel="noopener nofollow" target="_blank">English Language (EL)</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1TET9KmKfReLiSBLU_88LPcwszUfHTWqT/view?usp=drive_link" rel="noopener nofollow" target="_blank">Chinese Language (CL)</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1LlW4Rh86gXn2I1u39m8a0dXIDXyL9094/view?usp=drive_link" rel="noopener nofollow" target="_blank">Malay Language (ML)</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1mYJoTQSFHDKZ_MnqWTGP4kfwhB1wx_kF/view?usp=drive_link" rel="noopener nofollow" target="_blank">Tamil Language (TL)</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+<br>
+</p>
 <p></p>
