@@ -4,8 +4,7 @@ permalink: /school-information/student-care-centre/
 description: ""
 variant: tiptap
 ---
-<h1>Student Care Centre</h1>
-<h4>Student Care Centre Operator Details</h4>
+<h3>Student Care Centre Operator Details</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
