@@ -11,7 +11,7 @@ third_nav_title: School Bus
 <br>Please contact Director, Ms Fong Li Ying on School Bus transport matters.
 <br>If you are unable to contact Ms Fong Li Ying via call, please send her
 a message via SMS.
-<br>*HP: 9188 4698|
+<br>*HP: 9188 4698
 <br>*Email: <a rel="noopener noreferrer nofollow" target="_blank">skyislandschool@gmail.com</a>
 <br>
 <br>Period: 1 Jan 2025 to 31 Dec 2026</p>
