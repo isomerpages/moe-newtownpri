@@ -392,7 +392,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Yen</p>
+<p>Mdm Wang Yan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wang_yan_b@schools.gov.sg</p>
