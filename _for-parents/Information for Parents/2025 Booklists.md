@@ -27,6 +27,10 @@ third_nav_title: Information for Parents
 <li>
 <p><a href="https://drive.google.com/file/d/1W8w1ib26e0Z8TzllqcBsL6cAhHTSMibf/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a>
 </p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1bw_exoiW7hVHsshXq8yTpD8ebedTDGUS/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
+</p>
 <p></p>
 </li>
 </ul>
