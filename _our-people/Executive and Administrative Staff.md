@@ -81,6 +81,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Soh Soo Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>soh_soo_wah_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,6 +139,17 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Norasyikin Mokhtar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>norasyikin_mokhtar@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Janice Guo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -165,17 +187,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>neo_beng_hweh@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Norasyikin Mokhtar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>norasyikin_mokhtar@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
