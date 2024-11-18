@@ -114,10 +114,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.totaldefence.sg/" rel="noopener noreferrer nofollow" target="_blank">Total Defence</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Library Board (NLB)</a>
 </p>
 </li>
