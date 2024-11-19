@@ -86,11 +86,9 @@ variant: tiptap
 </p>
 <p><strong><u>School of the Arts (SOTA)</u></strong>
 <br>SOTA admits students through 100% Direct Schools Admission.
-<br>Check out these links for more information.</p>
-<p>SOTA e-Open House 2022
-<br><a href="https://www.sota.edu.sg/oh2022" rel="noopener noreferrer nofollow" target="_blank">https://www.sota.edu.sg/oh2022</a>
-</p>
-<p>SOTA Admissions
+<br>Check out these links for more information.
+<br>
+<br>SOTA Admissions
 <br><a href="https://www.sota.edu.sg/admission" rel="noopener noreferrer nofollow" target="_blank">https://www.sota.edu.sg/admission</a>
 </p>
 <p>&nbsp;</p>
