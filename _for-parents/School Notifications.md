@@ -10,6 +10,14 @@ variant: tiptap
 </p>
 <ul>
 <li>
+<p><a href="https://drive.google.com/file/d/1IMgDgLYp0-LrHArASFC6qqj88Tw9Whgz/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Orientation - School Leader Address</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/19742_UiMFbUiSYnD-K8kOcmRIWNoH3-e/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Orientation - Sharing by Year Head</a>
+</p>
+</li>
+<li>
 <p><a href="https://drive.google.com/file/d/1CUUvaib01et1Mwvpr8tM2OxIiiOwdIOl/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">NTPS 2024 Term 4 Newsletter</a>
 <br>
 </p>
