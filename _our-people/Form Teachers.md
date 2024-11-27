@@ -398,50 +398,6 @@ variant: tiptap
 <p>muhammad_khairool_haque_abdul@schools.gov.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3-5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chan Yong Hao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chan_yong_hao@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Xinpei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_xinpei@schools.gov.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h2>P4 Form Teachers</h2>
