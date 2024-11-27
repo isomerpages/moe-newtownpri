@@ -12,7 +12,7 @@ The lion represents Singapore, where we as citizens continually serve.
 
 The flame in front of the lion signifies the philosophy of the school in inculcating sound moral values.
 
-The open book stands for knowledge and spirit of learning.
+The open book stands for knowledge and the spirit of learning.
 
 
 ### School Song
