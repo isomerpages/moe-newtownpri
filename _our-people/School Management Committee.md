@@ -51,10 +51,10 @@ variant: tiptap
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jodie Tay</p>
+<p>Mdm Felicia Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jodie_tay@schools.gov.sg</p>
+<p>foo_huey_ying@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -147,28 +147,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chew Zichun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chew_zichun@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD / Special Educational Needs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Johnson Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>li_yuxiang_johnson@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -202,13 +180,36 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>AYH / Lower Pri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Suhana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>suhana_salamat@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>YH / Middle Pri</p>
+<p>(covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Wee Ling</p>
+<p>Mdm Siti Mariam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_wee_ling@schools.gov.sg</p>
+<p>siti_mariam_mohd_yussof@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYH / Middle Pri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Guan Sin Loi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>guan_sin_loi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -224,17 +225,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH / Middle Pri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Suhana</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>suhana_salamat@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>AYH / Upper Pri</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -242,6 +232,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>kegan_lee@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH / English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Anisa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>anisa_sulaiman@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -279,17 +280,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / ML</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Iskandar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mohamad_iskandar_mohd_yaakop@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH / TL</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -319,39 +309,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>loh_yan_ping@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH / Student Well-being</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Mariam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_mariam_mohd_yussof@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr David Wong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wong_khong_toon@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Saratha Devi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>saratha_devi_kalechelvam@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -385,17 +342,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>noraini_karsani@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LT / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Low Yew Fai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>low_yew_fai@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
