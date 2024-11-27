@@ -55,7 +55,7 @@ Morning Connect and Form Teacher Time).&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mon - Fri (except Wed)</strong>
-<br>1.20 pm - 2.10 pm</p>
+<br>1.30 pm - 2.10 pm</p>
 <p><strong>Wed </strong>
 <br>2.00 pm - 2.45 pm</p>
 </td>
