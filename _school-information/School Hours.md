@@ -48,24 +48,16 @@ Morning Connect and Form Teacher Time).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>2 and 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.45 am - 7.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.20 pm - 2.10 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.45 am - 7.30 am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.20 pm - 2.10 pm</p>
+<p><strong>Mon - Fri (except Wed)</strong>
+<br>1.20 pm - 2.10 pm</p>
+<p><strong>Wed </strong>
+<br>2.00 pm - 2.45 pm</p>
 </td>
 </tr>
 </tbody>
