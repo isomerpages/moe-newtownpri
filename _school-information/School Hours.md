@@ -43,7 +43,7 @@ Morning Connect and Form Teacher Time).&nbsp;</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Open from 6.30 am to 7.00 pm</p>
+<p>6.30 am to 7.00 pm</p>
 </td>
 </tr>
 <tr>
