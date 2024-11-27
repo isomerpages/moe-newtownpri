@@ -574,17 +574,6 @@ variant: tiptap
 <p>loh_yan_ping@schools.gov.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4-6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Pek Che</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_pek_che@schools.gov.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h2>P5 Form Teachers</h2>
@@ -612,10 +601,21 @@ variant: tiptap
 <p>P5-1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Gan Soon Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>gan_soon_rui@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Pek Che</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_pek_che@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
