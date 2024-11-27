@@ -2,6 +2,7 @@
 title: School Identity
 permalink: /school-information/School-Identity/
 description: ""
+variant: markdown
 ---
 ### School Crest
 
@@ -14,17 +15,9 @@ The flame in front of the lion signifies the philosophy of the school in inculca
 The open book stands for knowledge and spirit of learning.
 
 
-### Motto
-
-**Ready to Serve**
-
-We must always uphold sound moral values and keep alive the spirit of learning in order to be ready to serve our country.
-
-
-
 ### School Song
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gn7WNLQnXPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gn7WNLQnXPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 In New Town Primary, where we start<br>
 Together we step forth with our hearts<br>
