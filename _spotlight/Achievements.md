@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h1>Pinnacle Awards</h1>
 <h4>New Towner of the Year</h4>
-<p>The New Towner of the Year award is awarded annually to a Primary 6 student
-who has demonstrated excellence in character, academics, and student leadership.</p>
+<p>The New Towner of the Year award is an all-rounder award presented annually
+to a Primary 6 student who has demonstrated excellence in character, academics,
+and student leadership.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -42,7 +43,8 @@ who has demonstrated excellence in character, academics, and student leadership.
 <p></p>
 <h4>Resilience Award</h4>
 <p>The New Town Resilience Award is awarded annually to a Primary 6 student
-who has demonstrated great resilience in overcoming adversities and challenges.</p>
+who has demonstrated great resilience in overcoming adversities and challenges
+during his/her time in school.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
