@@ -136,7 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / PE &amp; CCA</p>
+<p>HOD / PE, CCA &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Vincent Heng</p>
@@ -254,6 +254,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_pek_che@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Geraldine Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_xin_hui_geraldine@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
