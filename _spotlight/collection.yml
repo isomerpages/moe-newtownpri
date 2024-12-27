@@ -2,4 +2,5 @@ collections:
   spotlight:
     output: true
     order:
+      - Edusave Awards.md
       - Achievements.md
