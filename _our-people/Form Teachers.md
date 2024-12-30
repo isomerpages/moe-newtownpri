@@ -832,10 +832,10 @@ variant: tiptap
 <p>P6-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Kim Fung</p>
+<p>Mdm Mashitah Hosaini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chia_kim_fung@schools.gov.sg</p>
+<p>nur_mashitah_hosaini@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
