@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p><a href="https://drive.google.com/file/d/1NgX0Y6-VZjvr4cNSnfkulPHFR-hbYnMX/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Waitlist (AY 2024)</a>
+<p><a href="https://drive.google.com/file/d/1dSDOcIVzH5KVm0cnQ_BIc0Hc2Jm7y78c/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Waitlist (AY 2025)</a>
 </p>
 </li>
 <li>
