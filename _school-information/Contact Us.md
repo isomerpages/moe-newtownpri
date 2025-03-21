@@ -190,9 +190,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><em>Commit Learning Schoolhouse Pte Ltd</em></strong>
 </p>
-<p><em>&nbsp;</em>
-</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -223,8 +220,6 @@ variant: tiptap
 </table>
 <p><em>&nbsp;</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
 </td>
 </tr>
 <tr>
@@ -234,8 +229,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><em>School Dental Service (Health Promotion Board)</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
