@@ -2,281 +2,354 @@
 title: Contact Us
 permalink: /contact-us/
 description: ""
+variant: tiptap
 ---
-### School Location 
-**![](https://lh6.googleusercontent.com/QxkOg6mXiUIEMZVVZRHSPTkJCllzN_AZu7zKYgcv42e7C3MNQJTmOLxQ6XMFeCxJ_FPpM6_DjcOJ5Ttv_6fU6P9q4ChL3KK6mhDBRXqPJfGHKgElPodO1t90In8_8SWnstsF8rXHL_drFhL6rfAJw5RKsi-n1h4QagD6CPOmiMfYVoRUx2ge87rUUOGujQ)**
-
-New Town Primary School <br>
-300 Tanglin Halt Road <br>
-Singapore 148812<br>
-
-Tel : 6474 8805<br>
-Fax : 6474 1249<br>
-
-**Have a question?**  
-Ask and get answered on our [Q&amp;A Page](https://go.ask.gov.sg/ntps)
+<h3>School Location</h3>
+<p></p>
+<p>New Town Primary School
+<br>300 Tanglin Halt Road
+<br>Singapore 148812
 <br>
-<span style="color:#999999"><em>Powered by:
-<br><img style="width:10%;float:left" src="/images/logo-askgov.png">
-
+</p>
+<p>Tel : 6474 8805
+<br>Fax : 6474 1249
 <br>
-
-### Contact Information
-
-**General Office**<br>
-Operating Hours: 7.30 am-5.00 pm<br>
-
-Tel : 6474 8805<br>
-Fax : 6474 1249<br>
-Email : ntps@moe.edu.sg<br>
-
-**School Vendors and Services**
-
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none; mso-border-top-alt:#AABCFE 3.0pt;mso-border-left-alt:#EAEAEA .75pt;mso-border-bottom-alt: #AABCFE 3.0pt;mso-border-right-alt:#EAEAEA .75pt;mso-border-style-alt:solid; mso-yfti-tbllook:1536;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh: cell-none;mso-border-insidev:cell-none" width="609" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
-  <tbody>
-    <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:93.75pt">
-      <td style="width:90.75pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:93.75pt" valign="top" width="121">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Bookshop</span></p>
-      </td>
-      <td style="width:366.0pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:93.75pt" valign="top" width="488">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:13.0pt; color:#222222" lang="EN">The Continental Book Centre</span></b></p>
-        <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none; mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1536;mso-padding-alt: 0in 5.4pt 0in 5.4pt;mso-border-insideh:.75pt solid #AAAAAA;mso-border-insidev: .75pt solid #AAAAAA" width="425" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
-          <tbody>
-            <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:21.0pt">
-              <td style="width:69.7pt;border:solid #AAAAAA 1.0pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:21.0pt" valign="top" width="93">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#222222" lang="EN">Tel</span></p>
-              </td>
-              <td style="width:249.3pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:21.0pt" valign="top" width="332">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#222222" lang="EN">9475 9606</span></p>
-              </td>
-            </tr>
-            <tr style="mso-yfti-irow:1;height:21.0pt">
-              <td style="width:69.7pt;border:solid #AAAAAA 1.0pt; border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt; padding:3.0pt 3.0pt 3.0pt 6.0pt;height:21.0pt" valign="top" width="93">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#222222" lang="EN">Email</span></p>
-              </td>
-              <td style="width:249.3pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:21.0pt" valign="top" width="332">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#1870B6" lang="EN">admin@the-continental.com.sg</span></p>
-              </td>
-            </tr>
-            <tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:21.0pt">
-              <td style="width:69.7pt;border:solid #AAAAAA 1.0pt; border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt; padding:3.0pt 3.0pt 3.0pt 6.0pt;height:21.0pt" valign="top" width="93">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#222222" lang="EN">Booklists</span></p>
-              </td>
-              <td style="width:249.3pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:21.0pt" valign="top" width="332">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span lang="EN"><a href="https://drive.google.com/drive/u/1/folders/17BvECiehbFGizSvUH7SFOuM0KcHQTnVB"><span style="font-size:13.0pt;color:#1870B6;text-decoration:none;text-underline: none">link</span></a></span></p>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">&nbsp;</span></p>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">&nbsp;</span></p>
-      </td>
-    </tr>
-    <tr style="mso-yfti-irow:1;height:87.0pt">
-      <td style="width:90.75pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:87.0pt" valign="top" width="121">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">School Bus</span></p>
-      </td>
-      <td style="width:366.0pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:87.0pt" valign="top" width="488">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:13.0pt; color:#222222" lang="EN">Sky Island Transport &amp; Trading</span></b></p>
-        <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none; mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1536;mso-padding-alt: 0in 5.4pt 0in 5.4pt;mso-border-insideh:.75pt solid #AAAAAA;mso-border-insidev: .75pt solid #AAAAAA" width="376" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
-          <tbody>
-            <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:35.25pt">
-              <td style="width:61.65pt;border:solid #AAAAAA 1.0pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:35.25pt" valign="top" width="82">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Tel</span></p>
-              </td>
-              <td style="width:220.7pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:32.25pt" valign="top" width="294">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">9188 4698<br>
-                <br>
-                9009 0569</span></p>
-              </td>
-            </tr>
-            <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:21.0pt">
-              <td style="width:61.65pt;border:solid #AAAAAA 1.0pt; border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt; padding:3.0pt 3.0pt 3.0pt 6.0pt;height:21.0pt" valign="top" width="82">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Email</span></p>
-              </td>
-              <td style="width:220.7pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:21.0pt" valign="top" width="294">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#1870B6" lang="EN">skyisland96@hotmail.com</span></p>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">&nbsp;</span></p>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">&nbsp;</span></p>
-      </td>
-    </tr>
-    <tr style="mso-yfti-irow:2;height:144.75pt">
-      <td style="width:90.75pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:144.75pt" valign="top" width="121">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span>School Uniform</span></p>
-      </td>
-      <td style="width:366.0pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:144.75pt" valign="top" width="488">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family: Calibri;color:#222222" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span><b style="mso-bidi-font-weight:normal"><span style="font-size:13.0pt; color:#222222" lang="EN">Bibi &amp; Baba Private Limited</span></b></p>
-        <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none; mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1536;mso-padding-alt: 0in 5.4pt 0in 5.4pt;mso-border-insideh:.75pt solid #AAAAAA;mso-border-insidev: .75pt solid #AAAAAA" width="333" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
-          <tbody>
-            <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:48.75pt">
-              <td style="width:66.75pt;border:solid #AAAAAA 1.0pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:48.75pt" valign="top" width="89">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Address</span></p>
-              </td>
-              <td style="width:183.0pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:48.75pt" valign="top" width="244">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">BB @ Henderson Road<br>
-                213 Henderson Road, #01-12<br>
-                Singaopre 159553</span></p>
-              </td>
-            </tr>
-            <tr style="mso-yfti-irow:1;height:21.0pt">
-              <td style="width:66.75pt;border:solid #AAAAAA 1.0pt; border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt; padding:3.0pt 3.0pt 3.0pt 6.0pt;height:21.0pt" valign="top" width="89">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Tel</span></p>
-              </td>
-              <td style="width:183.0pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:21.0pt" valign="top" width="244">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">6732 7022</span></p>
-              </td>
-            </tr>
-            <tr style="mso-yfti-irow:2;height:21.0pt">
-              <td style="width:66.75pt;border:solid #AAAAAA 1.0pt; border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt; padding:3.0pt 3.0pt 3.0pt 6.0pt;height:21.0pt" valign="top" width="89">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span>Email</span></p>
-              </td>
-              <td style="width:183.0pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:21.0pt" valign="top" width="244">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">uniforms@bibibaba.com.sg</span></p>
-              </td>
-            </tr>
-            <tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:21.0pt">
-              <td style="width:66.75pt;border:solid #AAAAAA 1.0pt; border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt; padding:3.0pt 3.0pt 3.0pt 6.0pt;height:21.0pt" valign="top" width="89">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span>Website</span></p>
-              </td>
-              <td style="width:183.0pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:21.0pt" valign="top" width="244">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span lang="EN"><a href="https://www.schooluniforms.sg/"><span style="font-size: 13.0pt;color:#1870B6;text-decoration:none;text-underline:none">https://www.schooluniforms.sg/</span></a></span></p>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"></p>
-      </td>
-    </tr>
-    <tr style="mso-yfti-irow:3;height:2.0in">
-      <td style="width:90.75pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:2.0in" valign="top" width="121">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Student Care Centre</span></p>
-      </td>
-      <td style="width:366.0pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:2.0in" valign="top" width="488">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:13.0pt; color:#222222" lang="EN">Commit Learning Schoolhouse Pte Ltd
-</span></b></p>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">&nbsp;</span></p>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN"></span></p>
-        <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none; mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1536;mso-padding-alt: 0in 5.4pt 0in 5.4pt;mso-border-insideh:.75pt solid #AAAAAA;mso-border-insidev: .75pt solid #AAAAAA" width="295" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
-          <tbody>
-            <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:48.75pt">
-              <td style="width:68.25pt;border:solid #AAAAAA 1.0pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:48.75pt" valign="top" width="91">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Tel</span></p>
-              </td>
-              <td style="width:153.0pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:48.75pt" valign="top" width="204">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">80144298<br>
-                <br>
-                </span></p>
-              </td>
-            </tr>
-            <tr style="mso-yfti-irow:1;height:21.0pt">
-              <td style="width:68.25pt;border:solid #AAAAAA 1.0pt; border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt; padding:3.0pt 3.0pt 3.0pt 6.0pt;height:21.0pt" valign="top" width="91">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Email</span></p>
-              </td>
-              <td style="width:153.0pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:21.0pt" valign="top" width="204">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#1870B6" lang="EN">clsnewtown@gmail.com</span></p>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">&nbsp;</span></p>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">&nbsp;</span></p>
-      </td>
-    </tr>
-    <tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:289.5pt">
-      <td style="width:90.75pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:289.5pt" valign="top" width="121">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Dental Clinic</span></p>
-      </td>
-      <td style="width:366.0pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:289.5pt" valign="top" width="488">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:13.0pt; color:#222222" lang="EN">School Dental Service (Health Promotion Board)</span></b></p>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt; color:#222222" lang="EN">&nbsp;</span></b></p>
-        <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none; mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1536;mso-padding-alt: 0in 5.4pt 0in 5.4pt;mso-border-insideh:.75pt solid #AAAAAA;mso-border-insidev: .75pt solid #AAAAAA" width="391" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
-          <tbody>
-            <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:21.0pt">
-              <td style="width:71.25pt;border:solid #AAAAAA 1.0pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:21.0pt" valign="top" width="95">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Tel</span></p>
-              </td>
-              <td style="width:222.0pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:21.0pt" valign="top" width="296">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">6474 2380</span></p>
-              </td>
-            </tr>
-            <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:86.25pt">
-              <td style="width:71.25pt;border:solid #AAAAAA 1.0pt; border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt; padding:3.0pt 3.0pt 3.0pt 6.0pt;height:86.25pt" valign="top" width="95">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Operating Hours</span></p>
-              </td>
-              <td style="width:222.0pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:86.25pt" valign="top" width="296">
-                <p style="line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">&nbsp;</span></p>
-                <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none; mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1536;mso-padding-alt: 0in 5.4pt 0in 5.4pt;mso-border-insideh:.75pt solid #AAAAAA;mso-border-insidev: .75pt solid #AAAAAA" width="281" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
-                  <tbody>
-                    <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:49.5pt">
-                      <td style="width:87.0pt;border:solid #AAAAAA 1.0pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:49.5pt" valign="top" width="116">
-                        <p style="margin-right:24.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Monday - Thursday</span></p>
-                      </td>
-                      <td style="width:123.75pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:49.5pt" valign="top" width="165">
-                        <p style="margin-right:24.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">8.00 am - 12.30 pm</span></p>
-                        <p style="margin-right:24.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">1.30 pm - 5.30 pm</span></p>
-                      </td>
-                    </tr>
-                    <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:29.25pt">
-                      <td style="width:87.0pt;border:solid #AAAAAA 1.0pt; border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:29.25pt" valign="top" width="116">
-                        <p style="margin-right:24.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Friday</span></p>
-                      </td>
-                      <td style="width:123.75pt;border-top:none; border-left:none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:29.25pt" valign="top" width="165">
-                        <p style="margin-right:24.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">1.30pm - 5.30 pm</span></p>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"></p>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Students who require emergency dental treatment, in case of clinic closure can contract any of the "buddy clinics" below for assistance.</span></p>
-        <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none; mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1536;mso-padding-alt: 0in 5.4pt 0in 5.4pt;mso-border-insideh:.75pt solid #AAAAAA;mso-border-insidev: .75pt solid #AAAAAA" width="412" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
-          <tbody>
-            <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:34.5pt">
-              <td style="width:103.5pt;border:solid #AAAAAA 1.0pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:34.5pt" valign="top" width="138">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Fairfield Methodist School</span></p>
-              </td>
-              <td style="width:118.5pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:34.5pt" valign="top" width="158">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">100 Dover Road S(139648)</span></p>
-              </td>
-              <td style="width:87.0pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:34.5pt" valign="top" width="116">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">6773 1606</span></p>
-              </td>
-            </tr>
-            <tr style="mso-yfti-irow:1;height:34.5pt">
-              <td style="width:103.5pt;border:solid #AAAAAA 1.0pt; border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt; padding:3.0pt 3.0pt 3.0pt 6.0pt;height:34.5pt" valign="top" width="138">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Queenstown Primary School</span></p>
-              </td>
-              <td style="width:118.5pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:34.5pt" valign="top" width="158">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">310 Margaret Drive S(149303)</span></p>
-              </td>
-              <td style="width:87.0pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:34.5pt" valign="top" width="116">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">6474 0633</span></p>
-              </td>
-            </tr>
-            <tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:34.5pt">
-              <td style="width:103.5pt;border:solid #AAAAAA 1.0pt; border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt; padding:3.0pt 3.0pt 3.0pt 6.0pt;height:34.5pt" valign="top" width="138">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Radin Mas Primary School</span></p>
-              </td>
-              <td style="width:118.5pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:34.5pt" valign="top" width="158">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">1 Bukit Purmei Ave S(099840)</span></p>
-              </td>
-              <td style="width:87.0pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:34.5pt" valign="top" width="116">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">6275 7391</span></p>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">&nbsp;</span></p>
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:#222222" lang="EN">Find out more about</span> <span lang="EN"><a href="https://www.healthhub.sg/programmes/15/school_dental_programme"><span style="font-size:14.0pt;color:#1870B6;text-decoration:none;text-underline: none">school dental services</span></a></span><span style="font-size: 10.0pt;color:#222222" lang="EN">.</span></p>
-      </td>
-    </tr>
-  </tbody>
-</table></em></span>
+</p>
+<p><strong>Have a question?</strong>
+<br>Ask and get answered on our <a href="https://go.ask.gov.sg/ntps" rel="noopener noreferrer nofollow" target="_blank">Q&amp;A Page</a>
+<br><em>Powered by: <br></em>
+</p>
+<p></p>
+<h3><em>Contact Information</em></h3>
+<p><strong><em>General Office</em></strong><em><br>Operating Hours: 7.30 am-5.00 pm<br></em>
+</p>
+<p><em>Tel : 6474 8805<br>Fax : 6474 1249<br>Email : ntps@moe.edu.sg<br></em>
+</p>
+<p><strong><em>School Vendors and Services</em></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Bookshop</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>The Continental Book Centre</em></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Tel</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>94759606</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Email</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>admin@the-continental.com.sg</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Booklists</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://drive.google.com/drive/folders/1BLIe4MZeEKNukGxRO1nftaoi-tSZtnQH?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">link</a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>&nbsp;</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>School Bus</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Sky Island Transport &amp; Trading</em></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Tel</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>91884698<br><br>90090569</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Email</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>skyisland96@hotmail.com</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>&nbsp;&nbsp;</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>&nbsp;School Uniform</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>&nbsp;</em><strong><em>Bibi &amp; Baba Private Limited</em></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Address</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>BB @ Henderson Road<br>213 Henderson Road, #01-12<br>Singaopre 159553</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Tel</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>67327022</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>&nbsp;Email</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>uniforms@bibibaba.com.sg</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>&nbsp;Website</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="https://www.schooluniforms.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/</a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Student Care Centre</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Commit Learning Schoolhouse Pte Ltd</em></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Tel</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>80144298<br><br></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Email</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>clsnewtown@gmail.com</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>&nbsp;</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Dental Clinic</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>School Dental Service (Health Promotion Board)</em></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Tel</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>64742380</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Operating Hours</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>&nbsp;</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Monday - Thursday</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>8.00 am - 12.30 pm</em>
+</p>
+<p><em>1.30 pm - 5.30 pm</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Friday</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>1.30pm - 5.30 pm</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>&nbsp;</em>
+</p>
+<p><em>Students who require emergency dental treatment, in case of clinic closure can contract any of the "buddy clinics" below for assistance.</em>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Fairfield Methodist School</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>100 Dover Road S(139648)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>67731606</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Queenstown Primary School</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>310 Margaret Drive S(149303)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>64740633</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Radin Mas Primary School</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>1 Bukit Purmei Ave S(099840)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>62757391</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>&nbsp;</em>
+</p>
+<p><em>Find out more about <a href="https://www.healthhub.sg/programmes/15/school_dental_programme" rel="noopener noreferrer nofollow" target="_blank">school dental services</a>.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
