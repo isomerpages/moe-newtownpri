@@ -19,8 +19,7 @@ variant: tiptap
 <br>Ask and get answered on our <a href="https://go.ask.gov.sg/ntps" rel="noopener noreferrer nofollow" target="_blank">Q&amp;A Page</a>
 <br><em>Powered by: <br></em>
 </p>
-<p><em><br></em>
-</p>
+<p></p>
 <h3><em>Contact Information</em></h3>
 <p><strong><em>General Office</em></strong><em><br>Operating Hours: 7.30 am-5.00 pm<br></em>
 </p>
@@ -82,8 +81,6 @@ variant: tiptap
 </table>
 <p><em>&nbsp;</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
 </td>
 </tr>
 <tr>
@@ -122,9 +119,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
+<p><em>&nbsp;&nbsp;</em>
 </p>
 </td>
 </tr>
