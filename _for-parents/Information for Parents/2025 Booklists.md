@@ -9,27 +9,27 @@ third_nav_title: Information for Parents
 </p>
 <ul>
 <li>
-<p><a href="https://drive.google.com/file/d/1bFiarp-hM0iCMQYbFttHtMadn3efoMal/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
+<p><a href="https://drive.google.com/file/d/1WTNEfzPMYe-w0SAougfzfpgB95T8e_Hp/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/19OC363BHPb3sXo_BE5TUB1M5RyZVn24r/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
+<p><a href="https://drive.google.com/file/d/1ZRuXcW5NXkeLivrWktvuX7gui-3ACGIM/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1JUnbyb4QtT4dfhEU4feeHKiUW0E5rGwb/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
+<p><a href="https://drive.google.com/file/d/1zptaTJcUnIRIy58AiNOPigyuQsANjEyj/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1Yjc3b_6kVvL0TupGR8-LenW72f3CsrK3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
+<p><a href="https://drive.google.com/file/d/1PuwijDLUVVwMA5lRkCVj5tmCwMgBsrVD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1W8w1ib26e0Z8TzllqcBsL6cAhHTSMibf/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a>
+<p><a href="https://drive.google.com/file/d/1W4hgGdrT57cesxvjJgmaKOyYCLJ3Zjmq/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1bw_exoiW7hVHsshXq8yTpD8ebedTDGUS/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
+<p><a href="https://drive.google.com/file/d/10OPYtisvu1n3gYFZU7F52uf2yG5M05fo/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
 </p>
 <p></p>
 </li>
