@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /contact-us/
 description: ""
+variant: markdown
 ---
 ### School Location 
 **![](https://lh6.googleusercontent.com/QxkOg6mXiUIEMZVVZRHSPTkJCllzN_AZu7zKYgcv42e7C3MNQJTmOLxQ6XMFeCxJ_FPpM6_DjcOJ5Ttv_6fU6P9q4ChL3KK6mhDBRXqPJfGHKgElPodO1t90In8_8SWnstsF8rXHL_drFhL6rfAJw5RKsi-n1h4QagD6CPOmiMfYVoRUx2ge87rUUOGujQ)**
