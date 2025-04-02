@@ -106,15 +106,23 @@ National First Aid Competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Masnurie (OIC)</p>
+<p>Ms Farah Iqbal (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>masnurie_mohamed_ramli@school.gov.sg</p>
+<p>farah_iqbal@school.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Mariam</p>
+<p>Mr Gan Soon Rui (2IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>gan_soon_rui@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Syed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_mariam_mohd_yussof@schools.gov.sg</p>
@@ -122,26 +130,10 @@ National First Aid Competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Farah Iqbal</p>
+<p>Mdm Tan Bee Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>farah_iqbal@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Shalini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shalini_sativil@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Farah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_farah_izzah@schools.gov.sg</p>
+<p>tan_bee_hwa@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
