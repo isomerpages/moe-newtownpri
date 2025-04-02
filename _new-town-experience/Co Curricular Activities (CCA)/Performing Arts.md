@@ -192,7 +192,7 @@ and develop their character.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MMdm Leong Pamela</p>
+<p>Mdm Leong Pamela</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>pamela_leong_yoke_kwang@schools.gov.sg</p>
