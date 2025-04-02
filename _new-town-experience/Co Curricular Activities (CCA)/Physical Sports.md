@@ -254,7 +254,7 @@ their netball skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Pek Che</p>
+<p>Ms Tan Pek Che</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_pek_che@schools.gov.sg</p>
