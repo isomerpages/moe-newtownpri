@@ -302,7 +302,7 @@ as the Singapore Youth Festival (SYF) Arts Presentation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Aqidah</p>
+<p>Mdm Aqidah (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nurul_ain_aqidah_rosli@schools.gov.sg</p>
