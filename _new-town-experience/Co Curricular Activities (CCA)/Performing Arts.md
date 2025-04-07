@@ -326,10 +326,10 @@ as the Singapore Youth Festival (SYF) Arts Presentation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aravin Mathialagan</p>
+<p>Aravin Mathiyalagan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aravin_mathiyalagan@schools.gov.sg</p>
+<p>Aravin_Mathiyalagan@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
