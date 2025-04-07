@@ -246,14 +246,6 @@ their netball skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sum Pui See</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sum_pui_see@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Tan Pek Che</p>
 </td>
 <td rowspan="1" colspan="1">
