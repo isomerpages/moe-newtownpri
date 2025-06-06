@@ -117,17 +117,6 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_soon_lee@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Abdul Razak</p>
 </td>
 <td rowspan="1" colspan="1">
