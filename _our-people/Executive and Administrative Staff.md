@@ -195,27 +195,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Janice Guo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:guo_zhenzhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guo_zhenzhen@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -223,13 +210,59 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Sang Poo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_sang_poo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sang_poo@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nagappan Viehletchmi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nagappan_viehletchmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nagappan_viehletchmi@moe.edu.sg</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Neo Beng Hweh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:neo_beng_hweh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_beng_hweh@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Heng Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_heng_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_heng_seng@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
