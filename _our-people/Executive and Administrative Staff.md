@@ -44,7 +44,7 @@ variant: tiptap
 <p>Ms Saratha Devi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>saratha_devi_kalechelvamschools.gov.sg</p>
+<p>saratha_devi_kalechelvam@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
