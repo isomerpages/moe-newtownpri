@@ -68,14 +68,6 @@ as for Open House and Sports Day.</p>
 <p>tan_yam_chua@schools.gov.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Li Wei Grace</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>li_wei@school.gov.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3><strong>Red Cross (Youth)</strong></h3>
