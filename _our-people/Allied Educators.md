@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ho Si Ying</p>
@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEN Officer</p>
+<p>Senior SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhd Suffian</p>
@@ -76,6 +76,28 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>mohammad_mikail_abdul_samad@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rafidah Binte Mohidin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rafidah_mohidin@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sujendran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sujendran_gnanasubramaniam@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>

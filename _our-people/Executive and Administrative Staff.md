@@ -6,6 +6,7 @@ variant: tiptap
 ---
 <p><strong>Executive and Administrative Staff</strong>
 </p>
+<h2><strong>Executive and Administrative Staff</strong></h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -81,17 +82,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Soh Soo Wah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>soh_soo_wah_a@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,7 +99,7 @@ variant: tiptap
 <p>Mr Ng Weng Kuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_weng_kuen@schools.gov.sg</p>
+<p>ng_weng_kuen@school.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -132,6 +122,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>abdul_razak_mohammed_noor@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ayub Abdul Rahman Bahajjaj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ayub_abdul_rahman_bahajjaj@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +165,7 @@ variant: tiptap
 <p>Mr Lee Sang Poo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_sang_poo@moe.edu.sg</p>
+<p>lee_sang_poo@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +176,7 @@ variant: tiptap
 <p>Ms Nagappan Viehletchmi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nagappan_viehletchmi@moe.edu.sg</p>
+<p>nagappan_viehletchmi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -186,7 +187,7 @@ variant: tiptap
 <p>Mr Neo Beng Hweh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>neo_beng_hweh@moe.edu.sg</p>
+<p>neo_beng_hweh@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -197,7 +198,7 @@ variant: tiptap
 <p>Mr Tan Heng Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_heng_seng@moe.edu.sg</p>
+<p>tan_heng_seng@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
