@@ -86,7 +86,7 @@ variant: tiptap
 <p>Ms Rafidah Binte Mohidin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>rafidah_mohidin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ variant: tiptap
 <p>Mr Sujendran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sujendran_gnanasubramaniam@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
