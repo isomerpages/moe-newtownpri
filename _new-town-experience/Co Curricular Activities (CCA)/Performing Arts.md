@@ -258,14 +258,6 @@ become resilient, confident and competent dancers.</p>
 <p>Ng_Chin_Kiat@schools.gov.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Winnifer Chng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Winnifer_Chng_Lay_Peng@schools.gov.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Malay Dance</h3>
