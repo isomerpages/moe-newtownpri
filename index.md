@@ -19,7 +19,7 @@ sections:
           description: ""
           url: /quick-links
   - infopic:
-      title: New Town Caring Educator
+      title: New Town Caring Educator and Staff Award
       id: infopic
       description: Scan the QR code to nominate New Town's most caring educator! Form
         opens 22 Jul to 4 Aug.
