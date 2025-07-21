@@ -18,6 +18,14 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
+  - infopic:
+      title: New Town Caring Educator
+      id: infopic
+      description: Scan the QR code to nominate New Town's most caring educator today!
+      button: or click here
+      url: TINYURL.COM/NEWTOWNCARINGAWARDS2025
+      image: /images/New_Town_Caring_Educator_and_Staff_2025_Poster.jpg
+      alt: Image alt text
   - textcards:
       title: New Town Primary School
       subtitle: What You need to know about
