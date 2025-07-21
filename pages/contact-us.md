@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: +65 6474 8805
       - email: ""
-      - other: <br>Have A Question?<br><i>https://go.ask.gov.sg/nyps</i>
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: +65 6474 1249
@@ -45,4 +45,5 @@ contacts:
       - email: clsnewtown@gmail.com
       - other: Commit Learning Schoolhouse Pte Ltd
     title: Student Care Centre
+feedback: ""
 ---
