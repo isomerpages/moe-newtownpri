@@ -25,7 +25,7 @@ sections:
         staff! Form opens 22 Jul to 4 Aug.
       button: or click here
       url: https://tinyurl.com/newtowncaringawards2025
-      image: /images/New_Town_Caring_Educator_and_Staff_2025_Poster.jpg
+      image: /images/new_town_caring_educator_and_staff_award__1_.png
       alt: Image alt text
   - textcards:
       title: New Town Primary School
