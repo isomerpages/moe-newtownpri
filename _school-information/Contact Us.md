@@ -12,13 +12,7 @@ variant: tiptap
 <br>
 </p>
 <p>Tel : 6474 8805
-<br>Fax : 6474 1249
-<br>
-</p>
-<p><strong>Have a question?</strong>
-<br>Ask and get answered on our <a href="https://go.ask.gov.sg/ntps" rel="noopener noreferrer nofollow" target="_blank">Q&amp;A Page</a>
-<br><em>Powered by: <br></em>
-</p>
+<br>Fax : 6474 1249</p>
 <p></p>
 <h3><em>Contact Information</em></h3>
 <p><strong><em>General Office</em></strong><em><br>Operating Hours: 7.30 am-5.00 pm<br></em>
