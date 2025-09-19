@@ -30,14 +30,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Address:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>140 Hillview Ave Tower A4 #08-13 The Lanai Singapore 669600</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
