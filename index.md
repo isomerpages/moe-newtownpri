@@ -19,13 +19,13 @@ sections:
           description: ""
           url: /quick-links
   - infopic:
-      title: New Town Caring Educator and Staff Award
+      title: "A Final Look: Ghim Moh Primary School Campus"
       id: infopic
-      description: Scan the QR code to nominate New Town's most caring educator and
-        staff! Form opens 22 Jul to 4 Aug.
-      button: or click here
-      url: https://tinyurl.com/newtowncaringawards2025
-      image: /images/new_town_caring_educator_and_staff_award__1_.png
+      description: Former Ghim Moh Primary School and Ghim Moh Secondary School
+        buildings will be open for visitors on Saturday 1 Nov.
+      button: Click here for more details
+      url: https://go.gov.sg/finalookgmps1nov
+      image: /images/About Us/A_Final_Look_Ghim_Moh_Campus__1_.png
       alt: Image alt text
   - textcards:
       title: New Town Primary School
