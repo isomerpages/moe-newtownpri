@@ -155,11 +155,7 @@ their child’s/ward’s absence.</p>
 <li>
 <p>Parents/Guardians must seek approval in writing for exemption from school
 activities. All exemption must be supported with relevant supporting documents,
-if any, and will be subject to approval by school.</p>
-</li>
-<li>
-<p>For safety reasons, students are <strong>not</strong> allowed to leave the
-school compound before any after-school programme.</p>
+if any, and will be subject to approval from school.</p>
 </li>
 </ul>
 <p><strong>7. Punctuality</strong>
