@@ -94,7 +94,7 @@ to others.</p>
 <p>bullying in all forms (Physical/Social/Verbal/Cyber),</p>
 </li>
 <li>
-<p>any form of defiance of towards authority,</p>
+<p>any form of defiance towards authority,</p>
 </li>
 <li>
 <p>gang-related activity (identified students will be referred to relevant
@@ -102,20 +102,22 @@ authorities for investigation and follow up),</p>
 </li>
 <li>
 <p>any activity that causes distress to others and/or brings disrepute to
-the school, including offensive and inappropriate postings in social media,
-and</p>
+the school, including offensive and inappropriate postings in social media</p>
 </li>
 <li>
-<p>the use of violence in any forms.</p>
+<p>the use of violence in any forms</p>
+</li>
+<li>
+<p>vaping</p>
 </li>
 </ul>
 </li>
 <li>
 <p>The above offences are classified as serious offences. Students will be
 referred to Discipline Committee and School Leaders. Students who commit
-these offences will be severely dealt with. Parents may be required to
-sign a Letter of Undertaking with the school. The consequences could include
-suspension and/or caning, and followed up with counselling.</p>
+these offences will be severely dealt with. Consequences could include
+suspension and/or caning, and followed up with counselling. Parents may
+be required to sign a Letter of Undertaking with the school.</p>
 </li>
 </ul>
 <h4><strong>Responsibility to Self and Others</strong></h4>
