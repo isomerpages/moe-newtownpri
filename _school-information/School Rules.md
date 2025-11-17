@@ -22,7 +22,7 @@ to symbolise loyalty to the nation.</p>
 </li>
 <li>
 <p>Non-Singapore Citizens must stand at attention while the National Anthem
-is sung and the Pledge is recited.</p>
+and the Pledge are being sung and recited respectively.</p>
 </li>
 <li>
 <p>All students are to sing the school song respectfully.</p>
