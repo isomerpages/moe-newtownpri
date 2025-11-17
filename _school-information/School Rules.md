@@ -41,6 +41,9 @@ and the Pledge are being sung and recited respectively.</p>
 <p>Fingernails should be kept short and clean. No nail polish is allowed.</p>
 </li>
 <li>
+<p>Hanna and tattoos are not allowed under any circumstances.</p>
+</li>
+<li>
 <p>Students are not allowed to wear jewellery and accessories such as necklaces,
 bracelets, rings. Girls are allowed to wear a pair of small and simple
 ear-studs.</p>
