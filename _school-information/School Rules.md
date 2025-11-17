@@ -162,8 +162,8 @@ if any, and will be subject to approval from school.</p>
 </p>
 <ul>
 <li>
-<p>Students must be punctual for Flag-raising ceremony (FRC) which begins
-at 7.30 am.</p>
+<p>Students must be punctual for <strong>Flag-raising ceremony (FRC) </strong>which
+begins at 7.30 am.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students who are not with their form classes during FRC are considered
