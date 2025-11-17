@@ -65,6 +65,7 @@ and natural.</p>
 we can help your child discover just how amazing they can be.</p>
 <p>With warm regards,</p>
 <p>Ms Hannah Chia</p>
+<p>Principal, New Town Primary School</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/MG_1999_original.jpg">
 </div>
