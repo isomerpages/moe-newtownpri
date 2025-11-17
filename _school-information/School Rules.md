@@ -197,21 +197,22 @@ hours including recess, CCA and after-school programmes.</p>
 and other smart devices:</p>
 <ul>
 <li>
-<p>must be switched off (not just on silent mode) before stepping into the
-school,</p>
+<p>must be <strong>switched off</strong> (not just on silent mode) before stepping
+into the school,</p>
 </li>
 <li>
-<p>must be kept in the school bags and remained out of sight during the whole
-duration in school,</p>
+<p>must be <strong>kept in the school bags</strong> and remained out of sight
+during the whole duration in school,</p>
 </li>
 <li>
-<p>students are not allowed to take any forms of visual or audio recordings,
-such as photographs or videos, within the school compound and vicinity
-without the school’s permission, and</p>
+<p>students are <strong>not allowed</strong> to take any forms of visual or
+audio recordings, such as photographs or videos, within the school compound
+and vicinity without the school’s permission, and</p>
 </li>
 <li>
-<p>can only be used at any of the three gates to contact their parents/guardians
-– at the main gate (Gate 1), side gate (Gate 2) or back gate (Gate 3).</p>
+<p>can only be <strong>used at any of the three gates</strong> to contact their
+parents/guardians – at the main gate (Gate 1), side gate (Gate 2) or back
+gate (Gate 3).</p>
 </li>
 </ul>
 </li>
