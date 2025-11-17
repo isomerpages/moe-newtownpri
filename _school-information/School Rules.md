@@ -57,8 +57,8 @@ or side burn, is <strong>not</strong> allowed.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Every student must be neatly attired and wear their prescribed school
-uniform with pride. <strong><em>Modification to the school uniform is not allowed.</em></strong>
+<p>All students must be neatly attired and wear their prescribed school uniform
+with pride. <strong><em>Modification to the school uniform is not allowed.</em></strong>
 </p>
 </li>
 <li>
