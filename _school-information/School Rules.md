@@ -71,6 +71,10 @@ sweater or cardigan in the morning. The length of their outer wear should
 not go beyond the hip.</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NTPS_School_Uniform.jpg">
+</div>
 <p><strong>4. Possession of Dangerous Weapons/Items</strong>
 </p>
 <ul data-tight="true" class="tight">
