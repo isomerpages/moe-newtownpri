@@ -79,9 +79,9 @@ not go beyond the hip.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>All students are <strong>not</strong> allowed to have in their possession
-any weapon. They are also not allowed to bring any weapon-like item which
-is used or intended to be used to cause harm to others.</p>
+<p>All students must not possess any weapon. They are not allowed to bring
+any weapon-like item which is used or intended to be used to cause harm
+to others.</p>
 </li>
 </ul>
 <p><strong>5. Zero-tolerance Policy</strong>
