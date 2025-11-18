@@ -2,81 +2,138 @@
 title: English
 permalink: /departments/english/
 description: ""
+variant: markdown
 ---
-**Department Goals**
-* To provide opportunities that allow students to engage in active listening, reading and viewing to enrich the language learning experience.
-* To provide experiences that allow students to communicate effectively through speaking, writing and representing to promote confidence in using the English language.
+**Our Goals**
 
-**Learning Support Programme (LSP) (P1 to P2)**
+*   To provide opportunities that allow students to engage in active listening, reading and viewing to enrich the language learning experience. 
+    
 
-A MOE intervention programme conducted by trained teachers to help selected P1 and P2 students. Lessons are carried out half an hour a day, in groups of up to 10 students a class. It is focused on building English language skills. 
+*   To provide experiences that allow students to communicate effectively through speaking, writing and representing to promote confidence in using the English language. 
+    
 
-**kidsREAD (P1 to P2)**
+**Our Approach** 
 
-It is held once a week on Wednesday afternoons with the help of parent volunteers. The school collaborates with National Library Board (NLB) to promote the love for reading in our P1 and P2 students in New Town.
+At New Town Primary, we follow the MOE English Language Syllabus 2020. The aim is to help every child build a strong foundation in English, enjoy the language, and use it confidently in everyday life. 
 
-![](/images/English/Kids%20Read%201.jpg)
+What this means for your child: 
 
-![](/images/English/Kids%20Read%202.jpg)
+*   Strong basics first – In the early years, we focus on reading, writing, speaking and listening skills. Phonics, vocabulary and grammar are taught in meaningful ways. 
+    
 
-**S.T.A.R. Reading (Students and Teachers, All Reading - Whole School Approach to Reading) (P1 to P6)**
+*   Step-by-step growth – Teachers provide guidance at the start and gradually encourage children to take more responsibility for their own learning. 
+    
 
-In New Town, we believe in cultivating a culture of reading among teachers and students. Through explicit teacher modelling and engaging students in a world of books, we aim to help them find the joy of reading.
+*   Learning with purpose – English is taught through real-life tasks, stories, conversations and digital media so children see the relevance of what they learn. 
+    
 
-![](/images/English/Reading%201.jpeg)
+*   Reading for life – We nurture a love for reading, giving students time and opportunities to read widely for both learning and enjoyment. 
+    
 
-![](/images/English/Reading%202.jpeg)
+*   All-round skills – Beyond reading and writing, children also learn to speak clearly, listen actively, and use English in different forms such as visuals, videos and presentations. 
+    
 
-![](/images/English/Reading%203.jpeg)
+*   Confidence and creativity – Students are encouraged to share their ideas, think critically, and express themselves in different ways. 
+    
 
-**STELLAR (P1 to P6)**
+*   Support for every learner – Lessons are tailored to meet different learning needs, ensuring each child is supported to progress at their own pace. 
+    
 
-The STELLAR vision: Children who love reading and have a strong foundation in the English Language.
+Our Programmes 
 
-STELLAR aims to strengthen children’s language and reading skills as well as promote a positive attitude towards learning in the foundational years. The programme uses research-based teaching strategies and age-appropriate materials to engage children in the learning of English. At lower primary, language skills are developed through Shared Book Approach, modified Learning Experiential activity and Focused Differentiated lessons. As students progress to upper primary, language skills are further developed through KWL, Supported Reading and Writing Process Cycle. 
+STELLAR (P1 to P6) 
 
-![](/images/English/STELLAR%201.jpg)
+The STELLAR vision: Children who love reading and have a strong foundation in the English Language. 
 
-![](/images/English/STELLAR%202.jpg)
+STELLAR aims to strengthen children’s language and reading skills as well as promote a positive attitude towards learning in the foundational years. The programme uses research-based teaching strategies and age-appropriate materials to engage children in the learning of English. At lower primary, language skills are developed through Shared Book Approach, modified Learning Experiential activity and Focused Differentiated lessons. As students progress to upper primary, language skills are further developed through KWL, Supported Reading and Writing Process Cycle. 
 
-![](/images/English/STELLAR%203.jpg)
+Photos 
 
-![](/images/English/STELLAR%204.jpg)
+1.  STELLAR 1 – Butterfly 1 ![](/images/Stellar_1___Butterfly_1.jpg)
+    
 
-**Outdoor Learning Experience (OLE) (P1 to P4)**
+2.  STELLAR 2 – Butterfly 2 ![](/images/Stellar_2___Butterfly_2.jpg)
+    
 
-The learning of English Language is best done through tasks and activities in authentic and meaningful contexts. In OLE, students engage in hands-on activities to further develop the targeted language features. 
+3.  STELLAR 3 – Ice Cream Making 1 ![](/images/Stellar_3___Ice_Cream_Making_1.jpg)
+    
 
-![](/images/English/OLE%201.jpg)
+4.  STELLAR 4 – Ice Cream Making 2 ![](/images/Stellar_4___Ice_Cream_Making_2.jpg)
+    
 
-![](/images/English/OLE%202.jpg)
+5.  STELLAR 5 – Sandwich Making ![](/images/Stellar_5___Sandwich_Making.jpg)
+    
+Outdoor Learning Experience (OLE) (P1 to P4) 
 
-![](/images/English/OLE%203.jpg)
+The learning of English is most effective when it takes place through authentic and meaningful experiences. During our Outdoor Learning Experience (OLE), students step out of the classroom and engage in hands-on activities that bring language learning to life. These real-world contexts provide rich opportunities for them to practise targeted language skills in fun and purposeful ways. 
 
-![](/images/English/OLE%204.jpg)
+Photos 
 
-![](/images/English/OLE%205.jpg)
+1.  OLE 1 
+    
 
-**Writing Programme (P1 to P6)**
+2.  OLE 2 
+    
 
-Students learn to create a variety of texts to convey meaning and purpose. From creating procedural texts such as recipes and instructions to writing letters to various audience and narrative writing, our students will learn how to express themselves in different contexts so as to bring the intended meaning across. We also encourage freewriting such as journals and quick write in class to allow students to use the language spontaneously. 
+Extended Reading Programme 
 
-![](/images/English/Writing%201.jpg)
+At New Town Primary, we believe that reading should be both meaningful and fun. Our Extended Reading Programme gives students many opportunities to explore the joy of books beyond the classroom. Every alternate Tuesday, students enjoy Story Tuesday before the flag-raising ceremony, Our library is also alive with engaging reading activities that encourage students to explore different genres. Our lower primary learners (P1–P3) dive into digital stories through Raz Kids Plus, and our upper primary students (P4–P6) sharpen their awareness of the world around them with the Little Red Dot newspaper. A highlight of the year is our Reading Week, where the entire school celebrates with a full week of activities — from book quizzes and storytelling to dressing up as favourite book characters. Together, these experiences nurture a love for reading and inspire our students to become lifelong learners. 
 
-![](/images/English/Writing%202.jpg)
+Photos 
 
-**Reading Circles (P4 to P5)**
+1.  Reading 1 
+    
 
-To stretch our high progress learners, students are taught to appreciate literature texts, analyse good language use and explore values and themes.
+2.  Reading 2 
+    
 
-![](/images/English/Reading%20Week%201.jpg)
+3.  Reading 3 
+    
 
-![](/images/English/Reading%20Week%202.jpg)
+4.  Reading 4 
+    
 
-**School-based Dyslexia Remediation Programme (SDR) (P3 to P4)**
+Writing Programme (P1 to P6) 
 
-This programme helps students with dyslexia learn more effectively,  and overcome literacy difficulties such as reading, spelling and comprehension.
+Students at New Town Primary learn to create a wide variety of texts to communicate meaning clearly and effectively. They write procedural texts such as recipes and instructions, craft letters for different audiences, and develop narratives to express ideas and stories. They also learn to design visual texts, such as digital posters, to communicate messages creatively. To nurture creativity and confidence, we encourage freewriting activities like journals and quick writes, giving students the freedom to use English spontaneously and with enjoyment. 
 
-**Reading Remediation Programme (RRP) (P3 to P4)**
+Photos 
 
-RRP provides support for our P3 and P4 students who face difficulty in reading and comprehension. The programme teaches them a range of coping and learning strategies to help them manage their learning better in class.
+1.  Writing 1 
+    
+
+2.  Writing 2 
+    
+
+Reading Circles (P4 to P5) 
+
+Our Reading Circles give high-progress learners the chance to enjoy literature more deeply. Through guided discussions, they explore interesting stories, notice how good writers use language, and reflect on the values and themes within the texts. This not only sharpens their language skills but also nurtures a love for reading and thoughtful conversations. 
+
+Photos 
+
+1.  Reading Circles 
+    
+
+Learning Support Programme (LSP) (P1 to P2) 
+
+This is an MOE intervention programme led by specially trained teachers to support selected P1 and P2 students. Conducted in small groups of up to 10, lessons run for half an hour each day and focus on strengthening students’ English language skills in a supportive and encouraging environment. 
+
+kidsREAD (P1 to P2) 
+
+Held once a week on Wednesday afternoons, kidsREAD is supported by student volunteers from secondary schools. In collaboration with the National Library Board (NLB), the programme nurtures a love for reading in our P1 and P2 students, helping them discover the joy of stories from an early age. 
+
+Photos 
+
+1.  Kids Read 1 
+    
+
+2.  Kids Read 2 
+    
+
+School-based Dyslexia Remediation Programme (SDR) (P3 to P4) 
+
+The SDR programme provides targeted support for students with dyslexia, helping them strengthen their reading, spelling, and comprehension skills. Conducted three times a week for one hour each session, the lessons equip students with strategies to learn more effectively and build confidence in using English. 
+
+Reading Remediation Programme (RRP) (P3 to P5) 
+
+The RRP supports students who experience challenges in reading and understanding texts. Conducted twice a week for one hour each session, the lessons focus on teaching practical strategies to improve comprehension and help students manage their learning more effectively in class.
