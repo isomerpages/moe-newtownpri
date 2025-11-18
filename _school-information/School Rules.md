@@ -22,7 +22,7 @@ to symbolise loyalty to the nation.</p>
 </li>
 <li>
 <p>Non-Singapore Citizens must stand at attention while the National Anthem
-is sung and the Pledge is recited.</p>
+and the Pledge are being sung and recited respectively.</p>
 </li>
 <li>
 <p>All students are to sing the school song respectfully.</p>
@@ -41,6 +41,9 @@ is sung and the Pledge is recited.</p>
 <p>Fingernails should be kept short and clean. No nail polish is allowed.</p>
 </li>
 <li>
+<p>Hanna and tattoos are not allowed under any circumstances.</p>
+</li>
+<li>
 <p>Students are not allowed to wear jewellery and accessories such as necklaces,
 bracelets, rings. Girls are allowed to wear a pair of small and simple
 ear-studs.</p>
@@ -54,8 +57,8 @@ or side burn, is <strong>not</strong> allowed.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Every student must be neatly attired and wear their prescribed school
-uniform with pride. <strong><em>Modification to the school uniform is not allowed.</em></strong>
+<p>All students must be neatly attired and wear their prescribed school uniform
+with pride. <strong><em>Modification to the school uniform is not allowed.</em></strong>
 </p>
 </li>
 <li>
@@ -66,15 +69,18 @@ days with PAL and/or PE lessons.</p>
 <p>Students may wear a plain black or navy-blue outer wear such as a windbreaker,
 sweater or cardigan in the morning. The length of their outer wear should
 not go beyond the hip.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_attire.png">
+</div>
 </li>
 </ul>
 <p><strong>4. Possession of Dangerous Weapons/Items</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>All students are <strong>not</strong> allowed to have in their possession
-any weapon. They are also not allowed to bring any weapon-like item which
-is used or intended to be used to cause harm to others.</p>
+<p>All students must not possess any weapon. They are not allowed to bring
+any weapon-like item which is used or intended to be used to cause harm
+to others.</p>
 </li>
 </ul>
 <p><strong>5. Zero-tolerance Policy</strong>
@@ -87,7 +93,7 @@ is used or intended to be used to cause harm to others.</p>
 <p>bullying in all forms (Physical/Social/Verbal/Cyber),</p>
 </li>
 <li>
-<p>any form of defiance of towards authority,</p>
+<p>any form of defiance towards authority,</p>
 </li>
 <li>
 <p>gang-related activity (identified students will be referred to relevant
@@ -95,20 +101,22 @@ authorities for investigation and follow up),</p>
 </li>
 <li>
 <p>any activity that causes distress to others and/or brings disrepute to
-the school, including offensive and inappropriate postings in social media,
-and</p>
+the school, including offensive and inappropriate postings in social media</p>
 </li>
 <li>
-<p>the use of violence in any forms.</p>
+<p>the use of violence in any forms</p>
+</li>
+<li>
+<p>vaping</p>
 </li>
 </ul>
 </li>
 <li>
 <p>The above offences are classified as serious offences. Students will be
 referred to Discipline Committee and School Leaders. Students who commit
-these offences will be severely dealt with. Parents may be required to
-sign a Letter of Undertaking with the school. The consequences could include
-suspension and/or caning, and followed up with counselling.</p>
+these offences will be severely dealt with. Consequences could include
+suspension and/or caning, and followed up with counselling. Parents may
+be required to sign a Letter of Undertaking with the school.</p>
 </li>
 </ul>
 <h4><strong>Responsibility to Self and Others</strong></h4>
@@ -146,19 +154,15 @@ their child’s/ward’s absence.</p>
 <li>
 <p>Parents/Guardians must seek approval in writing for exemption from school
 activities. All exemption must be supported with relevant supporting documents,
-if any, and will be subject to approval by school.</p>
-</li>
-<li>
-<p>For safety reasons, students are <strong>not</strong> allowed to leave the
-school compound before any after-school programme.</p>
+if any, and will be subject to approval from school.</p>
 </li>
 </ul>
 <p><strong>7. Punctuality</strong>
 </p>
 <ul>
 <li>
-<p>Students must be punctual for Flag-raising ceremony (FRC) which begins
-at 7.30 am.</p>
+<p>Students must be punctual for <strong>Flag-raising ceremony (FRC) </strong>which
+begins at 7.30 am.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students who are not with their form classes during FRC are considered
@@ -192,21 +196,22 @@ hours including recess, CCA and after-school programmes.</p>
 and other smart devices:</p>
 <ul>
 <li>
-<p>must be switched off (not just on silent mode) before stepping into the
-school,</p>
+<p>must be <strong>switched off</strong> (not just on silent mode) before stepping
+into the school,</p>
 </li>
 <li>
-<p>must be kept in the school bags and remained out of sight during the whole
-duration in school,</p>
+<p>must be <strong>kept in the school bags</strong> and remained out of sight
+during the whole duration in school,</p>
 </li>
 <li>
-<p>students are not allowed to take any forms of visual or audio recordings,
-such as photographs or videos, within the school compound and vicinity
-without the school’s permission, and</p>
+<p>students are <strong>not allowed</strong> to take any forms of visual or
+audio recordings, such as photographs or videos, within the school compound
+and vicinity without the school’s permission, and</p>
 </li>
 <li>
-<p>can only be used at any of the three gates to contact their parents/guardians
-– at the main gate (Gate 1), side gate (Gate 2) or back gate (Gate 3).</p>
+<p>can only be <strong>used at any of the three gates</strong> to contact their
+parents/guardians – at the main gate (Gate 1), side gate (Gate 2) or back
+gate (Gate 3).</p>
 </li>
 </ul>
 </li>
@@ -235,8 +240,5 @@ their parents/guardians, if necessary, by using the telephone outside the
 General Office.</p>
 </li>
 </ul>
-<p>**</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_attire.png">
-</div>
+<p></p>
 <p></p>

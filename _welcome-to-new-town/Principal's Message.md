@@ -5,51 +5,58 @@ variant: tiptap
 description: ""
 ---
 <p>Dear all,</p>
-<p>Welcome to the school’s website! Thank you for taking time to visit and
-find out more about the school. New Town Primary School was established
-in July 1965 and has a rich history of educating and inspiring students
-to grow and learn through their years in primary school.</p>
-<p></p>
-<p>Here at New Town Primary, we aim to grow and nurture our students into
-Passionate Learners, Critical Thinkers and Anchored Leaders through our
-range of learning experiences both within and beyond the classroom, and
-under the guidance of the school’s nurturing and committed staff.</p>
-<p></p>
-<p>Embracing learning is the first component of being a <strong>Passionate Learner</strong>.
-Learning dispositions and positive habits are nurtured in our students
-to help them adopt a learning stance of curiosity and courage. Not all
-learning is easy and there will be moments of struggle but we seek to develop
-a joy and a passion for learning that will set our students up for success,
-both now and in the future.</p>
-<p></p>
-<p>Beyond the joy of learning, we also develop our students as <strong>Critical Thinkers</strong> who
-are able and willing to challenge themselves to go further. The theme for
-2025 is <em>Level Up: Accept the Challenge –</em> and it is this spirit of
-self-improvement paired with the courage to push past one’s limits to grow
-that makes one a Critical Thinker. This is what we want all our students
-to be! Within the school’s total curriculum, there are many opportunities
-for students to accept and overcome challenges, develop a sense of self-efficacy
-and find their identity and purpose to grow and constantly challenge themselves.
-This could be through student leadership, cohort camps, overseas immersion
-trips – the list goes on!</p>
-<p></p>
-<p>Finally, learning and growth are not focused only on the self. Here at
-New Town Primary school, we want our students to learn and grow, so that
-they can serve and lead others. In doing so, they will make a difference
-wherever they go and whatever they choose to do. This is the <strong>Anchored Leader </strong>that
-we want all our New Town Primary students to become. In small and big ways,
-the school provides opportunities for students to serve one another, serve
-the community and take the initiative to contribute to causes beyond themselves.</p>
-<p></p>
-<p>As a school, we are always pursuing excellence and innovating to find
-more purposeful ways of achieving our school’s vision. In line with this,
-we have been upgrading the school’s facilities and learning environment,
-such as the building of the new Teaching Block 4 and the refurbishment
-of Art Rooms, Teaching Labs and other key spaces, to allow our students
-to learn in a vibrant and conducive environment.</p>
-<p>As we continue to innovate, grow and pursue excellence as a school, we
-invite you to join and partner us in this exciting journey of learning!</p>
-<p></p>
-<p>Yours sincerely,
+<p>What a joy it is to welcome you to our New Town Primary School community!
+I'm so glad you've taken the time to learn more about our wonderful school.</p>
+<p>Since our doors first opened in July 1965, New Town Primary has been more
+than just a place of learning – it's been a home where many children have
+discovered their potential, formed lasting friendships, and grown into
+confident young people ready to take on the world.</p>
+<p>Every day, I watch our students light up as they discover something new,
+tackle a challenge they thought was impossible, or help a friend in need.
+This is what drives everything we do here. We're committed to nurturing
+each child to become a <strong>Passionate Learner </strong>who loves discovering
+new things, a <strong>Critical Thinker</strong> who isn't afraid to ask "what
+if?" and "why not?", and an <strong>Anchored Leader</strong> –someone who
+genuinely cares about making a positive difference in the lives of others.</p>
+<p>Learning isn't always easy – and that's perfectly fine! Some of our most
+meaningful growth happens when we're stretching ourselves beyond our comfort
+zones. Our dedicated teachers are right there alongside each student, celebrating
+the small victories and providing gentle encouragement when things get
+tough. We want every child to experience that wonderful "aha!" moment and
+develop a genuine love for learning that will serve them throughout their
+lives.</p>
+<p>I'm thrilled to share that our theme for 2026 is <strong>'Power Up: Be a Changemaker'</strong> –
+and it feels like a natural next step from last year's 'Level Up: Accept
+the Challenge.' You know how wonderful it is to watch our students embrace
+difficult tasks and push through when things get tough? Well, now we're
+ready to take that courage and channel it into something even more exciting!
+Whether it's an older senior school mate who befriends and supports a younger
+school mate in his adjustment to school or CCA or a classmate who helps
+his friend who's struggling with Maths, or our student leaders whose innovative
+projects help to build a positive school environment, we want every student
+to realise they don't have to wait for someone else to create change.</p>
+<p>The magic happens when children discover they're not just passengers in
+their own learning journey – they're the drivers! During our level programmes,
+I love seeing that spark in a child's eyes when they realise their idea
+actually worked, or their encouragement helped a classmate succeed. Our
+classrooms become laboratories for problem-solving, and our beyond-classroom
+learning journeys open their minds to possibilities. What excites me most
+is that we're nurturing a generation who won't just adapt to the world
+they inherit – they'll actively shape it into something better.</p>
+<p>What makes me particularly proud is seeing how our students look out for
+one another and seek to help their community. From small acts of kindness
+in the classroom to larger service projects, they're learning that true
+leadership means service and lifting others up.</p>
+<p>We're constantly looking for ways to make learning even more engaging
+and meaningful. You'll notice we've been refreshing our spaces – our Teaching
+Lab, Student Services Hub and Computer Lab have had makeovers, and we're
+always finding new ways to create an environment where learning feels exciting
+and natural.</p>
+<p>I'd love for you to be part of our New Town Primary family. Together,
+we can help your child discover just how amazing they can be.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/MG_1999_original.jpg">
+</div>
+<p>With warm regards,
 <br>Ms Hannah Chia
 <br>Principal, New Town Primary School</p>

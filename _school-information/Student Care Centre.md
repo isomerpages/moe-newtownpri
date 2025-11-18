@@ -24,7 +24,7 @@ variant: tiptap
 <p>Name:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Commit Learning SchoolHouse</p>
+<p>Commit Learning SchoolHouse Pte. Ltd.</p>
 </td>
 </tr>
 <tr>
