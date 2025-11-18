@@ -46,15 +46,11 @@ The STELLAR vision: Children who love reading and have a strong foundation in th
 
 STELLAR aims to strengthen children’s language and reading skills as well as promote a positive attitude towards learning in the foundational years. The programme uses research-based teaching strategies and age-appropriate materials to engage children in the learning of English. At lower primary, language skills are developed through Shared Book Approach, modified Learning Experiential activity and Focused Differentiated lessons. As students progress to upper primary, language skills are further developed through KWL, Supported Reading and Writing Process Cycle. 
 
-Photos 
-
-1.  STELLAR 1 – Butterfly 1 ![](/images/Stellar_1___Butterfly_1.jpg)
+ ![](/images/Stellar_1___Butterfly_1.jpg)
+   
+ ![](/images/Stellar_2___Butterfly_2.jpg)
     
-
-2.  STELLAR 2 – Butterfly 2 ![](/images/Stellar_2___Butterfly_2.jpg)
-    
-
-3.  STELLAR 3 – Ice Cream Making 1 ![](/images/Stellar_3___Ice_Cream_Making_1.jpg)
+ ![](/images/Stellar_3___Ice_Cream_Making_1.jpg)
     
 
 4.  STELLAR 4 – Ice Cream Making 2 ![](/images/Stellar_4___Ice_Cream_Making_2.jpg)
