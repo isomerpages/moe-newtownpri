@@ -80,7 +80,7 @@ variant: tiptap
 <p>School Bus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sky Island Transport &amp; Trading</strong>
+<p><strong>Sky Island Transport &amp; Trading Pte Ltd</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -104,6 +104,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>skyisland96@hotmail.com</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bus Captain Leader</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Fong</p>
 </td>
 </tr>
 </tbody>
