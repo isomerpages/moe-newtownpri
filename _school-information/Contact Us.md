@@ -223,7 +223,7 @@ variant: tiptap
 <p>Student Dental Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Dental Service (Health Promotion Board)</strong>
+<p><strong>School Dental Clinic</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
