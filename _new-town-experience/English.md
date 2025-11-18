@@ -67,9 +67,9 @@ The learning of English is most effective when it takes place through **authenti
 ![](/images/OLE_2.jpg)
     
 
-Extended Reading Programme 
+**Extended Reading Programme **
 
-At New Town Primary, we believe that reading should be both meaningful and fun. Our Extended Reading Programme gives students many opportunities to explore the joy of books beyond the classroom. Every alternate Tuesday, students enjoy Story Tuesday before the flag-raising ceremony, Our library is also alive with engaging reading activities that encourage students to explore different genres. Our lower primary learners (P1–P3) dive into digital stories through Raz Kids Plus, and our upper primary students (P4–P6) sharpen their awareness of the world around them with the Little Red Dot newspaper. A highlight of the year is our Reading Week, where the entire school celebrates with a full week of activities — from book quizzes and storytelling to dressing up as favourite book characters. Together, these experiences nurture a love for reading and inspire our students to become lifelong learners. 
+At New Town Primary, we believe that reading should be both meaningful and fun. Our **Extended Reading Programme** gives students many opportunities to explore the joy of books beyond the classroom. Every alternate Tuesday, students enjoy **Story Tuesday** before the flag-raising ceremony, Our library is also alive with engaging **reading activities** that encourage students to explore different genres. Our lower primary learners (P1–P3) dive into digital stories through **Raz Kids Plus**, and our upper primary students (P4–P6) sharpen their awareness of the world around them with the **Little Red Dot** newspaper. A highlight of the year is our Reading Week, where the entire school celebrates with a full week of activities — from book quizzes and storytelling to dressing up as favourite book characters. Together, these experiences nurture a love for reading and inspire our students to become lifelong learners. 
 
 Photos 
 
