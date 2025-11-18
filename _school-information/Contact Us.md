@@ -254,19 +254,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday - Thursday</p>
+<p>Monday - Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.00 am - 12.30 pm</p>
-<p>1.30 pm - 5.30 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.30pm - 5.30 pm</p>
+<p>8:00 am to 5:30 pm</p>
+<p>Closed during lunch hours 12:30 pm - 1:30 pm)</p>
 </td>
 </tr>
 </tbody>
