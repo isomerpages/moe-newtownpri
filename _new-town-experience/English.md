@@ -124,10 +124,10 @@ Held once a week on Wednesday afternoons, kidsREAD is supported by student volun
 
 Photos 
 
-1.  Kids Read 1 
+1.  Kids Read 1 ![](/images/Kids_Read_1.jpg)
     
 
-2.  Kids Read 2 
+2.  Kids Read 2 ![](/images/Kids_Read_2.jpg)
     
 
 School-based Dyslexia Remediation Programme (SDR) (P3 to P4) 
