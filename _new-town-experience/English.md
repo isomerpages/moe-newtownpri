@@ -48,9 +48,11 @@ The STELLAR vision: Children who love reading and have a strong foundation in th
 
 **Photos** 
  ![](/images/Stellar_1___Butterfly_1.jpg)
- ![](/images/Stellar_2___Butterfly_2.jpg)
- ![](/images/Stellar_3___Ice_Cream_Making_1.jpg)
+ ![](/images/Stellar_2___Butterfly_2.jpg)
+ ![](/images/Stellar_3___Ice_Cream_Making_1.jpg)
+ 
  ![](/images/Stellar_4___Ice_Cream_Making_2.jpg)
+ 
  ![](/images/Stellar_5___Sandwich_Making.jpg)
     
 **Outdoor Learning Experience (OLE) (P1 to P4) **
@@ -58,7 +60,8 @@ The STELLAR vision: Children who love reading and have a strong foundation in th
 The learning of English is most effective when it takes place through **authentic and meaningful experiences.** During our **Outdoor Learning Experience (OLE)**, students step out of the classroom and engage in hands-on activities that bring language learning to life. These real-world contexts provide rich opportunities for them to practise targeted language skills in fun and purposeful ways. 
 
 **Photos **
-![](/images/OLE_1.jpg) 
+![](/images/OLE_1.jpg)
+
 ![](/images/OLE_2.jpg)
 
 **Extended Reading Programme **
@@ -75,10 +78,11 @@ At New Town Primary, we believe that reading should be both meaningful and fun. 
 
 **Writing Programme (P1 to P6) **
 
-Students at New Town Primary learn to create a wide variety of texts to communicate meaning clearly and effectively. They write **procedural texts** such as recipes and instructions, craft **letters for different audiences**, and develop **narratives** to express ideas and stories. They also learn to design** visual texts**, such as digital posters, to communicate messages creatively. To nurture creativity and confidence, we encourage **freewriting** activities like journals and quick writes, giving students the freedom to use English spontaneously and with enjoyment. 
+Students at New Town Primary learn to create a wide variety of texts to communicate meaning clearly and effectively. They write **procedural texts** such as recipes and instructions, craft **letters for different audiences**, and develop **narratives** to express ideas and stories. They also learn to design **visual texts**, such as digital posters, to communicate messages creatively. To nurture creativity and confidence, we encourage **freewriting** activities like journals and quick writes, giving students the freedom to use English spontaneously and with enjoyment. 
 
 **Photos **
 ![](/images/Writing_1.jpg)
+
 ![](/images/Writing_2.jpg)
    
 **Reading Circles (P4 to P5)**
@@ -92,12 +96,13 @@ Our Reading Circles give high-progress learners the chance to enjoy literature m
 
 This is an MOE intervention programme led by specially trained teachers to support selected P1 and P2 students. Conducted in small groups of up to 10, lessons run for half an hour each day and focus on strengthening students’ English language skills in a supportive and encouraging environment. 
 
-**kidsREAD (P1 to P2)** 
+**kidsREAD (P1 to P2)**
 
 Held once a week on Wednesday afternoons, **kidsREAD** is supported by student volunteers from secondary schools. In collaboration with the National Library Board (NLB), the programme nurtures a love for reading in our P1 and P2 students, helping them discover the joy of stories from an early age. 
 
 **Photos **
 ![](/images/Kids_Read_1.jpg)
+
 ![](/images/Kids_Read_2.jpg)
 
 **School-based Dyslexia Remediation Programme (SDR) (P3 to P4) **
