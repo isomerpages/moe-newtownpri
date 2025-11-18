@@ -99,10 +99,10 @@ Students at New Town Primary learn to create a wide variety of texts to communic
 
 Photos 
 
-1.  Writing 1 
+1.  Writing 1 ![](/images/Writing_1.jpg)
     
 
-2.  Writing 2 
+2.  Writing 2 ![](/images/Writing_2.jpg)
     
 
 Reading Circles (P4 to P5) 
