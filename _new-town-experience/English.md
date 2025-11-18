@@ -98,7 +98,6 @@ Held once a week on Wednesday afternoons, **kidsREAD** is supported by student v
 
 **Photos **
 ![](/images/Kids_Read_1.jpg)
-    
 ![](/images/Kids_Read_2.jpg)
     
 **School-based Dyslexia Remediation Programme (SDR) (P3 to P4) **
