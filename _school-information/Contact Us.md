@@ -14,26 +14,17 @@ variant: tiptap
 <p>Tel : 6474 8805
 <br>Fax : 6474 1249</p>
 <p></p>
-<h3><em>Contact Information</em></h3>
-<p><strong><em>General Office</em></strong><em><br>Operating Hours: 7.30 am-5.00 pm<br></em>
+<h3>Contact Information</h3>
+<p><strong>General Office</strong>
+<br>Operating Hours: 7.30 am-5.00 pm
+<br>
 </p>
-<p><em>Tel : 6474 8805<br>Fax : 6474 1249<br>Email : ntps@moe.edu.sg<br></em>
+<p>Tel : 6474 8805
+<br>Fax : 6474 1249
+<br>Email : ntps@moe.edu.sg
+<br>
 </p>
-<p><strong><em>School Vendors and Services</em></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>Bookshop</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>The Continental Book Centre</em></strong>
+<p><strong>School Vendors and Services</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -43,47 +34,53 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Tel</em>
-</p>
+<p>Bookshop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>94759606</em>
+<p><strong>The Continental Book Centre</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>94759606</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Email</em>
-</p>
+<p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>admin@the-continental.com.sg</em>
-</p>
+<p>admin@the-continental.com.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Booklists</em>
-</p>
+<p>Booklists</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em><a href="https://drive.google.com/drive/folders/1BLIe4MZeEKNukGxRO1nftaoi-tSZtnQH?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">link</a></em>
+<p><a href="https://drive.google.com/drive/folders/1BLIe4MZeEKNukGxRO1nftaoi-tSZtnQH?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">link</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em>&nbsp;</em>
-</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>School Bus</em>
-</p>
+<p>School Bus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Sky Island Transport &amp; Trading</em></strong>
+<p><strong>Sky Island Transport &amp; Trading</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -93,37 +90,33 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Tel</em>
-</p>
+<p>Tel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>91884698<br><br>90090569</em>
-</p>
+<p>91884698
+<br>
+<br>90090569</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Email</em>
-</p>
+<p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>skyisland96@hotmail.com</em>
-</p>
+<p>skyisland96@hotmail.com</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em>&nbsp;&nbsp;</em>
-</p>
+<p>&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>&nbsp;School Uniform</em>
-</p>
+<p>&nbsp;School Uniform</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>&nbsp;</em><strong><em>Bibi &amp; Baba Private Limited</em></strong>
+<p>&nbsp;<strong>Bibi &amp; Baba Private Limited</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -133,41 +126,36 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Address</em>
-</p>
+<p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>BB @ Henderson Road<br>213 Henderson Road, #01-12<br>Singaopre 159553</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>Tel</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>67327022</em>
-</p>
+<p>BB @ Henderson Road
+<br>213 Henderson Road, #01-12
+<br>Singaopre 159553</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>&nbsp;Email</em>
-</p>
+<p>Tel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>uniforms@bibibaba.com.sg</em>
-</p>
+<p>67327022</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>&nbsp;Website</em>
-</p>
+<p>&nbsp;Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em><a href="https://www.schooluniforms.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/</a></em>
+<p>uniforms@bibibaba.com.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Website</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.schooluniforms.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/</a>
 </p>
 </td>
 </tr>
@@ -178,11 +166,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Student Care Centre</em>
-</p>
+<p>Student Care Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Commit Learning Schoolhouse Pte Ltd</em></strong>
+<p><strong>Commit Learning Schoolhouse Pte Ltd</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -192,37 +179,34 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Tel</em>
-</p>
+<p>Tel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>80144298<br><br></em>
+<p>80144298
+<br>
+<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Email</em>
-</p>
+<p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>clsnewtown@gmail.com</em>
-</p>
+<p>clsnewtown@gmail.com</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em>&nbsp;</em>
-</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Dental Clinic</em>
-</p>
+<p>Dental Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>School Dental Service (Health Promotion Board)</em></strong>
+<p><strong>School Dental Service (Health Promotion Board)</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -232,22 +216,18 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Tel</em>
-</p>
+<p>Tel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>64742380</em>
-</p>
+<p>64742380</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Operating Hours</em>
-</p>
+<p>Operating Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>&nbsp;</em>
-</p>
+<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -256,37 +236,29 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Monday - Thursday</em>
-</p>
+<p>Monday - Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>8.00 am - 12.30 pm</em>
-</p>
-<p><em>1.30 pm - 5.30 pm</em>
-</p>
+<p>8.00 am - 12.30 pm</p>
+<p>1.30 pm - 5.30 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Friday</em>
-</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>1.30pm - 5.30 pm</em>
-</p>
+<p>1.30pm - 5.30 pm</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em>&nbsp;</em>
-</p>
-<p><em>Students who require emergency dental treatment, in case of clinic closure can contract any of the "buddy clinics" below for assistance.</em>
-</p>
+<p>&nbsp;Students who require emergency dental treatment, in case of clinic
+closure can contract any of the "buddy clinics" below for assistance.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -296,52 +268,40 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Fairfield Methodist School</em>
-</p>
+<p>Fairfield Methodist School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>100 Dover Road S(139648)</em>
-</p>
+<p>100 Dover Road S(139648)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>67731606</em>
-</p>
+<p>67731606</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Queenstown Primary School</em>
-</p>
+<p>Queenstown Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>310 Margaret Drive S(149303)</em>
-</p>
+<p>310 Margaret Drive S(149303)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>64740633</em>
-</p>
+<p>64740633</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Radin Mas Primary School</em>
-</p>
+<p>Radin Mas Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>1 Bukit Purmei Ave S(099840)</em>
-</p>
+<p>1 Bukit Purmei Ave S(099840)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>62757391</em>
-</p>
+<p>62757391</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em>&nbsp;</em>
-</p>
-<p><em>Find out more about <a href="https://www.healthhub.sg/programmes/15/school_dental_programme" rel="noopener noreferrer nofollow" target="_blank">school dental services</a>.</em>
-</p>
+<p>Find out more about <a href="https://www.healthhub.sg/programmes/15/school_dental_programme" rel="noopener noreferrer nofollow" target="_blank">school dental services</a>.</p>
 </td>
 </tr>
 </tbody>
