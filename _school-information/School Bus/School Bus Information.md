@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Bus
 variant: tiptap
 ---
-<h1>Bus Operator Details</h1>
+<h1><strong>School Bus Vendor</strong>&nbsp;</h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
