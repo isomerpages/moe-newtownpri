@@ -69,10 +69,10 @@ The learning of English is most effective when it takes place through authentic 
 
 Photos 
 
-1.  OLE 1 
+1.  OLE 1 ![](/images/OLE_1.jpg)
     
 
-2.  OLE 2 
+2.  OLE 2 ![](/images/OLE_2.jpg)
     
 
 Extended Reading Programme 
