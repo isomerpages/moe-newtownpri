@@ -101,7 +101,9 @@ Held once a week on Wednesday afternoons, **kidsREAD** is supported by student v
 ![](/images/Kids_Read_2.jpg)
     
 **School-based Dyslexia Remediation Programme (SDR) (P3 to P4) **
-The SDR programme provides targeted support for students with dyslexia, helping them strengthen their reading, spelling, and comprehension skills. Conducted three times a week for one hour each session, the lessons equip students with strategies to learn more effectively and build confidence in using English. 
+
+The SDR programme provides targeted support for students with dyslexia, helping them strengthen their reading, spelling, and comprehension skills. Conducted **three times a week for one hour each session**, the lessons equip students with strategies to learn more effectively and build confidence in using English. 
 
 **Reading Remediation Programme (RRP) (P3 to P5)** 
+
 The RRP supports students who experience challenges in reading and understanding texts. Conducted **twice a week for one hour each session**, the lessons focus on teaching practical strategies to improve comprehension and help students manage their learning more effectively in class.
