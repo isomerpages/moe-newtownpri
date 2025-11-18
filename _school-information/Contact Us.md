@@ -34,7 +34,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bookshop</p>
+<p>School Bookshop</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>The Continental Book Centre</strong>
@@ -63,11 +63,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Booklists</p>
+<p>Operating hours during school term</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1BLIe4MZeEKNukGxRO1nftaoi-tSZtnQH?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">link</a>
-</p>
+<p>Mon to Fri: 9:00 am - 3:00 pm</p>
+<p>(Closed during lunch hours 11:30 am - 12:30 pm)</p>
 </td>
 </tr>
 </tbody>
@@ -169,11 +169,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operating hours during school term</p>
+<p>Operating hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon to Fri: 9:00 am - 3:00 pm</p>
-<p>(Closed during lunch hours 11:30 am - 12:30 pm)</p>
+<p>Mon to Fri: 9:00 am - 6:00 pm</p>
+<p>Sat: 9:00 am to 6:00 pm</p>
+<p>Sun / Public Holiday: Closed</p>
+<p></p>
 </td>
 </tr>
 </tbody>
