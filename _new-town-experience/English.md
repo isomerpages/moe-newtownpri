@@ -111,7 +111,7 @@ Our Reading Circles give high-progress learners the chance to enjoy literature m
 
 Photos 
 
-1.  Reading Circles 
+1.  Reading Circles ![](/images/Reading_Circles.jpg)
     
 
 Learning Support Programme (LSP) (P1 to P2) 
