@@ -77,7 +77,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Bus</p>
+<p>School Bus Vendor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sky Island Transport &amp; Trading Pte Ltd</strong>
