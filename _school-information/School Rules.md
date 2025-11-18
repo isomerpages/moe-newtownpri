@@ -69,12 +69,11 @@ days with PAL and/or PE lessons.</p>
 <p>Students may wear a plain black or navy-blue outer wear such as a windbreaker,
 sweater or cardigan in the morning. The length of their outer wear should
 not go beyond the hip.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_attire.png">
+</div>
 </li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NTPS_School_Uniform.jpg">
-</div>
 <p><strong>4. Possession of Dangerous Weapons/Items</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -241,8 +240,5 @@ their parents/guardians, if necessary, by using the telephone outside the
 General Office.</p>
 </li>
 </ul>
-<p>**</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_attire.png">
-</div>
+<p></p>
 <p></p>
