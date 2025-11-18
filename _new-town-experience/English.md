@@ -38,8 +38,7 @@ What this means for your child: 
 
 *   Support for every learner – Lessons are tailored to meet different learning needs, ensuring each child is supported to progress at their own pace. 
     
-
-Our Programmes 
+**Our Programmes **
 
 STELLAR (P1 to P6) 
 
