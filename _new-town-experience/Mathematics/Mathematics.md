@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /departments/mathematics-1/
 description: ""
 third_nav_title: Mathematics
+variant: markdown
 ---
 **Vision**
 
