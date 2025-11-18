@@ -82,47 +82,36 @@ At New Town Primary, we believe that reading should be both meaningful and fun. 
  ![](/images/Reading_4.jpg)
     
 
-Writing Programme (P1 to P6) 
+**Writing Programme (P1 to P6) **
 
 Students at New Town Primary learn to create a wide variety of texts to communicate meaning clearly and effectively. They write procedural texts such as recipes and instructions, craft letters for different audiences, and develop narratives to express ideas and stories. They also learn to design visual texts, such as digital posters, to communicate messages creatively. To nurture creativity and confidence, we encourage freewriting activities like journals and quick writes, giving students the freedom to use English spontaneously and with enjoyment. 
 
-Photos 
-
-1.  Writing 1 ![](/images/Writing_1.jpg)
+**Photos **
+![](/images/Writing_1.jpg)
     
-
-2.  Writing 2 ![](/images/Writing_2.jpg)
-    
-
-Reading Circles (P4 to P5) 
-
+![](/images/Writing_2.jpg)
+   
+**Reading Circles (P4 to P5)** 
 Our Reading Circles give high-progress learners the chance to enjoy literature more deeply. Through guided discussions, they explore interesting stories, notice how good writers use language, and reflect on the values and themes within the texts. This not only sharpens their language skills but also nurtures a love for reading and thoughtful conversations. 
 
-Photos 
-
-1.  Reading Circles ![](/images/Reading_Circles.jpg)
+**Photos **
+ ![](/images/Reading_Circles.jpg)
     
-
-Learning Support Programme (LSP) (P1 to P2) 
+**Learning Support Programme (LSP) (P1 to P2)** 
 
 This is an MOE intervention programme led by specially trained teachers to support selected P1 and P2 students. Conducted in small groups of up to 10, lessons run for half an hour each day and focus on strengthening students’ English language skills in a supportive and encouraging environment. 
 
-kidsREAD (P1 to P2) 
+**kidsREAD (P1 to P2)** 
 
-Held once a week on Wednesday afternoons, kidsREAD is supported by student volunteers from secondary schools. In collaboration with the National Library Board (NLB), the programme nurtures a love for reading in our P1 and P2 students, helping them discover the joy of stories from an early age. 
+Held once a week on Wednesday afternoons, **kidsREAD** is supported by student volunteers from secondary schools. In collaboration with the National Library Board (NLB), the programme nurtures a love for reading in our P1 and P2 students, helping them discover the joy of stories from an early age. 
 
-Photos 
-
-1.  Kids Read 1 ![](/images/Kids_Read_1.jpg)
+**Photos **
+![](/images/Kids_Read_1.jpg)
     
-
-2.  Kids Read 2 ![](/images/Kids_Read_2.jpg)
+![](/images/Kids_Read_2.jpg)
     
-
-School-based Dyslexia Remediation Programme (SDR) (P3 to P4) 
-
+**School-based Dyslexia Remediation Programme (SDR) (P3 to P4) **
 The SDR programme provides targeted support for students with dyslexia, helping them strengthen their reading, spelling, and comprehension skills. Conducted three times a week for one hour each session, the lessons equip students with strategies to learn more effectively and build confidence in using English. 
 
-Reading Remediation Programme (RRP) (P3 to P5) 
-
-The RRP supports students who experience challenges in reading and understanding texts. Conducted twice a week for one hour each session, the lessons focus on teaching practical strategies to improve comprehension and help students manage their learning more effectively in class.
+**Reading Remediation Programme (RRP) (P3 to P5)** 
+The RRP supports students who experience challenges in reading and understanding texts. Conducted **twice a week for one hour each session**, the lessons focus on teaching practical strategies to improve comprehension and help students manage their learning more effectively in class.
