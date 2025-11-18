@@ -81,16 +81,16 @@ At New Town Primary, we believe that reading should be both meaningful and fun. 
 
 Photos 
 
-1.  Reading 1 
+1.  Reading 1 ![](/images/Reading_1.jpg)
     
 
 2.  Reading 2 
     
 
-3.  Reading 3 
+3.  Reading 3 ![](/images/Reading_3.jpg)
     
 
-4.  Reading 4 
+4.  Reading 4 ![](/images/Reading_4.jpg)
     
 
 Writing Programme (P1 to P6) 
