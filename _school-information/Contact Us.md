@@ -212,7 +212,7 @@ variant: tiptap
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>clsnewtown@gmail.com</p>
+<p>admission_cls_ntps@commitlearning.com.sg</p>
 </td>
 </tr>
 </tbody>
@@ -260,7 +260,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>8:00 am to 5:30 pm</p>
-<p>Closed during lunch hours 12:30 pm - 1:30 pm)</p>
+<p>(Closed during lunch hours 12:30 pm - 1:30 pm)</p>
 </td>
 </tr>
 </tbody>
@@ -283,7 +283,7 @@ closure can contract any of the "buddy clinics" below for assistance.</p>
 <p>Queenstown Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>310 Margaret Drive S(149303)</p>
+<p>310 Margaret Drive, Singapore 149303</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64740633</p>
@@ -294,7 +294,7 @@ closure can contract any of the "buddy clinics" below for assistance.</p>
 <p>CHIJ Kellock Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Bukit Teresa Rd. S(099757)</p>
+<p>1 Bukit Teresa Rd, Singapore 099757</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>62757391</p>
