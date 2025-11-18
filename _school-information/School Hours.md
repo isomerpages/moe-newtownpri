@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>School Hours</h3>
 <p></p>
-<p>All students are required to report to school by <strong>7.30 am </strong>for
+<p>All students are required to report to school by <strong>7.30 a.m. </strong>for
 the flag-raising ceremony. &nbsp;
 <br>Students are strongly encouraged to be with their form classes by 7.15
 a.m. for Morning Programme (Reading Programme, Morning Connect and Form
@@ -224,7 +224,7 @@ Teacher Time).&nbsp;&nbsp;</p>
 <p>6.45 am - 7.30 am&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>1.30 pm - 2.10 pm (Mon,Tue,Thurs &amp; Fri)&nbsp;</p>
+<p>1.30 pm - 2.10 pm (Mon, Tue, Thurs &amp; Fri)&nbsp;</p>
 <p>2.00 pm – 2.40 pm (Only on Wed)&nbsp;</p>
 </td>
 </tr>
