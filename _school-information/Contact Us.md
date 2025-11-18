@@ -50,7 +50,7 @@ variant: tiptap
 <p>Tel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>94759606</p>
+<p>9475 9606</p>
 </td>
 </tr>
 <tr>
@@ -93,9 +93,9 @@ variant: tiptap
 <p>Tel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>91884698
+<p>9188 4698
 <br>
-<br>90090569</p>
+<br>9009 0569</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ variant: tiptap
 <p>Tel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>67327022</p>
+<p>6271 9248</p>
 </td>
 </tr>
 <tr>
@@ -165,6 +165,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://www.schooluniforms.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operating hours during school term</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon to Fri: 9:00 am - 3:00 pm</p>
+<p>(Closed during lunch hours 11:30 am - 12:30 pm)</p>
 </td>
 </tr>
 </tbody>
@@ -190,7 +199,7 @@ variant: tiptap
 <p>Tel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80144298
+<p>8014 4298
 <br>
 <br>
 </p>
@@ -211,7 +220,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dental Clinic</p>
+<p>Student Dental Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>School Dental Service (Health Promotion Board)</strong>
@@ -227,7 +236,8 @@ variant: tiptap
 <p>Tel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64742380</p>
+<p>8764 9804</p>
+<p>(Please call or send a WhatsApp message to make an appointment)</p>
 </td>
 </tr>
 <tr>
