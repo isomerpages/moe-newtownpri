@@ -40,7 +40,7 @@ What this means for your child: 
     
 **Our Programmes **
 
-STELLAR (P1 to P6) 
+**STELLAR (P1 to P6) **
 
 The STELLAR vision: Children who love reading and have a strong foundation in the English Language. 
 
@@ -56,16 +56,15 @@ STELLAR aims to strengthen children’s language and reading skills as well as p
    
 ![](/images/Stellar_5___Sandwich_Making.jpg)
     
-Outdoor Learning Experience (OLE) (P1 to P4) 
+**Outdoor Learning Experience (OLE) (P1 to P4) **
 
-The learning of English is most effective when it takes place through authentic and meaningful experiences. During our Outdoor Learning Experience (OLE), students step out of the classroom and engage in hands-on activities that bring language learning to life. These real-world contexts provide rich opportunities for them to practise targeted language skills in fun and purposeful ways. 
+The learning of English is most effective when it takes place through **authentic and meaningful experiences.** During our **Outdoor Learning Experience (OLE)**, students step out of the classroom and engage in hands-on activities that bring language learning to life. These real-world contexts provide rich opportunities for them to practise targeted language skills in fun and purposeful ways. 
 
-Photos 
+**Photos **
 
-1.  OLE 1 ![](/images/OLE_1.jpg)
-    
-
-2.  OLE 2 ![](/images/OLE_2.jpg)
+![](/images/OLE_1.jpg)
+  
+![](/images/OLE_2.jpg)
     
 
 Extended Reading Programme 
