@@ -139,7 +139,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>BB @ Henderson Road
 <br>213 Henderson Road, #01-12
-<br>Singaopre 159553</p>
+<br>Singapore 159553</p>
 </td>
 </tr>
 <tr>
@@ -278,17 +278,6 @@ closure can contract any of the "buddy clinics" below for assistance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fairfield Methodist School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>100 Dover Road S(139648)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>67731606</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Queenstown Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -300,10 +289,10 @@ closure can contract any of the "buddy clinics" below for assistance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Radin Mas Primary School</p>
+<p>CHIJ Kellock Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Bukit Purmei Ave S(099840)</p>
+<p>1 Bukit Teresa Rd. S(099757)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>62757391</p>
