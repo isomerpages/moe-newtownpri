@@ -28,5 +28,5 @@ that will support our pupils in their learning journey.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths_UnderstandingonClasspoint.jpg">
 </div>
-<p><em>Students showing understanding on Classpoint</em>
+<p><em>Student showing understanding on Classpoint</em>
 </p>
