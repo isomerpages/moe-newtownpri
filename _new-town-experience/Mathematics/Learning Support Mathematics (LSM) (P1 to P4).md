@@ -3,10 +3,11 @@ title: Learning Support Mathematics (LSM) (P1 to P4)
 permalink: /new-town-experience/Mathematics/LSM/
 description: ""
 third_nav_title: Mathematics
+variant: markdown
 ---
 **Learning Support Mathematics (LSM) (P1 to P4)**
 
-This programme aims to provide early intervention support in Mathematics to students who need additional support in acquiring basic numeracy skills. In small groups, LSM trained teachers help students achieve an age-appropriate mathematical age and equip them with the mathematical knowledge, skills and dispositions through learning experiences.
+Learning Support Mathematics aims to provide early intervention support in Mathematics to students who need additional support in acquiring basic numeracy skills. In small groups, LSM trained teachers help students achieve an age-appropriate mathematical age and equip them with the mathematical knowledge, skills and dispositions through learning experiences.
 
 **![](https://lh5.googleusercontent.com/tYy3_wF5cy-J8nZzaZSLrqcJtaGpNtWFEkuTtuT3uarFI4ICZL7S35e415YfywQvxYYRmJZrnnNWcRX9sF2BTkmpfMiLPs26G3k2LBEiKcsBFjLa-QguRsGHNwmHPYY3X0QhSCBSsLnrn0ziRSRUmlca6GTIE3rsvBcA0x8Dl0NFWcU18HzlfHc1-ovWwA)**
 Students working collaboratively to make sense of fractions concepts
