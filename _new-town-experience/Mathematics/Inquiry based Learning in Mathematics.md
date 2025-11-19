@@ -14,5 +14,5 @@ Being regularly immersed in an inquiry-based environment, students become natura
 ![](/images/Maths_ConvertMintoHoursnMins.jpg)
 Students exploring the different methods to convert minutes to hous and minutes.
 
-**![](https://lh4.googleusercontent.com/b8BzmnpC6Y8r2hr9Z4v1N0VJF9wghRPgDTcdCWCCCEIYGRMI40Gg75uWipYQvDokxmbVvNLSbfAGxp8hlvlDWvMK7Lh4pOufPvPIGF4GVMZc3SC4YDhvlRK0PADST4j6WkqDjCf8UWF2BfAqO3CiwadSi4XZe2nsZq0GFpDal7S4ZOO2UNGg7JHMmsj26Q)**
-Students verifying a property of a rectangle
+![](/images/Maths_SquaresnTriangles.jpg)
+Students exploring the properties of squares and rectangles.
