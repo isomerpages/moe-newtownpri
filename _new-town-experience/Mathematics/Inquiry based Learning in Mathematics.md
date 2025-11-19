@@ -12,7 +12,7 @@ This programme emphasises on the development and attainment of Mathematics conce
 Being regularly immersed in an inquiry-based environment, students become naturally confident in Mathematics. They learn to connect with the resources and participate in the learning process actively. Students who are encouraged to ask questions and challenge ideas are more likely to contribute towards classroom discussions with their peers, thereby boosting their confidence further. Confidence is a disposition that lasts a lifetime and students who enjoy inquiry-based learning are more likely to become thoughtful and motivated life-long learners.
 
 ![](/images/Maths_ConvertMintoHoursnMins.jpg)
-Students exploring the different methods to convert minutes to hous and minutes.
+*Students exploring the different methods to convert minutes to hous and minutes.*
 
 ![](/images/Maths_SquaresnTriangles.jpg)
-Students exploring the properties of squares and rectangles.
+*Students exploring the properties of squares and rectangles.*
