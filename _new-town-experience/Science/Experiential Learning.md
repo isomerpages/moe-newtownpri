@@ -7,6 +7,13 @@ variant: markdown
 ---
 **Experiential Learning**
 
+Students from P3 to P6 will undergo key experiential learning projects each year to demonstrate their conceptual knowledge and practices of Science.
+
+| Column 1      | Column 2 |
+| ------------ | ---------- |
+| Text              | Text          |
+
+
 ![](/images/Science/Students%20in%20garden.png)
 
 ![](/images/Science/Students%20at%20Pond.png)
