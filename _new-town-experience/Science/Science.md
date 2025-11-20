@@ -27,8 +27,8 @@ c. Innovate using Science - Students are able to apply Science to address real-w
 
 **Our Programmes **
 
-Experiential Learning (link to go there - pending!)
+Experiential Learning 
 
-Excellence 2000 (E2K) Science Programme (P4 to P5) (link to go there - pending!)
+Excellence 2000 (E2K) Science Programme (P4 to P5) 
 
-Competitions (link to go there - pending!)
+Competitions 
