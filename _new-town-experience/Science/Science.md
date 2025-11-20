@@ -13,7 +13,7 @@ In line with MOE’s Science Curriculum Framework, our goal is to provide studen
 
 2.  Provide strong Science fundamentals for students to innovate and pursue STEM for future learning and work.
 
-![](/images/Science_Globe.jpg)
+![](/images/Science_Globe2.jpg)
 
 **Our Approach **
 
