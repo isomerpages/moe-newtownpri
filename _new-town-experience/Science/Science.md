@@ -24,3 +24,12 @@ a. Inspired by Science - Students enjoy learning Science as they see how everyda
 b. Inquire like Scientists - Students are equipped with the scientific concepts and skills necessary to allow them to engage in Practices of Science to conduct scientific inquiry. 
 
 c. Innovate using Science - Students are able to apply Science to address real-world problems in school and at home.
+
+**Our Programmes **
+
+Experiential Learning (link to go there - pending!)
+
+Excellence 2000 (E2K) Science Programme (P4 to P5) (link to go there - pending!)
+
+Competitions (link to go there - pending!)
+
