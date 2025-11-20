@@ -27,7 +27,7 @@ c. Innovate using Science - Students are able to apply Science to address real-w
 
 **Our Programmes **
 
-Experiential Learning https://cms.isomer.gov.sg/sites/moe-newtownpri/folders/new-town-experience/subfolders/Science/editPage/Experiential%20Learning.md
+Experiential Learning 
 
 Excellence 2000 (E2K) Science Programme (P4 to P5) 
 
