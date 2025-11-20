@@ -9,11 +9,4 @@ variant: markdown
 
 The E2K Science Programme in New Town is an enrichment programme for P4 and P5 students who demonstrate interest and ability in Science. The programme engages students in scientific investigations involving advanced science concepts. Through scientific inquiry, students will develop the habits, attitudes and dispositions scientists possess as well as to gain important e21cc such as critical and inventive thinking and effective communication skills.
 
-![](/images/Science/E2K1.jpeg)
-
-![](/images/Science/E2K2.jpeg)
-
-![](/images/Science/E2K3.jpeg)
-
-![](/images/Science/E2K4.jpeg)
-Students conducting Scientific investigations on Life Science and Physical Science modules
+![](/images/Science_Excellence_2000__E2K_.jpg)
