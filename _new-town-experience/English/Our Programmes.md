@@ -123,8 +123,13 @@ by student volunteers from secondary schools. In collaboration with the
 National Library Board (NLB), the programme nurtures a love for reading
 in our P1 and P2 students, helping them discover the joy of stories from
 an early age.&nbsp;</p>
-<p>![](/images/Kids_Read_1.jpg)</p>
-<p>![](/images/Kids_Read_2.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kids_Read_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kids_Read_2.jpg">
+</div>
 <p><strong>School-based Dyslexia Remediation Programme (SDR) (P3 to P4)&nbsp;</strong>
 </p>
 <p>The SDR programme provides targeted support for students with dyslexia,
