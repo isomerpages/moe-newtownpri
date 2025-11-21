@@ -21,7 +21,7 @@ variant: tiptap
 <br>Email : ntps@moe.edu.sg
 <br>
 </p>
-<h3><strong>School Vendors and Services</strong></h3>
+<h3>School Vendors and Services</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
