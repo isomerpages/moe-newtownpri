@@ -5,40 +5,6 @@ description: ""
 variant: markdown
 third_nav_title: Our Goals
 ---
-**Our Goals**
-
-*   To provide opportunities that allow students to engage in active listening, reading and viewing to enrich the language learning experience. 
-    
-
-*   To provide experiences that allow students to communicate effectively through speaking, writing and representing to promote confidence in using the English language. 
-    
-
-**Our Approach** 
-
-At New Town Primary, we follow the MOE English Language Syllabus 2020. The aim is to help every child build a strong foundation in English, enjoy the language, and use it confidently in everyday life. 
-
-What this means for your child: 
-
-*   Strong basics first – In the early years, we focus on reading, writing, speaking and listening skills. Phonics, vocabulary and grammar are taught in meaningful ways. 
-    
-
-*   Step-by-step growth – Teachers provide guidance at the start and gradually encourage children to take more responsibility for their own learning. 
-    
-
-*   Learning with purpose – English is taught through real-life tasks, stories, conversations and digital media so children see the relevance of what they learn. 
-    
-
-*   Reading for life – We nurture a love for reading, giving students time and opportunities to read widely for both learning and enjoyment. 
-    
-
-*   All-round skills – Beyond reading and writing, children also learn to speak clearly, listen actively, and use English in different forms such as visuals, videos and presentations. 
-    
-
-*   Confidence and creativity – Students are encouraged to share their ideas, think critically, and express themselves in different ways. 
-    
-
-*   Support for every learner – Lessons are tailored to meet different learning needs, ensuring each child is supported to progress at their own pace. 
-    
 **Our Programmes **
 
 **STELLAR (P1 to P6) **
