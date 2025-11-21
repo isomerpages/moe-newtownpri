@@ -2,6 +2,7 @@ collections:
   new-town-experience:
     output: true
     order:
+      - English/.keep
       - Our Goals/English.md
       - Our Goals/.keep
       - School Programmes/.keep
