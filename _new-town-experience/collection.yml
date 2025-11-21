@@ -2,13 +2,13 @@ collections:
   new-town-experience:
     output: true
     order:
-      - English/.keep
-      - Our Goals/English.md
       - Our Goals/.keep
+      - Our Goals/English.md
       - School Programmes/.keep
       - School Programmes/Applied Learning Programme (ALP).md
       - School Programmes/Learning for Life Programme (LLP).md
       - School Programmes/Catalyst Programme.md
+      - English/.keep
       - Mathematics/.keep
       - Mathematics/Mathematics.md
       - Mathematics/Inquiry based Learning in Mathematics.md
