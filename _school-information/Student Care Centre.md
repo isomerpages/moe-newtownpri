@@ -4,7 +4,7 @@ permalink: /school-information/student-care-centre/
 description: ""
 variant: tiptap
 ---
-<h3>Student Care Centre Operator Details</h3>
+<h3>Operator Details</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -24,7 +24,7 @@ variant: tiptap
 <p>Name:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Commit Learning SchoolHouse Pte. Ltd.</p>
+<p>Commit Learning Schoolhouse Pte. Ltd.</p>
 </td>
 </tr>
 <tr>
