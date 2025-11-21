@@ -222,7 +222,7 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;Students who require emergency dental treatment, in case of clinic
-closure can contract any of the "buddy clinics" below for assistance.</p>
+closure can contact any of the "buddy clinics" below for assistance.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
