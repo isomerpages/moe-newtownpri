@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Bus
 ---
-<h2>Bus Fares</h2>
+<h3>Bus Fares</h3>
 <p>Period: 1 Jan 2025 to 31 Dec 2026</p>
 <table style="minWidth: 125px">
 <colgroup>
