@@ -17,15 +17,25 @@ language skills are developed through Shared Book Approach, modified Learning
 Experiential activity and Focused Differentiated lessons. As students progress
 to upper primary, language skills are further developed through KWL, Supported
 Reading and Writing Process Cycle.&nbsp;</p>
-<p>&nbsp;![](/images/Stellar_1___Butterfly_1.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_1___Butterfly_1.jpg">
+</div>
 <p></p>
-<p>![](/images/Stellar_2___Butterfly_2.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_2___Butterfly_2.jpg">
+</div>
 <p></p>
-<p>![](/images/Stellar_3___Ice_Cream_Making_1.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_3___Ice_Cream_Making_1.jpg">
+</div>
 <p></p>
-<p>![](/images/Stellar_4___Ice_Cream_Making_2.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_4___Ice_Cream_Making_2.jpg">
+</div>
 <p></p>
-<p>![](/images/Stellar_5___Sandwich_Making.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_5___Sandwich_Making.jpg">
+</div>
 <p></p>
 <p><strong>Outdoor Learning Experience (OLE) (P1 to P4)&nbsp;</strong>
 </p>
@@ -34,8 +44,13 @@ our <strong>Outdoor Learning Experience (OLE)</strong>, students step out
 of the classroom and engage in hands-on activities that bring language
 learning to life. These real-world contexts provide rich opportunities
 for them to practise targeted language skills in fun and purposeful ways.&nbsp;</p>
-<p>![](/images/OLE_1.jpg)</p>
-<p>![](/images/OLE_2.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLE_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLE_2.jpg">
+</div>
 <p><strong>Extended Reading Programme&nbsp;</strong>
 </p>
 <p>At New Town Primary, we believe that reading should be both meaningful
@@ -52,11 +67,21 @@ celebrates with a full week of activities — from book quizzes and storytelling
 to dressing up as favourite book characters. Together, these experiences
 nurture a love for reading and inspire our students to become lifelong
 learners.&nbsp;</p>
-<p>&nbsp;![](/images/Reading_1.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_1.jpg">
+</div>
 <p></p>
-<p>![](/images/Reading_2v1.jpg)</p>
-<p>&nbsp;![](/images/Reading_3.jpg)</p>
-<p>&nbsp;![](/images/Reading_4.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_2v1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_4.jpg">
+</div>
 <p><strong>Writing Programme (P1 to P6)&nbsp;</strong>
 </p>
 <p>Students at New Town Primary learn to create a wide variety of texts to
