@@ -41,7 +41,7 @@ variant: tiptap
 <p>Telephone:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>91884698</p>
+<p>9188 4698 / 9009 0569</p>
 </td>
 </tr>
 </tbody>
