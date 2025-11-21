@@ -67,6 +67,7 @@ celebrates with a full week of activities — from book quizzes and storytelling
 to dressing up as favourite book characters. Together, these experiences
 nurture a love for reading and inspire our students to become lifelong
 learners.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_1.jpg">
 </div>
