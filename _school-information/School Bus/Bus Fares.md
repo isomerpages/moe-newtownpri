@@ -32,19 +32,19 @@ third_nav_title: School Bus
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>(1-Way Trip)</strong>
+<p><strong>1-Way Trip</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>(2-Way Trip)</strong>
+<p><strong>2-Way Trip</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>(1-Way Trip)</strong>
+<p><strong>1-Way Trip</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>(2-Way Trip)</strong>
+<p><strong>2-Way Trip</strong>
 </p>
 </td>
 </tr>
