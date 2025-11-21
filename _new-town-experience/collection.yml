@@ -2,10 +2,6 @@ collections:
   new-town-experience:
     output: true
     order:
-      - School Programmes/.keep
-      - School Programmes/Applied Learning Programme (ALP).md
-      - School Programmes/Learning for Life Programme (LLP).md
-      - School Programmes/Catalyst Programme.md
       - English/.keep
       - English/Our Goals.md
       - English/Our Approach.md
@@ -26,6 +22,10 @@ collections:
       - Science/Experiential Learning.md
       - Science/Excellence 2000 (E2K) Science Programme (P4 to P5).md
       - Science/Competitions.md
+      - School Programmes/.keep
+      - School Programmes/Applied Learning Programme (ALP).md
+      - School Programmes/Learning for Life Programme (LLP).md
+      - School Programmes/Catalyst Programme.md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/CCE Lessons.md
