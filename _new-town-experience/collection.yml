@@ -2,6 +2,7 @@ collections:
   new-town-experience:
     output: true
     order:
+      - Our Goals/.keep
       - School Programmes/.keep
       - School Programmes/Applied Learning Programme (ALP).md
       - School Programmes/Learning for Life Programme (LLP).md
