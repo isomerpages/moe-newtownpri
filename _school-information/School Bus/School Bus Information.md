@@ -25,7 +25,7 @@ variant: tiptap
 <p>Name:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sky Island Transport and Trading Pte Ltd</p>
+<p>Sky Island Transport &amp; Trading Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@ variant: tiptap
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>skyislandschool@gmail.com</p>
+<p>skyisland96@hotmail.com</p>
 </td>
 </tr>
 <tr>
