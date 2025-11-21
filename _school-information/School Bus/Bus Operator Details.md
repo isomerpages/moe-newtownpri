@@ -30,6 +30,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Bus Captain Leader:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Fong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
