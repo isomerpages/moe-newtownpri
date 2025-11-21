@@ -11,9 +11,6 @@ variant: tiptap
 <br>Singapore 148812
 <br>
 </p>
-<p>Tel : 6474 8805
-<br>Fax : 6474 1249</p>
-<p></p>
 <h3>Contact Information</h3>
 <p><strong>General Office</strong>
 <br>Operating Hours: 7.30 am-5.00 pm
