@@ -20,18 +20,33 @@ third_nav_title: School Bus
 <th rowspan="1" colspan="1">
 <p>Distance</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Up to 15- seater (1-Way Trip)</p>
+<th rowspan="1" colspan="2">
+<p>Up to 15- seater</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Up to 15- seater (2-Way Trip)</p>
+<th rowspan="1" colspan="2">
+<p>&gt;15-seater</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>&gt;15-seater (1-Way Trip)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>&gt;15-seater (2-Way Trip)</p>
-</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>(1-Way Trip)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>(2-Way Trip)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>(1-Way Trip)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>(2-Way Trip)</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
