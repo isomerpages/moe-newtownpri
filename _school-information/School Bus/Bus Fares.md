@@ -38,16 +38,16 @@ third_nav_title: School Bus
 <p>Up to 2km</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$114</p>
+<p>$110</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$132</p>
+<p>$130</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$96</p>
+<p>$110</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$114</p>
+<p>$130</p>
 </td>
 </tr>
 <tr>
@@ -55,33 +55,16 @@ third_nav_title: School Bus
 <p>&gt; 2 - 4km</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$157</p>
+<p>$180</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$193</p>
+<p>$220</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$132</p>
+<p>$140</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$157</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 - 6km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$228</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$289</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$228</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$289</p>
+<p>$165</p>
 </td>
 </tr>
 </tbody>
