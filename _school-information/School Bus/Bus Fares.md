@@ -21,7 +21,7 @@ third_nav_title: School Bus
 <p>Distance</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>Up to 15- seater</p>
+<p>Up to 15-seater</p>
 </th>
 <th rowspan="1" colspan="2">
 <p>&gt;15-seater</p>
