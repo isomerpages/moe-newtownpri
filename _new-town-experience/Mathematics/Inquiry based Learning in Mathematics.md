@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Mathematics
 variant: markdown
 ---
-**Inquiry-based Learning in Mathematics**
-
 Inquiry-based learning in Mathematics is the development and attainment of Mathematics concepts and skills with a problem situation using an inquiry-oriented approach. Teachers lead and guide students to explore, investigate and sense-make on their own so that they can build new ideas and knowledge.
 
 Being regularly immersed in an inquiry-based environment, students become naturally confident in Mathematics. They learn to connect with the resources and participate in the learning process actively. Students who are encouraged to ask questions and challenge ideas are more likely to contribute towards classroom discussions with their peers, thereby boosting their confidence further. Confidence is a disposition that lasts a lifetime and students who enjoy inquiry-based learning are more likely to become thoughtful and motivated life-long learners.
