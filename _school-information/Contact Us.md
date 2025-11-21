@@ -125,7 +125,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon to Fri: 9:00 am - 6:00 pm</p>
-<p>Sat: 9:00 am to 6:00 pm</p>
+<p>Sat: 9:00 am to 1:00 pm</p>
 <p>Sun / Public Holiday: Closed</p>
 <p></p>
 </td>
