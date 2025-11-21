@@ -93,9 +93,13 @@ to communicate messages creatively. To nurture creativity and confidence,
 we encourage <strong>freewriting</strong> activities like journals and quick
 writes, giving students the freedom to use English spontaneously and with
 enjoyment.&nbsp;</p>
-<p>![](/images/Writing_1.jpg)</p>
-<p>![](/images/Writing_2.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Writing_1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Writing_2.jpg">
+</div>
 <p><strong>Reading Circles (P4 to P5)</strong>
 </p>
 <p>Our Reading Circles give high-progress learners the chance to enjoy literature
@@ -103,8 +107,9 @@ more deeply. Through guided discussions, they explore interesting stories,
 notice how good writers use language, and reflect on the values and themes
 within the texts. This not only sharpens their language skills but also
 nurtures a love for reading and thoughtful conversations.&nbsp;</p>
-<p>&nbsp;![](/images/Reading_Circles.jpg)</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_Circles.jpg">
+</div>
 <p><strong>Learning Support Programme (LSP) (P1 to P2)</strong>
 </p>
 <p>This is an MOE intervention programme led by specially trained teachers
