@@ -41,10 +41,9 @@ variant: tiptap
 <p>Telephone:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80144298</p>
+<p>8014 4298</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>For more details, refer to the CLS SCC Introductory Letter and FAQ click
-<a href="https://drive.google.com/drive/folders/1AVOtNrWva1kCDgUJ-K9YxIYlktHX_xoo?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
