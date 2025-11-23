@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: English
 ---
+<p><strong>Our Goals</strong>
+</p>
 <p>To provide opportunities that allow students to engage in active listening,
 reading and viewing to enrich the language learning experience.&nbsp;</p>
 <p></p>
