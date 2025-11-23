@@ -19,6 +19,9 @@ third_nav_title: English
 </p>
 <p><strong><a href="/kidsread-p1-to-p2/" rel="noopener nofollow" target="_blank">kidsREAD (P1 to P2)</a></strong>
 </p>
+<p><strong><a href="/school-based-dyslexia-remediation-programme-sdr-p3-to-p4/" rel="noopener nofollow" target="_blank">School Based Dyslexia Remediation Programme (SDR) (P3 to P4)</a></strong>
+</p>
+<p></p>
 <p><strong>School-based Dyslexia Remediation Programme (SDR) (P3 to P4)&nbsp;</strong>
 </p>
 <p>The SDR programme provides targeted support for students with dyslexia,
