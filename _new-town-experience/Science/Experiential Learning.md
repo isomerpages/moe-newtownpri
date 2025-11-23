@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Science
 variant: markdown
 ---
-**Experiential Learning**
-
 Students from P3 to P6 will undergo key experiential learning projects each year to demonstrate their conceptual knowledge and practices of Science.
 
 Students create a toy boat based on their knowledge of the properties of materials. They then try out their creations in a huge basin of water to see if their toy boat can work!
