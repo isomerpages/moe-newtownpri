@@ -13,7 +13,8 @@ third_nav_title: English
 </p>
 <p><strong><a href="/writing-programme-p1-to-p6/" rel="noopener nofollow" target="_blank">Writing Programme (P1 to P6)</a></strong>
 </p>
-<p></p>
+<p><strong><a href="/reading-circles-p4-to-p6/" rel="noopener nofollow" target="_blank">Reading Circles (P4 to P6)</a></strong>
+</p>
 <p><strong>Reading Circles (P4 to P5)</strong>
 </p>
 <p>Our Reading Circles give high-progress learners the chance to enjoy literature
