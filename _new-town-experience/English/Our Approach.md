@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: English
 ---
+<p><strong>Our Approach</strong>
+</p>
 <p>At New Town Primary, we follow the MOE English Language Syllabus 2020.
 The aim is to help every child build a strong foundation in English, enjoy
 the language, and use it confidently in everyday life.&nbsp;</p>
@@ -32,3 +34,4 @@ think critically, and express themselves in different ways.&nbsp;</p>
 <p></p>
 <p>* Support for every learner – Lessons are tailored to meet different learning
 needs, ensuring each child is supported to progress at their own pace.&nbsp;</p>
+<p></p>
