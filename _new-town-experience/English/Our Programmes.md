@@ -15,7 +15,8 @@ third_nav_title: English
 </p>
 <p><strong><a href="/reading-circles-p4-to-p6/" rel="noopener nofollow" target="_blank">Reading Circles (P4 to P6)</a></strong>
 </p>
-<p></p>
+<p><strong><a href="/learning-support-programme-lsp-p1-to-p2/" rel="noopener nofollow" target="_blank">Learning Support Programme (LSP) (P1 to P2)</a></strong>
+</p>
 <p><strong>Learning Support Programme (LSP) (P1 to P2)</strong>
 </p>
 <p>This is an MOE intervention programme led by specially trained teachers
