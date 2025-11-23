@@ -15,16 +15,7 @@ third_nav_title: English
 </p>
 <p><strong><a href="/reading-circles-p4-to-p6/" rel="noopener nofollow" target="_blank">Reading Circles (P4 to P6)</a></strong>
 </p>
-<p><strong>Reading Circles (P4 to P5)</strong>
-</p>
-<p>Our Reading Circles give high-progress learners the chance to enjoy literature
-more deeply. Through guided discussions, they explore interesting stories,
-notice how good writers use language, and reflect on the values and themes
-within the texts. This not only sharpens their language skills but also
-nurtures a love for reading and thoughtful conversations.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_Circles.jpg">
-</div>
+<p></p>
 <p><strong>Learning Support Programme (LSP) (P1 to P2)</strong>
 </p>
 <p>This is an MOE intervention programme led by specially trained teachers
