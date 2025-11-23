@@ -22,13 +22,6 @@ third_nav_title: English
 <p><strong><a href="/school-based-dyslexia-remediation-programme-sdr-p3-to-p4/" rel="noopener nofollow" target="_blank">School Based Dyslexia Remediation Programme (SDR) (P3 to P4)</a></strong>
 </p>
 <p></p>
-<p><strong>School-based Dyslexia Remediation Programme (SDR) (P3 to P4)&nbsp;</strong>
-</p>
-<p>The SDR programme provides targeted support for students with dyslexia,
-helping them strengthen their reading, spelling, and comprehension skills.
-Conducted <strong>three times a week for one hour each session</strong>,
-the lessons equip students with strategies to learn more effectively and
-build confidence in using English.</p>
 <p><strong>Reading Remediation Programme (RRP) (P3 to P5)</strong>&nbsp;</p>
 <p>The RRP supports students who experience challenges in reading and understanding
 texts. Conducted <strong>twice a week for one hour each session</strong>,
