@@ -137,43 +137,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Care Centre</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Commit Learning Schoolhouse Pte Ltd</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8014 4298
-<br>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>admission_cls_ntps@commitlearning.com.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Student Dental Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
