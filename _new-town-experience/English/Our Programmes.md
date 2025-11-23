@@ -21,7 +21,8 @@ third_nav_title: English
 </p>
 <p><strong><a href="/school-based-dyslexia-remediation-programme-sdr-p3-to-p4/" rel="noopener nofollow" target="_blank">School Based Dyslexia Remediation Programme (SDR) (P3 to P4)</a></strong>
 </p>
-<p></p>
+<p><strong><a href="/reading-remediation-programme-rrp-p3-to-p5/" rel="noopener nofollow" target="_blank">Reading Remediation Programme (RRP) (P3 to P5)</a></strong>
+</p>
 <p><strong>Reading Remediation Programme (RRP) (P3 to P5)</strong>&nbsp;</p>
 <p>The RRP supports students who experience challenges in reading and understanding
 texts. Conducted <strong>twice a week for one hour each session</strong>,
