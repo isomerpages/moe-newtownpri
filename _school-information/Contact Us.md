@@ -62,8 +62,8 @@ variant: tiptap
 <p>Operating hours during school term</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon to Fri: 9:00 am - 3:00 pm</p>
-<p>(Closed during lunch hours 11:30 am - 12:30 pm)</p>
+<p>Mon to Fri: 9.00 am - 3.00 pm</p>
+<p>(Closed during lunch hours 11.30 am - 12.30 pm)</p>
 </td>
 </tr>
 </tbody>
@@ -124,8 +124,8 @@ variant: tiptap
 <p>Operating hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon to Fri: 9:00 am - 6:00 pm</p>
-<p>Sat: 9:00 am to 1:00 pm</p>
+<p>Mon to Fri: 9.00 am - 6.00 pm</p>
+<p>Sat: 9.00 am to 1.00 pm</p>
 <p>Sun / Public Holiday: Closed</p>
 <p></p>
 </td>
@@ -211,8 +211,8 @@ variant: tiptap
 <p>Monday - Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8:00 am to 5:30 pm</p>
-<p>(Closed during lunch hours 12:30 pm - 1:30 pm)</p>
+<p>8.00 am to 5.30 pm</p>
+<p>(Closed during lunch hours 12.30 pm - 1.30 pm)</p>
 </td>
 </tr>
 </tbody>
@@ -238,7 +238,7 @@ closure can contact any of the "buddy clinics" below for assistance.</p>
 <p>310 Margaret Drive, Singapore 149303</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64740633</p>
+<p>8909 2160</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +249,7 @@ closure can contact any of the "buddy clinics" below for assistance.</p>
 <p>1 Bukit Teresa Rd, Singapore 099757</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>62757391</p>
+<p>8764 7293</p>
 </td>
 </tr>
 </tbody>
