@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Science
 ---
-<p><strong>Our Programmes&nbsp;</strong>
+<p><strong><a href="/new-town-experience/science/experiential-learning/" rel="noopener nofollow" target="_blank">Experiential Learning</a></strong>
 </p>
 <p></p>
-<p>Experiential Learning</p>
 <p>Excellence 2000 (E2K) Science Programme (P4 to P5)</p>
 <p>Competitions</p>
