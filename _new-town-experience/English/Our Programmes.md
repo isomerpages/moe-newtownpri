@@ -11,25 +11,9 @@ third_nav_title: English
 </p>
 <p><strong><a href="/extended-reading-programme/" rel="noopener nofollow" target="_blank">Extended Reading Programme</a></strong>
 </p>
-<p></p>
-<p><strong>Writing Programme (P1 to P6)&nbsp;</strong>
+<p><strong><a href="/writing-programme-p1-to-p6/" rel="noopener nofollow" target="_blank">Writing Programme (P1 to P6)</a></strong>
 </p>
-<p>Students at New Town Primary learn to create a wide variety of texts to
-communicate meaning clearly and effectively. They write <strong>procedural texts</strong> such
-as recipes and instructions, craft <strong>letters for different audiences</strong>,
-and develop <strong>narratives</strong> to express ideas and stories. They
-also learn to design <strong>visual texts</strong>, such as digital posters,
-to communicate messages creatively. To nurture creativity and confidence,
-we encourage <strong>freewriting</strong> activities like journals and quick
-writes, giving students the freedom to use English spontaneously and with
-enjoyment.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Writing_1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Writing_2.jpg">
-</div>
 <p><strong>Reading Circles (P4 to P5)</strong>
 </p>
 <p>Our Reading Circles give high-progress learners the chance to enjoy literature
