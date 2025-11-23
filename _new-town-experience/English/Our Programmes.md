@@ -17,7 +17,8 @@ third_nav_title: English
 </p>
 <p><strong><a href="/learning-support-programme-lsp-p1-to-p2/" rel="noopener nofollow" target="_blank">Learning Support Programme (LSP) (P1 to P2)</a></strong>
 </p>
-<p></p>
+<p><strong><a href="/kidsread-p1-to-p2/" rel="noopener nofollow" target="_blank">kidsREAD (P1 to P2)</a></strong>
+</p>
 <p><strong>kidsREAD (P1 to P2)</strong>
 </p>
 <p>Held once a week on Wednesday afternoons, <strong>kidsREAD</strong> is supported
