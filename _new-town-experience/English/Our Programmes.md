@@ -9,7 +9,8 @@ third_nav_title: English
 </p>
 <p><strong><a href="/outdoor-learning-experience-ole-p1-to-p4/" rel="noopener nofollow" target="_blank">Outdoor Learning Experience (OLE) (P1 to P4)</a></strong>
 </p>
-<p></p>
+<p><strong><a href="/extended-reading-programme/" rel="noopener nofollow" target="_blank">Extended Reading Programme</a></strong>
+</p>
 <p><strong>Extended Reading Programme&nbsp;</strong>
 </p>
 <p>At New Town Primary, we believe that reading should be both meaningful
