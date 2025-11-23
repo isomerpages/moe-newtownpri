@@ -2,6 +2,7 @@ collections:
   new-town-experience:
     output: true
     order:
+      - English/Writing Programme (P1 to P6).md
       - English/Extended Reading Programme.md
       - English/.keep
       - English/Our Goals.md
