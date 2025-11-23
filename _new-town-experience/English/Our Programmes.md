@@ -23,4 +23,3 @@ third_nav_title: English
 </p>
 <p><strong><a href="/reading-remediation-programme-rrp-p3-to-p5/" rel="noopener nofollow" target="_blank">Reading Remediation Programme (RRP) (P3 to P5)</a></strong>
 </p>
-<p>students manage their learning more effectively in class.</p>
