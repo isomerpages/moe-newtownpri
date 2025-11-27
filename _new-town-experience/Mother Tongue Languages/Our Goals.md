@@ -34,7 +34,7 @@ multi-racial society.&nbsp;&nbsp;</p>
 <p><strong>3. Connect</strong>&nbsp;</p>
 <ul>
 <li>
-<p>Strength meaningful connections to heritage and community.&nbsp;&nbsp;</p>
+<p>Strengthen meaningful connections to heritage and community.</p>
 </li>
 </ul>
 <ul>
