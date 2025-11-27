@@ -46,7 +46,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>For more details, refer to the CLS SCC Introductory Letter and FAQ click
-<a href="https://drive.google.com/drive/folders/1AVOtNrWva1kCDgUJ-K9YxIYlktHX_xoo?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u>
-</a>
-</p>
+<p>For more details, click <a href="https://drive.google.com/drive/folders/1AVOtNrWva1kCDgUJ-K9YxIYlktHX_xoo?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+refer to the CLS SCC Introductory Letter and FAQ.</p>
