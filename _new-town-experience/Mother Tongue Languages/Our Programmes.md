@@ -11,4 +11,5 @@ third_nav_title: Mother Tongue Languages
 </p>
 <p><strong><a href="/new-town-experience/mother-tongue/conversational-chinese-and-malay-ccm/" rel="noopener nofollow" target="_blank">Conversational Chinese and Malay (CCM)</a></strong>
 </p>
-<p></p>
+<p><strong><a href="/new-town-experience/mother-tongue/cultural-performance-exposure/" rel="noopener nofollow" target="_blank">Cultural Performance Exposure</a></strong>
+</p>
