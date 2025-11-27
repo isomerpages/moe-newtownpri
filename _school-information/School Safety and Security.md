@@ -4,10 +4,8 @@ permalink: /school-information/school-safety-and-security/
 description: ""
 variant: tiptap
 ---
-<p><strong>School Safety and Security</strong>
-</p>
-<p><strong>ARRIVAL AND DISMISSAL</strong>
-</p>
+<h3><strong>School Safety and Security</strong></h3>
+<h4><strong>Arrival and Dismissal</strong></h4>
 <p>Parents should not alight their children outside the school gate near
 the pedestrian crossing to avoid traffic congestion along Tanglin Halt
 Road.<strong> </strong>This also poses a danger to students using the pedestrian
@@ -21,15 +19,13 @@ crossing from cars negotiating around your parked cars.</p>
 </div>
 <p><a href="https://www.streetdirectory.com/sg/new-town/300-tanglin-halt-road-148812/36131_144214.html" rel="noopener noreferrer nofollow" target="_blank">https://www.streetdirectory.com/sg/new-town/300-tanglin-halt-road-148812/36131_144214.html</a>
 </p>
-<p><strong>Safe Routes to School</strong>
-</p>
+<h4><strong>Safe Routes to School</strong></h4>
 <p>Students who take the public transport to school are encouraged to use
 the following identified safe walking routes as shown in the map below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://lh4.googleusercontent.com/_H9Rx1AEnhYMkzXE4gh1c8fRbmXeNrqNpOxFXzHYVKCM8udy-OZDFU7Tml99IY54guF28Ktm1iRAgrN5bTt8Hyfz1qSQD-ofJj6r9eOgOvcQa-t5i9ymErUfSoy_K_FCmRtcYy0zJAWjJDnttM0oQ-B89P2oG-KTRyzw2Dv1LGxUPRT44rJEyIkvfOgDNw">
 </div>
-<p><strong>School Visitation Policy</strong>
-</p>
+<h4><strong>School Visitation Policy</strong></h4>
 <p>All visitors (including parents/guardians) are to enter the school at
 the Main Gate (Gate 1) and register at the Security Counter. Security Passes
 will be issued, which have to be prominently displayed at all times while
