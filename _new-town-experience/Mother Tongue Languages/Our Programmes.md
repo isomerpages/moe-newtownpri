@@ -7,4 +7,5 @@ third_nav_title: Mother Tongue Languages
 ---
 <p><strong><a href="/new-town-experience/mother-tongue/mother-tongue-language-fortnight-and-cultural-camp-for-p3/" rel="noopener nofollow" target="_blank">Mother Tongue Language Fortnight and Cultural Camp for P3</a></strong>
 </p>
-<p></p>
+<p><a href="/new-town-experience/mother-tongue/guided-reading-programme/" rel="noopener nofollow" target="_blank">Guided Reading Programme</a>
+</p>
