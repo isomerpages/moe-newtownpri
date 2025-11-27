@@ -36,3 +36,8 @@ ways.&nbsp;</p>
 <p><strong>Support for every learner</strong> – Lessons are tailored to meet
 different learning needs, ensuring each child is supported to progress
 at their own pace.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_4.jpg">
+</div>
+<p></p>
