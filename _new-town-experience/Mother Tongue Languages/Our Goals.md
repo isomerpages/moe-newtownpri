@@ -1,0 +1,14 @@
+---
+title: Our Goals
+permalink: /departments/mothertongue/our-goals/
+variant: tiptap
+description: ""
+third_nav_title: Mother Tongue Languages
+---
+<p>To provide opportunities that allow students to engage in active listening,
+reading and viewing to enrich the language learning experience.&nbsp;</p>
+<p></p>
+<p>To provide experiences that allow students to communicate effectively
+through speaking, writing and representing to promote confidence in using
+the English language.&nbsp;</p>
+<p></p>
