@@ -13,5 +13,5 @@ third_nav_title: Mother Tongue Languages
 </p>
 <p><strong><a href="/new-town-experience/mother-tongue/cultural-performance-exposure/" rel="noopener nofollow" target="_blank">Cultural Performance Exposure</a></strong>
 </p>
-<p><a href="/new-town-experience/mother-tongue/festive-celebrations/" rel="noopener nofollow" target="_blank">Festive Celebrations</a>
+<p><strong><a href="/new-town-experience/mother-tongue/festive-celebrations/" rel="noopener nofollow" target="_blank">Festive Celebrations</a></strong>
 </p>
