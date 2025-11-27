@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 <h3>Contact Information</h3>
 <p><strong>General Office</strong>
-<br>Operating Hours: 7.30 am-5.00 pm
+<br>Operating Hours: 7.30 am - 5.00 pm
 <br>
 </p>
 <p>Tel : 6474 8805
@@ -125,7 +125,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon to Fri: 9.00 am - 6.00 pm</p>
-<p>Sat: 9.00 am to 1.00 pm</p>
+<p>Sat: 9.00 am - 1.00 pm</p>
 <p>Sun / Public Holiday: Closed</p>
 <p></p>
 </td>
@@ -174,7 +174,7 @@ variant: tiptap
 <p>Monday - Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.00 am to 5.30 pm</p>
+<p>8.00 am - 5.30 pm</p>
 <p>(Closed during lunch hours 12.30 pm - 1.30 pm)</p>
 </td>
 </tr>
@@ -184,7 +184,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;Students who require emergency dental treatment, in case of clinic
+<p>&nbsp;Students who require emergency dental treatment in case of clinic
 closure can contact any of the "buddy clinics" below for assistance.</p>
 <table style="minWidth: 75px">
 <colgroup>
