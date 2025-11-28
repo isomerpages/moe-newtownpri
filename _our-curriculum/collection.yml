@@ -2,8 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Our Goals and Approach/Art and Music.md
-      - Our Goals and Approach/.keep
       - English/.keep
       - English/Our Goals and Approach.md
       - English/STELLAR (P1 to P6).md
