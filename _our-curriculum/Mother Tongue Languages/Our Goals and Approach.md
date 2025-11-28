@@ -45,7 +45,7 @@ multi-racial society.&nbsp;&nbsp;</p>
 <h3><strong>Our Approach</strong></h3>
 <ol>
 <li>
-<p>Our Mother Tongue Department is committed to a <strong>learning-centered</strong> approach
+<p>Our Mother Tongue Department is committed to a <strong>learner-centered</strong> approach
 to nurture confident and culturally rooted learners.&nbsp;&nbsp;</p>
 </li>
 </ol>
