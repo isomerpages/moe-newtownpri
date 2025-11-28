@@ -46,17 +46,13 @@ Teacher Time).&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>School start time&nbsp;</p>
 </td>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="4">
 <p>7.30 am&nbsp;</p>
-<p>(Hall)&nbsp;</p>
+<p>(Hall)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 am&nbsp;</p>
 <p>(Classroom)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 am&nbsp;</p>
-<p>(Hall)&nbsp;</p>
 </td>
 </tr>
 <tr>
