@@ -33,10 +33,13 @@ collections:
       - Science/Experiential Learning.md
       - Science/Excellence 2000 (E2K) Science Programme (P4 to P5).md
       - Science/Competitions.md
-      - School Programmes/.keep
-      - School Programmes/Applied Learning Programme (ALP).md
-      - School Programmes/Learning for Life Programme (LLP).md
-      - School Programmes/Catalyst Programme.md
+      - Physical Education/.keep
+      - Physical Education/Physical Education.md
+      - Physical Education/Sports Day (P1 to P3).md
+      - Physical Education/Sports Orama (P4 to P6).md
+      - Physical Education/Sports Education Programmes (P3 to P4).md
+      - Physical Education/Camp Endeavour (P5).md
+      - Physical Education/Camp GRIT (P6).md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/CCE Lessons.md
@@ -45,13 +48,10 @@ collections:
       - CCE/Everyday Responsibilities.md
       - CCE/A Caring and Enabling Environment.md
       - CCE/MOE Sexuality Education in Schools.md
-      - Physical Education/.keep
-      - Physical Education/Physical Education.md
-      - Physical Education/Sports Day (P1 to P3).md
-      - Physical Education/Sports Orama (P4 to P6).md
-      - Physical Education/Sports Education Programmes (P3 to P4).md
-      - Physical Education/Camp Endeavour (P5).md
-      - Physical Education/Camp GRIT (P6).md
+      - School Programmes/.keep
+      - School Programmes/Applied Learning Programme (ALP).md
+      - School Programmes/Learning for Life Programme (LLP).md
+      - School Programmes/Catalyst Programme.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Enrichment Modules (P3 to P5).md
