@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-<h2><strong>Mother Tongue Department Goals</strong></h2>
+<h2><strong>Goals</strong></h2>
 <p>Our department aims to nurture active learners and proficient users of
 their Mother Tongue Languages (MTL), who acquire communication skills to
 connect with others, and also to deepen their understanding of their culture.
