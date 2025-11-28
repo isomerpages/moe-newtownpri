@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Science
 variant: markdown
 ---
-
+### Our Goals
 In line with MOE’s Science Curriculum Framework, our goal is to provide students with a strong foundation in Science for life, learning, citizenry, and work.
 
 1.  Enthuse and nurture all students to be scientifically literate, so that they are able to make informed decisions and take responsible actions in their daily lives.
@@ -14,6 +14,7 @@ In line with MOE’s Science Curriculum Framework, our goal is to provide studen
 
 ![](/images/Science_Globe2.jpg)
 
+### Our Approach
 The New Town Science curriculum is represented by the three “IN”s – Inspire, Inquire and Innovate. 
 
 a. Inspired by Science - Students enjoy learning Science as they see how everyday phenomena have scientific connections which make Science relevant and meaningful. 
