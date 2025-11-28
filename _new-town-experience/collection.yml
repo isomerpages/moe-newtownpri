@@ -2,7 +2,6 @@ collections:
   new-town-experience:
     output: true
     order:
-      - Art and Music.md
       - English/.keep
       - English/Our Goals and Approach.md
       - English/STELLAR (P1 to P6).md
@@ -41,6 +40,7 @@ collections:
       - Physical and Health Education/Sports Education Programmes (P3 to P4).md
       - Physical and Health Education/Camp Endeavour (P5).md
       - Physical and Health Education/Camp GRIT (P6).md
+      - Art and Music.md
       - Character & Citizenship Educat/.keep
       - Character & Citizenship Educat/Character and Citizenship Education.md
       - Character & Citizenship Educat/CCE Lessons.md
