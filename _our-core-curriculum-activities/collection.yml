@@ -2,5 +2,5 @@ collections:
   our-core-curriculum-activities:
     output: true
     order:
-      - General CCA Information/.keep
       - CCA Goals and Offerings/.keep
+      - General CCA Information/.keep
