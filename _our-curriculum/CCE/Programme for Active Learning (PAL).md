@@ -3,9 +3,26 @@ title: Programme for Active Learning (PAL)
 permalink: /school-programmes/programme-for-active-learning-pal/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-**PAL Goals**  
+# PAL Goals
 
+*   To&nbsp;nurture in&nbsp;students a lively curiosity about the world around them.&nbsp;
+    
+
+*   To develop their ability to cooperate and work effectively with others.&nbsp;
+    
+
+*   To build their confidence and belief in their ability to&nbsp;accomplish&nbsp;tasks and overcome challenges.&nbsp;
+    
+
+# APPROACH&nbsp;
+
+The&nbsp;Programme&nbsp;for Active Learning (PAL) places strong emphasis on&nbsp;experiential learning, where children engage in hands-on, play-based, and exploratory activities rather than relying on textbook-driven instruction. Through PAL, students are given&nbsp;broad exposure in four main domains:&nbsp;Sports and Outdoor Education, which includes activities such as cooperative games, basic outdoor skills, and nature exploration; and&nbsp;Performing and Visual Arts, where students experience music, dance, and&nbsp;art-making.&nbsp;
+
+The focus in PAL is on the&nbsp;process rather than the product, with greater value placed on participation, exploration, and reflection instead of performance outcomes. Learning is also&nbsp;integrated, as activities are thoughtfully designed to nurture values, teamwork, communication, and problem-solving skills. All of this takes place in a&nbsp;safe and supportive environment, where teachers act as facilitators, encouraging students to take risks, explore with curiosity, and build resilience.&nbsp;
+
+To help students discover new interests, develop character and enable them to cultivate social-emotional competencies, hands-on and experiential activities in the domains of Sports and Games, Outdoor Education, and Visual and Performing Arts are designed for students to reflect upon theirs and their peers’ experiences at the end of each lesson.
 Programme for Active Learning (PAL) is offered to Primary 1 and 2 students to develop in them
 * dispositions such as having a lively curiosity about the world they live in,
 * the ability to cooperate with others, and 
