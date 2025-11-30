@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE
 variant: markdown
 ---
-# PAL Goals
+### Our Goals
 
 *   To&nbsp;nurture in&nbsp;students a lively curiosity about the world around them.&nbsp;
     
@@ -16,7 +16,7 @@ variant: markdown
 *   To build their confidence and belief in their ability to&nbsp;accomplish&nbsp;tasks and overcome challenges.&nbsp;
     
 
-# APPROACH&nbsp;
+### Our Approach
 
 The&nbsp;Programme&nbsp;for Active Learning (PAL) places strong emphasis on&nbsp;experiential learning, where children engage in hands-on, play-based, and exploratory activities rather than relying on textbook-driven instruction. Through PAL, students are given&nbsp;broad exposure in four main domains:&nbsp;Sports and Outdoor Education, which includes activities such as cooperative games, basic outdoor skills, and nature exploration; and&nbsp;Performing and Visual Arts, where students experience music, dance, and&nbsp;art-making.&nbsp;
 
