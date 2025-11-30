@@ -94,7 +94,7 @@ opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
 <hr>
-<p><strong>At New Town Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At New Town Primary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
