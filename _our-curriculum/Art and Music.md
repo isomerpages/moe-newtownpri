@@ -42,7 +42,7 @@ cultural heritage, and respect global diversity.&nbsp;</p>
 </ol>
 <ol start="6">
 <li>
-<p><strong>Promote lifelong appreciation of art</strong> – Instil enjoyment
+<p><strong>Promote lifelong appreciation of art</strong> – Instill enjoyment
 of art and engagement with artworks across local and global contexts.&nbsp;</p>
 </li>
 </ol>
