@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - CCA Goals and Offerings/.keep
-      - CCA Goals and Offerings.md
       - General CCA Information.md
