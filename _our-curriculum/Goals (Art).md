@@ -4,3 +4,4 @@ permalink: /goals-art/
 variant: tiptap
 description: ""
 ---
+<p></p>
