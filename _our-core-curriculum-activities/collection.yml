@@ -1,4 +1,5 @@
 collections:
   our-core-curriculum-activities:
     output: true
-    order: []
+    order:
+      - CCA Goals and Offerings.md
