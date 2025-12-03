@@ -107,7 +107,7 @@ variant: tiptap
 <p>HOD / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koo Hue Ling</p>
+<p>Ms Koo Hue Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koo_hue_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koo_hue_ling@schools.gov.sg</a>
