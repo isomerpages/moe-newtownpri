@@ -260,6 +260,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH / Science (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sum Shuyi Jessica</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sum_shuyi_jessica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sum_shuyi_jessica@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH / Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
