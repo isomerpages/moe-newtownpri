@@ -81,24 +81,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Khoo Ri Zhen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>khoo_ri_zhen@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD / English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Serene Lee</p>
+<p>Ms Sofia Gita Parkash</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_shiwei@schools.gov.sg</p>
+<p><a href="mailto:sofia_gita_parkash@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sofia_gita_parkash@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
