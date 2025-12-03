@@ -93,6 +93,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chua Siao Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_siao_wen@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD / ICT</p>
 <p>HOD/Science (covering)</p>
 </td>
