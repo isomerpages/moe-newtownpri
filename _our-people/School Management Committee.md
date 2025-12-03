@@ -139,28 +139,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chua Siao Wen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_siao_wen@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD / Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Teh Sok Fun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teh_sok_fun@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD / PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
