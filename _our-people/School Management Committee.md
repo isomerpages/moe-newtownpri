@@ -129,7 +129,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>HOD / ICT</p>
-<p>HOD/Science (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Yan Fen</p>
