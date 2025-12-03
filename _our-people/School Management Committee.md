@@ -195,7 +195,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>YH / Middle Pri</p>
-<p>(covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Mariam</p>
