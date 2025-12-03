@@ -161,7 +161,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / PE, CCA &amp; Aesthetics</p>
+<p>HOD / PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Vincent Heng</p>
@@ -172,7 +172,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Student Management</p>
+<p>HOD / SM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Poh Geok</p>
