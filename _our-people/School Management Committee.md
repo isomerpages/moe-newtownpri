@@ -284,6 +284,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH / Malay and Tamil&nbsp;Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Usharani Kuppusamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>usharani_kuppusamy@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH / Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
