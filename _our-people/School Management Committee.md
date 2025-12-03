@@ -330,50 +330,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Pearlie Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_xuan_li_pearlie@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH / CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Wang Jianbo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wang_jianbo@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH / TL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Usharani Kuppusamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>usharani_kuppusamy@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH / Pastoral Care &amp; Partnership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Caleb Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>caleb_tan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH / PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
