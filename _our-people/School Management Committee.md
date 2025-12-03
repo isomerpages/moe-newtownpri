@@ -307,6 +307,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH / Student Management &amp; Student Leadership (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Zhi Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_zhi_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_zhi_hao@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH / Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
