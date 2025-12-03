@@ -20,4 +20,3 @@ variant: markdown
 <iframe width="710" height="400" src="https://www.youtube.com/embed/GAjDgJrbyMg" title="Facilities in New Town Primary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **<font size="5">Highlights of 2025</font>**
-
