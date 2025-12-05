@@ -2,6 +2,7 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - Applied Learning Programme/Our Goals.md
       - Applied Learning Programme/.keep
       - Learning for Life Programmes/.keep
       - Educational Technology/.keep
