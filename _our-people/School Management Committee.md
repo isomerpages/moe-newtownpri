@@ -274,8 +274,7 @@ variant: tiptap
 <p>Mdm Tian Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tian_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tian_meng@schools.gov.sg</a>
-</p>
+<p>tian_meng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
