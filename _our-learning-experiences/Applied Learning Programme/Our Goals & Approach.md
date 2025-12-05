@@ -7,7 +7,6 @@ third_nav_title: Applied Learning Programme
 ---
 <h4><strong>Applied Learning Programme (ALP): Cultivating Cognitive Flexibility</strong>&nbsp;</h4>
 <p><em>The New Town ALP is currently undergoing review and will be refreshed for 2016. Read about our refreshed ALP below.</em>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Our Goal</strong>&nbsp;</p>
 <p>To develop cognitive flexibility, specifically in critical and adaptive
 thinking, in our students to enable them to solve complex problems&nbsp;</p>
