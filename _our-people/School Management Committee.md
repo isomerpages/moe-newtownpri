@@ -307,8 +307,7 @@ variant: tiptap
 <p>Mr Loh Zhi Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_zhi_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_zhi_hao@schools.gov.sg</a>
-</p>
+<p>loh_zhi_hao@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
