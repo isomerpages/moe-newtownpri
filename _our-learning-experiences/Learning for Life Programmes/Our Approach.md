@@ -44,7 +44,17 @@ and project management.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_StudentLeaders.jpg">
 </div>
-<p></p>
+<p>At school events, our student leaders host and organise activities, and
+play the important role of school ambassadors to share with visitors about
+our exciting New Town family experience. They also lead in student-initiated
+projects to raise awareness about community issues close to their hearts,
+and rally their peers to play an active role in making a positive impact
+on New Town and the community.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_StudentLeaders2.jpg">
+</div>
+<p><em>Tier 3: Elevating our Student Leaders</em>
+</p>
 <p></p>
 <p></p>
 <p>&nbsp;</p>
