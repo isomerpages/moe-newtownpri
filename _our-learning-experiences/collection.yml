@@ -2,5 +2,6 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - Educational Technology/.keep
       - Learning for Life Programmes/.keep
       - Applied Learning Programme/.keep
