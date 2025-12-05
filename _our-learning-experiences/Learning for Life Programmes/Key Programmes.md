@@ -5,19 +5,20 @@ variant: tiptap
 description: ""
 third_nav_title: Learning for Life Programmes
 ---
-<p>The ALP is integrated into the curriculum across all levels, ensuring
-a progressive and comprehensive learning experience. Students in the lower
-primary levels (Primary 1-3) are introduced to the foundational concepts
-of cognitive flexibility through engaging and age-appropriate activities.
-They learn to observe their surroundings, identify simple problems, and
-brainstorm creative solutions through play and hands-on projects. These
-initial experiences build their curiosity and empathy, which are crucial
-starting points for problem-solving.&nbsp;
-<br>&nbsp;
-<br>As students progress to the upper primary levels (Primary 4-6), the ALP
-deepens with more complex and authentic challenges. They will participate
-in projects that require them to apply cognitive flexibility to discuss
-real-world issues, either within the school or the wider community. These
-projects can involve collaboration with external partners, giving students
-the opportunity to impact an authentic audience.&nbsp;</p>
-<p>&nbsp;</p>
+<h4><strong><em>Emerging Student Leadership Programme</em></strong>&nbsp;</h4>
+<p>The Emerging Student Leadership Programme provides opportunities for student
+leader nominees to discover and grow their leadership potential through
+authentic experiences. Beginning with identification and nomination by
+teachers, our Prefect and PSL nominees embark on team-based activities
+such as the Leadership Quest, where they build teamwork, communication,
+and critical thinking skills while reflecting on the qualities of effective
+leaders. This is followed by the Leadership Shadow Programme, where nominees
+observe, support, and practise leadership responsibilities in real school
+settings. Through these experiences, student leader nominees gain confidence,
+resilience, and the readiness to take on formal leadership roles such as
+Prefects and Peer Support Leaders.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_StudentLeaders3.jpg">
+</div>
+<p></p>
