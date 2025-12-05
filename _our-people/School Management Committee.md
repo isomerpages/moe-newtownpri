@@ -263,8 +263,7 @@ variant: tiptap
 <p>Ms Sum Shuyi Jessica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sum_shuyi_jessica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sum_shuyi_jessica@schools.gov.sg</a>
-</p>
+<p>sum_shuyi_jessica@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
