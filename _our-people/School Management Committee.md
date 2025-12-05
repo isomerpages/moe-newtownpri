@@ -296,8 +296,7 @@ variant: tiptap
 <p>Mr Heah Yong Chian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:heah_yong_chian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heah_yong_chian@schools.gov.sg</a>
-</p>
+<p>heah_yong_chian@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
