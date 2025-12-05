@@ -2,8 +2,8 @@ collections:
   our-learning-experiences:
     output: true
     order:
-      - Catalyst Programme/.keep
-      - Learning Dispositions/.keep
-      - Educational Technology/.keep
-      - Learning for Life Programmes/.keep
       - Applied Learning Programme/.keep
+      - Learning for Life Programmes/.keep
+      - Educational Technology/.keep
+      - Learning Dispositions/.keep
+      - Catalyst Programme/.keep
