@@ -87,8 +87,7 @@ variant: tiptap
 <p>Ms Sofia Gita Parkash</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sofia_gita_parkash@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sofia_gita_parkash@schools.gov.sg</a>
-</p>
+<p>sofia_gita_parkash@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -110,8 +109,7 @@ variant: tiptap
 <p>Ms Koo Hue Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koo_hue_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koo_hue_ling@schools.gov.sg</a>
-</p>
+<p>koo_hue_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
