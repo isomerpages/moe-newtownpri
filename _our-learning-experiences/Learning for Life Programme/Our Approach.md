@@ -25,12 +25,12 @@ and the building of positive relationships with peers and teachers. These
 experiences provide an authentic platform for students to grow in confidence,
 practise respectful communication, and strengthen the bonds that support
 their leadership journey in the classroom and beyond.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_StudentLeaders3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_EmpoweringStudentLeaders.jpg">
 </div>
 <p><em>Tier 2: Empowering our Student Leaders</em>
 </p>
-<p></p>
 <p>At Tier 2, our New Towners are empowered to apply and practise their leadership
 skills through authentic platforms. As part of level-wide and cross-level
 activities, students step forward to take on greater leadership responsibilities,
