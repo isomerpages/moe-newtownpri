@@ -2,9 +2,9 @@ collections:
   our-learning-experiences:
     output: true
     order:
-      - Applied Learning Programme/Key Programmes.md
-      - Applied Learning Programme/Our Goals & Approach.md
       - Applied Learning Programme/.keep
+      - Applied Learning Programme/Our Goals & Approach.md
+      - Applied Learning Programme/Key Programmes.md
       - Learning for Life Programmes/.keep
       - Educational Technology/.keep
       - Learning Dispositions/.keep
