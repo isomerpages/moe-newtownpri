@@ -12,5 +12,8 @@ our students to discover and develop their unique strengths, interests
 and competencies through customised leadership platforms and opportunities
 for meaningful learning experiences, they will be able to make a positive
 difference at home, in school and the community.&nbsp;</p>
-<p>&nbsp;</p>
-<p><em>Tier 1: Equipping our Student Leaders</em>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_DesiredOutcomes_NTPSVision.jpg">
+</div>
+<p>&nbsp;<em>Tier 1: Equipping our Student Leaders</em>&nbsp;</p>
+<p></p>
