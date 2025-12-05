@@ -120,8 +120,7 @@ variant: tiptap
 <p>Mrs Tay Shu Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wee_shu_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_shu_yi@schools.gov.sg</a>
-</p>
+<p>wee_shu_yi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
