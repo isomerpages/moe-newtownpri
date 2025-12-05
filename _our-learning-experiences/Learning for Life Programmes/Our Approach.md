@@ -28,7 +28,7 @@ their leadership journey in the classroom and beyond.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_StudentLeaders3.jpg">
 </div>
-<p><em>Tier 2: Empowering our Student </em>
+<p><em>Tier 2: Empowering our Student</em>
 </p>
 <p></p>
 <p>At Tier 2, our New Towners are empowered to apply and practise their leadership
@@ -40,4 +40,12 @@ to serve in meaningful ways across the school community.&nbsp;</p>
 <p>To equip our Prefects, Peer Support Leaders (PSLs) and CCA Leaders with
 the skills and leadership competencies to develop them in their leadership
 roles, they attend various training workshops on peer support, public speaking
-and project management.&nbsp;<em>Leaders</em>&nbsp;</p>
+and project management.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_StudentLeaders.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p>&nbsp;</p>
+<p></p>
