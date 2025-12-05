@@ -55,7 +55,20 @@ on New Town and the community.&nbsp;</p>
 </div>
 <p><em>Tier 3: Elevating our Student Leaders</em>
 </p>
-<p></p>
+<p>The focus at Tier 3 is to elevate our student leaders by nurturing the
+Student Leaders Executive Committee (EXCO) into confident role models of
+service and integrity. The EXCO members play the important role of leading
+their peers in their respective committees and CCAs, while also mentoring
+junior leaders to grow in confidence and responsibility. Working closely
+under the guidance of the LLP teachers, they collaborate on student-initiated
+projects that raise awareness about community issues close to their hearts,
+and rally their peers to take purposeful action.&nbsp;</p>
+<p>Through these authentic leadership opportunities, the EXCO develops their
+capacity to influence positively, make responsible decisions, and strengthen
+their voice as changemakers. By leading the school in both day-to-day responsibilities
+and special projects, they inspire their fellow New Towners to step forward
+as leaders in their own right, embodying the school’s belief that every
+student can make a meaningful difference to New Town and the wider community.&nbsp;</p>
 <p></p>
 <p>&nbsp;</p>
 <p></p>
