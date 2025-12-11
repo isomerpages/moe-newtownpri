@@ -22,7 +22,6 @@ skills.&nbsp;</p>
 mind, guided by the <strong>EdTech Pedagogical Scaffold</strong>, featuring
 the use of SLS and various EdTech tools to develop thinking and collaboration
 skills, which are key to building curious, motivated and empathetic learners.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech_Masterplan2030_Diagram3n4combined.jpg">
 </div>
