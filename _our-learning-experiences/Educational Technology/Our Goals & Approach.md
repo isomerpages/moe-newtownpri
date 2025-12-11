@@ -15,5 +15,16 @@ we weave technology and e-Pedagogy into our teaching to create an environment
 that encourages active and collaborative learning, and facilitates student
 acquisition of e21CC, which includes digital literacy and technological
 skills.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech_Masterplan2030_Diagram1n2combined.jpg">
+</div>
+<p>Our EdTech lessons are designed with the <strong>Key Applications of Technology (KATs)</strong> in
+mind, guided by the <strong>EdTech Pedagogical Scaffold</strong>, featuring
+the use of SLS and various EdTech tools to develop thinking and collaboration
+skills, which are key to building curious, motivated and empathetic learners.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech_Masterplan2030_Diagram3n4combined.jpg">
+</div>
 <p></p>
 <p></p>
