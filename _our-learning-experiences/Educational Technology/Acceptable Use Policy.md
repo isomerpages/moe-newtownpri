@@ -11,7 +11,6 @@ third_nav_title: Educational Technology
 use of EdTech resources to help students understand how to use these resources
 safely and responsibly, in line with efforts to develop their digital literacies
 and growth as digitally responsible citizens.&nbsp;</p>
-<p>&nbsp;&nbsp;</p>
 <p>EdTech resources include the following, but are not limited to:&nbsp;</p>
 <ul>
 <li>
@@ -25,11 +24,9 @@ and&nbsp;&nbsp;</p>
 </li>
 </ul>
 <p>school internet networks.&nbsp;</p>
-<p>&nbsp;&nbsp;</p>
 <p>For more information, please refer to:&nbsp;</p>
 <p>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary)
 – <a href="https://go.gov.sg/cw-studentkitpri" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/cw-studentkitpri</u></a>&nbsp;</p>
-<p>&nbsp;&nbsp;</p>
 <p><strong>General</strong>&nbsp;</p>
 <ol>
 <li>
@@ -51,7 +48,6 @@ accessories due to poor handling or misuse and will bear the cost of repair
 or replacement.&nbsp;</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p><strong>Being a Responsible Digital Citizen</strong>&nbsp;</p>
 <ol start="4">
 <li>
@@ -98,7 +94,6 @@ others.&nbsp;</p>
 commercial activities (e.g. buying and selling of goods and services).&nbsp;</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p>Non-compliance with the above will lead to disciplinary action in accordance
 with the school’s discipline policy.&nbsp;</p>
 <p><strong>Respecting Copyright&nbsp;</strong>&nbsp;</p>
@@ -115,7 +110,6 @@ pictures, videos, music).&nbsp;</p>
 or illegal manner.&nbsp;</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p><strong>Using Artificial Intelligence (AI)</strong>&nbsp;</p>
 <ol start="9">
 <li>
@@ -136,9 +130,7 @@ own learning when using AI. Understand that students are ultimately short-changi
 themselves if students pass off other’s work as their own.&nbsp;</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p><strong>Staying Safe and Secure online</strong>&nbsp;</p>
-<p><strong>&nbsp;</strong>&nbsp;</p>
 <ol start="12">
 <li>
 <p>Students should report any incidents (e.g. unusual device behaviour or
@@ -163,7 +155,6 @@ including potential inaccuracies / fabricated responses, inherent biases
 and outdated information.&nbsp;</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p><strong>Digital Wellbeing and Balance</strong>&nbsp;</p>
 <ol start="15">
 <li>
