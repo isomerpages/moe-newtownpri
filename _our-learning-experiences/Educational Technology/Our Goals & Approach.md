@@ -15,5 +15,5 @@ we weave technology and e-Pedagogy into our teaching to create an environment
 that encourages active and collaborative learning, and facilitates student
 acquisition of e21CC, which includes digital literacy and technological
 skills.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p></p>
