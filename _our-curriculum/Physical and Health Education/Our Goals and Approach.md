@@ -81,15 +81,43 @@ way.&nbsp;</p>
 <p><strong>[PHOTO 3]</strong>&nbsp;</p>
 <p>&nbsp;</p>
 <h3>Our Approach</h3>
-<p>Physical Education (PE) in New Town Primary School emphasises movement.
-Movement is fundamental and essential to life, work and play. Movement
-competency facilitates participation in physical activities and allows
-individuals to derive pleasure and satisfaction from them. PE, therefore,
-builds students’ capacity to make responsible and informed choices towards
-sustaining a healthy lifestyle.</p>
-<p>New Towners learn fundamental movement skills which incorporate movement
-concepts. They develop efficiency, effectiveness and versatility in their
-performance as they practice and transfer skills across the seven learning
-areas of Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education,
-Physical Health and Fitness, and Swimming to become Competent, Confident
-and Values-Driven Movers.</p>
+<p>The <strong>Singapore Curriculum Philosophy</strong> and <strong>Singapore Teaching Practice</strong> shape
+learning, teaching, and assessment in Physical Education (PE). PE adopts
+an <strong>applied learning approach</strong>, helping students connect
+skills and concepts to authentic contexts, while fostering values and social-emotional
+competencies.&nbsp;</p>
+<p>Key lesson design considerations include:&nbsp;</p>
+<ul>
+<li>
+<p><strong>Experience</strong> – provide authentic opportunities to practise
+skills.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Collaboration</strong> – encourage co-construction of knowledge.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Inquiry</strong> – develop critical thinking and reflection.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Integration</strong> – connect content across topics for transferability.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Differentiation</strong> – cater to diverse learning needs.&nbsp;</p>
+</li>
+</ul>
+<p><strong>Assessment</strong> is integral, informing progress and engaging
+students in self-reflection. PE teachers, guided by the syllabus’ big ideas
+and purpose, implement a balanced school-based curriculum that supports
+students in achieving the goals of Physical Education.&nbsp;</p>
+<p><strong>[PHOTO 4]</strong>&nbsp;</p>
+<p><strong>[PHOTO 5]</strong>&nbsp;</p>
+<p><strong>[PHOTO 6]</strong>&nbsp;</p>
+<p>&nbsp;</p>
