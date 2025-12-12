@@ -79,7 +79,6 @@ way.&nbsp;</p>
 <p><strong>[PHOTO 1]</strong>&nbsp;</p>
 <p><strong>[PHOTO 2]</strong>&nbsp;</p>
 <p><strong>[PHOTO 3]</strong>&nbsp;</p>
-<p>&nbsp;</p>
 <h3>Our Approach</h3>
 <p>The <strong>Singapore Curriculum Philosophy</strong> and <strong>Singapore Teaching Practice</strong> shape
 learning, teaching, and assessment in Physical Education (PE). PE adopts
