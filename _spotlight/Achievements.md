@@ -29,13 +29,13 @@ and student leadership.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LUIZA OLIVEIRA SILVEIRA MILEO BRASIL</p>
+<p>TRAVIS TAN ING LIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6-5</p>
+<p>P6-3</p>
 </td>
 </tr>
 </tbody>
@@ -65,13 +65,13 @@ during his/her time in school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUR HUMAIRAH BINTE YOHANNEES</p>
+<p>SARUMATHI D/O SARAVANAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6-3</p>
+<p>P6-2</p>
 </td>
 </tr>
 </tbody>
