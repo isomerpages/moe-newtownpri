@@ -55,39 +55,33 @@ or replacement.&nbsp;</p>
 Students should not post online remarks that are&nbsp;&nbsp;</p>
 </li>
 </ol>
-<ol>
+<ul data-tight="true" class="tight">
 <li>
 <p>racially and/or religiously insensitive,&nbsp;</p>
 </li>
-</ol>
-<ol start="2">
 <li>
 <p>vulgar and/or offensive, or&nbsp;</p>
 </li>
-</ol>
-<ol start="3">
 <li>
 <p>hurtful to others.&nbsp;</p>
 </li>
-</ol>
+</ul>
 <ol start="5">
 <li>
 <p>Students should not use any devices to&nbsp;</p>
 </li>
 </ol>
-<ol>
+<ul data-tight="true" class="tight">
 <li>
 <p>store, modify, create or share content (e.g. documents, presentations,
 pictures and videos) that is inappropriate (e.g. indecent, pornographic,
 defamatory, hurtful to self or others).&nbsp;</p>
 </li>
-</ol>
-<ol start="2">
 <li>
 <p>make threats, cause harassment or embarrassment, impersonate or intimidate
 others.&nbsp;</p>
 </li>
-</ol>
+</ul>
 <ol start="6">
 <li>
 <p>Students should not use MOE/school-deployed ICT system accounts for any
