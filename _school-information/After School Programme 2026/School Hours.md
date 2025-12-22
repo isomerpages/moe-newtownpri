@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: After School Programme 2026
 ---
-<h3>School Hours</h3>
+<h3>Weekly Timetable</h3>
 <p></p>
 <p>All students are required to report to school by <strong>7.30 a.m. </strong>for
 the flag-raising ceremony. &nbsp;
