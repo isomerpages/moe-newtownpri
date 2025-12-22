@@ -6,8 +6,6 @@ variant: tiptap
 third_nav_title: After School Programme 2026
 ---
 <h3>Weekly Timetable</h3>
-<p></p>
-<p>&nbsp;</p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -18,79 +16,6 @@ third_nav_title: After School Programme 2026
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Monday</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Tuesday</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Wednesday</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Thursday</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Friday</strong>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School start time&nbsp;</p>
-</td>
-<td rowspan="1" colspan="4">
-<p>7.30 am&nbsp;</p>
-<p>(Hall)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 am&nbsp;</p>
-<p>(Classroom)&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dismissal Time&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.40 pm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.40 pm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.10 pm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.40 pm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.40 pm&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCA Start Time&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.40 am&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2.15 pm&nbsp;</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>CCA Dismissal Time&nbsp;</p>
