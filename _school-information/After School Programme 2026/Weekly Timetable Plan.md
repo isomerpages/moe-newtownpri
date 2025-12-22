@@ -7,11 +7,6 @@ third_nav_title: After School Programme 2026
 ---
 <h3>Weekly Timetable</h3>
 <p></p>
-<p>All students are required to report to school by <strong>7.30 a.m. </strong>for
-the flag-raising ceremony. &nbsp;
-<br>Students are strongly encouraged to be with their form classes by 7.15
-a.m. for Morning Programme (Reading Programme, Morning Connect and Form
-Teacher Time).&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <table style="minWidth: 150px">
 <colgroup>
