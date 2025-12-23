@@ -9,11 +9,11 @@ third_nav_title: Information for Parents
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="New_Town_Booklist_2026_Primary_1_final__10_07_" rel="noopener nofollow" target="_blank">Primary 1</a>
+</p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1WTNEfzPMYe-w0SAougfzfpgB95T8e_Hp/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
-</p>
+<p></p>
 </li>
 <li>
 <p><a href="https://drive.google.com/file/d/1ZRuXcW5NXkeLivrWktvuX7gui-3ACGIM/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
