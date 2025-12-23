@@ -9,7 +9,7 @@ third_nav_title: Information for Parents
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="New_Town_Booklist_2026_Primary_1_final__10_07_" rel="noopener nofollow" target="_blank">Primary 1</a>
+<p><a href="New_Town_Booklist_2026_Primary_1" rel="noopener nofollow" target="_blank">Primary 1</a>
 </p>
 </li>
 <li>
