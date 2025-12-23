@@ -79,4 +79,50 @@ school buses have left the school grounds (~20 min after dismissal time).&nbsp;<
 <p></p>
 <p><a href="https://www.streetdirectory.com/sg/new-town/300-tanglin-halt-road-148812/36131_144214.html" rel="noopener noreferrer nofollow" target="_blank">https://www.streetdirectory.com/sg/new-town/300-tanglin-halt-road-148812/36131_144214.html</a>
 </p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Opening Hours of Side Gates 2 &amp; 3</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mon to Fri</strong>&nbsp;</p>
+<p>(Morning)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.45 am to 7.30 am&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mon to Fri (except Wed) </strong>(Afternoon)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.30 pm to 2.10 pm&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wed </strong>(Afternoon)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 pm to 2.40 pm&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Fri </strong>(Afternoon)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.45 pm to 4.45 pm <strong>(Gate 3)</strong>&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
