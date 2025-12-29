@@ -5,4 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: English
 ---
-<p>Learning Support Programme (P1 - P2)</p>
+<h4>Learning Support Programme (P1 to P2)</h4>
+<p></p>
