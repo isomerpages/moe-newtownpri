@@ -5,5 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: English
 ---
-<h4>Learning Support Programme (P1 to P2)</h4>
+<h4>Learning Support Programme (LSP) (P1 to P2)</h4>
+<p>This is an MOE intervention programme led by specially trained teachers
+to support selected P1 and P2 students. Conducted in small groups of up
+to 10, lessons run for half an hour each day and focus on strengthening
+students’ English language skills in a supportive and encouraging environment.&nbsp;</p>
 <p></p>
