@@ -13,10 +13,7 @@ third_nav_title: Information for Parents
 </p>
 </li>
 <li>
-<p></p>
-</li>
-<li>
-<p><a href="https://sgmoe-my.sharepoint.com/:b:/r/personal/ng_weng_kuen_schools_gov_sg/Documents/04%20-%20Projects/2025/Website%20Refresh/Booklists/New%20Town%20Booklist%202026%20Primary%201.pdf?csf=1&amp;web=1&amp;e=SM324x" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
+<p><a href="https://drive.google.com/file/d/1_TOKjGCq9Ssfsf5lRTUz0SkIGuo4_Nj3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
 </p>
 </li>
 <li>
