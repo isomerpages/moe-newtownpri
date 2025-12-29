@@ -16,5 +16,6 @@ helping them strengthen their reading, spelling, and comprehension skills.
 Conducted <strong>three times a week for one hour each session</strong>,
 the lessons equip students with strategies to learn more effectively and
 build confidence in using English.</p>
+<h4>Reading Remediation Programme (RRP) (P3 to P5)</h4>
 <p></p>
 <p></p>
