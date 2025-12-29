@@ -17,11 +17,11 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p><a href="https://drive.google.com/file/d/1dSDOcIVzH5KVm0cnQ_BIc0Hc2Jm7y78c/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Waitlist (AY 2026)</a>
+<p><strong><a href="https://drive.google.com/file/d/1dSDOcIVzH5KVm0cnQ_BIc0Hc2Jm7y78c/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Waitlist (AY 2026)</a></strong>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1HZy-hCwlKBK7jEy8TtFX01gQ_ba6J2Og/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Withdrawal</a>
+<p><strong><a href="https://drive.google.com/file/d/1HZy-hCwlKBK7jEy8TtFX01gQ_ba6J2Og/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Withdrawal</a></strong>
 </p>
 </li>
 </ul>
