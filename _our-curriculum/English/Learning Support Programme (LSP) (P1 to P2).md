@@ -10,3 +10,5 @@ to support selected P1 and P2 students. Conducted in small groups of up
 to 10, lessons run for half an hour each day and focus on strengthening
 students’ English language skills in a supportive and encouraging environment.&nbsp;</p>
 <p></p>
+<h4>School based Dyslexia Remediation Programme (SDR) (P3 to P4)</h4>
+<p></p>
