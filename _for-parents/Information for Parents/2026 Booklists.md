@@ -9,7 +9,7 @@ third_nav_title: Information for Parents
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="New_Town_Booklist_2026_Primary_1" rel="noopener nofollow" target="_blank">Primary 1</a>
+<p><a href="https://drive.google.com/file/d/1WTNEfzPMYe-w0SAougfzfpgB95T8e_Hp/view?usp=drive_link" rel="noopener nofollow" target="_blank">Primary 1</a>
 </p>
 </li>
 <li>
@@ -17,19 +17,19 @@ third_nav_title: Information for Parents
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1zptaTJcUnIRIy58AiNOPigyuQsANjEyj/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
+<p><a href="https://drive.google.com/file/d/1E2jAgxYKOv6jIsE9hgd4eXCjIUyN1fhM/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1PuwijDLUVVwMA5lRkCVj5tmCwMgBsrVD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
+<p><a href="https://drive.google.com/file/d/10-rmJkmZXO-sXTkQTzrgbecwSFrl3TIn/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1W4hgGdrT57cesxvjJgmaKOyYCLJ3Zjmq/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a>
+<p><a href="https://drive.google.com/file/d/1sAJyxJreC3XrvV1qxVmO5O8yMqsElkdx/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/10OPYtisvu1n3gYFZU7F52uf2yG5M05fo/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
+<p><a href="https://drive.google.com/file/d/1VK_6mOmVcq6TEy3i1qW4Ee84nkBZRmHF/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
 </p>
 <p></p>
 </li>
