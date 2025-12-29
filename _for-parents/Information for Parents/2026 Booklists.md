@@ -9,7 +9,7 @@ third_nav_title: Information for Parents
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1WTNEfzPMYe-w0SAougfzfpgB95T8e_Hp/view?usp=drive_link" rel="noopener nofollow" target="_blank">Primary 1</a>
+<p><a href="https://drive.google.com/file/d/1FeMxmh1vDjls7WZ2VADARjPRfA2NPcdH/view?usp=drive_link" rel="noopener nofollow" target="_blank">Primary 1</a>
 </p>
 </li>
 <li>
