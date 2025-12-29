@@ -17,5 +17,8 @@ Conducted <strong>three times a week for one hour each session</strong>,
 the lessons equip students with strategies to learn more effectively and
 build confidence in using English.</p>
 <h4>Reading Remediation Programme (RRP) (P3 to P5)</h4>
-<p></p>
+<p>The RRP supports students who experience challenges in reading and understanding
+texts. Conducted <strong>twice a week for one hour each session</strong>,
+the lessons focus on teaching practical strategies to improve comprehension
+and help students manage their learning more effectively in class.</p>
 <p></p>
