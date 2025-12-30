@@ -107,17 +107,6 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Razak</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>abdul_razak_mohammed_noor@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Ayub Abdul Rahman Bahajjaj</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,17 +155,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nagappan_viehletchmi@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Neo Beng Hweh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>neo_beng_hweh@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
