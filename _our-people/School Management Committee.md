@@ -48,6 +48,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Trina Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>trina_pook_sim_nar@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
