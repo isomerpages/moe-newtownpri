@@ -29,6 +29,8 @@ variant: tiptap
 </div>
 <p><strong>2025 Open House</strong>
 </p>
+<p><a href="https://youtube.com/shorts/SJCUvxfNv7U?" rel="noopener nofollow" target="_blank">2025 Open House</a>
+</p>
 <p><a href="https://youtube.com/shorts/SJCUvxfNv7U?si=Qa9MsS9fnXhlNcZK" rel="noopener noreferrer nofollow" target="_blank">https://youtube.com/shorts/SJCUvxfNv7U?si=Qa9MsS9fnXhlNcZK</a>
 </p>
 <p><strong>Highlights of 2025</strong>
