@@ -76,9 +76,6 @@ way.&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>[PHOTO 1]</strong>&nbsp;</p>
-<p><strong>[PHOTO 2]</strong>&nbsp;</p>
-<p><strong>[PHOTO 3]</strong>&nbsp;</p>
 <h3>Our Approach</h3>
 <p>The <strong>Singapore Curriculum Philosophy</strong> and <strong>Singapore Teaching Practice</strong> shape
 learning, teaching, and assessment in Physical Education (PE). PE adopts
@@ -116,7 +113,4 @@ skills.&nbsp;</p>
 students in self-reflection. PE teachers, guided by the syllabus’ big ideas
 and purpose, implement a balanced school-based curriculum that supports
 students in achieving the goals of Physical Education.&nbsp;</p>
-<p><strong>[PHOTO 4]</strong>&nbsp;</p>
-<p><strong>[PHOTO 5]</strong>&nbsp;</p>
-<p><strong>[PHOTO 6]</strong>&nbsp;</p>
 <p>&nbsp;</p>
