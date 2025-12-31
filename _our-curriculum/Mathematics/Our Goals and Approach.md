@@ -7,8 +7,7 @@ variant: markdown
 ---
 ### Our Goals
 
-A confident and effective problem solver in Mathematics
+Building a strong foundation in mathematical concepts and skills and developing thinking, reasoning, communication and application through a mathematical approach to problem solving
 
 ### Our Approach
 
-Building a strong foundation in mathematical concepts and skills and developing thinking, reasoning, communication and application through a mathematical approach to problem solving
