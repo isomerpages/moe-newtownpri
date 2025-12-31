@@ -2,6 +2,7 @@ collections:
   our-core-curriculum-activities:
     output: true
     order:
+      - CCA Goals and Offerings/Uniformed Groups.md
       - CCA Goals and Offerings/.keep
       - CCA Goals and Offerings/Our Goals.md
       - CCA Goals and Offerings/Clubs and Societies.md
