@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Get to Know Us!
 variant: tiptap
 ---
-<p><strong>School Videos</strong>
-</p>
+<h4><strong>School Videos</strong></h4>
 <p><strong>Highlights of 2025</strong>
 </p>
 <div class="iframe-wrapper">
