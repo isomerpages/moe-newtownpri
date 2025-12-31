@@ -11,12 +11,9 @@ variant: tiptap
 <br>Singapore 148812
 <br>
 </p>
-<p>Tel : 6474 8805
-<br>Fax : 6474 1249</p>
-<p></p>
 <h3>Contact Information</h3>
 <p><strong>General Office</strong>
-<br>Operating Hours: 7.30 am-5.00 pm
+<br>Operating Hours: 7.30 am - 5.00 pm
 <br>
 </p>
 <p>Tel : 6474 8805
@@ -24,8 +21,7 @@ variant: tiptap
 <br>Email : ntps@moe.edu.sg
 <br>
 </p>
-<p><strong>School Vendors and Services</strong>
-</p>
+<h3>School Vendors and Services</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -34,7 +30,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bookshop</p>
+<p>School Bookshop</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>The Continental Book Centre</strong>
@@ -50,7 +46,7 @@ variant: tiptap
 <p>Tel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>94759606</p>
+<p>9475 9606</p>
 </td>
 </tr>
 <tr>
@@ -63,52 +59,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Booklists</p>
+<p>Operating hours during school term</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1BLIe4MZeEKNukGxRO1nftaoi-tSZtnQH?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">link</a>
-</p>
+<p>Mon to Fri: 9.00 am - 3.00 pm</p>
+<p>(Closed during lunch hours 11.30 am - 12.30 pm)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Bus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sky Island Transport &amp; Trading</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>91884698
-<br>
-<br>90090569</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>skyisland96@hotmail.com</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +91,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>BB @ Henderson Road
 <br>213 Henderson Road, #01-12
-<br>Singaopre 159553</p>
+<br>Singapore 159553</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +99,7 @@ variant: tiptap
 <p>Tel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>67327022</p>
+<p>6271 9248</p>
 </td>
 </tr>
 <tr>
@@ -159,6 +119,17 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operating hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon to Fri: 9.00 am - 6.00 pm</p>
+<p>Sat: 9.00 am - 1.00 pm</p>
+<p>Sun / Public Holiday: Closed</p>
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -166,10 +137,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Care Centre</p>
+<p>Student Dental Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Commit Learning Schoolhouse Pte Ltd</strong>
+<p><strong>School Dental Clinic</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -182,44 +153,8 @@ variant: tiptap
 <p>Tel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80144298
-<br>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>clsnewtown@gmail.com</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dental Clinic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>School Dental Service (Health Promotion Board)</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64742380</p>
+<p>8764 9804</p>
+<p>(Please call or send a WhatsApp message to make an appointment)</p>
 </td>
 </tr>
 <tr>
@@ -236,19 +171,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday - Thursday</p>
+<p>Monday - Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.00 am - 12.30 pm</p>
-<p>1.30 pm - 5.30 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.30pm - 5.30 pm</p>
+<p>8.00 am - 5.30 pm</p>
+<p>(Closed during lunch hours 12.30 pm - 1.30 pm)</p>
 </td>
 </tr>
 </tbody>
@@ -257,8 +184,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;Students who require emergency dental treatment, in case of clinic
-closure can contract any of the "buddy clinics" below for assistance.</p>
+<p>&nbsp;Students who require emergency dental treatment in case of clinic
+closure can contact any of the "buddy clinics" below for assistance.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -268,35 +195,24 @@ closure can contract any of the "buddy clinics" below for assistance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fairfield Methodist School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>100 Dover Road S(139648)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>67731606</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Queenstown Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>310 Margaret Drive S(149303)</p>
+<p>310 Margaret Drive, Singapore 149303</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64740633</p>
+<p>8909 2160</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Radin Mas Primary School</p>
+<p>CHIJ Kellock Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Bukit Purmei Ave S(099840)</p>
+<p>1 Bukit Teresa Rd, Singapore 099757</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>62757391</p>
+<p>8764 7293</p>
 </td>
 </tr>
 </tbody>

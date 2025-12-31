@@ -1,17 +1,15 @@
 ---
 title: School Hours
-permalink: /school-information/school-hours/
-description: ""
+permalink: /school-hours/
 variant: tiptap
+description: ""
 ---
 <h3>School Hours</h3>
-<p></p>
-<p>All students are required to report to school by <strong>7.30 a.m. </strong>for
+<p>All students are required to report to school by <strong>7.30 am </strong>for
 the flag-raising ceremony. &nbsp;
 <br>Students are strongly encouraged to be with their form classes by 7.15
 a.m. for Morning Programme (Reading Programme, Morning Connect and Form
 Teacher Time).&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -46,17 +44,13 @@ Teacher Time).&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>School start time&nbsp;</p>
 </td>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="4">
 <p>7.30 am&nbsp;</p>
-<p>(Hall)&nbsp;</p>
+<p>(Hall)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 am&nbsp;</p>
 <p>(Classroom)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 am&nbsp;</p>
-<p>(Hall)&nbsp;</p>
 </td>
 </tr>
 <tr>

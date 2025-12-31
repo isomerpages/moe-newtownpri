@@ -9,10 +9,10 @@ variant: tiptap
 <h3>Mission <br></h3>
 <p>Nurturing passionate learners, strong in character.</p>
 <h3>Values <br></h3>
-<p>Resilience our Mindset
-<br>Integrity our Foundation
-<br>Service with a Heart
-<br>Excellence our Quest</p>
+<p>Resilience
+<br>Integrity
+<br>Service
+<br>Excellence</p>
 <h3>Motto</h3>
 <p>Ready to Serve</p>
 <p></p>

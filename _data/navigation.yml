@@ -6,8 +6,12 @@ links:
     collection: school-information
   - title: Our People
     collection: our-people
-  - title: New Town Experience
-    collection: new-town-experience
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our CCAs
+    collection: our-core-curriculum-activities
+  - title: Our Learning Experiences
+    collection: our-learning-experiences
   - title: Spotlight
     collection: spotlight
   - title: For Parents

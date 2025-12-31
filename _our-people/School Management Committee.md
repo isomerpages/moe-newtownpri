@@ -48,6 +48,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Trina Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>trina_pook_sim_nar@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,36 +92,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Khoo Ri Zhen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>khoo_ri_zhen@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD / English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Serene Lee</p>
+<p>Ms Sofia Gita Parkash</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_shiwei@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD / ICT</p>
-<p>HOD/Science (covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Yan Fen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_yan_fen@schools.gov.sg</p>
+<p>sofia_gita_parkash@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -129,15 +117,37 @@ variant: tiptap
 <p>HOD / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teh Sok Fun</p>
+<p>Ms Koo Hue Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teh_sok_fun@schools.gov.sg</p>
+<p>koo_hue_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / PE, CCA &amp; Aesthetics</p>
+<p>HOD / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tay Shu Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wee_shu_yi@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Yan Fen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_yan_fen@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Vincent Heng</p>
@@ -148,7 +158,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Student Management</p>
+<p>HOD / SM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Poh Geok</p>
@@ -193,10 +203,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>YH / Middle Pri</p>
-<p>(covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Mariam</p>
+<p>Mrs Syed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_mariam_mohd_yussof@schools.gov.sg</p>
@@ -259,40 +268,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / Aesthetics</p>
+<p>LH / Science (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Geraldine Lim</p>
+<p>Ms Sum Shuyi Jessica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_xin_hui_geraldine@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH / CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Pearlie Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_xuan_li_pearlie@schools.gov.sg</p>
+<p>sum_shuyi_jessica@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / CL</p>
+<p>SH / Chinese Language (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wang Jianbo</p>
+<p>Mdm Tian Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wang_jianbo@schools.gov.sg</p>
+<p>tian_meng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / TL</p>
+<p>SH / Malay and Tamil&nbsp;Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Usharani Kuppusamy</p>
@@ -303,13 +301,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / Pastoral Care &amp; Partnership</p>
+<p>SH / CCE (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Caleb Tan</p>
+<p>Mr Heah Yong Chian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>caleb_tan@schools.gov.sg</p>
+<p>heah_yong_chian@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Student Management &amp; Student Leadership (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Zhi Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loh_zhi_hao@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH / Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Geraldine Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_xin_hui_geraldine@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

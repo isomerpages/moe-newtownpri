@@ -4,7 +4,7 @@ permalink: /school-information/student-care-centre/
 description: ""
 variant: tiptap
 ---
-<h3>Student Care Centre Operator Details</h3>
+<h3>Operator Details</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -24,7 +24,7 @@ variant: tiptap
 <p>Name:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Commit Learning SchoolHouse Pte. Ltd.</p>
+<p>Commit Learning Schoolhouse Pte. Ltd.</p>
 </td>
 </tr>
 <tr>
@@ -41,10 +41,10 @@ variant: tiptap
 <p>Telephone:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80144298</p>
+<p>8014 4298</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>For more details, refer to the CLS SCC Introductory Letter and FAQ click
-<a href="https://drive.google.com/drive/folders/1AVOtNrWva1kCDgUJ-K9YxIYlktHX_xoo?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For more details, click <a href="https://drive.google.com/drive/folders/1AVOtNrWva1kCDgUJ-K9YxIYlktHX_xoo?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+refer to the CLS SCC Introductory Letter and FAQ.</p>

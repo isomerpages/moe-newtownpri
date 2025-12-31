@@ -90,14 +90,14 @@ to others.</p>
 <p>The school has zero-tolerance for the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>bullying in all forms (Physical/Social/Verbal/Cyber),</p>
+<p>bullying in all forms (Physical/Social/Verbal/Cyber)</p>
 </li>
 <li>
-<p>any form of defiance towards authority,</p>
+<p>any form of defiance towards authority</p>
 </li>
 <li>
 <p>gang-related activity (identified students will be referred to relevant
-authorities for investigation and follow up),</p>
+authorities for investigation and follow up)</p>
 </li>
 <li>
 <p>any activity that causes distress to others and/or brings disrepute to
