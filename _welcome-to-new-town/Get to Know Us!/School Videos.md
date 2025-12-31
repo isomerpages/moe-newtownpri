@@ -30,7 +30,7 @@ variant: tiptap
 <p><strong>Highlights of 2025</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="400" width="710" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=FLq8PwbZZS0"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8zh-xYTNKZM"></iframe>
 </div>
 <p><strong>Highlights of 2025</strong>
 </p>
