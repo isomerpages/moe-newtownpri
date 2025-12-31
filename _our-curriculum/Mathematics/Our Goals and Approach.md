@@ -11,6 +11,7 @@ Building a strong foundation in mathematical concepts and skills and developing 
 
 ### Our Approach
 
+##### **Inquiry-based learning in Mathematics**
 
 Inquiry-based learning in Mathematics is the development and attainment of Mathematics concepts and skills with a problem situation using an inquiry-oriented approach. Teachers lead and guide students to explore, investigate and sense-make on their own so that they can build new ideas and knowledge.
 
@@ -21,3 +22,4 @@ Being regularly immersed in an inquiry-based environment, students become natura
 
 ![](/images/Maths_SquaresnTriangles.jpg)
 *Students exploring the properties of squares and rectangles.*
+
