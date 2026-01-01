@@ -14,6 +14,6 @@ variant: tiptap
 <p><strong>Facilities in New Town Primary School</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="400" width="710" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GAjDgJrbyMg"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GAjDgJrbyMg"></iframe>
 </div>
 <p></p>
