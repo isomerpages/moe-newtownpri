@@ -810,10 +810,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wee Shu Yi</p>
+<p>Mrs Tay Shu Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wee_shyu_yi@schools.gov.sg</p>
+<p>wee_shu_yi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -832,7 +832,7 @@ variant: tiptap
 <p>P6-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nicole Ooi</p>
+<p>Mrs Nicole Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nicole_ooi_wei_lyn@schools.gov.sg</p>
