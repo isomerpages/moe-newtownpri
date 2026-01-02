@@ -16,4 +16,9 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GAjDgJrbyMg"></iframe>
 </div>
+<p><strong>60 Years of NTPS – Walking down the memory lane</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4elAjBVy_MA"></iframe>
+</div>
 <p></p>
