@@ -832,7 +832,7 @@ variant: tiptap
 <p>P6-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nicole Ooi</p>
+<p>Mrs Nicole Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nicole_ooi_wei_lyn@schools.gov.sg</p>
