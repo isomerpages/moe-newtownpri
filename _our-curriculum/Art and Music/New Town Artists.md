@@ -17,4 +17,7 @@ to art whilst inspiring other students to pursue their own creative journeys.&nb
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art and Music/New_Town_Artists_Pic1.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art and Music/New_Town_Artists_Pic2.jpg">
+</div>
 <p></p>
