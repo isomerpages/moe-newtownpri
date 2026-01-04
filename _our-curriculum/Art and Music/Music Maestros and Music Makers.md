@@ -25,4 +25,7 @@ student performers and audiences whilst celebrating musical talent.&nbsp;</p>
 <p>Music Makers focuses on hands-on creativity through DIY instrument-making
 activities. Participants learn to construct their own musical instruments,
 exploring the relationship between materials and design. This approach
-makes music accessible to all students regardless of prior musical aining.&nbsp;&nbsp;</p>
+makes music accessible to all students regardless of prior musical training.</p>
+<p></p>
+<p></p>
+<p></p>
