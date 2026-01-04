@@ -39,7 +39,7 @@ to develop an enduring interest, enjoyment, and participation in music
 beyond school.&nbsp;</p>
 </li>
 </ol>
-<h3>Our Approach (Art)</h3>
+<h3>Our Approach</h3>
 <ol>
 <li>
 <p><strong>Student-centered and inclusive</strong> – Based on the belief that
