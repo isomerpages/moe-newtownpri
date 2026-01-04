@@ -29,5 +29,6 @@ makes music accessible to all students regardless of prior musical training.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art and Music/Music_Maestros_and_Music_Makers_Pic4.jpg">
 </div>
-<p></p>
+<p>Together, these programmes offer diverse pathways for students to engage
+with music—whether through performance or creative construction.&nbsp;</p>
 <p></p>
