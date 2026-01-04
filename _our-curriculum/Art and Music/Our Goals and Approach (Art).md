@@ -5,94 +5,80 @@ variant: tiptap
 description: ""
 third_nav_title: Art and Music
 ---
-<h3>Our Goals (Art)</h3>
+<h3>Our Goals</h3>
 <ol>
 <li>
-<p><strong>Foster creativity and imagination</strong> – Nurture dispositions
-such as curiosity, openness, reflectiveness, and adaptability to prepare
-students for innovation.&nbsp;</p>
+<p><strong>Develop musical skills and understanding</strong> – Equip students
+with the ability to listen, sing, play, create, and perform music.&nbsp;</p>
 </li>
 </ol>
 <ol start="2">
 <li>
-<p><strong>Develop critical and inventive thinking</strong> – Cultivate the
-ability to observe closely, view from multiple perspectives, take risks,
-and persist in problem-solving.&nbsp;</p>
+<p><strong>Foster creativity and self-expression</strong> – Provide opportunities
+for students to communicate thoughts, ideas, and emotions through music.&nbsp;</p>
 </li>
 </ol>
 <ol start="3">
 <li>
-<p><strong>Build visual literacy and communication skills</strong> – Equip
-students to discern, interpret, and create meaning through visual media
-with confidence and skill.&nbsp;</p>
+<p><strong>Nurture cultural appreciation</strong> – Expose students to local
+and global music traditions to deepen their understanding of cultural diversity
+and heritage.&nbsp;</p>
 </li>
 </ol>
 <ol start="4">
 <li>
-<p><strong>Encourage self-expression and agency</strong> – Provide opportunities
-for students to express themselves authentically and develop confidence
-in their ideas.&nbsp;</p>
+<p><strong>Support holistic development</strong> – Build character, values,
+and social-emotional well-being through collaborative and expressive musical
+experiences.&nbsp;</p>
 </li>
 </ol>
 <ol start="5">
 <li>
-<p><strong>Strengthen identity and cultural appreciation</strong> – Help students
-understand themselves and their place in society, appreciate Singapore’s
-cultural heritage, and respect global diversity.&nbsp;</p>
-</li>
-</ol>
-<ol start="6">
-<li>
-<p><strong>Promote lifelong appreciation of art</strong> – Instill enjoyment
-of art and engagement with artworks across local and global contexts.&nbsp;</p>
+<p><strong>Encourage lifelong engagement with music</strong> – Inspire students
+to develop an enduring interest, enjoyment, and participation in music
+beyond school.&nbsp;</p>
 </li>
 </ol>
 <h3>Our Approach (Art)</h3>
 <ol>
 <li>
-<p><strong>Holistic and balanced</strong> – Address aesthetic, cognitive,
-and affective dimensions of learning through both making and responding
-to art.&nbsp;</p>
+<p><strong>Student-centered and inclusive</strong> – Based on the belief that
+every child is musical and capable of learning, with tailored experiences
+that allow each to grow at their own pace.&nbsp;</p>
 </li>
 </ol>
 <ol start="2">
 <li>
-<p><strong>Experiential and hands-on</strong> – Engage students in creating
-with varied media, tools, and methods, encouraging exploration and risk-taking.&nbsp;</p>
+<p><strong>Experiential learning</strong> – Students explore sounds and music
+through meaningful, hands-on experiences such as listening, performing,
+improvising, and creating.&nbsp;</p>
 </li>
 </ol>
 <ol start="3">
 <li>
-<p><strong>Visual communication and meaning-making</strong> – Develop skills
-in interpreting, creating, and sharing ideas through visual forms.&nbsp;</p>
+<p><strong>Multicultural and contextual</strong> – Introduce students to a
+wide range of music genres, styles, and traditions, including Singapore’s
+heritage and global cultures.&nbsp;</p>
 </li>
 </ol>
 <ol start="4">
 <li>
-<p><strong>Contextual and cultural</strong> – Incorporate local artworks,
-artists, and traditions while also connecting to global art forms to foster
-cultural literacy.&nbsp;</p>
+<p><strong>Integrated development</strong> – Link music learning to 21st Century
+Competencies (21CC) and values education to support whole-child growth.&nbsp;</p>
 </li>
 </ol>
 <ol start="5">
 <li>
-<p><strong>Discussion and reflection</strong> – Encourage conversations about
-art, allowing students to articulate their thoughts, evaluate ideas, and
-broaden perspectives.&nbsp;</p>
+<p><strong>Progressive and foundational</strong> – Provide structured opportunities
+that build from basic aural and expressive abilities towards deeper appreciation,
+skills, and possible future studies in music.&nbsp;</p>
 </li>
 </ol>
 <ol start="6">
 <li>
-<p><strong>Progressive and developmental</strong> – Build foundational skills
-in primary school that grow into more critical art discourse and critique
-in secondary school.&nbsp;</p>
-</li>
-</ol>
-<ol start="7">
-<li>
-<p><strong>Student-centred</strong> – Provide opportunities that connect art
-learning to students’ interests, talents, and lived experiences, nurturing
-ownership and enjoyment.&nbsp;</p>
+<p><strong>Community and identity building</strong> – Use music as a medium
+to foster social cohesion, strengthen cultural identities, and contribute
+to the national cultural tapestry.&nbsp;</p>
 </li>
 </ol>
 <p></p>
