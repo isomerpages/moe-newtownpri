@@ -14,7 +14,12 @@ student performers and audiences whilst celebrating musical talent.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art and Music/Music_Maestros_and_Music_Makers_Pic1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art and Music/Music_Maestros_and_Music_Makers_Pic2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art and Music/Music_Maestros_and_Music_Makers_Pic3.jpg">
 </div>
 <p></p>
