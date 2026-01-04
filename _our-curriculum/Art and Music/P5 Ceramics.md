@@ -28,3 +28,7 @@ expression.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art and Music/P5_Ceramics_Pic3.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art and Music/P5_Ceramics_Pic4.jpg">
+</div>
+<p></p>
