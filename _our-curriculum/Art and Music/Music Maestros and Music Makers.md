@@ -26,6 +26,8 @@ student performers and audiences whilst celebrating musical talent.&nbsp;</p>
 activities. Participants learn to construct their own musical instruments,
 exploring the relationship between materials and design. This approach
 makes music accessible to all students regardless of prior musical training.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art and Music/Music_Maestros_and_Music_Makers_Pic4.jpg">
+</div>
 <p></p>
 <p></p>
