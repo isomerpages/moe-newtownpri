@@ -13,6 +13,8 @@ artistic excellence and creativity.&nbsp;</p>
 confidence in presenting their artwork, and learn from their peers' diverse
 artistic interpretations and styles. It recognises and rewards dedication
 to art whilst inspiring other students to pursue their own creative journeys.&nbsp;&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art and Music/New_Town_Artists_Pic1.jpg">
+</div>
 <p></p>
 <p></p>
