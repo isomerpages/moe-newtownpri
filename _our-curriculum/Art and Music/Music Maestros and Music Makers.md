@@ -31,4 +31,3 @@ makes music accessible to all students regardless of prior musical training.</p>
 </div>
 <p>Together, these programmes offer diverse pathways for students to engage
 with music—whether through performance or creative construction.&nbsp;</p>
-<p></p>
