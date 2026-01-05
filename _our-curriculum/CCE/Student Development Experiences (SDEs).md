@@ -1,6 +1,6 @@
 ---
 title: Student Development Experiences (SDEs)
-permalink: /new-town-experience/CCE/Student-Development-Experiences/
+permalink: /our-curriculum/cce/student-development-experiences/
 description: ""
 third_nav_title: CCE
 variant: tiptap

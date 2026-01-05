@@ -1,6 +1,6 @@
 ---
 title: Our Goals and Approach
-permalink: /departments/english/our-goals/
+permalink: /our-curriculum/english/our-goals/
 variant: tiptap
 description: ""
 third_nav_title: English

@@ -1,6 +1,6 @@
 ---
 title: Learning Support Programme
-permalink: /learning-support-programme/
+permalink: /our-curriculum/english/learning-support-programme/
 variant: tiptap
 description: ""
 third_nav_title: English

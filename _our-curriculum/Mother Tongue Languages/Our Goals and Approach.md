@@ -1,6 +1,6 @@
 ---
 title: Our Goals and Approach
-permalink: /departments/mother-tongue/our-goals/
+permalink: /our-curriculum/mother-tongue/our-goals/
 variant: tiptap
 description: ""
 third_nav_title: Mother Tongue Languages

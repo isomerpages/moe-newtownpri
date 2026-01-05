@@ -1,6 +1,6 @@
 ---
 title: MOE Sexuality Education in Schools
-permalink: /new-town-experience/CCE/MOE-Sexuality-Education-in-Schools/
+permalink: /our-curriculum/cce/moe-sexuality-education-in-schools/
 description: ""
 third_nav_title: CCE
 variant: tiptap

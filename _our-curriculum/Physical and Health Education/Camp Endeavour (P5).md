@@ -1,8 +1,9 @@
 ---
 title: Camp Endeavour (P5)
-permalink: /new-town-experience/Physical-and-Health-Education/Camp-Endeavour/
+permalink: /our-curriculum/physical-education/camp-endeavour/
 description: ""
 third_nav_title: Physical and Health Education
+variant: tiptap
 ---
 **Camp Endeavour (P5)**
 

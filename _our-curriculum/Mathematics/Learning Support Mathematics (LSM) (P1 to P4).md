@@ -1,6 +1,6 @@
 ---
 title: Learning Support Mathematics (LSM) (P1 to P4)
-permalink: /new-town-experience/mathematics/lsm/
+permalink: /our-curriculum/mathematics/lsm/
 description: ""
 third_nav_title: Mathematics
 variant: markdown

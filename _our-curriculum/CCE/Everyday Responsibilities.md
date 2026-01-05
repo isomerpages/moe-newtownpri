@@ -1,6 +1,6 @@
 ---
 title: Everyday Responsibilities
-permalink: /new-town-experience/CCE/Everyday-Responsibilities/
+permalink: /our-curriculum/cce/everyday-responsibilities/
 description: ""
 third_nav_title: CCE
 variant: tiptap

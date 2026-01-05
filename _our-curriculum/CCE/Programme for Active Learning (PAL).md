@@ -1,6 +1,6 @@
 ---
 title: Programme for Active Learning (PAL)
-permalink: /school-programmes/programme-for-active-learning-pal/
+permalink: /our-curriculum/cce/programme-for-active-learning-pal/
 description: ""
 third_nav_title: CCE
 variant: markdown

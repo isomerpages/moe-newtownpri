@@ -1,6 +1,6 @@
 ---
 title: Our Goals and Approach
-permalink: /departments/mathematics/goals-approach/
+permalink: /our-curriculum/mathematics/goals-approach/
 description: ""
 third_nav_title: Mathematics
 variant: markdown

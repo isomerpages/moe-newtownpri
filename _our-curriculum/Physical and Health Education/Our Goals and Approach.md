@@ -1,6 +1,6 @@
 ---
 title: Our Goals and Approach
-permalink: /departments/physical-education/
+permalink: /our-curriculum/physical-education/
 description: ""
 third_nav_title: Physical and Health Education
 variant: tiptap

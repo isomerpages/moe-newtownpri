@@ -1,6 +1,6 @@
 ---
 title: Our Goals and Approach
-permalink: /departments/science/our-goals/
+permalink: /our-curriculum/science/our-goals/
 description: ""
 third_nav_title: Science
 variant: markdown

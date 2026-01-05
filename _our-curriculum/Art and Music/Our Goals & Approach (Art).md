@@ -1,11 +1,11 @@
 ---
-title: Our Goals and Approach (Art)
-permalink: /our-curriculum/art-music/goals-art/
+title: Our Goals & Approach (Art)
+permalink: /our-curriculum/art-music/our-goals-approach-art/
 variant: tiptap
 description: ""
 third_nav_title: Art and Music
 ---
-<h3>Our Goals (Art)</h3>
+<h3><strong>Our Goals</strong>&nbsp;</h3>
 <ol>
 <li>
 <p><strong>Foster creativity and imagination</strong> – Nurture dispositions
@@ -47,7 +47,7 @@ cultural heritage, and respect global diversity.&nbsp;</p>
 of art and engagement with artworks across local and global contexts.&nbsp;</p>
 </li>
 </ol>
-<h3>Our Approach (Art)</h3>
+<h3><strong>Our Approach</strong></h3>
 <ol>
 <li>
 <p><strong>Holistic and balanced</strong> – Address aesthetic, cognitive,

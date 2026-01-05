@@ -1,6 +1,6 @@
 ---
 title: Our Programmes
-permalink: /our-programmes/
+permalink: /our-curriculum/cce/our-programmes/
 variant: tiptap
 description: ""
 third_nav_title: CCE
