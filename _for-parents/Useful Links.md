@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/presentation/d/1Nzo22X_oQMfye38006C16IEXs6o-b8gO/edit?usp=drive_link&amp;ouid=110423328661912131843&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Student iCON Onboarding Guide</a>
+<p><a href="https://docs.google.com/presentation/d/1n7Pv1u-0TXwXip7x1a-LR_jM-HoXcx9M/edit?usp=drive_link&amp;ouid=103379996873492041441&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Student iCON Onboarding Guide</a>
 </p>
 </li>
 <li>
