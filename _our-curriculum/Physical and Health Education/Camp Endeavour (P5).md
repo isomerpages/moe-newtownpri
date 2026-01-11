@@ -18,24 +18,39 @@ teammates. Key to students’ learning is the reflection session at the end
 of each activity and the entire programme. During the reflection sessions,
 teachers facilitate a consolidation of the learning outcomes and a discussion
 on how students can apply the skills and values gained in life situations.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp%20Endeavor/Picture18.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp Endeavor/Camp_1_compressed.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp%20Endeavor/Picture19.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp Endeavor/Camp_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp%20Endeavor/Picture20.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp Endeavor/Camp_3.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp%20Endeavor/Picture21.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp Endeavor/Camp_4.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp%20Endeavor/Picture22.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp Endeavor/Camp_5.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp%20Endeavor/Picture23.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp Endeavor/Camp_6.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp Endeavor/Camp_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp Endeavor/Camp_8.jpg">
+</div>
+<p></p>
 <p>Forging camaraderie and stronger relationships amongst the classmates
 and form teachers through collaborative effort to complete a variety of
 adventurous outdoor living activities</p>
