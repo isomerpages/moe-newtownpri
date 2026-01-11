@@ -9,7 +9,6 @@ variant: tiptap
 <p>The purpose of Physical Education is to develop physically competent and
 confident individuals who enjoy a lifetime of active and healthy living
 safely and responsibly.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
 <p>The five goals below serve as a guide for the above purpose. Each goal
 is equally important and they interact with one another in a well-planned
 Physical Education curriculum that addresses the understanding, skills,
