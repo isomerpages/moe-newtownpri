@@ -125,4 +125,12 @@ students in achieving the goals of Physical Education.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Our_Goals_and_Approach___Photo_4.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Our_Goals_and_Approach___Photo_5_trimmed.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Our_Goals_and_Approach___Photo_6_trimmed.jpg">
+</div>
+<p></p>
 <p>&nbsp;</p>
