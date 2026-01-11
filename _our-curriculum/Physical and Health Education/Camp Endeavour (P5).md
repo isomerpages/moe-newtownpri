@@ -51,6 +51,10 @@ on how students can apply the skills and values gained in life situations.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp Endeavor/Camp_8.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Camp Endeavor/Camp_9.jpg">
+</div>
 <p>Forging camaraderie and stronger relationships amongst the classmates
 and form teachers through collaborative effort to complete a variety of
 adventurous outdoor living activities</p>
+<p></p>
