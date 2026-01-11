@@ -75,7 +75,16 @@ way.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Our_Goals_and_Approach___Photo_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Our_Goals_and_Approach___Photo_2_png.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Our_Goals_and_Approach___Photo_3.png">
+</div>
 <h3>Our Approach</h3>
 <p>The <strong>Singapore Curriculum Philosophy</strong> and <strong>Singapore Teaching Practice</strong> shape
 learning, teaching, and assessment in Physical Education (PE). PE adopts
