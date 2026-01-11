@@ -23,3 +23,7 @@ Sports Day is an event for all P1 to P3 students to showcase their learning duri
 ![](/images/PE/Sports%20Day/Sd_8__1_.jpg)
 
 ![](/images/PE/Sports%20Day/SD_9__1_.jpg)
+
+![](/images/PE/Sports%20Day/SD_10__1_.jpg)
+
+![](/images/PE/Sports%20Day/SD_12__1_.jpg)
