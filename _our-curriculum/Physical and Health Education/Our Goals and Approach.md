@@ -122,4 +122,7 @@ skills.&nbsp;</p>
 students in self-reflection. PE teachers, guided by the syllabus’ big ideas
 and purpose, implement a balanced school-based curriculum that supports
 students in achieving the goals of Physical Education.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Our_Goals_and_Approach___Photo_4.png">
+</div>
 <p>&nbsp;</p>
