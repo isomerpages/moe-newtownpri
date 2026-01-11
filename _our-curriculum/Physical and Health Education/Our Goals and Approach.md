@@ -74,7 +74,6 @@ way.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Our_Goals_and_Approach___Photo_1.png">
 </div>
