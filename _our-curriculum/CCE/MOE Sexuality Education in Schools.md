@@ -90,11 +90,10 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <p><strong>At New Town Primary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/MOE_Logo_1.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/CCE/MOE_Logo_1.png">
 </div>
-<blockquote>
-<p>2026 Sexuality Education Lessons in CCE</p>
-</blockquote>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
+</p>
 <h4><strong>Primary 5</strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
