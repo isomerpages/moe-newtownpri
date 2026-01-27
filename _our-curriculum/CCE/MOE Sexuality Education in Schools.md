@@ -35,16 +35,23 @@ are premised on the family as the basic unit of society.&nbsp;</p>
 </ul>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
-respect yourself as you love and respect others;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
-positive relationships based on love and respect (which are the foundation
-for strong families);</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
-decisions for yourself, your family and society; and</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
-before marriage is the best protection against STIs/HIV and unintended
-pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Love and respect yourself as you love and respect others;</p>
+</li>
+<li>
+<p>Build positive relationships based on love and respect (which are the
+foundation for strong families);</p>
+</li>
+<li>
+<p>Make responsible decisions for yourself, your family and society; and</p>
+</li>
+<li>
+<p>Abstinence before marriage is the best protection against STIs/HIV and
+unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.</p>
+</li>
+</ul>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <h4><strong>Overview of New Town Primary School’s Sexuality Education Programme for 2026</strong></h4>
@@ -179,57 +186,6 @@ and how to seek help for themselves and their friends.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 8</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Growing Years</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Changes in Me
-<br>(60 min)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students identify the emotions and stress
-caused by physical changes during puberty. Students will learn to describe
-the healthy ways to manage their negative feelings during this time. They
-will also learn to recognise that one’s identity need not be negatively
-affected, even when one’s body is experiencing changes due to puberty.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Did You Know?
-<br>(60 min)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students know what pornography is and how
-it can affect themselves and others. Students will learn about the dangers
-of being exposed to sexually explicit materials and reject the viewing
-and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
-</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
 </td>
 </tr>
 </tbody>
