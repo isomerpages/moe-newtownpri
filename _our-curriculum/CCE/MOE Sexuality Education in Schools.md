@@ -52,43 +52,37 @@ pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <h4><strong>Overview of New Town Primary School’s Sexuality Education Programme for 2025</strong></h4>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
-in a holistic manner through the school curriculum. The content for Sexuality
-Education is grouped into five main themes: Human Development, Interpersonal
-Relationships, Sexual Health, Sexual&nbsp;Behaviour,&nbsp;and,&nbsp;Culture,
-Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more information on the scope of Sexuality Education in the school curriculum.&nbsp;</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
+is delivered in a holistic manner through the school curriculum. The content
+for Sexuality Education is grouped into five main themes: Human Development,
+Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
+Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
+information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
-on sexuality include:&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Science&nbsp;</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Character and Citizenship Education (CCE)&nbsp;</p>
-</li>
-</ul>
-<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
+on sexuality include:</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
+(CCE)</p>
+<p><strong>Sexuality Education Lessons</strong>
+</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
 onset of puberty. With better nutrition and improved health care, children
-are reaching puberty at a younger age and&nbsp;have to&nbsp;grapple with
-physical,&nbsp;emotional&nbsp;and psychological changes in themselves.
-The implication is that our children are becoming biologically ready for
-sexual activity sooner without necessarily having the corresponding cognitive
-or emotional maturity to modulate their&nbsp;behaviours. Furthermore, our&nbsp;young&nbsp;are
-also exposed to a wide range of influences that could endanger health and
-undermine the integrity of the family. Our students&nbsp;require&nbsp;close
-guidance so that they can respond with discernment to&nbsp;the sexual&nbsp;messages
-in the media and other sources.&nbsp;</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons
-are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons,
-students will learn healthy ways to manage the physiological,&nbsp;social&nbsp;and
+are reaching puberty at a younger age and have to grapple with physical,
+emotional and psychological changes in themselves. The implication is that
+our children are becoming biologically ready for sexual activity sooner
+without necessarily having the corresponding cognitive or emotional maturity
+to modulate their behaviours. Furthermore, our young are also exposed to
+a wide range of influences that could endanger health and undermine the
+integrity of the family. Our students require close guidance so that they
+can respond with discernment to the sexual messages in the media and other
+sources.</p>
+<p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are
+taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons,
+students will learn healthy ways to manage the physiological, social and
 emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
-opposite sex. Students are also guided to make wise,&nbsp;informed&nbsp;and
-responsible decisions to keep themselves safe from sexuality-related risks.&nbsp;</p>
+opposite sex. Students are also guided to make wise, informed and responsible
+decisions to keep themselves safe from sexuality-related risks.</p>
 <hr>
 <p><strong>At New Town Primary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
