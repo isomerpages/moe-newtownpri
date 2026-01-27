@@ -273,7 +273,3 @@ opt-out form is to be submitted by 04/02/2026.</p>
 <p>10.&nbsp;&nbsp;&nbsp;Parents can contact the school at 6474 8805 or email
 <a href="mailto:ntps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ntps@moe.edu.sg</a>for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
-<p><strong><em><u>&nbsp;</u></em></strong>
-</p>
-<p><strong><em><u>&nbsp;</u></em></strong>about the school’s Sexuality Education
-programme.</p>
