@@ -7,18 +7,17 @@ variant: tiptap
 ---
 <h3><strong>MOE Sexuality Education in Schools</strong></h3>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
-aims to enable students to understand the physiological,&nbsp;social&nbsp;and
-emotional changes they experience as they mature, develop healthy and rewarding
-relationships with others, including those with members of the opposite
-sex, and make wise,&nbsp;informed&nbsp;and responsible decisions on sexuality
-matters.&nbsp;SEd&nbsp;is premised on the importance of the family as the
-basic unit of society. This means encouraging healthy, heterosexual marriages
-and stable nuclear family units with extended family support. The teaching
-and learning of&nbsp;SEd&nbsp;is based on respect for the values and beliefs
-of the different ethnic and religious communities in Singapore on sexuality
-issues.&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The&nbsp;<strong>Goals</strong>&nbsp;of
-Sexuality Education are:&nbsp;</p>
+aims to enable students to understand the physiological, social and emotional
+changes they experience as they mature, develop healthy and rewarding relationships
+with others, including those with members of the opposite sex, and make
+wise, informed and responsible decisions on sexuality matters. SEd is premised
+on the importance of the family as the basic unit of society. This means
+encouraging healthy, heterosexual marriages and stable nuclear family units
+with extended family support. The teaching and learning of SEd is based
+on respect for the values and beliefs of the different ethnic and religious
+communities in Singapore on sexuality issues.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
+Education are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Support students in managing their physiological,&nbsp;social&nbsp;and
@@ -38,33 +37,20 @@ by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.&nbsp;</p>
 </li>
 </ul>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The&nbsp;<strong>Key Messages&nbsp;</strong>of
-Sexuality Education are:&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Love and respect yourself as you love and respect others;&nbsp;</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Build positive relationships based on love and respect (which are the
-foundation for strong families);&nbsp;</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Make responsible decisions for yourself, your family and society; and&nbsp;</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Abstinence before marriage is the best protection against STIs/HIV and
-unintended pregnancies. Casual sex can harm and hurt you and your loved
-ones.&nbsp;</p>
-</li>
-</ul>
-<p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
-information on MOE Sexuality Education.&nbsp;</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
+Sexuality Education are:</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
+respect yourself as you love and respect others;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
+positive relationships based on love and respect (which are the foundation
+for strong families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
+decisions for yourself, your family and society; and</p>
+<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
+before marriage is the best protection against STIs/HIV and unintended
+pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
 <h4><strong>Overview of New Town Primary School’s Sexuality Education Programme for 2025</strong></h4>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
