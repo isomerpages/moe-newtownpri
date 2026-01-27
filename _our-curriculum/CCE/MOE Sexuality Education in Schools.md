@@ -85,7 +85,9 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/MOE_Logo_1.png">
 </div>
-<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
+<blockquote>
+<p>2026 Sexuality Education Lessons in CCE</p>
+</blockquote>
 <h4><strong>Primary 5</strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
@@ -118,7 +120,7 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,6 +162,9 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Keeping Myself Safe</p>
 <p>(60 min)</p>
 <p>&nbsp;</p>
@@ -178,7 +183,6 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -188,26 +192,7 @@ and how to seek help for themselves and their friends.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>CCE(FTGP) THEME</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>LESSON TITLE / DURATION</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson OVERVIEW</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong> 
-<br><strong>(e.g. Term 1 Week 2)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,27 +232,8 @@ own responses when they encounter pornography by applying the strategy <strong>â
 <p>Term 1 Week 9</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Keeping Myself Safe
-<br>(60 min)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>In this lesson, students will learn about sexual abuse, how it can happen
-during online and offline interactions and the impact of such abuse on
-victims. They also learn how to take precautionary measures to be safe
-and how to seek help for themselves and their friends.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
 <h4>Primary 6</h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -316,7 +282,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -333,7 +299,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 1</p>
 </td>
 </tr>
 </tbody>
@@ -345,9 +311,13 @@ out of Sexuality Education lessons, and/or supplementary Sexuality Education
 programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
-This form will be communicated to parents at the start of the year. If
-you need a copy of the form you can also email <a href="mailto:ntps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ntps@moe.edu.sg</a>. The completed opt-out
-form is to be submitted by 05/02/2025.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
+This form will be communicated to parents at the start of the year and
+is also available <a href="https://form.gov.sg/696603ed2f598585af40ea46" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+opt-out form is to be submitted by 04/02/2026.</p>
+<p>10.&nbsp;&nbsp;&nbsp;Parents can contact the school at 6474 8805 or email
 <a href="mailto:ntps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ntps@moe.edu.sg</a>for discussion or to seek clarification about the schoolâ€™s
 Sexuality Education programme.</p>
+<p><strong><em><u>&nbsp;</u></em></strong>
+</p>
+<p><strong><em><u>&nbsp;</u></em></strong>about the schoolâ€™s Sexuality Education
+programme.</p>
