@@ -20,17 +20,17 @@ communities in Singapore on sexuality issues.</p>
 Education are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships.</p>
+<p>Support students in managing their physiological,&nbsp;social&nbsp;and
+emotional changes as they grow up and develop safe and healthy relationships.&nbsp;</p>
 </li>
 <li>
-<p>Guide students to make wise, informed and responsible decisions on sexuality
-matters.</p>
+<p>Guide students to make wise,&nbsp;informed&nbsp;and responsible decisions
+on sexuality matters.&nbsp;</p>
 </li>
 <li>
 <p>Help students develop a moral compass and respect for themselves and others
 by having positive mainstream values and attitudes about sexuality that
-are premised on the family as the basic unit of society.</p>
+are premised on the family as the basic unit of society.&nbsp;</p>
 </li>
 </ul>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
@@ -52,27 +52,22 @@ unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 </li>
 </ul>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p></p>
-<h4><strong>Overview of New Town Primary School’s Sexuality Education Programme for 2025</strong></h4>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
-in a holistic manner through the school curriculum. The content for Sexuality
-Education is grouped into five main themes: Human Development, Interpersonal
-Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more information on the scope of Sexuality Education in the school curriculum.</p>
+<h4><strong>Overview of New Town Primary School’s Sexuality Education Programme for 2026</strong></h4>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
+is delivered in a holistic manner through the school curriculum. The content
+for Sexuality Education is grouped into five main themes: Human Development,
+Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
+Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
+information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Science</p>
-</li>
-<li>
-<p>Character and Citizenship Education (CCE)</p>
-</li>
-</ul>
-<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
+(CCE)</p>
+<p><strong>Sexuality Education Lessons</strong>
+</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
 onset of puberty. With better nutrition and improved health care, children
 are reaching puberty at a younger age and have to grapple with physical,
@@ -84,7 +79,6 @@ a wide range of influences that could endanger health and undermine the
 integrity of the family. Our students require close guidance so that they
 can respond with discernment to the sexual messages in the media and other
 sources.</p>
-<p></p>
 <p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are
 taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons,
 students will learn healthy ways to manage the physiological, social and
@@ -92,11 +86,17 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
-<p></p>
 <hr>
 <p><strong>At New Town Primary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/CCE/MOE_Logo_1.png">
+</div>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
+</p>
 <h4><strong>Primary 5</strong></h4>
+<p><strong>&nbsp;</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -119,18 +119,19 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong> 
-<br><strong>(e.g. Term 1 Week 2)</strong>
+<p><strong>TIME PERIOD</strong>
+</p>
+<p><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Changes in Me
-<br>(60 min)</p>
+<p>The Changes in Me</p>
+<p>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students identify the emotions and stress
@@ -142,13 +143,13 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 2 Week 1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Did You Know?
-<br>(60 min)</p>
+<p>Did You Know?</p>
+<p>(60 min)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,13 +163,16 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Keeping Myself Safe
-<br>(60 min)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keeping Myself Safe</p>
+<p>(60 min)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -180,12 +184,11 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Primary 6</h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -234,7 +237,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +254,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 1</p>
 </td>
 </tr>
 </tbody>
@@ -263,9 +266,9 @@ out of Sexuality Education lessons, and/or supplementary Sexuality Education
 programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
-This form will be communicated to parents at the start of the year. If
-you need a copy of the form you can also email <a href="mailto:ntps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ntps@moe.edu.sg</a>. The completed opt-out
-form is to be submitted by 05/02/2025.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
+This form will be communicated to parents at the start of the year and
+is also available <a href="https://form.gov.sg/696603ed2f598585af40ea46" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+opt-out form is to be submitted by 04/02/2026.</p>
+<p>10.&nbsp;&nbsp;&nbsp;Parents can contact the school at 6474 8805 or email
 <a href="mailto:ntps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ntps@moe.edu.sg</a>for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
