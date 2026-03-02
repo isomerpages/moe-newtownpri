@@ -18,6 +18,8 @@ hone their leadership skills to become competent and confident future leaders
 of the country.</p>
 <p>At New Town Primary School, every P3 to P6 student takes part in one CCA
 from one of the following categories:</p>
+<p><a href="/our-co-curricular-activities/cca-goals-offerings/clubs-and-societies/" rel="noopener nofollow" target="_blank">[Clubs and Societies]</a>
+</p>
 <p>* [Clubs and Societies](/our-co-curricular-activities/cca-goals-offerings/clubs-and-societies/)</p>
 <p>* [Performing Arts](/new-town-experience/co-curricular-activities/performing-arts/)</p>
 <p>* [Physical Sports](/new-town-experience/co-curricular-activities/physical-sports/)</p>
