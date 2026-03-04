@@ -20,7 +20,9 @@ of the country.</p>
 from one of the following categories:</p>
 <p><a href="/our-co-curricular-activities/cca-goals-offerings/clubs-and-societies/" rel="noopener nofollow" target="_blank">[Clubs and Societies]</a>
 </p>
-<p>* [Clubs and Societies](/our-co-curricular-activities/cca-goals-offerings/clubs-and-societies/)</p>
-<p>* [Performing Arts](/new-town-experience/co-curricular-activities/performing-arts/)</p>
-<p>* [Physical Sports](/new-town-experience/co-curricular-activities/physical-sports/)</p>
-<p>* [Uniformed Groups](/new-town-experience/co-curricular-activities/uniformed-groups/)</p>
+<p><a href="performing-arts" rel="noopener nofollow" target="_blank">[Performing Arts]</a>
+</p>
+<p><a href="physical-sports" rel="noopener nofollow" target="_blank">[Physical Sports]</a>
+</p>
+<p><a href="uniformed-groups" rel="noopener nofollow" target="_blank">[Uniformed Groups]</a>
+</p>
