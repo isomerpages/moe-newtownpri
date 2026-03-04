@@ -98,10 +98,13 @@ the band.&nbsp;</p>
 <p>NTPS/NTSS Band Exchange</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>[Photo 3]</strong>&nbsp;</p>
-<p><strong>[Photo 4]</strong>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_BrassBand3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_BrassBand4.png">
+</div>
 <p><strong>Achievements</strong>&nbsp;</p>
 <p><strong>2022:&nbsp;</strong>&nbsp;</p>
 <p>Singapore Youth Festival Arts Presentation (SYF AP) – Special Consideration*&nbsp;</p>
@@ -109,11 +112,9 @@ the band.&nbsp;</p>
 <p>Singapore Youth Festival Arts Presentation (SYF AP) – Accomplishment&nbsp;</p>
 <p>*Participating schools in the SYF AP for Primary level will not be benchmarked
 for AP certification in 2022&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Training Session&nbsp;</strong>&nbsp;</p>
 <p>Tuesday 7.40 am to 9.10 am&nbsp;</p>
 <p>Friday 2.10 pm to 4.30 pm&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Venue</strong>&nbsp;</p>
 <p>Band Room&nbsp;</p>
 <p><strong>Student Experience</strong>&nbsp;</p>
@@ -122,60 +123,13 @@ choice so I thought I will not enjoy it compared to playing sports. After
 months of practice, I got better and better, and realised that I actually
 had a hidden talent for playing the trombone. Playing music is not boring
 but beautiful!” –&nbsp; Peng Yuda&nbsp;</p>
-<p><strong>[Photo 5]</strong>&nbsp;</p>
-<p><strong>[Photo 6]</strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_BrassBand5.png">
+</div>
 <p></p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teachers-in-charge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Geraldine Lim (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_xin_hui_geraldine@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Joanne Ng (2IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_siew_yan_joanne@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kegan Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kegan_lee@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Thilagavathi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>thilagavathid_oarunachalatheva@schools.gov.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_BrassBand6.png">
+</div>
 <h3>Choir</h3>
 <p>The voice is a child’s first instrument and it is the most primitive medium
 used to express human emotions. Our young and vibrant choir members learn
