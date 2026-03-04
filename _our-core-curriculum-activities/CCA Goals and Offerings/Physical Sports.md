@@ -160,63 +160,28 @@ court.” - Ian Tan Jun Hao&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PS_Badminton6.png">
 </div>
-<p>Badminton aims to improve our players’ mental and physical agility. Our
-training sessions train our players in the spirit of fair play, teamwork
-and sportsmanship on and off the court. Our players are guided by professional
-coaches during the weekly training sessions to improve their badminton
-skills and build their stamina and endurance. Our school team players take
-part in the National School Games - Badminton Competitions and other external
-competitions to further hone their badminton skills.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teachers-in-charge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chan Yong Hao (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chan_yong_hao@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Heah Yong Chian (2IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>heah_yong_chian@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sinna Rajah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sinna_rajah_singarasoo@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Koh Lai Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chiew_Lai_Peng@schools.gov.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><strong>Character Outcomes</strong>&nbsp;</p>
+<ul>
+<li>
+<p>Builds <strong>resilience</strong> and <strong>self-discipline</strong> through
+consistent practice.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Develops <strong>leadership</strong> through mentoring and peer support.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Strengthens <strong>empathy</strong> and inclusivity in team settings.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Encourages <strong>strategic thinking</strong> and adaptability during matches.&nbsp;</p>
+</li>
+</ul>
 <h3><strong>Basketball</strong></h3>
 <p>Basketball is a team sport that requires every team member to become competent
 in individual skills and to work as a team to achieve a common goal. Our
