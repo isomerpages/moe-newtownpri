@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA Goals and Offerings
 ---
-<h4>CCA Goals</h4>
+<h4>## CCA Goals ##</h4>
 <p>CCA is an integral part of our students’ holistic education. Through CCA,
 students discover their interests and talents while developing values and
 competencies that will prepare them for a rapidly changing world.</p>
@@ -18,7 +18,11 @@ hone their leadership skills to become competent and confident future leaders
 of the country.</p>
 <p>At New Town Primary School, every P3 to P6 student takes part in one CCA
 from one of the following categories:</p>
-<p>* [Clubs and Societies](/new-town-experience/co-curricular-activities/clubs-and-societies/)</p>
-<p>* [Performing Arts](/new-town-experience/co-curricular-activities/performing-arts/)</p>
-<p>* [Physical Sports](/new-town-experience/co-curricular-activities/physical-sports/)</p>
-<p>* [Uniformed Groups](/new-town-experience/co-curricular-activities/uniformed-groups/)</p>
+<p><a href="/our-core-curriculum-activities/clubs-and-societies/" rel="noopener nofollow" target="_blank">[Clubs and Societies]</a>
+</p>
+<p><a href="/our-core-curriculum-activities/performing-arts" rel="noopener nofollow" target="_blank">[Performing Arts]</a>
+</p>
+<p><a href="/our-core-curriculum-activities/physical-sports" rel="noopener nofollow" target="_blank">[Physical Sports]</a>
+</p>
+<p><a href="uniformed-groups" rel="noopener nofollow" target="_blank">[Uniformed Groups]</a>
+</p>

@@ -1,6 +1,6 @@
 ---
 title: Clubs and Societies
-permalink: /clubs-and-societies/
+permalink: /our-core-curriculum-activities/clubs-and-societies/
 variant: tiptap
 description: ""
 third_nav_title: CCA Goals and Offerings
