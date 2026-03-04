@@ -207,9 +207,9 @@ I will enjoy Choir very much.” – Li Liyu<strong>&nbsp;</strong>&nbsp;</p>
 <p>“I love to sing with my Choir friends. When I joined as a new member in
 Primary 3, I will always remember how my senior helped me to sing better
 and improve my pitching. I am always so grateful for her, and I wish to
-do the same too with my junior members.” - Ariana Rose Binte Yunani&nbsp;</p>
+do the same too with my junior members.” - Ariana Rose Binte Yunani</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_Choir5.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_Choir5.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
