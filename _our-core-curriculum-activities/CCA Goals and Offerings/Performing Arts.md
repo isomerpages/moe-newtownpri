@@ -176,10 +176,13 @@ the Buona Vista Community Club. Our choristers are also provided with opportunit
 to collaborate and share music with choir groups from other schools during
 school exchanges and bring joy to the community through performances at
 various outreach events.&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>[Photo 3] </strong>&nbsp;</p>
-<p><strong>[Photo 4] </strong>&nbsp;</p>
-<p><strong> </strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_Choir3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_Choir4.png">
+</div>
 <p><strong>Achievements </strong>&nbsp;</p>
 <p><strong>2019:</strong>&nbsp;</p>
 <p>Singapore International Choral Festival – Silver&nbsp;</p>
@@ -209,69 +212,13 @@ I will enjoy Choir very much.” – Li Liyu<strong>&nbsp;</strong>&nbsp;</p>
 Primary 3, I will always remember how my senior helped me to sing better
 and improve my pitching. I am always so grateful for her, and I wish to
 do the same too with my junior members.” - Ariana Rose Binte Yunani&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>[Photo 5] </strong>&nbsp;</p>
-<p><strong>[Photo 6] </strong>&nbsp;</p>
-<p>&nbsp;</p>
-<p>The voice is a child’s first instrument and it is the most primitive medium
-used to express human emotions. Our young and vibrant choir members learn
-to use this “first instrument” with the right techniques while being exposed
-to a wide repertoire of songs, ranging from classical, jazz to contemporary
-songs. They develop good confidence, self-discipline and better proficiency
-in singing, which are necessary to become passionate and competent performers.
-Members can look forward to performing regularly both in school, external
-performances and participating in the biennial Singapore Youth Festival
-(SYF) Arts Presentation.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teachers-in-charge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Audrey Tan (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>gwee_jia_qi_audrey@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lim-Ng Ren Min (2IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim-ng_ren_min@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Joan Chia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>joan_tan_yi_hui@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Usha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Usharani_Kuppusamy@schools.gov.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_Choir5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_Choir6.png">
+</div>
 <h3>Chinese Dance</h3>
 <p>“Three minutes on stage is the result of three years of training”. Our
 Chinese Dance club emphasises commitment and diligence in its members.
