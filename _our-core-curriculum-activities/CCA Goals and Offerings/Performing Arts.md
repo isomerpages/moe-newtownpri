@@ -194,20 +194,16 @@ various outreach events.&nbsp;</p>
 <p>Singapore Youth Festival Arts Presentation (SYF AP) – Commendation &nbsp;</p>
 <p>*Participating schools in the SYF AP for Primary level will not be benchmarked
 for AP certification in 2022 &nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Training Session&nbsp;&nbsp;</strong>&nbsp;</p>
 <p>Tuesday<strong> </strong>7.40 am to 9.10 am&nbsp;</p>
 <p>Friday 2.15 pm to 4.15 pm&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Venue&nbsp;</strong>&nbsp;</p>
 <p>Music Room&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Students Experiences</strong>&nbsp;</p>
 <p>“I love to sing with my friends in Choir, sometimes we play games to help
 us to sing better. I remember the first time I sang a song with my friends
 on stage, I felt so excited and proud of myself. That is when I found out
 I will enjoy Choir very much.” – Li Liyu<strong>&nbsp;</strong>&nbsp;</p>
-<p>&nbsp;</p>
 <p>“I love to sing with my Choir friends. When I joined as a new member in
 Primary 3, I will always remember how my senior helped me to sing better
 and improve my pitching. I am always so grateful for her, and I wish to
