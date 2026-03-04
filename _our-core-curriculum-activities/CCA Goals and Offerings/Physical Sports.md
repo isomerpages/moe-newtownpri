@@ -68,13 +68,11 @@ play, peer-to-peer coaching, and collaboration.&nbsp;</p>
 <p>Led by our coaches, sessions focus on footwork, technique, and fundamentals.
 We place a strong emphasis on character and values, building discipline
 and resilience to stay focused even when the training gets tougher.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>National School Games (NSG)</strong>&nbsp;</p>
 <p>Our school team participates in the annual National School Games, giving
 players the chance to represent the school with pride. It’s a valuable
 opportunity for them to learn from their peers and players from other schools
 as well as to display sportsmanship under competitive settings.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Friendly Matches</strong>&nbsp;</p>
 <p>Informal matches with other schools are organised to enable more students
 to have match-play experiences. These sessions provided the players the
@@ -136,16 +134,13 @@ in a more relaxed and supportive environment.&nbsp;</p>
 <p><strong>Training Session </strong> &nbsp;</p>
 <p>Tuesday 7.40 am to 9.10 am &nbsp;</p>
 <p>Friday 2.05 pm to 3.45 pm (Selected students) &nbsp;</p>
-<p> &nbsp;</p>
 <p><strong>Venue</strong> &nbsp;</p>
 <p>Multi-Purpose Hall &nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Students’ Experiences</strong>&nbsp;</p>
 <p>“Badminton is really fun! We get to play games and learn new skills. During
 training, I learnt how to lob and serve properly. I have also made many
 new friends through this CCA. I always look forward to training sessions
 because I get to spend time with them!” - Emmett Low Zhi Yu&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>“</strong>To play badminton well, I need stamina because it involves
 a lot of running, jumping, and cardio. Through drills and practice, I also
 learnt how to do lunges properly. I had the opportunity to represent the
