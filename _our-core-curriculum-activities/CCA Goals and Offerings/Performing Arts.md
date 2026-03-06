@@ -1,6 +1,6 @@
 ---
 title: Performing Arts
-permalink: /performing-arts/
+permalink: /our-core-curriculum-activities/performing-arts/
 variant: tiptap
 description: ""
 third_nav_title: CCA Goals and Offerings
