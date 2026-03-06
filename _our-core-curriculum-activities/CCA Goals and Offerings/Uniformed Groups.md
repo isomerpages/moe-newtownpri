@@ -86,9 +86,13 @@ and teachers. I also like when we get to sell cookies because the money
 is used to help others.”&nbsp; - Kimberly Tesanee Brudermann&nbsp;</p>
 <p>“I like that we have fun and the activities in Brownies that help us be
 more confident.” – Elaine Law Hui Xin&nbsp;</p>
-<p><strong>[Photo 5]</strong>&nbsp;</p>
-<p><strong>[Photo 6]</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_UG_GirlGuides5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_UG_GirlGuides6.png">
+</div>
 <h3><strong>Red Cross (Youth)</strong></h3>
 <p>Red Cross (Youth) aims to build a community of young leaders who are achievers,
 socially responsible and embrace humanitarian values. Values such as compassion
