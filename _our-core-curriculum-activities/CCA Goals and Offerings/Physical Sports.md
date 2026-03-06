@@ -416,7 +416,11 @@ Carnival (Senior)&nbsp;</p>
 <p>Friday 2.15 pm to 3.45 pm (Selected students)&nbsp;</p>
 <p><strong>Venue</strong>&nbsp;</p>
 <p>Indoor Sports Hall&nbsp;</p>
-<p><strong>[Photo 5]</strong>&nbsp;</p>
-<p><strong>[Photo 6]</strong>&nbsp;
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_PS_Netball5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_PS_Netball6.png">
+</div>
+<p></p>
