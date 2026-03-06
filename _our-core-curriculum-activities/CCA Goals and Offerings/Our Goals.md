@@ -24,5 +24,5 @@ from one of the following categories:</p>
 </p>
 <p><a href="/our-core-curriculum-activities/physical-sports" rel="noopener nofollow" target="_blank">[Physical Sports]</a>
 </p>
-<p><a href="uniformed-groups" rel="noopener nofollow" target="_blank">[Uniformed Groups]</a>
+<p><a href="/our-core-curriculum-activities/uniformed-groups" rel="noopener nofollow" target="_blank">[Uniformed Groups]</a>
 </p>
