@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA Goals and Offerings
 ---
-<h4>## CCA Goals ##</h4>
+<h4>CCA Goals</h4>
 <p>CCA is an integral part of our students’ holistic education. Through CCA,
 students discover their interests and talents while developing values and
 competencies that will prepare them for a rapidly changing world.</p>
