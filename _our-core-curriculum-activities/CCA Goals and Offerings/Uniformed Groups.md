@@ -20,56 +20,70 @@ a spirit of service to others.</p>
 </li>
 </ul>
 <h3><strong>Girl Guides (Brownies)</strong></h3>
-<p>Brownies are part of the Guiding movement where our girls develop their
-fullest potential as responsible citizens of the world. We provide interesting
-and engaging activities where our Brownies acquire knowledge and skills
-through games and play. They learn different skills such as tying knots,
-painting, baking, singing and dancing as part of their CCA sessions. To
-further hone their service leadership skills, our Brownies are trained
-to provide yeoman service for various school and community events such
-as for Open House and Sports Day.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teachers-in-charge</strong>
+<p>Brownies is a uniformed group CCA for girls that nurtures character development,
+builds practical life skills, and encourages meaningful contributions to
+the community. At New Town Primary School, we aim to help our members grow
+into confident, responsible, and independent individuals.&nbsp;&nbsp;&nbsp;</p>
+<p><strong>Objectives</strong>&nbsp;</p>
+<p>Our activities are guided by the 5-Point programme, which focuses on:&nbsp;</p>
+<ul>
+<li>
+<p>Personal and social development&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Home responsibilities&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Community involvement&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>International understanding&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Outdoor exploration&nbsp;</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_UG_GirlGuides1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_UG_GirlGuides2.png">
+</div>
+<p><strong>Programme Highlights</strong>&nbsp;</p>
+<p>Each year, our Brownies participate in key events such as World Thinking
+Day and the National Brownie Revel, where they connect with other Brownies
+and Girl Guides from other schools. They also take part in our annual cookie
+sales, where they gain valuable presentation and entrepreneurial skills.&nbsp;</p>
+<p><strong>[Photo 3]</strong>&nbsp;</p>
+<p><strong>[Photo 4]</strong>&nbsp;</p>
+<p><strong>Achievements</strong>&nbsp;</p>
+<p>In recognition of the consistent effort, teamwork, and commitment, our
+pack has been awarded the Puan Noor Aishah Award for the following years:&nbsp;</p>
+<p>2022 – Gold&nbsp;</p>
+<p>2023 – Gold&nbsp;</p>
+<p>2024 - Gold&nbsp;&nbsp;</p>
+<p><strong>Training Session&nbsp;</strong>&nbsp;</p>
+<p>Tuesday 7.40 am to 9.10 am&nbsp;</p>
+<p><strong>Venue</strong>&nbsp;</p>
+<p>P3-2 Classroom&nbsp;&nbsp;</p>
+<p><strong>Students’ Experiences</strong>&nbsp;</p>
+<p>“I love Brownies because I enjoy going out and spending time with my friends
+and teachers. I also like when we get to sell cookies because the money
+is used to help others.”&nbsp; - Kimberly Tesanee Brudermann&nbsp;</p>
+<p>“I like that we have fun and the activities in Brownies that help us be
+more confident.” – Elaine Law Hui Xin&nbsp;</p>
+<p><strong>[Photo 5]</strong>&nbsp;</p>
+<p><strong>[Photo 6]</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Diana Yao (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yao_sufeng_diana@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Nicole Tan (2IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nicole_Ooi_Wei_Lyn@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Karen Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_yam_chua@schools.gov.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3><strong>Red Cross (Youth)</strong></h3>
 <p>Red Cross (Youth) aims to build a community of young leaders who are achievers,
 socially responsible and embrace humanitarian values. Values such as compassion
