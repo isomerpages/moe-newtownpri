@@ -63,8 +63,13 @@ into confident, responsible, and independent individuals.&nbsp;&nbsp;&nbsp;</p>
 Day and the National Brownie Revel, where they connect with other Brownies
 and Girl Guides from other schools. They also take part in our annual cookie
 sales, where they gain valuable presentation and entrepreneurial skills.&nbsp;</p>
-<p><strong>[Photo 3]</strong>&nbsp;</p>
-<p><strong>[Photo 4]</strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_UG_GirlGuides3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_UG_GirlGuides4.png">
+</div>
 <p><strong>Achievements</strong>&nbsp;</p>
 <p>In recognition of the consistent effort, teamwork, and commitment, our
 pack has been awarded the Puan Noor Aishah Award for the following years:&nbsp;</p>
