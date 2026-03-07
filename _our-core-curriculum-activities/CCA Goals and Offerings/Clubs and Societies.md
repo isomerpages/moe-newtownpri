@@ -341,7 +341,6 @@ the school in drama or oratory contests&nbsp;</p>
 receive constructive feedback&nbsp;</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_CS_SpeechDrama3.png">
 </div>
