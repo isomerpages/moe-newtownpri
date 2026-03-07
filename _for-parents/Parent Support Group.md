@@ -28,6 +28,7 @@ Read more about us through our termly PSG Newsletters.
 
 Join us here! 
 [https://go.gov.sg/psgnewtown](https://go.gov.sg/psgnewtown)
+
 For enquiries, you may email us at&nbsp;[ntps.psgroup@gmail.com](mailto:ntps.psgroup@gmail.com)&nbsp;
 
 For more information on&nbsp;PSG@New&nbsp;Town, please visit our Facebook page.
