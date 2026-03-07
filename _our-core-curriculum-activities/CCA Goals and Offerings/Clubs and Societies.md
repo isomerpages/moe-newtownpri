@@ -148,9 +148,13 @@ projects and competitions.&nbsp;</p>
 ideas.&nbsp;</p>
 </li>
 </ul>
-<p><strong>[Photo 1]</strong>&nbsp;</p>
-<p><strong>[Photo 2]</strong>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_CS_Robotics1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_CS_Robotics2.png">
+</div>
 <p><strong>Programme Highlights</strong>&nbsp;</p>
 <p><strong><u>Basic Group</u></strong>&nbsp;</p>
 <ul>
@@ -177,7 +181,6 @@ teammates to achieve shared goals.&nbsp;</p>
 ways through in-house challenges.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><u>Advanced Group</u></strong>&nbsp;</p>
 <ul>
 <li>
@@ -205,23 +208,23 @@ within the CCA by guiding junior members, sharing knowledge, and demonstrating
 initiative during teamwork.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>[Photo 3]</strong>&nbsp;</p>
-<p><strong>[Photo 4]</strong>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_CS_Robotics3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_CS_Robotics4.png">
+</div>
 <p><strong>Achievements</strong>&nbsp;</p>
 <p>2023 -<strong> </strong>Participation in National Robotics Competition&nbsp;</p>
 <p>2024 - Participation in Innovation, Design &amp; Engineering (IDE) Competition&nbsp;</p>
 <p>2025 - Participation in Innovation, Design &amp; Engineering (IDE) Competition
 &amp; National Robotics Competition&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Training Session&nbsp;</strong>&nbsp;</p>
 <p>Tuesday 7.40 am to 9.10 am&nbsp;</p>
 <p>Friday 2.15 pm to 3.45 pm&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Venue</strong>&nbsp;</p>
 <p>Computer Labs 1 &amp; 3&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Student Experience</strong>&nbsp;</p>
 <p>“Over the years, Robotics has enabled me to master skills I never imagined
 I could achieve. In today’s world of AI and technology, I believe the knowledge
@@ -229,7 +232,6 @@ and experience gained during CCA training will benefit me in many ways
 in the future. Beyond building robots, I have also learnt valuable life
 lessons, such as the importance of teamwork and how it plays a key role
 in achieving success.” – Li Ziqi&nbsp;</p>
-<p>&nbsp;</p>
 <p>“Robotics has always been my passion. I have pursued this learning path
 since Primary 3, and along the way, I have faced countless challenges.
 Nevertheless, these obstacles never stopped me from progressing further
@@ -237,65 +239,13 @@ in school. I am grateful for the guidance I received, and I have learnt
 valuable lessons from my mistakes. My team members and trainers played
 a key role in every session, supporting me in both building and coding.”
 – Wang Zian&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>[Photo 5]</strong>&nbsp;</p>
-<p><strong>[Photo 6]</strong>&nbsp;</p>
-<p>Members learn basic construction and programming skills, from experienced
-instructors, to build robots that can achieve certain tasks. Students are
-provided platforms for collaborative learning to hone their skills to work
-in a team. Dedicated members who display good attitude and aptitude through
-the guided CCA sessions are selected to represent the school in various
-competitions such as the National Junior Robotics Competition.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teachers-in-charge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chia Kim Fung (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chia_kim_fung@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Iskandar (2IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mohamad_iskandar_mohd_yaakop@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhd Khairool</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Muhammad_Khairool_Haque_Abdul@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Dun Yawen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dun_Yawen@schools.gov.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_CS_Robotics5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_CS_Robotics6.png">
+</div>
 <h3><strong>Speech and Drama</strong></h3>
 <p>Speech &amp; Drama club is a fun and activity-based CCA that focuses on
 developing the whole child through dramatic play, presentations and creative
