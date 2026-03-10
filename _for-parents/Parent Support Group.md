@@ -23,8 +23,8 @@ Catch a quick&nbsp;snippet&nbsp;to find out what our PSG has been up to in the v
 
 Read more about us through our termly PSG Newsletters.
 
-
-
+[](/files/PSG_Newsletter___2026_Term_1.pdf)
+[](/files/PSG_Newsletter___2025_Term_4.pdf)
 
 Join us here! 
 [https://go.gov.sg/psgnewtown](https://go.gov.sg/psgnewtown)
