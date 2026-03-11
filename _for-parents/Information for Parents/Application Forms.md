@@ -41,7 +41,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1HSgqTDFpRPGv8gPlQbWPEt_A5iFBW__D/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">NTIL Application</a>
+<p><a href="https://drive.google.com/file/d/1QQNncgJl6F4JEFBvzk6LSwpWXuDU36xU/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">NTIL Application</a>
 </p>
 </li>
 </ul>
@@ -53,7 +53,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1c1Ct_PZFDiWc-qvzHFhUGVaGRarlxbqE/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Change of Official Address</a>
+<p><a href="https://drive.google.com/file/d/1OhiNZ3rKE6xJoaAG1cJdx8hxaRJYBxAl/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Change of Official Address</a>
 </p>
 </li>
 </ul>
