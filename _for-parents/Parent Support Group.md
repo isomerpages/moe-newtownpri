@@ -23,7 +23,10 @@ Catch a quick&nbsp;snippet&nbsp;to find out what our PSG has been up to in the v
 
 Read more about us through our termly PSG Newsletters.
 
+(a) PSG Newsletter (Term 1, 2026)
 [](/files/PSG_Newsletter___2026_Term_1.pdf)
+
+(b) PSG Newsletter (Term 4, 2025)
 [](/files/PSG_Newsletter___2025_Term_4.pdf)
 
 Join us here! 
