@@ -4,34 +4,29 @@ permalink: /for-parents/parent-support-group/
 description: ""
 variant: markdown
 ---
-**Parent Support Group (PSG@NewTown)**
+# Join & Be Part of the Parent Support Group)
 
-**![](https://lh6.googleusercontent.com/prgOOVBg9Gs_Q-JVOVgAW4JJ975pVSbnJRRhwTtXUAe8_caVmSjsomFyxbJo-G2xCd81l9Ve0Dj8yQmqmKBkr2djXIeQATe8C5kTjm5HMwaw4D4_4PLxQOZ_2yjD4jBt4mldNxQG0Z2jZYFf4p8Em6NnqiS67FiCe56PNqhbZhIorA06s5YvnwjXeHPPHQ)**
+![](/images/For%20Parents/PSG_GroupPhoto.png)
+A strong partnership between parents and school enhances student success.  Be part of our supportive community!
 
-**Our Parent Support Group, PSG@New Town, has always been a valued partner in education.** Parents play a vital role in shaping the learning journey of our New Towners, providing unwavering&nbsp;support&nbsp;and serving as role models who inspire our students to grow in character and excellence.
+**Our Vision**
+A Key Partner in Education to the School
 
-Our PSG is the voice representing the parents of New Town across various platforms. 
-Read more about the roles of a member of PSG&nbsp;[here](https://psg.moe.edu.sg/welcome-to-the-psg/).
+**Our Mission**
+*   Enhance vibrancy of School's environment by co-creating programmes for students.
+*   Effective and collaborative partnership with all members of the school community..
 
-Our PSG aims&nbsp;to :&nbsp;
-*   Enhance the vibrancy of school environment by co-creating&nbsp;programmes&nbsp;for the students.
-*   Have an active and collaborative partnership with all members of the school community.
- 
-Catch a quick&nbsp;snippet&nbsp;to find out what our PSG has been up to in the various school events and&nbsp;programmes!
+**Why Join?**
+* Stay informed and engaged in school activities.
+* Connect with fellow parents.
+* Contribute to school events and programmes.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hgrNR-lkbjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+**Activities and Involvements**
+You can volunteer  in regular duties, contribute to school events, support student programmes and assist with school initiatives. Every contribution makes a difference.
 
-Read more about us through our termly PSG Newsletters.
-
-(a) PSG Newsletter (Term 1, 2026)
-[](/files/PSG_Newsletter___2026_Term_1.pdf)
-
-(b) PSG Newsletter (Term 4, 2025)
-[](/files/PSG_Newsletter___2025_Term_4.pdf)
-
-Join us here! 
-[https://go.gov.sg/psgnewtown](https://go.gov.sg/psgnewtown)
-
-For enquiries, you may email us at&nbsp;[ntps.psgroup@gmail.com](mailto:ntps.psgroup@gmail.com)&nbsp;
-
-For more information on&nbsp;PSG@New&nbsp;Town, please visit our Facebook page.
+Possible areas for contribution and volunteering:
+* Morning Traffic Duty
+* Recess Duty
+* Swim Safer
+* Reading Explorer
+* Others (e.g. recess booth activities on special occasions/ school  commemorative days)
