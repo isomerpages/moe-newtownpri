@@ -4,13 +4,13 @@ permalink: /for-parents/parent-support-group/
 description: ""
 variant: markdown
 ---
-# Join & Be Part of the Parent Support Group)
+# Join & Be Part of the Parent Support Group
 
 ![](/images/For%20Parents/PSG_GroupPhoto.png)
-A strong partnership between parents and school enhances student success.  Be part of our supportive community!
+*A strong partnership between parents and school enhances student success.  Be part of our supportive community!*
 
 **Our Vision**
-A Key Partner in Education to the School
+*   A Key Partner in Education to the School
 
 **Our Mission**
 *   Enhance vibrancy of School's environment by co-creating programmes for students.
