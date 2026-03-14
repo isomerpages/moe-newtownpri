@@ -11,58 +11,59 @@ third_nav_title: Parent Support Group
 </div>
 <p><em>A strong partnership between parents and school enhances student success.&nbsp; Be part of our supportive community!</em>
 </p>
-<p><strong>Our Vision</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+<h4><strong>Our Vision</strong></h4>
 <p>A Key Partner in Education to the School</p>
-</li>
-</ul>
-<p><strong>Our Mission</strong>
-</p>
+<h4><strong>Our Mission</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Enhance vibrancy of School's environment by co-creating programmes for
-students.</p>
+<p><em>Enhance vibrancy of School's environment by co-creating programmes for students.</em>
+</p>
 </li>
 <li>
-<p>Effective and collaborative partnership with all members of the school
-community..</p>
+<p><em>Effective and collaborative partnership with all members of the school community.</em>
+</p>
 </li>
 </ul>
-<p><strong>Why Join?</strong>
-</p>
+<h4><strong>Why Join?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Stay informed and engaged in school activities.</p>
+<p><em>Stay informed and engaged in school activities.</em>
+</p>
 </li>
 <li>
-<p>Connect with fellow parents.</p>
+<p><em>Connect with fellow parents.</em>
+</p>
 </li>
 <li>
-<p>Contribute to school events and programmes.</p>
+<p><em>Contribute to school events and programmes.</em>
+</p>
 </li>
 </ul>
-<p><strong>Activities and Involvements</strong>You can volunteer&nbsp; in
-regular duties, contribute to school events, support student programmes
-and assist with school initiatives. Every contribution makes a difference.</p>
+<h4><strong>Activities and Involvements</strong></h4>
+<p>You can volunteer in regular duties, contribute to school events, support
+student programmes and assist with school initiatives. Every contribution
+makes a difference.</p>
 <p>Possible areas for contribution and volunteering:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Morning Traffic Duty</p>
+<p><em>Morning Traffic Duty</em>
+</p>
 </li>
 <li>
-<p>Recess Duty</p>
+<p><em>Recess Duty</em>
+</p>
 </li>
 <li>
-<p>Swim Safer</p>
+<p><em>Swim Safer</em>
+</p>
 </li>
 <li>
-<p>Reading Explorer</p>
+<p><em>Reading Explorer</em>
+</p>
 </li>
 <li>
-<p>Others (e.g. recess booth activities on special occasions/ school&nbsp;
-commemorative days)</p>
+<p><em>Others (e.g. recess booth activities on special occasions/ school commemorative days)</em>
+</p>
 </li>
 </ul>
 <p></p>
