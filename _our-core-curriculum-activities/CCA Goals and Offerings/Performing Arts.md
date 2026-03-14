@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA Goals and Offerings
 ---
-<h2>Performing Arts</h2>
+<h3>Performing Arts</h3>
 <p>Performing Arts CCAs instill in students a sense of graciousness and an
 appreciation for the rich and heritage of a multi-racial society. These
 CCAs provide opportunities for students to develop a lifelong passion for
