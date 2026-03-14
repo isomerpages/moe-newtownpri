@@ -10,7 +10,7 @@ third_nav_title: Parent Support Group
 school journey? Join our Parent Support Group (PSG) and make a difference!
 Your support is always valued, regardless of the amount of time you are
 able to contribute.</p>
-<p><strong>Signing up is easy</strong>! Just follow these simple steps:</p>
+<p><strong>Signing up is easy!</strong> Just follow these simple steps:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Fill out the registration form in this link – https://go.gov.sg/psgnewtown</p>
