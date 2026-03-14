@@ -2,6 +2,7 @@ collections:
   our-core-curriculum-activities:
     output: true
     order:
+      - Uniformed Groups/.keep
       - Physical Sports/.keep
       - CCA Goals and Offerings/.keep
       - CCA Goals and Offerings/Our Goals.md
