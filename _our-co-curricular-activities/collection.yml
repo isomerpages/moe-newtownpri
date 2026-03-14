@@ -1,5 +1,5 @@
 collections:
-  our-core-curriculum-activities:
+  our-co-curricular-activities:
     output: true
     order:
       - CCA Goals and Offerings/.keep
