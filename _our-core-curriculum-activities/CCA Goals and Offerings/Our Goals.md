@@ -18,10 +18,25 @@ hone their leadership skills to become competent and confident future leaders
 of the country.</p>
 <p>At New Town Primary School, every P3 to P6 student takes part in one CCA
 from one of the following categories:</p>
-<p><a href="/our-core-curriculum-activities/clubs-and-societies/" rel="noopener nofollow" target="_blank">[Clubs and Societies]</a>
-</p>
-<p><a href="/our-core-curriculum-activities/performing-arts" rel="noopener nofollow" target="_blank">[Performing Arts]</a>
-</p>
+<h4><a href="/our-core-curriculum-activities/clubs-and-societies/" rel="noopener nofollow" target="_blank">[Clubs and Societies]</a></h4>
+<p>Clubs &amp; Societies CCAs allow students to explore and extend their
+interests in both wide-ranging and specialised areas which may be knowledge-based
+or skills-based. Students are honed in information, communication and technical
+skills as they strive to grow their mastery of the specialised areas.</p>
+<p>We offer the following Clubs &amp; Societies CCAs:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Art and Crafts</p>
+</li>
+<li>
+<p>Robotics Club</p>
+</li>
+<li>
+<p>Speech &amp; Drama</p>
+</li>
+</ul>
+<h4><a href="/our-core-curriculum-activities/performing-arts" rel="noopener nofollow" target="_blank">[Performing Arts]</a></h4>
+<p></p>
 <p><a href="/our-core-curriculum-activities/physical-sports" rel="noopener nofollow" target="_blank">[Physical Sports]</a>
 </p>
 <p><a href="/our-core-curriculum-activities/uniformed-groups" rel="noopener nofollow" target="_blank">[Uniformed Groups]</a>
