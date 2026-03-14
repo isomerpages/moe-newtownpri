@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - PSG Organization Chart/.keep
       - Information for Parents/.keep
       - Information for Parents/2026 Booklists.md
       - Information for Parents/Application Forms.md
