@@ -83,6 +83,17 @@ participate in.</p>
 </li>
 </ul>
 <h4><a href="/our-core-curriculum-activities/uniformed-groups" rel="noopener nofollow" target="_blank">[Uniformed Groups]</a></h4>
-<p></p>
-<p></p>
+<p>Uniformed Group CCAs aim to make good citizens of students by providing
+authentic learning experiences which will help them develop important qualities
+such as self-reliance, leadership, resilience, discipline, teamwork and
+a spirit of service to others.</p>
+<p>We offer the following Uniformed Groups CCAs:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Girl Guides (Brownies)</p>
+</li>
+<li>
+<p>Red Cross (Youth)</p>
+</li>
+</ul>
 <p></p>
