@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA Goals and Offerings
 ---
-<h3><strong>Basketball</strong></h3>
+<h3>Basketball</h3>
 <p>Basketball is a team sport that requires every team member to become competent
 in individual skills and to work as a team to achieve a common goal. Our
 players undergo regular training sessions to develop fundamental movement
