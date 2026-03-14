@@ -29,6 +29,6 @@ or simply lending a helping hand, there’s a place for you in our PSG family.</
 for our children!</p>
 <p>Join us today – We look forward to welcoming you to the PSG family!</p>
 <h4>Want to know more? Contact us!</h4><a class="isomer-image-wrapper" href="ntps.psgroup@gmail.com"><img style="width: 5%;" height="auto" width="100%" alt="" src="/images/For Parents/PSG_eMail_icon2.svg"></a>
-<p><a href="ntps.psgroup@gmail.com" rel="noopener nofollow" target="_blank">ntps.psgroup@gmail.com</a>
+<p><a href="mailto:ntps.psgroup@gmail.com" rel="noopener nofollow" target="_blank">ntps.psgroup@gmail.com</a>
 </p>
 <p></p>
