@@ -13,7 +13,8 @@ able to contribute.</p>
 <p><strong>Signing up is easy!</strong> Just follow these simple steps:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Fill out the registration form in this link – https://go.gov.sg/psgnewtown</p>
+<p>Fill out the registration form in this link – <a href="https://go.gov.sg/psgnewtown" rel="noopener nofollow" target="_blank">https://go.gov.sg/psgnewtown</a>
+</p>
 </li>
 <li>
 <p>Submit your details – It only takes a minute!</p>
@@ -27,7 +28,5 @@ or simply lending a helping hand, there’s a place for you in our PSG family.</
 <p>Let’s work together to create a fun, supportive, and enriching environment
 for our children!</p>
 <p>Join us today – We look forward to welcoming you to the PSG family!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/PSG_Contact_Us.png">
-</div>
+<h4>Want to know more? Contact us!</h4>
 <p></p>
