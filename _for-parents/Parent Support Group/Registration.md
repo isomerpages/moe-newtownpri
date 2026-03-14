@@ -29,3 +29,7 @@ for our children!</p>
 <p>Join us today – We look forward to welcoming you to the PSG family!</p>
 <h4><strong>Want to know more? Contact us!</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/PSG_eMail_icon.png">
+</div>
+<p></p>
