@@ -36,8 +36,30 @@ skills as they strive to grow their mastery of the specialised areas.</p>
 </li>
 </ul>
 <h4><a href="/our-core-curriculum-activities/performing-arts" rel="noopener nofollow" target="_blank">[Performing Arts]</a></h4>
+<p>Performing Arts CCAs instill in students a sense of graciousness and an
+appreciation for the rich and heritage of a multi-racial society. These
+CCAs provide opportunities for students to develop a lifelong passion for
+the arts. They also nurture students’ creative expression, enrich social,
+cultural and historical awareness, and build character.</p>
+<p>We offer the following Performing Arts CCAs:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Brass Band</p>
+</li>
+<li>
+<p>Choir</p>
+</li>
+<li>
+<p>Chinese Dance</p>
+</li>
+<li>
+<p>Modern Dance</p>
+</li>
+<li>
+<p>Malay Dance</p>
+</li>
+</ul>
+<h4><a href="/our-core-curriculum-activities/physical-sports" rel="noopener nofollow" target="_blank">[Physical Sports]</a></h4>
 <p></p>
-<p><a href="/our-core-curriculum-activities/physical-sports" rel="noopener nofollow" target="_blank">[Physical Sports]</a>
-</p>
 <p><a href="/our-core-curriculum-activities/uniformed-groups" rel="noopener nofollow" target="_blank">[Uniformed Groups]</a>
 </p>
