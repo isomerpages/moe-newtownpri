@@ -35,7 +35,7 @@ skills as they strive to grow their mastery of the specialised areas.</p>
 <p>Speech &amp; Drama</p>
 </li>
 </ul>
-<h4><a href="/our-core-curriculum-activities/performing-arts" rel="noopener nofollow" target="_blank">[Performing Arts]</a></h4>
+<h4><a href="https://cms.isomer.gov.sg/sites/moe-newtownpri/folders/our-core-curriculum-activities/subfolders/Performing%20Arts" rel="noopener nofollow" target="_blank">[Performing Arts]</a></h4>
 <p>Performing Arts CCAs instill in students a sense of graciousness and an
 appreciation for the rich and heritage of a multi-racial society. These
 CCAs provide opportunities for students to develop a lifelong passion for
