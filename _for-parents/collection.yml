@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Useful Links.md
       - Information for Parents/.keep
       - Information for Parents/2026 Booklists.md
       - Information for Parents/Application Forms.md
@@ -10,3 +9,4 @@ collections:
       - Information for Parents/Parents Gateway.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
+      - Useful Links.md
