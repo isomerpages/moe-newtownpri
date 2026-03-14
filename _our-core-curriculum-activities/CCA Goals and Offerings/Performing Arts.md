@@ -5,30 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CCA Goals and Offerings
 ---
-<h3>Performing Arts</h3>
-<p>Performing Arts CCAs instill in students a sense of graciousness and an
-appreciation for the rich and heritage of a multi-racial society. These
-CCAs provide opportunities for students to develop a lifelong passion for
-the arts. They also nurture students’ creative expression, enrich social,
-cultural and historical awareness, and build character.</p>
-<p>We offer the following Performing Arts CCAs:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Brass Band</p>
-</li>
-<li>
-<p>Choir</p>
-</li>
-<li>
-<p>Chinese Dance</p>
-</li>
-<li>
-<p>Modern Dance</p>
-</li>
-<li>
-<p>Malay Dance</p>
-</li>
-</ul>
 <h3>Brass Band</h3>
 <p>Brass Band CCA enables students to develop their musical abilities through
 hands-on experience with various brass and percussion instruments. Under
