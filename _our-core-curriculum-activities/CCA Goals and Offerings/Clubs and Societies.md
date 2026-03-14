@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA Goals and Offerings
 ---
-<h2>Clubs and Societies</h2>
+<h3>Clubs and Societies</h3>
 <p>Clubs &amp; Societies CCAs allow students to explore and extend their
 interests in both wide-ranging and specialised areas which may be knowledge-based
 or skills-based. Students are honed in information, communication and technical
@@ -22,7 +22,7 @@ skills as they strive to grow their mastery of the specialised areas.</p>
 <p>Speech &amp; Drama</p>
 </li>
 </ul>
-<h3><strong>Art &amp; Crafts</strong></h3>
+<h4><strong>Art &amp; Crafts</strong></h4>
 <p>The Art &amp; Crafts club caters to students who are passionate about
 visual art and crafts and want to pursue their interests to deepen their
 knowledge, skills and understanding of Art. Members have the opportunity
@@ -81,7 +81,7 @@ platform to communicate, showcase and benchmark their creativity and ideas.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Robotics Club</strong></h3>
+<h4><strong>Robotics Club</strong></h4>
 <p>Members of Robotics CCA develop construction and programming skills to
 build robots that perform specific tasks. They are provided with opportunities
 for collaborative learning, enabling them to strengthen their teamwork
@@ -246,7 +246,7 @@ a key role in every session, supporting me in both building and coding.”
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_CS_Robotics6.png">
 </div>
-<h3><strong>Speech and Drama</strong></h3>
+<h4><strong>Speech and Drama</strong></h4>
 <p>Speech and Drama CCA believes in building confidence and creativity through
 performance. Students learn skills such as public speaking, voice projection,
 expression, and stage presence while exploring drama techniques like role-play,
