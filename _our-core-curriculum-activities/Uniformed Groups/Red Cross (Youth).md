@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<h3><strong>Red Cross (Youth)</strong></h3>
+<h3>Red Cross (Youth)</h3>
 <p>Red Cross Youth (Links) is a uniformed group CCA that nurtures young leaders
 with strong character, life-saving skills, and a heart for service. Guided
 by the Red Cross ethos and humanitarian values, our Links learn to show
