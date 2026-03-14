@@ -170,5 +170,4 @@ a key role in every session, supporting me in both building and coding.”
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_CS_Robotics6.png">
 </div>
-<h4></h4>
 <p></p>
