@@ -59,7 +59,7 @@ cultural and historical awareness, and build character.</p>
 <p>Malay Dance</p>
 </li>
 </ul>
-<h4><a href="/our-core-curriculum-activities/physical-sports" rel="noopener nofollow" target="_blank">[Physical Sports]</a></h4>
+<h4><a href="https://cms.isomer.gov.sg/sites/moe-newtownpri/folders/our-core-curriculum-activities/subfolders/Physical%20Sports" rel="noopener nofollow" target="_blank">[Physical Sports]</a></h4>
 <p>Building on the Physical Education (PE) programme to create a strong foundation
 for the development of broad-based physical competencies and opportunities
 for recreational participation, Physical Sports CCAs cater to students
