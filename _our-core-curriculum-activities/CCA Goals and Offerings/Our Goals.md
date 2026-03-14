@@ -60,6 +60,29 @@ cultural and historical awareness, and build character.</p>
 </li>
 </ul>
 <h4><a href="/our-core-curriculum-activities/physical-sports" rel="noopener nofollow" target="_blank">[Physical Sports]</a></h4>
+<p>Building on the Physical Education (PE) programme to create a strong foundation
+for the development of broad-based physical competencies and opportunities
+for recreational participation, Physical Sports CCAs cater to students
+with interest in both recreational and competitive levels. Physical Sports
+CCAs develop robustness, fair play and team spirit in students as they
+become active and physically competent individuals in the sports that they
+participate in.</p>
+<p>We offer the following Physical Sports CCAs:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Badminton</p>
+</li>
+<li>
+<p>Basketball</p>
+</li>
+<li>
+<p>Football</p>
+</li>
+<li>
+<p>Netball</p>
+</li>
+</ul>
+<h4><a href="/our-core-curriculum-activities/uniformed-groups" rel="noopener nofollow" target="_blank">[Uniformed Groups]</a></h4>
 <p></p>
-<p><a href="/our-core-curriculum-activities/uniformed-groups" rel="noopener nofollow" target="_blank">[Uniformed Groups]</a>
-</p>
+<p></p>
+<p></p>
