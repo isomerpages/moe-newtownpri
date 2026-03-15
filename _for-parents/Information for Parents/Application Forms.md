@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p><strong><a href="https://drive.google.com/file/d/1H5uVSQ1wKScSHig2YDX3J7m2NHUh3skD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MTL Exemption Application</a></strong>
+<p><strong><a href="/files/Form_1___MTL__8_Dec_2023_.pdf" rel="noopener nofollow" target="_blank">MTL Exemption Application</a></strong>
 </p>
 </li>
 <li>
