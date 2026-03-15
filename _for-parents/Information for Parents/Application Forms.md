@@ -53,7 +53,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1OhiNZ3rKE6xJoaAG1cJdx8hxaRJYBxAl/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Change of Official Address</a>
+<p><strong><a href="/files/Form_C__Address_Updates__Fillable_Form.pdf" rel="noopener nofollow" target="_blank">Change of Official Address</a></strong>
 </p>
 </li>
 </ul>
