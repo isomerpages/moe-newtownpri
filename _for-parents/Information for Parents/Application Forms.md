@@ -17,8 +17,7 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p><strong><a href="/files/NTPS_Waiting_List_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Waitlist (AY 2026)</a></strong>
-<a href="/files/NTPS_Waiting_List_2026.pdf" rel="noopener nofollow" target="_blank">file</a>
+<p><a href="/files/NTPS_Waiting_List_2026.pdf" rel="noopener nofollow" target="_blank">Waitlist (AY 2026) </a>
 </p>
 </li>
 <li>
