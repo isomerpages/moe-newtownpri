@@ -1,0 +1,24 @@
+collections:
+  our-co-curricular-activities:
+    output: true
+    order:
+      - CCA Goals and Offerings/.keep
+      - CCA Goals and Offerings/Our Goals.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Art & Crafts.md
+      - Clubs and Societies/Robotics.md
+      - Clubs and Societies/Speech & Drama.md
+      - Performing Arts/.keep
+      - Performing Arts/Brass Band.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Modern Dance.md
+      - Physical Sports/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Football.md
+      - Physical Sports/Netball.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Girl Guides (Brownies).md
+      - Uniformed Groups/Red Cross (Youth).md

@@ -17,11 +17,11 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p><strong><a href="https://drive.google.com/file/d/1J-R-Zd0U6fW6B6tU7tZmTiKVs_SttYRI/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Waitlist (AY 2026)</a></strong>
+<p><a href="/files/NTPS_Waiting_List_2026.pdf" rel="noopener nofollow" target="_blank">Waitlist (AY 2026)</a>
 </p>
 </li>
 <li>
-<p><strong><a href="https://drive.google.com/file/d/1HZy-hCwlKBK7jEy8TtFX01gQ_ba6J2Og/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Withdrawal</a></strong>
+<p><a href="/files/Parent_s_Request_for_Termination_of_School_Form__Withdrawal_.pdf" rel="noopener nofollow" target="_blank">Withdrawal</a>
 </p>
 </li>
 </ul>
@@ -33,15 +33,15 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p><a href="https://drive.google.com/file/d/1H5uVSQ1wKScSHig2YDX3J7m2NHUh3skD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MTL Exemption Application</a>
+<p><strong><a href="/files/Form_1___MTL__8_Dec_2023_.pdf" rel="noopener nofollow" target="_blank">MTL Exemption Application</a></strong>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1FXm5FH12qC8FhSjyoVzmtPqq1N8J073f/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">MTL Application</a>
+<p><strong><a href="/files/Form_2___EXPT__12_Mar_2025__a.pdf" rel="noopener nofollow" target="_blank">MTL Application</a></strong>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1QQNncgJl6F4JEFBvzk6LSwpWXuDU36xU/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">NTIL Application</a>
+<p><strong><a href="/files/Form_3___NTIL__8_Dec_2023_.pdf" rel="noopener nofollow" target="_blank">NTIL Application</a></strong>
 </p>
 </li>
 </ul>
@@ -53,7 +53,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1OhiNZ3rKE6xJoaAG1cJdx8hxaRJYBxAl/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Change of Official Address</a>
+<p><strong><a href="/files/Form_C__Address_Updates__Fillable_Form.pdf" rel="noopener nofollow" target="_blank">Change of Official Address</a></strong>
 </p>
 </li>
 </ul>
