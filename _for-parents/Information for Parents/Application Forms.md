@@ -33,15 +33,15 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p><a href="https://drive.google.com/file/d/1H5uVSQ1wKScSHig2YDX3J7m2NHUh3skD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MTL Exemption Application</a>
+<p><strong><a href="https://drive.google.com/file/d/1H5uVSQ1wKScSHig2YDX3J7m2NHUh3skD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MTL Exemption Application</a></strong>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1FXm5FH12qC8FhSjyoVzmtPqq1N8J073f/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">MTL Application</a>
+<p><strong><a href="/files/Form_2___EXPT__12_Mar_2025__a.pdf" rel="noopener nofollow" target="_blank">MTL Application</a></strong>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1QQNncgJl6F4JEFBvzk6LSwpWXuDU36xU/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">NTIL Application</a>
+<p><strong><a href="/files/Form_3___NTIL__8_Dec_2023_.pdf" rel="noopener nofollow" target="_blank">NTIL Application</a></strong>
 </p>
 </li>
 </ul>
