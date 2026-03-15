@@ -17,11 +17,11 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p><a href="/files/NTPS_Waiting_List_2026.pdf" rel="noopener nofollow" target="_blank">Waitlist (AY 2026) </a>
+<p><a href="/files/NTPS_Waiting_List_2026.pdf" rel="noopener nofollow" target="_blank">Waitlist (AY 2026)</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Parent_s_Request_for_Termination_of_School_Form__Withdrawal_.pdf" rel="noopener noreferrer nofollow" target="_blank">Withdrawal</a></strong>
+<p><a href="/files/Parent_s_Request_for_Termination_of_School_Form__Withdrawal_.pdf" rel="noopener nofollow" target="_blank">Withdrawal</a>
 </p>
 </li>
 </ul>
