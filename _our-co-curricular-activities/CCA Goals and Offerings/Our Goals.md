@@ -18,7 +18,7 @@ hone their leadership skills to become competent and confident future leaders
 of the country.</p>
 <p>At New Town Primary School, every P3 to P6 student takes part in one CCA
 from one of the following categories:</p>
-<h4><a href="https://www.newtownpri.moe.edu.sg/clubs-societies/" rel="noopener nofollow" target="_blank">[Clubs and Societies]</a></h4>
+<h4><a href="https://www.newtownpri.moe.edu.sg/art-crafts/" rel="noopener nofollow" target="_blank">[Clubs and Societies]</a></h4>
 <p>Clubs &amp; Societies CCAs allow students to explore and extend their
 interests in both wide-ranging and specialised areas which may be knowledge-based
 or skills-based. Students are honed in information, communication and technical
