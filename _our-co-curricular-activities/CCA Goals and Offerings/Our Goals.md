@@ -59,7 +59,7 @@ cultural and historical awareness, and build character.</p>
 <p>Malay Dance</p>
 </li>
 </ul>
-<h4><a href="https://www.newtownpri.moe.edu.sg/physical-sports/" rel="noopener nofollow" target="_blank">[Physical Sports]</a></h4>
+<h4><a href="https://www.newtownpri.moe.edu.sg/badminton/" rel="noopener nofollow" target="_blank">[Physical Sports]</a></h4>
 <p>Building on the Physical Education (PE) programme to create a strong foundation
 for the development of broad-based physical competencies and opportunities
 for recreational participation, Physical Sports CCAs cater to students
