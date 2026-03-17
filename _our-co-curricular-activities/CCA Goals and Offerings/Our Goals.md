@@ -18,7 +18,7 @@ hone their leadership skills to become competent and confident future leaders
 of the country.</p>
 <p>At New Town Primary School, every P3 to P6 student takes part in one CCA
 from one of the following categories:</p>
-<h4><a href="https://cms.isomer.gov.sg/sites/moe-newtownpri/folders/our-core-curriculum-activities/subfolders/Clubs%20and%20Societies" rel="noopener nofollow" target="_blank">[Clubs and Societies]</a></h4>
+<h4><a href="https://www.newtownpri.moe.edu.sg/clubs-societies/" rel="noopener nofollow" target="_blank">[Clubs and Societies]</a></h4>
 <p>Clubs &amp; Societies CCAs allow students to explore and extend their
 interests in both wide-ranging and specialised areas which may be knowledge-based
 or skills-based. Students are honed in information, communication and technical
@@ -59,7 +59,7 @@ cultural and historical awareness, and build character.</p>
 <p>Malay Dance</p>
 </li>
 </ul>
-<h4><a href="https://cms.isomer.gov.sg/sites/moe-newtownpri/folders/our-core-curriculum-activities/subfolders/Physical%20Sports" rel="noopener nofollow" target="_blank">[Physical Sports]</a></h4>
+<h4><a href="https://www.newtownpri.moe.edu.sg/physical-sports/" rel="noopener nofollow" target="_blank">[Physical Sports]</a></h4>
 <p>Building on the Physical Education (PE) programme to create a strong foundation
 for the development of broad-based physical competencies and opportunities
 for recreational participation, Physical Sports CCAs cater to students
@@ -82,7 +82,7 @@ participate in.</p>
 <p>Netball</p>
 </li>
 </ul>
-<h4><a href="https://cms.isomer.gov.sg/sites/moe-newtownpri/folders/our-core-curriculum-activities/subfolders/Uniformed%20Groups" rel="noopener nofollow" target="_blank">[Uniformed Groups]</a></h4>
+<h4><a href="https://www.newtownpri.moe.edu.sg/uniformed-groups/" rel="noopener nofollow" target="_blank">[Uniformed Groups]</a></h4>
 <p>Uniformed Group CCAs aim to make good citizens of students by providing
 authentic learning experiences which will help them develop important qualities
 such as self-reliance, leadership, resilience, discipline, teamwork and
