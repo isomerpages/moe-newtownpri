@@ -82,7 +82,7 @@ participate in.</p>
 <p>Netball</p>
 </li>
 </ul>
-<h4><a href="https://www.newtownpri.moe.edu.sg/girl-guides/" rel="noopener nofollow" target="_blank">[Uniformed Groups]</a></h4>
+<h4><a href="https://www.newtownpri.moe.edu.sg/girl-guides-brownies/" rel="noopener nofollow" target="_blank">[Uniformed Groups]</a></h4>
 <p>Uniformed Group CCAs aim to make good citizens of students by providing
 authentic learning experiences which will help them develop important qualities
 such as self-reliance, leadership, resilience, discipline, teamwork and
