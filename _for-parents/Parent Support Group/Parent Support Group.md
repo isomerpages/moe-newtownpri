@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Parent Support Group
 ---
-<h3>Join &amp; Be Part of the Parent Support Group</h3>
+<h4><strong>Join &amp; Be Part of the Parent Support Group</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/For%20Parents/PSG_GroupPhoto.png">
 </div>
