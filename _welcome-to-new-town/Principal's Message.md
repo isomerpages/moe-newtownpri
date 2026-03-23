@@ -55,7 +55,7 @@ and natural.</p>
 <p>I'd love for you to be part of our New Town Primary family. Together,
 we can help your child discover just how amazing they can be.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/MG_1999_original.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/About Us/MG_1999_original.jpg">
 </div>
 <p>With warm regards,
 <br>Ms Hannah Chia
