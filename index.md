@@ -18,6 +18,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links
+      variant: image
   - textcards:
       title: New Town Primary School
       subtitle: What You need to know about
