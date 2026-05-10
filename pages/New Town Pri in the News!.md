@@ -14,7 +14,6 @@ variant: markdown
 
 [https://www.facebook.com/media/set/?set=a.10157486940077004&amp;type=3](https://www.facebook.com/media/set/?set=a.10157486940077004&amp;type=3)
 
-
 **<font size="5">New Town Pri in the news</font>**
 
 <img src="/images/Accolades/News%201.jpg" style="width:60%" align="left"> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -24,20 +23,6 @@ variant: markdown
 <img src="/images/Accolades/News%203.jpg" style="width:40%" align="left"><br><br><br><br><br><br>
 **Small Steps Big Future (Episode 3)**
 
-**<font size="5">New Town Pri on Schoolbag.sg</font>**
-
-<img src="/images/Accolades/News%204.jpg" style="width:40%" align="left"> <br><br><br><br><br><br><br>
-
-
-
-[Language Learning Blends with Charity and Entrepreneurship in New Town Pri](https://schoolbag.edu.sg/story/language-learning-blends-with-charity-and-entrepreneurship-in-new-town-primary)
-
-
-<img src="/images/Accolades/News%205.jpg" style="width:40%" align="left"><br><br><br><br><br><br><br>
-[Grandparents Volunteer in Schools too](https://schoolbag.edu.sg/story/grandparents-volunteer-in-schools-too)
-
-<img src="/images/Accolades/News%206.jpg" style="width:40%" align="left"> <br><br><br><br><br><br><br><br>
-[Move your Body, Strengthen your Mind](https://schoolbag.edu.sg/story/move-your-body-strengthen-your-mind)
 
 **<font size="5">New Town Pri on MOE Publications</font>**
 
