@@ -2,11 +2,19 @@
 title: For Parents
 permalink: /for-parents/
 description: ""
+variant: tiptap
 ---
-**<font size="6">For Parents</font>**
-
-*   [School Notifications](/for-parents/school-notifications)
-*   [Parents Gateway](/for-parents/resources-for-parents/parents-gateway)
-*   [Student iCON](https://sites.google.com/moe.edu.sg/ntps-ict/ntps-ict/student-icon)
-*   [School Staff List](https://newtownpri.moe.edu.sg/our-people/form-teachers/)
-*   [Booklist 2023](https://drive.google.com/drive/folders/1VlSDIAXAgsdhmUMPfPR78qXJnjIuP5qv?usp=sharing)
+<p><strong>For Parents</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/ntps-ict/ntps-ict/student-icon" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a>
+</p>
+</li>
+<li>
+<p><a href="https://newtownpri.moe.edu.sg/our-people/form-teachers/" rel="noopener noreferrer nofollow" target="_blank">School Staff List</a>
+</p>
+<p></p>
+</li>
+</ul>
+<p></p>
