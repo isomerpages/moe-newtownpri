@@ -182,55 +182,8 @@ Teacher Time).&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>Gate Opening Hours (During School Term)</strong>&nbsp;</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Gate</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Gate opening in morning</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Gate opening during dismissal</strong>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Open from 6.30 am to 7.00 pm&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.45 am - 7.30 am&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>1.30 pm - 2.10 pm (Mon, Tue, Thurs &amp; Fri)&nbsp;</p>
-<p>2.00 pm – 2.40 pm (Only on Wed)&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>3</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.45 am - 7.30 am&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GateOpeningHours__During_School_Term__no_heading.png">
+</div>
 <p></p>
