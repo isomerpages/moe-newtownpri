@@ -23,4 +23,7 @@ brainstorm and evaluate ideas together, and reflect on their implemented
 solutions. This experiential and applied process encourages them to develop
 diverse perspectives and embrace ambiguity, and to master skills in un-learning
 and re-learning.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students use specific thinking tools to give one another feedback on writable surfaces" src="/images/ALP_Card_1.png">
+</div>
 <p></p>
