@@ -4,57 +4,12 @@ permalink: /school-bus/
 variant: tiptap
 description: ""
 ---
-<h3>School Bus Vendor&nbsp;</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Name:</p>
-</td>
-<td rowspan="1" colspan="1">
+<h3>School Bus Vendor</h3>
 <p>Sky Island Transport &amp; Trading Pte Ltd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Bus Captain Leader:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Fong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Email:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>skyisland96@hotmail.com</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Telephone:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9188 4698 / 9009 0569</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h3>Bus Fares</h3>
+<p>Bus Captain Leader: Ms. Fong</p>
+<p>Tel: 9188 4698 / 9009 0569</p>
+<p>Email: <a href="mailto:skyisland96@hotmail.com" rel="noopener noreferrer nofollow" target="_blank">skyisland96@hotmail.com</a>
+</p>
 <p>Period: 1 Jan 2025 to 31 Dec 2026</p>
 <table style="minWidth: 125px">
 <colgroup>
