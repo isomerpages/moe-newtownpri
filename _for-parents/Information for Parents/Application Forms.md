@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Information for Parents
 variant: tiptap
 ---
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
