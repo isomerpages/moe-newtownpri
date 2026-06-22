@@ -165,5 +165,3 @@ can contact any of the "buddy clinics" below for assistance.&nbsp;</p>
 </tbody>
 </table>
 <p>Find out more about <a href="https://www.healthhub.sg/programmes/15/school_dental_programme" class="Hyperlink SCXW214845628 BCX8" rel="noreferrer noopener" target="_blank"><u>school dental services</u></a>.&nbsp;</p>
-<p></p>
-<p></p>
