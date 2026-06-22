@@ -28,4 +28,9 @@ audience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Tier2.png">
 </div>
+<p>Students conduct dot voting and interviews to gather feedback for a project
+on redesigning the school canteen.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Canteen_Pilot.png">
+</div>
 <p></p>
