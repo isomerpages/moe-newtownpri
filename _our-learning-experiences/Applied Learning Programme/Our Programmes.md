@@ -18,4 +18,14 @@ from their perspective.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Lesson.png">
 </div>
-<p>&nbsp;</p>
+<p>At the upper primary levels (Primary 4-6), the ALP deepens with more complex
+and authentic challenges. They will participate in projects that require
+them to apply cognitive flexibility to discuss real-world issues, either
+within the school or the wider community. These projects can involve collaboration
+with external partners, giving students the opportunity to impact an authentic
+audience.</p>
+<p>Students in a Design Thinking Programme conducted by Mandai Zoo.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Tier2.png">
+</div>
+<p></p>
