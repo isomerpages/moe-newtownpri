@@ -112,7 +112,7 @@ description: ""
 <br>Tel: 8014 4298&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
 <br>Email: <a href="mailto:admission_cls_ntps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_ntps@commitlearning.com.sg</a>
 </p>
-<p></p>
+<h3>Student Dental Clinic</h3>
 <p></p>
 <p></p>
 <p></p>
