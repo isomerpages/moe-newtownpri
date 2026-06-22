@@ -17,8 +17,7 @@ observe, support, and practise leadership responsibilities in real school
 settings. Through these experiences, student leader nominees gain confidence,
 resilience, and the readiness to take on formal leadership roles such as
 Prefects and Peer Support Leaders.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_StudentLeaders3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Our_Programmes_High_Res.png">
 </div>
 <p></p>
