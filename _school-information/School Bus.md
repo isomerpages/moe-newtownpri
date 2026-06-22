@@ -88,4 +88,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>School Bookshop</p>
