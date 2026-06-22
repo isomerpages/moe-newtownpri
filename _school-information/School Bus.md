@@ -95,5 +95,16 @@ description: ""
 <br>Mon to Fri: 9.00 am - 3.00 pm&nbsp;
 <br>(Closed during lunch hours 11.30 am - 12.30 pm)&nbsp;</p>
 <h3>School Uniform</h3>
-<p></p>
+<p>Bibi &amp; Baba Private Limited &nbsp;
+<br>Tel: 6271 9248&nbsp;&nbsp; &nbsp;
+<br>Email: <a href="mailto:uniforms@bibibaba.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>uniforms@bibibaba.com.sg</u></a>&nbsp;
+<br>Website: <a href="https://www.schooluniforms.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schooluniforms.sg/</u></a>&nbsp;&nbsp;</p>
+<p>Address:&nbsp;
+<br>BB @ Henderson Road &nbsp;
+<br>213 Henderson Road, #01-12 &nbsp;
+<br>Singaopre 159553&nbsp;</p>
+<p>Operating hours: &nbsp;
+<br>Mon to Fri: 9:00 am to 6:00 pm&nbsp;
+<br>Sat: 9:00 am to 1:00 pm&nbsp;
+<br>Sun / Public Holiday, : Closed&nbsp;</p>
 <p></p>
