@@ -106,5 +106,7 @@ description: ""
 <p>Operating hours: &nbsp;
 <br>Mon to Fri: 9:00 am to 6:00 pm&nbsp;
 <br>Sat: 9:00 am to 1:00 pm&nbsp;
-<br>Sun / Public Holiday, : Closed&nbsp;</p>
+<br>Sun / Public Holiday: Closed&nbsp;</p>
+<p></p>
+<p></p>
 <p></p>
