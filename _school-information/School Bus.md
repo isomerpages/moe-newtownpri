@@ -94,5 +94,6 @@ description: ""
 <p>Operating hours during school term:&nbsp;
 <br>Mon to Fri: 9.00 am - 3.00 pm&nbsp;
 <br>(Closed during lunch hours 11.30 am - 12.30 pm)&nbsp;</p>
+<h3>School Uniform</h3>
 <p></p>
 <p></p>
