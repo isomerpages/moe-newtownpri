@@ -113,6 +113,57 @@ description: ""
 <br>Email: <a href="mailto:admission_cls_ntps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_ntps@commitlearning.com.sg</a>
 </p>
 <h3>Student Dental Clinic</h3>
-<p></p>
+<p>Tel: 8764 9804&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+<br><em>(Please call or send a WhatsApp message to make an appointment)</em>.</p>
+<p>
+<br>Opening hours:&nbsp;
+<br>Mon to Fri : 8.00 am to 5.30 pm&nbsp;
+<br>(Closed during lunch hours 12.30 am - 1.30 pm)&nbsp;</p>
+<p>
+<br>Students who require emergency dental treatment, in case of clinic closure
+can contact any of the "buddy clinics" below for assistance.&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School&nbsp;</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Contact</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Address</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Queenstown Primary School&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8909 2160&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>310 Margaret Dr, Singapore 149303&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ Kellock Primary School&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8764 7293&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Bukit Teresa Rd, Singapore 099757&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Find out more about <a href="https://www.healthhub.sg/programmes/15/school_dental_programme" class="Hyperlink SCXW214845628 BCX8" rel="noreferrer noopener" target="_blank"><u>school dental services</u></a>.&nbsp;</p>
 <p></p>
 <p></p>
