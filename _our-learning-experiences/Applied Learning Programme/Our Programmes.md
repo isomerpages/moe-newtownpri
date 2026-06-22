@@ -13,4 +13,9 @@ activities. They learn to observe their surroundings, identify simple problems,
 and brainstorm creative solutions through play and hands-on projects. These
 initial experiences build their curiosity and empathy, which are crucial
 starting points for problem-solving.</p>
+<p>Students appreciate the feelings and experiences of others by seeing things
+from their perspective.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Lesson.png">
+</div>
 <p>&nbsp;</p>
