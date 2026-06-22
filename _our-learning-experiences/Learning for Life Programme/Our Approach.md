@@ -11,9 +11,9 @@ cater to the interests, talents and aptitudes of all New Towners. By helping
 our students to discover and develop their unique strengths, interests
 and competencies through customised leadership platforms and opportunities
 for meaningful learning experiences, they will be able to make a positive
-difference at home, in school and the community.&nbsp;</p>
+difference at home, in school and the community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_DesiredOutcomes_NTPSVision.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Tiered_High_Res__1_.png">
 </div>
 <p><em>Tier 1: Equipping our Student Leaders</em>
 </p>
@@ -25,9 +25,8 @@ and the building of positive relationships with peers and teachers. These
 experiences provide an authentic platform for students to grow in confidence,
 practise respectful communication, and strengthen the bonds that support
 their leadership journey in the classroom and beyond.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_EmpoweringStudentLeaders.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Empowering_Student_Leaders_High_Res.png">
 </div>
 <p><em>Tier 2: Empowering our Student Leaders</em>
 </p>
@@ -42,16 +41,16 @@ the skills and leadership competencies to develop them in their leadership
 roles, they attend various training workshops on peer support, public speaking
 and project management.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_StudentLeaders.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Student_Leaders_3_High_Res.png">
 </div>
 <p>At school events, our student leaders host and organise activities, and
 play the important role of school ambassadors to share with visitors about
 our exciting New Town family experience. They also lead in student-initiated
 projects to raise awareness about community issues close to their hearts,
 and rally their peers to play an active role in making a positive impact
-on New Town and the community.&nbsp;</p>
+on New Town and the community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_StudentLeaders2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Student_Leaders_2_High_Res.png">
 </div>
 <p><em>Tier 3: Elevating our Student Leaders</em>
 </p>
