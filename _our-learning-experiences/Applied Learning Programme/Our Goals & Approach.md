@@ -22,8 +22,15 @@ at different stages to empathise with others, define challenges and problems,
 brainstorm and evaluate ideas together, and reflect on their implemented
 solutions. This experiential and applied process encourages them to develop
 diverse perspectives and embrace ambiguity, and to master skills in un-learning
-and re-learning.&nbsp;</p>
+and re-learning.</p>
+<p>Students use specific thinking tools to give one another feedback on writable
+surfaces.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students use specific thinking tools to give one another feedback on writable surfaces" src="/images/ALP_Card_1.png">
+</div>
+<p>Students learn about resilience and growth mindset through perspective
+taking using their non-dominant hand to write&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_card_2.png">
 </div>
 <p></p>
