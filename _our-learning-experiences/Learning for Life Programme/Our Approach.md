@@ -68,6 +68,5 @@ their voice as changemakers. By leading the school in both day-to-day responsibi
 and special projects, they inspire their fellow New Towners to step forward
 as leaders in their own right, embodying the school’s belief that every
 student can make a meaningful difference to New Town and the wider community.&nbsp;</p>
-<p></p>
 <p>&nbsp;</p>
 <p></p>
