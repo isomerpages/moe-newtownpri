@@ -108,6 +108,11 @@ description: ""
 <br>Sat: 9:00 am to 1:00 pm&nbsp;
 <br>Sun / Public Holiday: Closed&nbsp;</p>
 <h3>Student Care Centre</h3>
+<p>Commit Learning Schoolhouse Pte Ltd &nbsp;
+<br>Tel: 8014 4298&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+<br>Email: <a href="mailto:admission_cls_ntps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_ntps@commitlearning.com.sg</a>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
