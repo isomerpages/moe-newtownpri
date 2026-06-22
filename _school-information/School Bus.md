@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3>School Bus Vendor</h3>
-<p>Sky Island Transport &amp; Trading Pte Ltd</p>
-<p>Bus Captain Leader: Ms. Fong</p>
-<p>Tel: 9188 4698 / 9009 0569</p>
-<p>Email: <a href="mailto:skyisland96@hotmail.com" rel="noopener noreferrer nofollow" target="_blank">skyisland96@hotmail.com</a>
-</p>
+<p>Sky Island Transport &amp; Trading Pte Ltd&nbsp; &nbsp;
+<br>Bus Captain Leader: Ms Fong&nbsp;
+<br>Tel: 9188 4698 / 9009 0569 &nbsp;
+<br>Email: <a href="mailto:skyisland96@hotmail.com" rel="noopener noreferrer nofollow" target="_blank">skyisland96@hotmail.com</a>&nbsp;&nbsp;&nbsp;</p>
 <p>Period: 1 Jan 2025 to 31 Dec 2026</p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -88,4 +87,12 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>School Bookshop</p>
+<h3>School Bookshop</h3>
+<p>The Continental Book Centre&nbsp; &nbsp;
+<br>Tel: 9475 9606 &nbsp;
+<br>Email: <a href="mailto:admin@the-continental.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>admin@the-continental.com.sg</u></a>&nbsp;</p>
+<p>Operating hours during school term:&nbsp;
+<br>Mon to Fri: 9.00 am - 3.00 pm&nbsp;
+<br>(Closed during lunch hours 11.30 am - 12.30 pm)&nbsp;</p>
+<p></p>
+<p></p>
