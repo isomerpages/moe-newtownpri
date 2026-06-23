@@ -39,14 +39,6 @@ such as the National School Games - Football Competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Caleb Tan (2IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>caleb_tan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms&nbsp; Ho Hui Xin</p>
 </td>
 <td rowspan="1" colspan="1">
