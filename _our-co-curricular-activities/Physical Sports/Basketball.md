@@ -48,14 +48,6 @@ in various competitions such as National School Games - Basketball Competitions.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wang Jianbo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wang_jianbo@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Max Wong</p>
 </td>
 <td rowspan="1" colspan="1">
