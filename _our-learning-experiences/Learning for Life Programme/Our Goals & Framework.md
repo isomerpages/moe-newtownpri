@@ -15,6 +15,6 @@ by Dr. Stephen Covey, explicitly teaches our students the 7 Habits to empower
 them with the leadership and life skills they need to thrive in the 21st
 Century.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_7Habits.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Framework___Tree_Habits_High_Res.png">
 </div>
 <p></p>

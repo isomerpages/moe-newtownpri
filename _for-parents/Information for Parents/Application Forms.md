@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Information for Parents
 variant: tiptap
 ---
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -13,16 +12,19 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Admission / Transfer</strong>
-</p>
 <ul>
 <li>
-<p><a href="/files/NTPS_Waiting_List_2026.pdf" rel="noopener nofollow" target="_blank">Waitlist (AY 2026)</a>
+<p><a href="/files/NTPS_Waiting_List_2026.pdf" rel="noopener nofollow" target="_blank">Waiting List Request Form 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Parent_s_Request_for_Termination_of_School_Form__Withdrawal_.pdf" rel="noopener nofollow" target="_blank">Withdrawal</a>
+<p><a href="/files/Form_C__Address_Updates__Fillable_Form.pdf" rel="noopener nofollow" target="_blank">Update Student Residential Address Request Form</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Parent_s_Request_for_Termination_of_School_Form__Withdrawal_.pdf" rel="noopener nofollow" target="_blank">School Withdrawal Request Form</a>
+</p>
+<p></p>
 </li>
 </ul>
 </th>
@@ -49,14 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Official Address</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="/files/Form_C__Address_Updates__Fillable_Form.pdf" rel="noopener nofollow" target="_blank">Change of Official Address</a></strong>
-</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 </tbody>
