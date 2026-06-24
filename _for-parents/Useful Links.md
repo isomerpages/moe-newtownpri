@@ -122,4 +122,12 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p><strong>Teaching and Learning</strong>
+</p>
+<ul>
+<li>
+<p><a href="https://intranet.moe.gov.sg/Send/Pages/SEN_Resource_Portal.aspx" rel="noopener nofollow" target="_blank">SEN Resource Portal</a>
+</p>
+</li>
+</ul>
 <p></p>
