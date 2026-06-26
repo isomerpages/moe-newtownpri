@@ -24,30 +24,14 @@ variant: tiptap
 <li>
 <p><a href="/files/Parent_s_Request_for_Termination_of_School_Form__Withdrawal_.pdf" rel="noopener nofollow" target="_blank">School Withdrawal Request Form</a>
 </p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ntpsloaapp" rel="noopener nofollow" target="_blank">Leave of Absence (LOA) Form</a>
+</p>
 <p></p>
 </li>
 </ul>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mother Tongue</strong>
-</p>
-<ul>
-<li>
-<p><strong><a href="/files/Form_1___MTL__8_Dec_2023_.pdf" rel="noopener nofollow" target="_blank">MTL Exemption Application</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="/files/Form_2___EXPT__12_Mar_2025__a.pdf" rel="noopener nofollow" target="_blank">MTL Application</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="/files/Form_3___NTIL__8_Dec_2023_.pdf" rel="noopener nofollow" target="_blank">NTIL Application</a></strong>
-</p>
-</li>
-</ul>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
