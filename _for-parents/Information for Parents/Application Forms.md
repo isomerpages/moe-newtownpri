@@ -24,6 +24,10 @@ variant: tiptap
 <li>
 <p><a href="/files/Parent_s_Request_for_Termination_of_School_Form__Withdrawal_.pdf" rel="noopener nofollow" target="_blank">School Withdrawal Request Form</a>
 </p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ntpsloaapp" rel="noopener nofollow" target="_blank">Leave of Absence (LOA) Form</a>
+</p>
 <p></p>
 </li>
 </ul>
