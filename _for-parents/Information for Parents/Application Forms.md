@@ -35,26 +35,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mother Tongue</strong>
-</p>
-<ul>
-<li>
-<p><strong><a href="/files/Form_1___MTL__8_Dec_2023_.pdf" rel="noopener nofollow" target="_blank">MTL Exemption Application</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="/files/Form_2___EXPT__12_Mar_2025__a.pdf" rel="noopener nofollow" target="_blank">MTL Application</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="/files/Form_3___NTIL__8_Dec_2023_.pdf" rel="noopener nofollow" target="_blank">NTIL Application</a></strong>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
