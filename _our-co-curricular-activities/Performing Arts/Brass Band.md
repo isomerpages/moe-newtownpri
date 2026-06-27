@@ -6,17 +6,16 @@ description: ""
 third_nav_title: Performing Arts
 ---
 <h3>Brass Band</h3>
-<p>Brass Band CCA enables students to develop their musical abilities through
-hands-on experience with various brass and percussion instruments. Under
-teachers' and instructors' guidance, members strengthen their leadership
-skills whilst fostering essential values of commitment, perseverance, and
-teamwork. Students gain valuable performance experience through the biennial
-Singapore Youth Festival Arts Presentation, enriching their musical and
-educational journey.&nbsp;</p>
+<p>Brass Band CCA develops students’ musical talents through learning brass
+and percussion instruments while fostering values such as commitment, perseverance,
+and teamwork. Members gain valuable performance experience and grow in
+confidence, leadership, and musicianship.&nbsp;</p>
 <p><strong>Objectives</strong>&nbsp;
 <br>Brass Band members will be developed holistically across three key areas:&nbsp;</p>
 <ul>
 <li>
+<p><strong>Skills:</strong>
+</p>
 <p>Build their musical skills<strong> </strong>through instrumental mastery,
 ensemble techniques, and cultivate listening abilities, rhythm, pitch accuracy,
 and sight-reading capabilities whilst build performance confidence and
@@ -25,6 +24,8 @@ stage presence.&nbsp;&nbsp;</p>
 </ul>
 <ul>
 <li>
+<p><strong>Values:</strong>
+</p>
 <p>Cultivate core values such as discipline, resilience and perseverance
 as members tackle challenging pieces together. As an ensemble, they develop
 teamwork, mutual respect and a deep appreciation for music and the arts.&nbsp;&nbsp;&nbsp;</p>
@@ -32,6 +33,8 @@ teamwork, mutual respect and a deep appreciation for music and the arts.&nbsp;&n
 </ul>
 <ul>
 <li>
+<p><strong>Leadership:</strong>
+</p>
 <p>Develop leadership by empowering section leaders and band members to guide
 and inspire their peers. Members build confidence, communication and mentoring
 skills as they support juniors and contribute to performances that unite
