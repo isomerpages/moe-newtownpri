@@ -12,27 +12,25 @@ and experiences, members grow into confident, responsible, and independent
 young leaders.&nbsp;</p>
 <p><strong>Objectives</strong>&nbsp;</p>
 <p>Our activities are guided by the 5-Point programme, which focuses on:&nbsp;</p>
-<ul>
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>Personal and Social Development&nbsp;</strong>&nbsp;</p>
 </li>
-</ul>
-<p>– &nbsp;&nbsp;&nbsp; Physical Development (Healthy Me)&nbsp;</p>
-<ul>
+</ol>
+<ul data-tight="true" class="tight">
 <li>
-<p>Emotional Development (Courteous Me)&nbsp;</p>
+<p>Physical Development (Healthy Me)</p>
+</li>
+<li>
+<p>&nbsp;Emotional Development (Courteous Me)</p>
+</li>
+<li>
+<p>Social Development (Cultured Me)</p>
 </li>
 </ul>
-<ul>
-<li>
-<p>Social Development (Cultured Me)&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p><strong>Home Responsibilities</strong>&nbsp;</p>
-</li>
-</ul>
+<p>2. <strong>Home Responsibilities</strong>
+</p>
+<p></p>
 <p>–&nbsp;&nbsp;&nbsp;&nbsp; Home Duties&nbsp;&nbsp;</p>
 <ul>
 <li>
@@ -78,16 +76,100 @@ sales, where they gain valuable presentation and entrepreneurial skills.&nbsp;</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_UG_GirlGuides4.png">
 </div>
-<p><strong>Achievements</strong>&nbsp;</p>
+<p><strong>Achievements </strong>&nbsp;</p>
 <p>In recognition of the consistent effort, teamwork, and commitment, our
-pack has been awarded the Puan Noor Aishah Award for the following years:&nbsp;</p>
-<p>2022 – Gold&nbsp;</p>
-<p>2023 – Gold&nbsp;</p>
-<p>2024 - Gold&nbsp;&nbsp;</p>
-<p><strong>Training Session&nbsp;</strong>&nbsp;</p>
-<p>Tuesday 7.40 am to 9.10 am&nbsp;</p>
+pack has been awarded the Puan Noor Aishah Award and other awards for the
+following years:&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver&nbsp;</strong>&nbsp;</p>
+<p><strong>World Thinking Day: Think Outside the Cookie Box Design Competition –2<sup>nd</sup>&nbsp;&nbsp;</strong>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Training Session </strong> &nbsp;</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Venue</strong>&nbsp;</p>
-<p>P3-2 Classroom&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers In-charge</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students Involved</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.40 am to 9.10 am &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-2 Classroom&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Diana Yao Sufeng (OIC)&nbsp;</p>
+<p>Mdm Tan Xin Pei (2IC)&nbsp;</p>
+<p>Mdm Karen Lee&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 to P6&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Students’ Experiences</strong>&nbsp;</p>
 <p>“I love Brownies because I enjoy going out and spending time with my friends
 and teachers. I also like when we get to sell cookies because the money
