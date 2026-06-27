@@ -14,29 +14,51 @@ young leaders.&nbsp;</p>
 <p>Our activities are guided by the 5-Point programme, which focuses on:&nbsp;</p>
 <ul>
 <li>
-<p>Personal and social development&nbsp;</p>
+<p><strong>Personal and Social Development&nbsp;</strong>&nbsp;</p>
+</li>
+</ul>
+<p>– &nbsp;&nbsp;&nbsp; Physical Development (Healthy Me)&nbsp;</p>
+<ul>
+<li>
+<p>Emotional Development (Courteous Me)&nbsp;</p>
 </li>
 </ul>
 <ul>
 <li>
-<p>Home responsibilities&nbsp;</p>
+<p>Social Development (Cultured Me)&nbsp;</p>
 </li>
 </ul>
 <ul>
 <li>
-<p>Community involvement&nbsp;</p>
+<p><strong>Home Responsibilities</strong>&nbsp;</p>
+</li>
+</ul>
+<p>–&nbsp;&nbsp;&nbsp;&nbsp; Home Duties&nbsp;&nbsp;</p>
+<ul>
+<li>
+<p>Home Safety&nbsp;</p>
 </li>
 </ul>
 <ul>
 <li>
-<p>International understanding&nbsp;</p>
+<p><strong>Community Involvement</strong>&nbsp;</p>
 </li>
 </ul>
+<p>–&nbsp;&nbsp;&nbsp;&nbsp; My Country, My Neighbourhood, Helper&nbsp;</p>
 <ul>
 <li>
-<p>Outdoor exploration&nbsp;</p>
+<p><strong>International Understanding</strong>&nbsp;</p>
 </li>
 </ul>
+<p>–&nbsp;&nbsp;&nbsp;&nbsp; My Globe&nbsp;</p>
+<p>–&nbsp;&nbsp;&nbsp;&nbsp; My Guiding World&nbsp;&nbsp;</p>
+<p>–&nbsp;&nbsp;&nbsp;&nbsp; My Guiding Friend&nbsp;</p>
+<ul>
+<li>
+<p><strong>Outdoor Exploration</strong>&nbsp;</p>
+</li>
+</ul>
+<p>–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discovering Nature, A Green World</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_UG_GirlGuides1.png">
 </div>
