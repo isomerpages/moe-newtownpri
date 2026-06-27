@@ -6,13 +6,10 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <h4><strong>Robotics Club</strong></h4>
-<p>Members of Robotics CCA develop construction and programming skills to
-build robots that perform specific tasks. They are provided with opportunities
-for collaborative learning, enabling them to strengthen their teamwork
-and problem-solving abilities. In-house competitions are organized to allow
-members to challenge themselves and showcase their skills. Dedicated members
-who demonstrate both aptitude and a positive attitude during CCA sessions
-are selected to represent the school in external competitions.&nbsp;</p>
+<p>Robotics CCA equips members with construction and programming skills to
+design and build robots for specific tasks. Through collaborative projects
+and in-house competitions, they develop teamwork, problem-solving, and
+innovation skills.&nbsp;&nbsp;</p>
 <p><strong>Objectives</strong>&nbsp;</p>
 <p>Robotics members will be developed holistically across three key areas:&nbsp;</p>
 <p>1. Skills:&nbsp;</p>
@@ -139,17 +136,110 @@ initiative during teamwork.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_CS_Robotics4.png">
 </div>
-<p><strong>Achievements</strong>&nbsp;</p>
-<p>2023 -<strong> </strong>Participation in National Robotics Competition&nbsp;</p>
-<p>2024 - Participation in Innovation, Design &amp; Engineering (IDE) Competition&nbsp;</p>
-<p>2025 - Participation in Innovation, Design &amp; Engineering (IDE) Competition
-&amp; National Robotics Competition&nbsp;</p>
-<p><strong>Training Session&nbsp;</strong>&nbsp;</p>
-<p>Tuesday 7.40 am to 9.10 am&nbsp;</p>
-<p>Friday 2.15 pm to 3.45 pm&nbsp;</p>
+<p><strong>Achievements </strong>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Robotics Competition – Participation</strong>&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Innovation, Design &amp; Engineering (IDE) Competition – Participation&nbsp;&nbsp;</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Robotics Competition (Regular Upper Primary) – Judges’ Award</strong>&nbsp;&nbsp;</p>
+<p><strong>National Robotics Competition (Regular Upper Primary) – Participation</strong>&nbsp;&nbsp;</p>
+<p><strong>Innovation, Design &amp; Engineering (IDE) Series 2025 Sprint – Participation&nbsp;&nbsp;</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2026</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Innovation, Design &amp; Engineering (IDE) Maker – Participation&nbsp;&nbsp;</strong>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Training Session </strong> &nbsp;</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Venue</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers In-charge</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students Involved</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.40 am to 9.10 am &nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
 <p>Computer Labs 1 &amp; 3&nbsp;</p>
-<p><strong>Student Experience</strong>&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Ms Chia Kim Fung (OIC)&nbsp;</p>
+<p>Mr Muhammad Khairool (2IC)&nbsp;</p>
+<p>Mdm Nur Mashitah Binti Hosaini&nbsp;</p>
+<p>Ms Ling Chin Chin&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 to P6&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 pm to 3.45 pm &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selected students&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Students’ Experience</strong>&nbsp;</p>
 <p>“Over the years, Robotics has enabled me to master skills I never imagined
 I could achieve. In today’s world of AI and technology, I believe the knowledge
 and experience gained during CCA training will benefit me in many ways
@@ -162,7 +252,7 @@ Nevertheless, these obstacles never stopped me from progressing further
 in school. I am grateful for the guidance I received, and I have learnt
 valuable lessons from my mistakes. My team members and trainers played
 a key role in every session, supporting me in both building and coding.”
-– Wang Zian&nbsp;</p>
+– Wang Zian</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_CS_Robotics5.png">
 </div>
