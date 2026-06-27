@@ -28,26 +28,36 @@ young leaders.&nbsp;</p>
 <p>Social Development (Cultured Me)</p>
 </li>
 </ul>
-<p>2. <strong>Home Responsibilities</strong>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Home Responsibilities</strong>
 </p>
-<p></p>
-<p>–&nbsp;&nbsp;&nbsp;&nbsp; Home Duties&nbsp;&nbsp;</p>
-<ul>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
 <li>
-<p>Home Safety&nbsp;</p>
+<p>Home Duties</p>
+</li>
+<li>
+<p>Home Safety</p>
 </li>
 </ul>
-<ul>
+<ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>Community Involvement</strong>&nbsp;</p>
+<p><strong>Community Involvement</strong>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>My Country, My Neighbourhood, Helper</p>
 </li>
 </ul>
-<p>–&nbsp;&nbsp;&nbsp;&nbsp; My Country, My Neighbourhood, Helper&nbsp;</p>
-<ul>
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p><strong>International Understanding</strong>&nbsp;</p>
 </li>
-</ul>
+</ol>
 <p>–&nbsp;&nbsp;&nbsp;&nbsp; My Globe&nbsp;</p>
 <p>–&nbsp;&nbsp;&nbsp;&nbsp; My Guiding World&nbsp;&nbsp;</p>
 <p>–&nbsp;&nbsp;&nbsp;&nbsp; My Guiding Friend&nbsp;</p>
