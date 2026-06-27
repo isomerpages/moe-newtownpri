@@ -6,14 +6,10 @@ description: ""
 third_nav_title: Physical Sports
 ---
 <h3><strong>Netball</strong></h3>
-<p>Netball CCA introduces students to the fundamentals of a fast-paced and
-strategic game. Through our weekly training program, netballers will not
-only develop physical competencies and a love for the sport but also cultivate
-essential life skills and values such as teamwork and sportsmanship. Netballers
-are nurtured to be confident, disciplined, and responsible girls who exhibit
-grit and resilience. The programme is designed to provide a nurturing and
-positive environment where every student, regardless of their skill level,
-can learn, grow, and have fun.&nbsp;&nbsp;</p>
+<p>Netball CCA nurtures confident, disciplined, and responsible girls who
+demonstrate grit, resilience, and sportsmanship. Through weekly training,
+members of all skill levels develop their physical competencies and a love
+for the fast-paced and strategic game.&nbsp;</p>
 <p><strong>Objectives</strong>&nbsp;
 <br>In Netball, the girls will be developed in these three key areas:&nbsp;</p>
 <ul>
