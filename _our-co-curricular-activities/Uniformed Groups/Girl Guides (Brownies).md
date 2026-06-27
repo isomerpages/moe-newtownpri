@@ -55,18 +55,32 @@ young leaders.&nbsp;</p>
 </ul>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p><strong>International Understanding</strong>&nbsp;</p>
+<p><strong>International Understanding</strong>
+</p>
 </li>
 </ol>
-<p>–&nbsp;&nbsp;&nbsp;&nbsp; My Globe&nbsp;</p>
-<p>–&nbsp;&nbsp;&nbsp;&nbsp; My Guiding World&nbsp;&nbsp;</p>
-<p>–&nbsp;&nbsp;&nbsp;&nbsp; My Guiding Friend&nbsp;</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>Outdoor Exploration</strong>&nbsp;</p>
+<p>My Globe</p>
+</li>
+<li>
+<p>My Guiding World</p>
+</li>
+<li>
+<p>My Guiding Friend</p>
 </li>
 </ul>
-<p>–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discovering Nature, A Green World</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong>Outdoor Exploration</strong>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Discovering Nature, A Green World</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_UG_GirlGuides1.png">
 </div>
