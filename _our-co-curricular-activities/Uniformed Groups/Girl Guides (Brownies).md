@@ -6,10 +6,10 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 <h3>Girl Guides (Brownies)</h3>
-<p>Brownies is a uniformed group CCA for girls that nurtures character development,
-builds practical life skills, and encourages meaningful contributions to
-the community. At New Town Primary School, we aim to help our members grow
-into confident, responsible, and independent individuals.&nbsp;&nbsp;&nbsp;</p>
+<p>Girl Guides (Brownies) nurtures girls to develop strong character, practical
+life skills, and a spirit of community service. Through engaging activities
+and experiences, members grow into confident, responsible, and independent
+young leaders.&nbsp;</p>
 <p><strong>Objectives</strong>&nbsp;</p>
 <p>Our activities are guided by the 5-Point programme, which focuses on:&nbsp;</p>
 <ul>
