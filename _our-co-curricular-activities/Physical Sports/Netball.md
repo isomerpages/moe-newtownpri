@@ -17,28 +17,26 @@ for the fast-paced and strategic game.&nbsp;</p>
 <p><strong>Skills</strong>:&nbsp;&nbsp;</p>
 </li>
 </ul>
-<p>Students will learn and master fundamental netball skills such as passing,
-catching, footwork, and shooting. They will also gain an understanding
-of strategic play, including attacking and defensive tactics.&nbsp;</p>
+<p>Master fundamental netball skills such as passing, catching, footwork,
+and shooting. They will also gain an understanding of strategic play, including
+attacking and defensive tactics.&nbsp;</p>
 <ul>
 <li>
 <p><strong>Values</strong>:&nbsp;&nbsp;</p>
 </li>
 </ul>
-<p>Through the sport, students will cultivate core values like discipline
-(through consistent practice), respect (for teammates, opponents, and officials),
-resilience (bouncing back from a loss or mistake), and integrity (playing
-fairly and honestly). They will learn to work collaboratively with their
-teammates, communicate effectively, and display good sportsmanship both
-on and off the court.&nbsp;</p>
+<p>Cultivate core values like discipline (through consistent practice), respect
+(for teammates, opponents, and officials), resilience (bouncing back from
+a loss or mistake), and integrity (playing fairly and honestly). They learn
+to work collaboratively with their teammates, communicate effectively,
+and display good sportsmanship both on and off the court.</p>
 <ul>
 <li>
 <p><strong>Leadership</strong>:&nbsp;&nbsp;</p>
 </li>
 </ul>
-<p>Opportunities are provided for students to take on leadership roles, such
-as team captains. This helps them to build confidence, make decisions,
-be good role models and motivate their peers.&nbsp;</p>
+<p>Take on leadership roles, such as team captains to build confidence, make
+decisions, be good role models and motivate their peers.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_PS_Netball1.png">
 </div>
