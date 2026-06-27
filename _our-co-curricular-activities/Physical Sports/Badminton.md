@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Physical Sports
 ---
 <h3>Badminton</h3>
-<p>Badminton CCA provides students with the opportunity to develop their
-technical skills while building strong character values such as sportsmanship,
-discipline, and teamwork. Through structured training and friendly competition,
+<p>Badminton CCA nurtures students’ badminton skills while instilling strong
+character values. Through structured training and friendly competition,
 members learn to strive for excellence both on and off the court.&nbsp;</p>
 <p><strong>Objectives</strong>&nbsp;</p>
 <p>In Badminton, the players will be developed in these three key areas:&nbsp;</p>
@@ -17,22 +16,22 @@ members learn to strive for excellence both on and off the court.&nbsp;</p>
 <p><strong>Skills:</strong>&nbsp;</p>
 </li>
 </ul>
-<p>Students will learn to master grip, strokes, footwork, tactics, and rules
-through progressive drills and gameplay.&nbsp;</p>
+<p>Master grip, strokes, footwork, tactics, and rules through progressive
+drills and gameplay.&nbsp;</p>
 <ul>
 <li>
 <p><strong>Values:</strong>&nbsp;&nbsp;</p>
 </li>
 </ul>
-<p>Through Badminton, students will embody core values such as fair play,
-respect for opponents, perseverance, and integrity in every training session.&nbsp;</p>
+<p>Embody core values such as fair play, respect for opponents, perseverance,
+and integrity in every training session.&nbsp;</p>
 <ul>
 <li>
 <p><strong>Leadership</strong>&nbsp;</p>
 </li>
 </ul>
-<p>Developing confident leaders who communicate and foster unity through
-play, peer-to-peer coaching, and collaboration.&nbsp;</p>
+<p>Develop confidence to communicate and foster unity through play, peer-to-peer
+coaching, and collaboration.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PS_Badminton1.png">
 </div>
