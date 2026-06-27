@@ -61,31 +61,138 @@ Home.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_UG_RedCross4.png">
 </div>
-<p><strong>Achievements</strong>&nbsp;</p>
-<ul>
-<li>
-<p><em>Excellent Unit Award (Gold)</em> – 2019-2024&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>First Aid Championship (Silver) – 2023-2025&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Disaster Risk Reduction Championship (Gold) – 2024-2025&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Ambassador of Blood Championship (Silver) – 2025, (Gold) – 2024&nbsp;</p>
-</li>
-</ul>
-<p><strong>Training Session&nbsp;</strong>&nbsp;</p>
-<p>Tuesday 7.40 am to 9.10 am&nbsp;</p>
+<p><strong>Achievements </strong>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Excellent Unit Award – Gold</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2020</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Excellent Unit Award – Gold</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Excellent Unit Award – Gold</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Excellent Unit Award – Gold</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Excellent Unit Award – Gold</strong>&nbsp;</p>
+<p><strong>First Aid Championship – Silver</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Excellent Unit Award – Gold</strong>&nbsp;</p>
+<p><strong>First Aid Championship – Silver</strong>&nbsp;</p>
+<p><strong>Disaster Risk Reduction Championship – Gold</strong>&nbsp;</p>
+<p><strong>Ambassador of Blood Championship – Gold</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Excellent Unit Award – Gold</strong>&nbsp;</p>
+<p><strong>First Aid Championship – Silver</strong>&nbsp;</p>
+<p><strong>Disaster Risk Reduction Championship – Gold</strong>&nbsp;</p>
+<p><strong>Ambassador of Blood Championship – Silver</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2026</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>First Aid Championship – Silver</strong>&nbsp;</p>
+<p><strong>Disaster Risk Reduction Championship – Gold</strong>&nbsp;</p>
+<p><strong>Ambassador of Blood Championship – Gold</strong>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Training Session </strong> &nbsp;</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Venue</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers In-charge</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students Involved</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.40 am to 9.10 am &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>P3-2 Classroom&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gan Soon Rui (OIC)&nbsp;</p>
+<p>Mr Ng Chin Kiat (2IC)&nbsp;</p>
+<p>Mdm Guan Sin Loi&nbsp;</p>
+<p>Mdm Tan Bee Hwa&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 to P6&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Student Experience</strong>&nbsp;</p>
 <p>“Through my CCA, I have learned basic first aid skills such as bandaging,
 caring for wounds and CPR. These are useful skills which I can apply when
