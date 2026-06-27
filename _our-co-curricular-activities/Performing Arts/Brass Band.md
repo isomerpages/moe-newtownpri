@@ -49,34 +49,15 @@ the band.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_BrassBand2.png">
 </div>
 <p><strong>Programme Highlights</strong> &nbsp;</p>
-<p><strong>2023:&nbsp;</strong>&nbsp;</p>
-<ul>
-<li>
-<p>NTPS/NTSS Band Exchange&nbsp;&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Istana Performance&nbsp;</p>
-</li>
-</ul>
-<p><strong>2024:&nbsp;</strong>&nbsp;</p>
-<ul>
-<li>
-<p>NTPS/APS Band Exchange&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>NTPS/Yunshang (China) Band Exchange&nbsp;</p>
-</li>
-</ul>
-<p><strong>2025:&nbsp;</strong>&nbsp;</p>
-<ul>
-<li>
-<p>NTPS/NTSS Band Exchange</p>
-</li>
-</ul>
+<p>Our band members have a wide range of performance opportunities at school,
+national, and community events. They showcase their talents at key school
+events such as Prize Giving Day, participate in national platforms such
+as the Singapore Youth Festival Arts Presentation, and perform at prestigious
+venues including the Istana during National Day celebrations. Through exchange
+programmes with bands from local and international schools such as New
+Town Secondary School and Yunshang (China), students collaborate with fellow
+musicians, broaden their musical experiences, and develop a deeper appreciation
+for music and culture.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_BrassBand3.png">
 </div>
@@ -84,24 +65,112 @@ the band.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_BrassBand4.png">
 </div>
-<p><strong>Achievements</strong>&nbsp;</p>
-<p><strong>2022:&nbsp;</strong>&nbsp;</p>
-<p>Singapore Youth Festival Arts Presentation (SYF AP) – Special Consideration*&nbsp;</p>
-<p><strong>2024:&nbsp;</strong>&nbsp;</p>
-<p>Singapore Youth Festival Arts Presentation (SYF AP) – Accomplishment&nbsp;</p>
+<p><strong>Achievements </strong>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Youth Festival Arts Presentation (SYF AP) – Special Consideration*</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Youth Festival Arts Presentation (SYF AP) – Accomplishment</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2026</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Youth Festival Arts Presentation (SYF AP) – Accomplishment</strong>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>*Participating schools in the SYF AP for Primary level will not be benchmarked
 for AP certification in 2022&nbsp;</p>
-<p><strong>Training Session&nbsp;</strong>&nbsp;</p>
-<p>Tuesday 7.40 am to 9.10 am&nbsp;</p>
-<p>Friday 2.10 pm to 4.30 pm&nbsp;</p>
+<p><strong>Training Session </strong> &nbsp;</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Venue</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers In-charge</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students Involved</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.40 am to 9.10 am &nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
 <p>Band Room&nbsp;</p>
-<p><strong>Student Experience</strong>&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Ms Geraldine Lim (OIC)&nbsp;</p>
+<p>Ms Joanne Ng (2IC)&nbsp;</p>
+<p>Mr Kegan Lee&nbsp;</p>
+<p>Mdm Thilagavathi d/o Arunachalatheva&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 to P6&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.10 pm to 4.30 pm &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 to P6&nbsp;</p>
+<p>(P3 from Semester 2 onwards)&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Students’ Experience</strong>&nbsp;</p>
 <p>“When I was first assigned to Band as my CCA in P3, it was not my first
 choice so I thought I will not enjoy it compared to playing sports. After
 months of practice, I got better and better, and realised that I actually
 had a hidden talent for playing the trombone. Playing music is not boring
 but beautiful!” –&nbsp; Peng Yuda&nbsp;</p>
+<p>“Band has helped me become more self-directed because during sectionals,
+we have to find out what we don't know and seek help from our section leaders.
+I also learnt empathy because we help our section members who don't know
+how to play their parts.” – Aden Tham&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_BrassBand5.png">
 </div>
