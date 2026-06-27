@@ -145,7 +145,6 @@ following years:&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>Training Session </strong> &nbsp;</p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -198,8 +197,10 @@ following years:&nbsp;</p>
 <p>“I love Brownies because I enjoy going out and spending time with my friends
 and teachers. I also like when we get to sell cookies because the money
 is used to help others.”&nbsp; - Kimberly Tesanee Brudermann&nbsp;</p>
-<p>“I like that we have fun and the activities in Brownies that help us be
-more confident.” – Elaine Law Hui Xin&nbsp;</p>
+<p>“I enjoy being in Brownies because the activities are fun and engaging.
+Through the different experiences, I have become more confident and learned
+new skills while making friends and guiding my juniors.” – Elaine Law Hui
+Xin&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_UG_GirlGuides5.png">
 </div>
