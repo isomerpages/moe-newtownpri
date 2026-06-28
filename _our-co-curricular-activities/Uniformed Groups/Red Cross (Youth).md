@@ -143,7 +143,6 @@ Home.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>Training Session </strong> &nbsp;</p>
 <table style="minWidth: 125px">
 <colgroup>
