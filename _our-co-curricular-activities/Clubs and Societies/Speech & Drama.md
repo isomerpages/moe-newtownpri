@@ -104,6 +104,9 @@ receive constructive feedback&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_CS_SpeechDrama3.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_CS_SpeechDrama4.png">
+</div>
 <p><strong>Training Session&nbsp;</strong>&nbsp;</p>
 <p>Tuesday 7.40 am to 9.10 am&nbsp;</p>
 <p><strong>Venue</strong>&nbsp;</p>

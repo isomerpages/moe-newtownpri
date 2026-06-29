@@ -6,12 +6,10 @@ description: ""
 third_nav_title: Performing Arts
 ---
 <h3>Choir</h3>
-<p>Choir CCA helps students to explore and develop their love for music and
-singing. Through age-appropriate vocal training and exposure to diverse
-musical genres, cultures, and languages, our choristers will deepen their
-musicality and artistic appreciation. Beyond music, choir members cultivate
-important life skills such as teamwork, self-discipline, commitment, confidence,
-and resilience as they learn to blend their voices in harmony.&nbsp;&nbsp;</p>
+<p>Choir CCA nurtures our choristers’ passion for music and singing while
+developing their vocal skills and musical appreciation. Through collaborative
+learning, members build confidence, discipline, teamwork, and resilience
+as they learn to blend their voices in harmony during performances.&nbsp;&nbsp;</p>
 <p><strong>Objectives&nbsp;</strong>&nbsp;</p>
 <p>Our choristers will be developed holistically across three key areas:&nbsp;</p>
 <ul>
@@ -59,22 +57,119 @@ various outreach events.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_Choir4.png">
 </div>
 <p><strong>Achievements </strong>&nbsp;</p>
-<p><strong>2019:</strong>&nbsp;</p>
-<p>Singapore International Choral Festival – Silver&nbsp;</p>
-<p><strong>2020:</strong>&nbsp;</p>
-<p>Singapore Youth Festival Arts Presentation (SYF AP) – Commendation &nbsp;</p>
-<p><strong>2022:</strong>&nbsp;</p>
-<p>Singapore Youth Festival Arts Presentation (SYF AP) – Special Consideration* &nbsp;</p>
-<p><strong>2024:</strong>&nbsp;</p>
-<p>Singapore Youth Festival Arts Presentation (SYF AP) – Commendation &nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore International Choral Festival – Silver</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2020</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Youth Festival Arts Presentation (SYF AP) – Commendation </strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Youth Festival Arts Presentation (SYF AP) – Special Consideration* </strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Youth Festival Arts Presentation (SYF AP) – Commendation </strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2026</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Youth Festival Arts Presentation (SYF AP) – Distinction </strong>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>*Participating schools in the SYF AP for Primary level will not be benchmarked
 for AP certification in 2022 &nbsp;</p>
-<p><strong>Training Session&nbsp;&nbsp;</strong>&nbsp;</p>
-<p>Tuesday<strong> </strong>7.40 am to 9.10 am&nbsp;</p>
-<p>Friday 2.15 pm to 4.15 pm&nbsp;</p>
-<p><strong>Venue&nbsp;</strong>&nbsp;</p>
-<p>Music Room&nbsp;&nbsp;</p>
-<p><strong>Students Experiences</strong>&nbsp;</p>
+<p><strong>Training Session </strong> &nbsp;</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers In-charge</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students Involved</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.40 am to 9.10 am &nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Music Room&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Mdm Audrey Gwee (OIC)&nbsp;</p>
+<p>Mrs Lim-Ng Ren Min (2IC)&nbsp;</p>
+<p>Mdm Usharani Kuppusamy&nbsp;</p>
+<p>Mdm Goh Wanling&nbsp;</p>
+<p>Mr Wilson Kwa&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 to P6&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 pm to 4.15 pm &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 to P6&nbsp;&nbsp;</p>
+<p>(P3 from Semester 2 onwards)&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Students’ Experiences</strong>&nbsp;</p>
 <p>“I love to sing with my friends in Choir, sometimes we play games to help
 us to sing better. I remember the first time I sang a song with my friends
 on stage, I felt so excited and proud of myself. That is when I found out
@@ -82,7 +177,7 @@ I will enjoy Choir very much.” – Li Liyu<strong>&nbsp;</strong>&nbsp;</p>
 <p>“I love to sing with my Choir friends. When I joined as a new member in
 Primary 3, I will always remember how my senior helped me to sing better
 and improve my pitching. I am always so grateful for her, and I wish to
-do the same too with my junior members.” - Ariana Rose Binte Yunani</p>
+do the same too with my junior members.” - Ariana Rose Binte Yunani&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/CCA_PA_Choir5.png">
 </div>
